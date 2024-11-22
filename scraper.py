@@ -1,15 +1,18 @@
+#!/usr/bin/env python
+
 import json
 import os
+import pathlib
 import re
-import shutil
 import textwrap
-import yaml
 
-from bs4 import BeautifulSoup, Tag
+import yaml
+from bs4 import BeautifulSoup, NavigableString, Tag
 from markdown import markdown
-from markdownify import NavigableString, markdownify
 
 from build import build
+
+BASE_DIR = pathlib.Path(os.path.dirname(__file__))
 
 SOURCES = {
     "Player Core": "2023 Paizo Inc.",
@@ -90,9 +93,10 @@ def tidy_soup(soup: BeautifulSoup) -> None:
             p.extract()
             continue
 
+
 def format_soup(soup: BeautifulSoup) -> str:
     for p in soup.find_all(["p", "li"]):
-        assert(isinstance(p, Tag))
+        assert isinstance(p, Tag)
         if not len(p.contents):
             p.extract()
             continue
@@ -108,11 +112,11 @@ def format_soup(soup: BeautifulSoup) -> str:
             text.replace_with(text.rstrip())
         p.insert_after("\n")
     for ul in soup.find_all("ul"):
-        assert(isinstance(ul, Tag))
+        assert isinstance(ul, Tag)
         ul.insert(0, "\n")
         ul.insert_after("\n")
     for hr in soup.find_all("hr"):
-        assert(isinstance(hr, Tag))
+        assert isinstance(hr, Tag)
         hr.insert_after("\n")
     text = str(soup)
     text = re.sub(r" {2,}", " ", text)
@@ -148,6 +152,7 @@ NO_TITLE_UPPERCASE = [
     "of",
     "on",
 ]
+
 
 def title_case(text: str) -> str:
     words = text.strip().lower().split(" ")
@@ -335,6 +340,7 @@ def collapse_parameters(soup: BeautifulSoup) -> None:
         duration.extract()
         defense.extend(["; ", *elements])
 
+
 def parse_entry(entry: dict) -> dict:
     soup = text_to_soup(entry["markdown"])
     result = {
@@ -371,28 +377,34 @@ def parse_entry(entry: dict) -> dict:
     result["description"] = [format_soup(soup)]
     return result
 
+
 def scrape() -> None:
-    data = []
-    for path in os.listdir("scrape"):
+    entries = {}
+    entry_list = []
+    for path in os.listdir(BASE_DIR / "scrape"):
         if not path.endswith(".json"):
             continue
-        with open(os.path.join("scrape", path), "r", encoding="utf-8") as f:
-            data.extend(json.load(f))
-    data = [d for d in data if not set(d["source"]).isdisjoint(set(SOURCES.keys()))]
-    data.sort(key=lambda k: k["name"])
-    data = [parse_entry(d) for d in data]
-    data = {d["id"]: d for d in data}
-    for entry_id, entry in data.items():
+        with open(BASE_DIR / "scrape" / path, "r", encoding="utf-8") as f:
+            entry_list.extend(json.load(f))
+
+    for entry in entry_list:
+        if set(entry["source"]).isdisjoint(set(SOURCES.keys())):
+            continue
+        entry = parse_entry(entry)
+        entries[entry["id"]] = entry
+
+    for entry_id, entry in entries.items():
         book = entry["source"].lower().replace(" ", "_")
-        book_dir = os.path.join("data", book)
+        book_dir = BASE_DIR / "data" / book
         os.makedirs(book_dir, exist_ok=True)
-        with open(os.path.join(book_dir, f"{entry_id}.yaml"), "w", encoding="utf-8") as f:
+        with open(book_dir / f"{entry_id}.yaml", "w", encoding="utf-8") as f:
             entry = entry.copy()
             description = entry.pop("description")
             yaml.safe_dump(entry, f)
             for block in description:
                 f.write("\n--- >\n")
                 f.write(textwrap.indent(block, "  "))
+
 
 if __name__ == "__main__":
     scrape()

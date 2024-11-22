@@ -12,7 +12,7 @@ browser's print functionality.
 
 ## Adding Spells
 
-Spell data is stored as YAML files in `data/spells/<book_name>/` in a
+Spell data is stored as YAML files in `data/<book_name>/` in a
 format like so:
 
 ```yaml
