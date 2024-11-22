@@ -45,6 +45,7 @@ type: spell
   <li><strong>Frog</strong> Speed 25 feet, swim 25 feet; <strong>Melee</strong> jaws, <strong>Damage</strong> 2d6 bludgeoning; <strong>Melee</strong> tongue (reach 15 feet), <strong>Damage</strong> 2d4 bludgeoning.</li>
   <li><strong>Shark</strong> swim 35 feet; <strong>Melee</strong> jaws, <strong>Damage</strong> 2d8 piercing; breathe underwater but not in air.</li>
   <li><strong>Snake</strong> Speed 20 feet, climb 20 feet, swim 20 feet; <strong>Melee</strong> fangs, <strong>Damage</strong> 2d4 piercing plus 1d6 poison.</li>
+  </ul>
   <hr/>
   <p><strong>Heightened (3rd)</strong> You instead gain 10 temporary HP, AC = 17 + your level, attack modifier +14, damage bonus +5, and Athletics +14.</p>
   <p><strong>Heightened (4th)</strong> Your battle form is Large and your attacks have 10-foot reach. You instead gain 15 temporary HP, AC = 18 + your level, attack modifier +16, damage bonus +9, and Athletics +16.</p>
