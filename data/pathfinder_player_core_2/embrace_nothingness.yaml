@@ -1,0 +1,24 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: embrace_nothingness
+lessons: []
+level: 9
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Embrace Nothingness
+traditions: []
+traits:
+- concentrate
+- focus
+- manipulate
+- monk
+type: focus
+
+--- >
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You empty your body of substance, becoming one with nothingness. You gain resistance to physical damage equal to your level. You move at half your normal Speed, but can move in any direction (including up and down). While moving, you have concealment. When it is not your turn and during your turn until you take an action with the move trait, you are invisible. You can pass through solid inanimate objects as long as they are no more than 2 feet thick.</p>

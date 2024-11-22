@@ -1,0 +1,29 @@
+actions: '[one-action] TO [two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: heal_animal
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Heal Animal
+traditions: []
+traits:
+- druid
+- focus
+- healing
+- manipulate
+- vitality
+type: focus
+
+--- >
+  <p class="range"><strong>Range</strong> touch or 30 feet (see text); <strong>Targets</strong> 1 willing living animal</p>
+  <hr/>
+  <p>You heal an animal's wounds, restoring 1d8 Hit Points to the target. The number of actions spent Casting this Spell determines its effect.</p>
+  <p>The spell has a range of touch.</p>
+  <p>(concentrate) The spell has a range of 30 feet and restores an additional 8 Hit Points to the target.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The amount of healing increases by 1d8, and the additional healing for the 2-action version increases by 8.</p>

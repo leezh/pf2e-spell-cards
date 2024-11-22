@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: spray_of_stars
+lessons: []
+level: 1
+mysteries:
+- cosmos
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Spray of Stars
+traditions: []
+traits:
+- concentrate
+- fire
+- focus
+- light
+- manipulate
+- oracle
+type: focus
+
+--- >
+  <p class="mystery"><strong>Mystery</strong> cosmos</p>
+  <p class="area"><strong>Area</strong> 15-foot cone</p>
+  <p class="defense"><strong>Defense</strong> Reflex</p>
+  <hr/>
+  <p>You fling a spray of tiny shooting stars, dealing 2d4 fire damage. Each creature in the area must attempt a Reflex save.</p>
+  <p><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p><strong>Success</strong> The creature takes half damage and is dazzled for 1 round.</p>
+  <p><strong>Failure</strong> The creature takes full damage and is dazzled for 3 rounds.</p>
+  <p><strong>Critical Failure</strong> The creature takes double damage and is dazzled for 1 minute.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>

@@ -1,0 +1,25 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: battlefield_persistence
+lessons: []
+level: 3
+mysteries:
+- battle
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Battlefield Persistence
+traditions: []
+traits:
+- concentrate
+- focus
+- oracle
+type: focus
+
+--- >
+  <p class="mystery"><strong>Mystery</strong> battle</p>
+  <p class="trigger"><strong>Trigger</strong> You are about to attempt a saving throw, but you haven’t rolled yet.</p>
+  <hr/>
+  <p>You're difficult to deter in battle. You gain a +2 status bonus to the triggering save, and if the triggering save is against an incapacitation effect, it treats you as if you were 2 levels higher.</p>

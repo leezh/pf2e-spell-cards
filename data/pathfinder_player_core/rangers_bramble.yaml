@@ -1,0 +1,28 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: rangers_bramble
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Ranger's Bramble
+traditions: []
+traits:
+- concentrate
+- focus
+- manipulate
+- plant
+- ranger
+type: focus
+
+--- >
+  <p class="range"><strong>Range</strong> 100 feet; <strong>Area</strong> all squares that contain plants in a 5-foot burst</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You cause plants in the area to entangle your foes, with the effects of <em>entangling flora</em>. A creature that critically fails the save takes 2d4 persistent bleed damage in addition to being immobilized. Escaping your bramble doesn't end the bleed damage.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The bleed damage on a critical failure increases by 1d4.</p>

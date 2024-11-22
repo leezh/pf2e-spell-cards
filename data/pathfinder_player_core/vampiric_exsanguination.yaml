@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodlines:
+- undead
+copyright: 2023 Paizo Inc.
+domains: []
+id: vampiric_exsanguination
+lessons: []
+level: 6
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Vampiric Exsanguination
+traditions:
+- arcane
+- divine
+- occult
+traits:
+- concentrate
+- death
+- manipulate
+- void
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="area"><strong>Area</strong> 30-foot cone</p>
+  <p class="defense"><strong>Defense</strong> basic Fortitude</p>
+  <hr/>
+  <p>You draw in the blood and life force of other creatures through your outstretched arms. You deal 12d6 void damage to living creatures in the area with a basic Fortitude save.</p>
+  <p>You gain temporary Hit Points equal to half the damage a single creature takes from this spell; calculate these temporary Hit Points using the creature that took the most damage. You lose any remaining temporary Hit Points after 1 minute.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>

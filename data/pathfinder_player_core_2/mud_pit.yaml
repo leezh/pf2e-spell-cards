@@ -1,0 +1,28 @@
+actions: '[three-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: mud_pit
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: Mud Pit
+traditions:
+- arcane
+- primal
+traits:
+- concentrate
+- earth
+- manipulate
+- water
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="range"><strong>Range</strong> 60 feet; <strong>Area</strong> squares on the ground in a 15-foot burst</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Thick, clinging mud covers the ground, 1 foot deep. The mud is difficult terrain.</p>

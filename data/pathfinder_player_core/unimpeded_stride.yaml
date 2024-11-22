@@ -1,0 +1,24 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- freedom
+id: unimpeded_stride
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Unimpeded Stride
+traditions: []
+traits:
+- cleric
+- focus
+- manipulate
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> freedom</p>
+  <hr/>
+  <p>Divine grace ensure that nothing can keep you prisoner or hold you back. You immediately escape from every magical effect that has you immobilized or grabbed unless the effect is of a higher rank than your <em>unimpeded stride</em> spell. You then Stride. During this movement, you ignore difficult terrain and any circumstance or status penalties to your Speed.</p>

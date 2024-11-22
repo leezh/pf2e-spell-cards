@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodlines:
+- renewal
+copyright: 2023 Paizo Inc.
+domains: []
+id: field_of_life
+lessons: []
+level: 6
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Field of Life
+traditions:
+- divine
+- primal
+traits:
+- concentrate
+- healing
+- manipulate
+- vitality
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>A field of life energy fills the area, exuding warmth and rejuvenating those within. Each living creature that starts its turn in the area regains 1d8 Hit Points, and any undead creature that starts its turn in the area takes 1d8 vitality damage.</p>
+  <hr/>
+  <p><strong>Heightened (8th)</strong> The healing and damage increase to 1d10.</p>
+  <p><strong>Heightened (9th)</strong> The healing and damage increase to 1d12.</p>

@@ -1,0 +1,37 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: eclipse_burst
+lessons: []
+level: 7
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Eclipse Burst
+traditions:
+- arcane
+- divine
+- primal
+traits:
+- cold
+- concentrate
+- darkness
+- manipulate
+- void
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="range"><strong>Range</strong> 500 feet; <strong>Area</strong> 60-foot burst</p>
+  <p class="defense"><strong>Defense</strong> Reflex</p>
+  <hr/>
+  <p>A globe of freezing darkness explodes in the area, dealing 8d10 cold damage to creatures in the area, plus an additional 8d4 void damage to living creatures. Each creature in the area must attempt a Reflex save.</p>
+  <p>If the globe overlaps with an area of magical light or affects a creature affected by magical light, <em>eclipse burst</em> attempts to counteract the light effect.</p>
+  <p><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p><strong>Success</strong> The creature takes half damage.</p>
+  <p><strong>Failure</strong> The creature takes full damage.</p>
+  <p><strong>Critical Failure</strong> The creature takes double damage and becomes blinded by the darkness for an unlimited duration.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The cold damage increases by 1d10 and the void damage against the living increases by 1d4.</p>

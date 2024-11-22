@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines:
+- fey
+copyright: 2023 Paizo Inc.
+domains: []
+id: figment
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Figment
+traditions:
+- arcane
+- occult
+traits:
+- cantrip
+- concentrate
+- illusion
+- manipulate
+- subtle
+type: cantrip
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="range"><strong>Range</strong> 30 feet</p>
+  <p class="duration"><strong>Duration</strong> sustained</p>
+  <hr/>
+  <p>You create a simple illusory sound or vision. A sound adds the auditory trait to the spell and the sound can't include intelligible words or elaborate music. A vision adds the visual trait, can be no larger than a 5-foot cube, and is clearly crude and undetailed if viewed from within 15 feet. When you Cast or Sustain the Spell, you can attempt to Create a Diversion with the illusion, gaining a +2 circumstance bonus to your Deception check. If the attempt fails against a creature, that creature disbelieves the figment.</p>

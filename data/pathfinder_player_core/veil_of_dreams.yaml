@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodlines:
+- dreams
+copyright: 2023 Paizo Inc.
+domains: []
+id: veil_of_dreams
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Veil of Dreams
+traditions: []
+traits:
+- focus
+- hex
+- manipulate
+- mental
+- witch
+type: focus
+
+--- >
+  <p class="lesson"><strong>Lesson</strong> dreams</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Your patron draws the target into a drowsy state, causing daydreams and sluggishness. The target must attempt a Will save.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target takes a –1 status penalty to Perception, attack rolls, and Will saves. This penalty increases to –2 for Will saves against sleep effects.</p>
+  <p><strong>Failure</strong> As success, and any time the target uses a concentrate action, it must succeed at a DC 5 flat check or the action is disrupted.</p>

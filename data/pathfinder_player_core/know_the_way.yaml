@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: know_the_way
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Know the Way
+traditions:
+- divine
+- occult
+- primal
+traits:
+- cantrip
+- concentrate
+- detection
+- manipulate
+type: cantrip
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine, occult, primal</p>
+  <hr/>
+  <p>In your mind's eye, you magically reorient yourself. You immediately know which direction is north (if it exists at your current location), and you can choose a location you were at within the last 24 hours and learn what direction it lies.</p>
+  <hr/>
+  <p><strong>Heightened (3rd)</strong> You can choose a location you were at within the last week.</p>
+  <p><strong>Heightened (7th)</strong> You can choose a location you were at regardless of how long ago you were there.</p>

@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodlines:
+- aberrant
+copyright: 2023 Paizo Inc.
+domains: []
+id: vampiric_feast
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Vampiric Feast
+traditions:
+- arcane
+- divine
+- occult
+traits:
+- concentrate
+- death
+- manipulate
+- void
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 living creature</p>
+  <p class="defense"><strong>Defense</strong> basic Fortitude</p>
+  <hr/>
+  <p>Your touch leeches the lifeblood out of a target to empower yourself. You deal 6d6 void damage to the target. You gain temporary Hit Points equal to half the void damage the target takes (after applying resistances and the like). You lose any remaining temporary Hit Points after 1 minute.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>

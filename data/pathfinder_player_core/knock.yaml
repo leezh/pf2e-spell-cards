@@ -1,0 +1,27 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: knock
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Knock
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 door, lock, or container</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You make the target easier to open. <em>Knock</em> grants a +4 status bonus to any creature that tries to open the target door, lock, or container with an Athletics or a Thievery check. You can attempt a Thievery check to open the target as part of casting <em>knock</em>, and you add your level even if you're untrained.</p>
+  <p><em>Knock</em> counteracts <em>lock</em>.</p>

@@ -1,0 +1,25 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- luck
+id: lucky_break
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Lucky Break
+traditions: []
+traits:
+- cleric
+- concentrate
+- focus
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> luck</p>
+  <p class="trigger"><strong>Trigger</strong> You fail, but don’t critically fail, a saving throw</p>
+  <hr/>
+  <p>Reroll the saving throw and use the better result. You then become temporarily immune for 10 minutes.</p>

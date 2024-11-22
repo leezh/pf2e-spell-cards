@@ -1,0 +1,24 @@
+actions: '[free-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: hunters_luck
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Hunter's Luck
+traditions: []
+traits:
+- concentrate
+- focus
+- fortune
+- ranger
+type: focus
+
+--- >
+  <p class="trigger"><strong>Trigger</strong> You attempt a check to Recall Knowledge about a creature, but you haven’t rolled yet</p>
+  <hr/>
+  <p>You have a preternatural ability to remember details about your foes. Roll the triggering check twice and use the better result.</p>

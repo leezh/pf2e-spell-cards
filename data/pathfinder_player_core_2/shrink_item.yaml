@@ -1,0 +1,27 @@
+actions: ''
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: shrink_item
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: Shrink Item
+traditions:
+- arcane
+traits:
+- concentrate
+- manipulate
+- polymorph
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane</p>
+  <p class="cast"><strong>Cast</strong> 10 minutes</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 non-magical object up to 20 cubic feet in volume and up to 80 Bulk</p>
+  <p class="duration"><strong>Duration</strong> until your next daily preparations</p>
+  <hr/>
+  <p>You shrink the target to roughly the size of a coin with negligible Bulk. You can Dismiss the spell, and the spell ends if you toss the object onto a solid surface. The object can't be used to attack or cause damage during the process of it returning to normal size. If there isn't room for the object to return to normal size when the spell ends, the spell's duration continues until the object is in a location large enough to accommodate its normal size.</p>

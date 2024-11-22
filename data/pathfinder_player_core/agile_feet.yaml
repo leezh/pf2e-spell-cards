@@ -1,0 +1,25 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- travel
+id: agile_feet
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Agile Feet
+traditions: []
+traits:
+- cleric
+- focus
+- manipulate
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> travel</p>
+  <p class="duration"><strong>Duration</strong> until the end of the current turn</p>
+  <hr/>
+  <p>The blessings of your god make your feet faster and your movements more fluid. You gain a +5-foot status bonus to your Speed and ignore difficult terrain. As part of casting agile feet, you can Step, Stride, or Tumble Through; you can instead Burrow, Climb, Fly, or Swim if you have the appropriate Speed.</p>

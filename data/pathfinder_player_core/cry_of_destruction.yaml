@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- destruction
+id: cry_of_destruction
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Cry of Destruction
+traditions: []
+traits:
+- cleric
+- concentrate
+- focus
+- manipulate
+- sonic
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> destruction</p>
+  <p class="area"><strong>Area</strong> 15-foot cone</p>
+  <p class="defense"><strong>Defense</strong> basic Fortitude</p>
+  <hr/>
+  <p>Your voice booms, smashing what's in front of you. Each creature and unattended object in the area takes 1d8 sonic damage. If you already dealt damage to an enemy this turn with a Strike or spell, increase the damage dice from this spell to d12s.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 1d8.</p>

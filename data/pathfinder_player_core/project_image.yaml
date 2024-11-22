@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: project_image
+lessons: []
+level: 7
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Project Image
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- illusion
+- manipulate
+- mental
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="range"><strong>Range</strong> 30 feet</p>
+  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You project an illusory image of yourself. You must stay within range of the image, and if at any point you can't see the image, the spell ends. Whenever you Cast a Spell other than one whose area is an emanation, you can cause the spell effect to originate from either yourself or the image. Because the image is an illusion, it can't benefit from spells, though visual manifestations of the spell appear. The image has the same AC and saves as you. If it is hit by an attack or fails a save, the spell ends.</p>
+  <hr/>
+  <p><strong>Heightened (+2)</strong> The maximum duration you can Sustain the spell increases to 10 minutes.</p>

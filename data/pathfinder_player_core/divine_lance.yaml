@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: divine_lance
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Divine Lance
+traditions:
+- divine
+traits:
+- attack
+- cantrip
+- concentrate
+- manipulate
+- sanctified
+- spirit
+type: cantrip
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine</p>
+  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> AC</p>
+  <hr/>
+  <p>You unleash a beam of divine energy. Make a ranged spell attack against the target's AC. On a hit, the target takes 2d4 spirit damage (double damage on a critical hit).</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>

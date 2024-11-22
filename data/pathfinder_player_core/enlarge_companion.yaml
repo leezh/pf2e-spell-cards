@@ -1,0 +1,28 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: enlarge_companion
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Enlarge Companion
+traditions: []
+traits:
+- concentrate
+- focus
+- manipulate
+- polymorph
+- ranger
+type: focus
+
+--- >
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> your animal companion</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Your animal companion grows much larger, towering over its foes in battle. Your animal companion becomes Large, gaining the effects of a 2nd-rank <em>enlarge</em> spell.</p>
+  <hr/>
+  <p><strong>Heightened (4th)</strong> Your animal companion instead becomes Huge, gaining the benefits of a 4th-rank <em>enlarge</em> spell.</p>

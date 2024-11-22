@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodlines:
+- aberrant
+- hag
+copyright: 2023 Paizo Inc.
+domains: []
+id: stupefy
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Stupefy
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- manipulate
+- mental
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You dull the target's mind, depending on its Will save.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target is stupefied 1 until the start of your next turn.</p>
+  <p><strong>Failure</strong> The target is stupefied 2 for 1 minute.</p>
+  <p><strong>Critical Failure</strong> The target is stupefied 3 for 1 minute.</p>

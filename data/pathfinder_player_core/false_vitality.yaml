@@ -1,0 +1,27 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: false_vitality
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: False Vitality
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="duration"><strong>Duration</strong> 8 hours</p>
+  <hr/>
+  <p>You augment your flesh with the energies typically used to manipulate the undead. You gain 10 temporary Hit Points.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The temporary Hit Points increase by 3.</p>

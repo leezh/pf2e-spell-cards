@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: pied_piping
+lessons: []
+level: 10
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Pied Piping
+traditions: []
+traits:
+- bard
+- composition
+- concentrate
+- focus
+- incapacitation
+- mental
+- sonic
+type: focus
+
+--- >
+  <p class="area"><strong>Area</strong> 5-foot emanation</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Your performance enraptures listeners, compelling them to follow you. Each creature within the emanation must attempt a Will save when you Cast the Spell or the first time they enter the area, after which they become temporarily immune for 1 day. Once per turn, you can Sustain the composition to increase the emanation's radius by 5 feet. You can Dismiss the spell.</p>
+  <p><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p><strong>Success</strong> The creature is fascinated with you.</p>
+  <p><strong>Failure</strong> The creature is fascinated by you and uses all its actions to move toward you and compliment your performance. This effect ends if a hostile action is used against the affected creature.</p>
+  <p><strong>Critical Failure</strong> The target gains the minion trait and is controlled by you. This effect ends if a hostile action is used against the affected creature, or if you direct the creature to use any action that causes it harm.</p>

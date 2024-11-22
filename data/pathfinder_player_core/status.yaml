@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: status
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Status
+traditions:
+- divine
+- occult
+- primal
+traits:
+- concentrate
+- detection
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine, occult, primal</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing living creature</p>
+  <p class="duration"><strong>Duration</strong> until your next daily preparations</p>
+  <hr/>
+  <p>As long as you and the target are on the same plane of existence and both alive, you remain aware of its present state. You know the target's direction from you, distance from you, and any conditions affecting it.</p>
+  <hr/>
+  <p><strong>Heightened (4th)</strong> The spell's range increases to 30 feet, and you can target up to 10 creatures.</p>

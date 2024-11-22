@@ -1,0 +1,34 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: blood_vendetta
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Blood Vendetta
+traditions:
+- arcane
+- divine
+- occult
+traits:
+- curse
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="trigger"><strong>Trigger</strong> A creature deals piercing, slashing, or persistent bleed damage to you</p>
+  <p class="requirements"><strong>Requirements</strong> You can bleed</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> the triggering creature</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You curse the target, punishing it for having the audacity to spill your blood. The target takes 2d6 persistent bleed damage and must attempt a Will save.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target takes half the persistent bleed damage.</p>
+  <p><strong>Failure</strong> The target takes the full persistent bleed damage. Until the bleeding stops, the target has weakness 1 to piercing and slashing damage.</p>
+  <p><strong>Critical Failure</strong> As failure, but the target takes double the persistent bleed damage.</p>
+  <hr/>
+  <p><strong>Heightened (+2)</strong> The persistent bleed damage increases by 2d6.</p>

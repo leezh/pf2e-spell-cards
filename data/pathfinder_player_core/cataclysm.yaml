@@ -1,0 +1,42 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: cataclysm
+lessons: []
+level: 10
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Cataclysm
+traditions:
+- arcane
+- primal
+traits:
+- acid
+- air
+- cold
+- concentrate
+- earth
+- electricity
+- fire
+- manipulate
+- water
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="range"><strong>Range</strong> 1,000 feet; <strong>Area</strong> 60-foot burst</p>
+  <p class="defense"><strong>Defense</strong> basic Reflex</p>
+  <hr/>
+  <p>You call upon the unimaginable power of world-ending cataclysms, ripping a small piece of each cataclysm and combining them together into one horrifically powerful attack. The following effects come down upon all creatures in the area. Treat the resistances of creatures in the area as if they were 10 lower for the purpose of determining the cataclysm's damage. Each creature attempts one basic Reflex save that applies to all five types of damage.</p>
+  <ul>
+  <li>Flesh-dissolving acid rain deals 3d10 acid damage.</li>
+  <li>A roaring earthquake shakes and bludgeons creatures on the ground, dealing 3d10 bludgeoning damage.</li>
+  <li>A blast of freezing wind deals 3d10 cold damage.</li>
+  <li>Incredible lightning lashes the area, dealing 3d10 electricity damage.</li>
+  <li>Beating winds churn across the sky, dealing 3d10 bludgeoning damage to creatures flying in the area.</li>
+  <li>An instant tsunami sweeps over creatures in the area, dealing 3d10 bludgeoning damage (doubled for creatures swimming in the area).</li>
+  <li>A massive wildfire burns in a sudden inferno, dealing 3d10 fire damage.</li>
+  </ul>

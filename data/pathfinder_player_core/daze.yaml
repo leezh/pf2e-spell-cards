@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodlines:
+- aberrant
+- hag
+copyright: 2023 Paizo Inc.
+domains: []
+id: daze
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Daze
+traditions:
+- arcane
+- divine
+- occult
+traits:
+- cantrip
+- concentrate
+- manipulate
+- mental
+- nonlethal
+type: cantrip
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>You push into the target's mind and daze it with a mental jolt. The jolt deals 1d6 mental damage, with a basic Will save. If the target critically fails the save, it is also stunned 1.</p>
+  <hr/>
+  <p><strong>Heightened (+2)</strong> The damage increases by 1d6.</p>

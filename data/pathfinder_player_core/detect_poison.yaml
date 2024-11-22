@@ -1,0 +1,28 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: detect_poison
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Detect Poison
+traditions:
+- divine
+- primal
+traits:
+- concentrate
+- detection
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 object or creature</p>
+  <hr/>
+  <p>You detect whether a creature is venomous or poisonous, or if an object is poison or has been poisoned. You do not ascertain whether the target is poisonous in multiple ways, nor do you learn the type or types of poison. Certain substances, like lead and alcohol, are poisons and so mask other poisons.</p>
+  <hr/>
+  <p><strong>Heightened (2nd)</strong> You learn the number and types of poison.</p>

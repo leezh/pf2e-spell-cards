@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: chroma_leach
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: Chroma Leach
+traditions:
+- occult
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> occult</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 living creature</p>
+  <p class="defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>Your hand glows with impossible colors from beyond the stars, and your touch saps both color and vitality from the living. The target must attempt a Fortitude save; creatures with the gnome trait take a –2 circumstance penalty to this save.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target is enfeebled 2 for 1 round.</p>
+  <p><strong>Failure</strong> The target is enfeebled 2 for 1 minute and drained 1. The target is also filled with listlessness and ennui. For 1 round, if the target tries to use a move action, it must succeed at a Will save against your spell DC or the action is lost; this effect has the mental and emotion traits.</p>
+  <p><strong>Critical Failure</strong> As failure, but the creature is permanently enfeebled 2 and drained 2 (although magic such as <em>sound body</em> can remove these conditions).</p>

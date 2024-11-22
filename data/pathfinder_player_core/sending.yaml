@@ -1,0 +1,27 @@
+actions: '[three-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: sending
+lessons: []
+level: 5
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Sending
+traditions:
+- arcane
+- divine
+- occult
+traits:
+- concentrate
+- manipulate
+- mental
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="range"><strong>Range</strong> planetary; <strong>Targets</strong> 1 creature you know well</p>
+  <hr/>
+  <p>You send the creature a mental message of 25 words or fewer, and it can respond immediately with its own message of 25 words or fewer.</p>

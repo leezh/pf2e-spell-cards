@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: petrify
+lessons: []
+level: 6
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Petrify
+traditions:
+- arcane
+- primal
+traits:
+- concentrate
+- earth
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature made of organic material</p>
+  <p class="defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>The target's body slowly turns into a stone statue. The target must attempt a Fortitude save.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target is slowed 1 for 1 round as stone begins to form on their body.</p>
+  <p><strong>Failure</strong> The target is slowed 1 and must attempt a Fortitude save at the end of each of its turns; this ongoing save has the incapacitation trait. On a failed save, the slowed condition increases by 1 (or 2 on a critical failure) as stone growths creep across their body. A successful save reduces the slowed condition by 1. When a creature becomes fully unable to act due to the slowed condition from petrify, the spell then ends in a flash of gray light, leaving the target petrified permanently as they become a statue. The spell also ends if the slowed condition is removed, which causes the stone to break off harmlessly.</p>
+  <p><strong>Critical Failure</strong> As failure, but the target is initially slowed 2.</p>

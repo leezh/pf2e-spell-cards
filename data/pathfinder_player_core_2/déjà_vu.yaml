@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: "d\xE9j\xE0_vu"
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: "D\xE9j\xE0 Vu"
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- incapacitation
+- manipulate
+- mental
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="range"><strong>Range</strong> 100 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> 2 rounds</p>
+  <hr/>
+  <p>You loop a thought process in the target's mind, forcing it to repeat a moment's worth of actions. The target must attempt a Will save. If the target fails, whatever actions the target uses on its next turn, it must repeat on its following turn. The actions must be repeated in the same order and as close to the same specifics as possible. For example, if the target makes an attack, it must repeat the attack against the same creature, if possible, and if the target moves, it must move the same distance and direction, if possible, on its next turn.</p>
+  <p>If the target can't repeat an action, such as Casting a Spell that has been exhausted or needing to target a creature that has died, it can act as it chooses for that action but becomes stupefied 1 until the end of its turn.</p>

@@ -1,0 +1,37 @@
+actions: '[two-actions]'
+bloodlines:
+- demonic
+- undead
+copyright: 2023 Paizo Inc.
+domains: []
+id: canticle_of_everlasting_grief
+lessons: []
+level: 8
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Canticle of Everlasting Grief
+traditions:
+- divine
+- occult
+traits:
+- auditory
+- concentrate
+- curse
+- emotion
+- fear
+- manipulate
+- mental
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You create a melody distilled from pure grief, conveying the inevitable loss of everything your target cherishes, audible to only them. The target takes 10d6 mental damage depending on its Will save. A creature cursed by this spell can't benefit from circumstance or status bonuses, for the duration noted in the degree of success.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target takes half damage, is frightened 1, and is cursed for 1 round.</p>
+  <p><strong>Failure</strong> The target takes full damage, is frightened 3, and is cursed for 1 week.</p>
+  <p><strong>Critical Failure</strong> The target takes double damage, is frightened 4, and is cursed for an unlimited duration. While the curse remains, the target's allies are also affected by the curse while within 15 feet of the creature.</p>

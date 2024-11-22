@@ -1,0 +1,25 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- might
+id: athletic_rush
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Athletic Rush
+traditions: []
+traits:
+- cleric
+- focus
+- manipulate
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> might</p>
+  <p class="duration"><strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>Your body fills with physical power and skill. You gain a +10- foot status bonus to Speed and a +2 status bonus to Athletics checks. As a part of Casting this Spell, you can use a Stride, Leap, Climb, or Swim action. The spell's bonuses apply during that action.</p>

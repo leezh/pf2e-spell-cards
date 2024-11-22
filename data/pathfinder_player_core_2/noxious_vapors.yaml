@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: noxious_vapors
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: Noxious Vapors
+traditions:
+- arcane
+- primal
+traits:
+- concentrate
+- manipulate
+- poison
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="area"><strong>Area</strong> 10-foot emanation</p>
+  <p class="defense"><strong>Defense</strong> basic Fortitude; <strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>You emit a cloud of toxic smoke that temporarily obscures you from sight. Each creature except you in the area when you Cast the Spell takes 1d6 poison damage (basic Fortitude save). A creature that critically fails the saving throw also becomes sickened 1. All creatures in the area become concealed, and all creatures outside the smoke become concealed to creatures within it. This smoke can be dispersed by a strong wind.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 1d6.</p>

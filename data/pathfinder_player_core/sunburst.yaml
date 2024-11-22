@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: sunburst
+lessons: []
+level: 7
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Sunburst
+traditions:
+- divine
+- primal
+traits:
+- concentrate
+- fire
+- light
+- manipulate
+- vitality
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="range"><strong>Range</strong> 500 feet; <strong>Area</strong> 60-foot burst</p>
+  <p class="defense"><strong>Defense</strong> Reflex</p>
+  <hr/>
+  <p>A powerful globe of searing sunlight explodes in the area, dealing 8d10 fire damage to all creatures in the area, plus an additional 8d10 vitality damage to undead creatures. Each creature in the area must attempt a Reflex save.</p>
+  <p><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p><strong>Success</strong> The creature takes half damage.</p>
+  <p><strong>Failure</strong> The creature takes full damage.</p>
+  <p><strong>Critical Failure</strong> The creature takes full damage and becomes blinded permanently. If the globe overlaps with an area of magical darkness, <em>sunburst</em> attempts to counteract the darkness effect.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The fire damage increases by 1d10, and the vitality damage against undead increases by 1d10.</p>

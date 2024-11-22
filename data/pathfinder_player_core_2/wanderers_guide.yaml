@@ -1,0 +1,26 @@
+actions: ''
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: wanderers_guide
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: "Wanderer\u2019s Guide"
+traditions:
+- divine
+- occult
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="cast"><strong>Cast</strong> 1 minute</p>
+  <p class="duration"><strong>Duration</strong> until your next daily preparations</p>
+  <hr/>
+  <p>You call upon the beyond to guide your route. When you Cast this Spell, choose a destination; you receive an inspired route to that destination, allowing you and allies who travel overland with you to reduce the movement penalty from difficult terrain by half for the duration, as long as you don't deviate from the inspired route. This doesn't have any effect on movement during encounters. If you use this ability again before the duration is over, this effect ends and is replaced by that of the new route.</p>

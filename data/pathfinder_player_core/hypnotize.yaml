@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: hypnotize
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Hypnotize
+traditions:
+- arcane
+- occult
+traits:
+- illusion
+- manipulate
+- subtle
+- visual
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="range"><strong>Range</strong> 120 feet; <strong>Area</strong> 10-foot burst</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You create a cloud of mesmerizing patterns and colors that hovers in the air. Creatures are dazzled while inside the cloud. In addition, a creature must attempt a Will saving throw if it is inside the cloud when you cast it, when it enters the cloud, when it ends its turn within the cloud, or if it uses a Seek or Interact action on the cloud. A creature currently fascinated by <em>hypnotize</em> doesn't attempt new saves.</p>
+  <p><strong>Success</strong> The target is unaffected.</p>
+  <p><strong>Failure</strong> The target is fascinated by the cloud.</p>
+  <p><strong>Critical Failure</strong> The target is fascinated by the cloud. While it remains fascinated, it can't use reactions.</p>

@@ -1,0 +1,28 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: gecko_grip
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Gecko Grip
+traditions:
+- arcane
+- primal
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="duration"><strong>Duration</strong> 10 mintues</p>
+  <hr/>
+  <p>Tiny clinging hairs sprout across the creature's hands and feet, offering purchase on nearly any surface. The target gains a climb Speed equal to its Speed.</p>
+  <hr/>
+  <p><strong>Heightened (5th)</strong> The duration increases to 1 hour.</p>

@@ -1,0 +1,4 @@
+markdown
+markdownify
+beautifulsoup4
+pyside6

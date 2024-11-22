@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: sudden_blight
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: Sudden Blight
+traditions:
+- divine
+- primal
+traits:
+- concentrate
+- manipulate
+- void
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="range"><strong>Range</strong> 120 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="defense"><strong>Defense</strong> basic Fortitude</p>
+  <hr/>
+  <p>You accelerate the processes of decay in the area. Each living creature in the area takes 2d10 void damage with a basic Fortitude save. A creature afflicted by a disease takes a –2 circumstance penalty to this save.</p>
+  <p>You can also direct the blight to rot all Small and Tiny non-creature plants in the area, eliminating non-magical undergrowth and any resulting difficult terrain, cover, and concealment. <em>Sudden blight</em> attempts to counteract any magical effect on the plants before withering them.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 1d10.</p>

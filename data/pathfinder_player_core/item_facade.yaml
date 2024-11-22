@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: item_facade
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Item Facade
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- illusion
+- manipulate
+- visual
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 object no more than 10 feet by 10 feet by 10 feet</p>
+  <p class="duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>You make the target object look and feel as though it were in much better or worse physical condition. When you Cast this Spell, decide whether you want to make the object look decrepit or perfect. An item made to look decrepit appears broken and shoddy. An intact item made to look better appears as though it's brand new and highly polished or well maintained. A broken item appears to be intact and functional. Destroyed items can't be affected by this spell. A creature that Interacts with the item can attempt to disbelieve the illusion.</p>
+  <hr/>
+  <p><strong>Heightened (2nd)</strong> The duration is 24 hours.</p>
+  <p><strong>Heightened (3rd)</strong> The duration is unlimited.</p>

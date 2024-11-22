@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: heroism
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Heroism
+traditions:
+- divine
+- occult
+traits:
+- concentrate
+- manipulate
+- mental
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You unlock the target's inner heroism, granting it a +1 status bonus to attack rolls, Perception checks, saving throws, and skill checks.</p>
+  <hr/>
+  <p><strong>Heightened (6th)</strong> The status bonus increases to +2.</p>
+  <p><strong>Heightened (9th)</strong> The status bonus increases to +3.</p>

@@ -1,0 +1,31 @@
+actions: '[three-actions]'
+bloodlines:
+- fey
+copyright: 2024 Paizo Inc.
+domains: []
+id: visions_of_danger
+lessons: []
+level: 7
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: Visions of Danger
+traditions:
+- occult
+traits:
+- auditory
+- concentrate
+- illusion
+- manipulate
+- visual
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> occult</p>
+  <p class="range"><strong>Range</strong> 500 feet; <strong>Area</strong> 30-foot burst</p>
+  <p class="defense"><strong>Defense</strong> basic Will; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>An illusion of horrific creatures fills the spell's area. The creatures look like Tiny swarming monsters with a specific appearance of your choice, such as fiendish flies or animated saw blades. The burst deals 8d8 mental damage with a basic Will save to each creature that's inside the burst when it's created, enters the burst, or starts its turn inside the burst. A creature that critically succeeds at its Will save can immediately attempt to disbelieve the illusion. A creature that tries to Interact with the monsters or observes one with a Seek action can attempt to disbelieve the illusion. Creatures that disbelieve the illusion take no damage from the illusion thereafter.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The mental damage increases by 1d8.</p>

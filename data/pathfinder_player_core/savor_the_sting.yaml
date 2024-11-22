@@ -1,0 +1,34 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- pain
+id: savor_the_sting
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Savor the Sting
+traditions: []
+traits:
+- cleric
+- focus
+- manipulate
+- mental
+- nonlethal
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> pain</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> Will</p>
+  <hr/>
+  <p>You inflict pain upon the target and revel in their anguish. This deals 1d4 mental damage and 1d4 persistent mental damage; the target must attempt a Will save. As long as the target is taking persistent damage from this spell, you gain a +1 status bonus to attack rolls and skill checks against the target.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target takes half damage and no persistent damage.</p>
+  <p><strong>Failure</strong> The target takes full initial and persistent damage.</p>
+  <p><strong>Critical Failure</strong> The target takes double initial and persistent damage.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The initial damage increases by 1d4 and the persistent damage increases by 1d4.</p>

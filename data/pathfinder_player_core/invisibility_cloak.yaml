@@ -1,0 +1,27 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: invisibility_cloak
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Invisibility Cloak
+traditions: []
+traits:
+- focus
+- illusion
+- manipulate
+- wizard
+type: focus
+
+--- >
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You become invisible, with the same restrictions as the 2nd-rank <em>invisibility</em> spell.</p>
+  <hr/>
+  <p><strong>Heightened (6th)</strong> The duration increases to 10 minutes.</p>
+  <p><strong>Heightened (8th)</strong> The duration increases to 1 hour.</p>

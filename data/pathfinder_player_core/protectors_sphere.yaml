@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- protection
+id: protectors_sphere
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Protector's Sphere
+traditions: []
+traits:
+- aura
+- cleric
+- concentrate
+- focus
+- manipulate
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> protection</p>
+  <p class="area"><strong>Area</strong> 15-foot emanation</p>
+  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>A protective aura emanates out from you, safeguarding you and your allies. You gain resistance 3 to all damage. Your allies also gain this resistance while in the aura.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The resistance increases by 1.</p>

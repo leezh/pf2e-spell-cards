@@ -1,0 +1,25 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- truth
+id: word_of_truth
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Word of Truth
+traditions: []
+traits:
+- cleric
+- concentrate
+- focus
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> truth</p>
+  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You speak a statement that you believe to be true and that is free of any attempt to deceive through twisting words, omission, and so on. The statement must be 25 words or fewer. A symbol of your deity glows above your head and lasts for the spell's duration, and anyone who sees you and hears you speak knows instinctively that you believe what you say is true. This assurance of honesty grants you a +2 status bonus to Diplomacy checks as long as the symbol persists. You can Dismiss the spell, and if you say something that you don't believe is entirely true, the spell ends before you complete your statement.</p>

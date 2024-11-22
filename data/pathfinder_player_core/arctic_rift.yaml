@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: arctic_rift
+lessons: []
+level: 8
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Arctic Rift
+traditions:
+- arcane
+- primal
+traits:
+- cold
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="area"><strong>Area</strong> 120-foot line</p>
+  <p class="defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>A jagged crack opens in the air, dealing 12d8 cold damage as it draws away warmth. Each creature along the rift must attempt a Fortitude save.</p>
+  <p><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p><strong>Success</strong> The creature takes half damage.</p>
+  <p><strong>Failure</strong> The creature takes full damage and is slowed 1 until the start of your next turn.</p>
+  <p><strong>Critical Failure</strong> The creature takes double damage, is immobilized by a layer of ice, and is slowed 1 as long as its immobilized. The ice is an object with 60 Hit Points, Hardness 5, immunity to cold damage, and vulnerability 10 to fire. It has object immunities (page 269) and is destroyed if the target Escapes.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 1d8 and the ice's Hit Points increase by 5.</p>

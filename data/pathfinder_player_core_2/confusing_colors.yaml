@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: confusing_colors
+lessons: []
+level: 8
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: Confusing Colors
+traditions:
+- arcane
+- occult
+traits:
+- illusion
+- incapacitation
+- manipulate
+- subtle
+- visual
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="range"><strong>Range</strong> 120 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>A cloud of cascading, ever-changing colors manifests in the air. Creatures are dazzled while inside the cloud, as are those within 20 feet of the cloud's area. A creature must attempt a Will save if it is inside the cloud when you cast it, enters the cloud, ends its turn within the cloud, or uses a Seek or Interact action on the cloud. A creature currently affected by the cloud doesn't need to attempt new saves.</p>
+  <p><strong>Success</strong> The creature is unaffected.</p>
+  <p><strong>Failure</strong> The creature is confused for 1d4 rounds.</p>
+  <p><strong>Critical Failure</strong> The creature is stunned for 1d4 rounds. After the stunned condition ends, the creature is confused for the remaining duration of the spell.</p>

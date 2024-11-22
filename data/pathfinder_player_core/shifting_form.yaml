@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: shifting_form
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Shifting Form
+traditions: []
+traits:
+- concentrate
+- focus
+- morph
+- wizard
+type: focus
+
+--- >
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You change your body to better suit the moment. You gain one of the following abilities of your choice. You can Dismiss this spell.</p>
+  <ul>
+  <li>You gain a 20-foot status bonus to your Speed.</li>
+  <li>You gain a climb or swim Speed equal to half your Speed.</li>
+  <li>You gain darkvision.</li>
+  <li>You gain a pair of claws. These are agile finesse unarmed attacks that deal 1d8 slashing damage.</li>
+  <li>You gain scent 60 feet (imprecise).</li>
+  </ul>

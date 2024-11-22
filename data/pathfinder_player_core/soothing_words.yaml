@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- family
+id: soothing_words
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Soothing Words
+traditions: []
+traits:
+- cleric
+- concentrate
+- emotion
+- focus
+- manipulate
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> family</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 ally</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You attempt to calm the target by uttering soothing words in a calm and even tone. The target gains a +1 status bonus to Will saving throws. This bonus increases to +2 against emotion effects.</p>
+  <p>In addition, when you Cast this Spell, you can attempt to counteract one emotion effect on the target.</p>
+  <hr/>
+  <p><strong>Heightened (5th)</strong> The bonus to saves increases to +2, or +3 against emotion effects.</p>

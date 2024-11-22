@@ -1,0 +1,35 @@
+actions: '[three-actions]'
+bloodlines:
+- angelic
+copyright: 2023 Paizo Inc.
+domains: []
+id: blessed_boundary
+lessons: []
+level: 6
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Blessed Boundary
+traditions:
+- divine
+traits:
+- concentrate
+- force
+- manipulate
+- sanctified
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine</p>
+  <p class="range"><strong>Range</strong> 120 feet; <strong>Area</strong> up to a 60-foot burst</p>
+  <p class="defense"><strong>Defense</strong> Reflex; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Manifestations of divine force appear in the hundreds, swirling in a massive, protective sphere. These typically look like spiky fragments, but often take on an appearance themed to the deity of the caster. The sphere is hollow, with the manifestations forming a shell 2 inches deep on the outer edge. You can choose to make the burst smaller, in 5-foot increments, when you cast it.</p>
+  <p>The shell provides cover and can intersect solid terrain without affecting it. The shell deals 7d8 force damage to each creature who intersects with the shell when the sphere's created, or who attempts to move through the shell. The creature also takes the damage at the end of its turn, but only if it didn't already take damage from the shell that turn. The effects are determined by a creature's Reflex save.</p>
+  <p><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p><strong>Success</strong> The creature takes half damage.</p>
+  <p><strong>Failure</strong> The creature takes full damage, is pushed up to 10 feet in the direction of your choice, and ends its movement.</p>
+  <p><strong>Critical Failure</strong> The creature takes double damage, is pushed up to 20 feet in the direction of your choice, and ends its movement.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 1d8.</p>

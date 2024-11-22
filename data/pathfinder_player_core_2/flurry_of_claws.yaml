@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines:
+- draconic
+copyright: 2024 Paizo Inc.
+domains: []
+id: flurry_of_claws
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Flurry of Claws
+traditions: []
+traits:
+- attack
+- concentrate
+- focus
+- manipulate
+- sorcerer
+type: focus
+
+--- >
+  <p class="bloodline"><strong>Bloodline</strong> draconic</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 2 creatures no more than 10 feet from each other</p>
+  <p class="defense"><strong>Defense</strong> AC</p>
+  <hr/>
+  <p>Vicious dragon claws appear and slash at two nearby foes. Make a spell attack roll against each creature. This counts as two attacks for your multiple attack penalty, but the penalty doesn't increase until you've made both attacks. On a hit, the creatures takes 1d8 slashing plus 1d4 additional damage of a type determined by the magical tradition related to the dragon that influenced your bloodline: <strong>arcane</strong> force, <strong>divine</strong> spirit, <strong>occult</strong> mental, or <strong>primal</strong> fire.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The initial damage increases by 1d8 and the additional damage increases by 1d4.</p>

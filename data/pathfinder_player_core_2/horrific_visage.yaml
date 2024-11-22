@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodlines:
+- hag
+copyright: 2024 Paizo Inc.
+domains: []
+id: horrific_visage
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Horrific Visage
+traditions: []
+traits:
+- concentrate
+- emotion
+- fear
+- focus
+- illusion
+- manipulate
+- mental
+- sorcerer
+- visual
+type: focus
+
+--- >
+  <p class="bloodline"><strong>Bloodline</strong> hag</p>
+  <p class="area"><strong>Area</strong> 30-foot-radius emanation</p>
+  <p class="defense"><strong>Defense</strong> Will</p>
+  <hr/>
+  <p>You briefly transform your features into the horrific visage of a hag, striking fear into your enemies. Foes in the area must attempt a Will save.</p>
+  <p><strong>Success</strong> The foe is unaffected.</p>
+  <p><strong>Failure</strong> The foe is frightened 1.</p>
+  <p><strong>Critical Failure</strong> The foe is frightened 2.</p>

@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: speak_with_plants
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Speak With Plants
+traditions:
+- divine
+- occult
+- primal
+traits:
+- concentrate
+- manipulate
+- plant
+- wood
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine, occult, primal</p>
+  <p class="duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>You can ask questions of and receive answers from plants and fungi, but the spell doesn't make them more friendly or intelligent than normal. Most normal plants and fungi have a distinctive view of the world around them, so they don't recognize details about creatures or know anything about the world beyond their immediate vicinity. Cunning plant or fungus monsters are likely to be terse and evasive, while less intelligent ones often make inane comments.</p>
+  <hr/>
+  <p><strong>Heightened (4th)</strong> The duration is 8 hours.</p>

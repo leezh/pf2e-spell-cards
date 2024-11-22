@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: desiccate
+lessons: []
+level: 8
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Desiccate
+traditions:
+- arcane
+- primal
+traits:
+- concentrate
+- manipulate
+- void
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="range"><strong>Range</strong> 500 feet; <strong>Targets</strong> any number of living creatures</p>
+  <p class="defense"><strong>Defense</strong> basic Fortitude</p>
+  <hr/>
+  <p>You pull the moisture from the targets' bodies, dealing 10d10 void damage. Creatures made of water (such as water elementals) and plant creatures use the outcome for one degree of success worse than the result of their saving throw. Creatures whose bodies contain no significant moisture (such as earth elementals) are immune to <em>desiccate</em>.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 1d10.</p>

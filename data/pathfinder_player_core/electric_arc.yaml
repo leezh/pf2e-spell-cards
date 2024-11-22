@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: electric_arc
+lessons: []
+level: 1
+mysteries:
+- tempest
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Electric Arc
+traditions:
+- arcane
+- primal
+traits:
+- cantrip
+- concentrate
+- electricity
+- manipulate
+type: cantrip
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 or 2 creatures</p>
+  <p class="defense"><strong>Defense</strong> basic Reflex</p>
+  <hr/>
+  <p>An arc of lightning leaps from one target to another. Each target takes 2d4 electricity damage with a basic Reflex save.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>

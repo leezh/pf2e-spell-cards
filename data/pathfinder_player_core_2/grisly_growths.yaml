@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: grisly_growths
+lessons: []
+level: 5
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: Grisly Growths
+traditions:
+- arcane
+- primal
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 corporeal creature</p>
+  <p class="defense"><strong>Defense</strong> basic Fortitude</p>
+  <hr/>
+  <p>This gruesome spell causes the target to grow excess limbs and organs, whether it be fingers multiplying until hands resemble bushes, eyes popping open in bizarre places, legs sprouting from the side of the body, or some other result. The target takes 10d6 piercing damage (basic Fortitude save) as the new features erupt. This spell has no effect on a target with a mutable anatomy or no limbs, such as an ooze or a protean. The growths rot rapidly and fall away after 1 round.</p>
+  <p>In addition, unless the initial target critically succeeds, creatures within 30 feet of the target, including the target, must attempt Will saves, after which they're temporarily immune to this secondary effect of <em>grisly growths</em> for 1 hour. This additional effect is a mental and visual effect.</p>
+  <p><strong>Success</strong> The creature is unaffected.</p>
+  <p><strong>Failure</strong> The creature is sickened 1.</p>
+  <p><strong>Critical Failure</strong> The creature is sickened 2.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>

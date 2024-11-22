@@ -1,0 +1,29 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- protection
+id: protectors_sacrifice
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Protector's Sacrifice
+traditions: []
+traits:
+- cleric
+- focus
+- manipulate
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> protection</p>
+  <p class="trigger"><strong>Trigger</strong> An ally within 30 feet takes damage</p>
+  <p class="range"><strong>Range</strong> 30 feet</p>
+  <hr/>
+  <p>You protect your ally by suffering in their stead. Reduce the damage the ally would take by 3. You redirect this damage to yourself, but your immunities, weaknesses, resistances and so on do not apply</p>
+  <p>You aren't subject to any conditions or other effects of whatever damaged your ally (such as poison from a venomous bite). Your ally is still subject to those effects even if you redirect all of the triggering damage to yourself.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage you redirect increases by 3.</p>

@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: runic_weapon
+lessons: []
+level: 1
+mysteries: []
+patrons:
+- The Inscribed One
+rarity: common
+source: Pathfinder Player Core
+title: Runic Weapon
+traditions:
+- arcane
+- divine
+- occult
+- primal
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 weapon that is unattended or wielded by a willing creature</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>The weapon glimmers with magic as temporary runes carve down its length. The target becomes a <em>+1 striking</em> weapon, gaining a +1 item bonus to attack rolls and increasing the number of weapon damage dice to two.</p>
+  <hr/>
+  <p><strong>Heightened (6th)</strong> The weapon is <em>+2 greater striking</em>.</p>
+  <p><strong>Heightened (9th)</strong> The weapon is <em>+3 major striking</em>.</p>

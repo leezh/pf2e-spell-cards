@@ -1,0 +1,27 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: ancestral_defense
+lessons: []
+level: 3
+mysteries:
+- ancestors
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Ancestral Defense
+traditions: []
+traits:
+- focus
+- fortune
+- manipulate
+- mental
+- oracle
+type: focus
+
+--- >
+  <p class="mystery"><strong>Mystery</strong> ancestors</p>
+  <p class="trigger"><strong>Trigger</strong> You are about to attempt a Will save.</p>
+  <hr/>
+  <p>Your ancestor protects you against those who would bend your will. You roll the triggering save twice and use the better result.</p>

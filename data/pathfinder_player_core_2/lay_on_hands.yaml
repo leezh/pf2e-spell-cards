@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: lay_on_hands
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Lay on Hands
+traditions: []
+traits:
+- champion
+- focus
+- healing
+- manipulate
+- vitality
+type: focus
+
+--- >
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing living creature or 1 undead creature</p>
+  <hr/>
+  <p>Your hands become infused with powerful vitality, capable of healing a living creature or damaging an undead creature with a touch.</p>
+  <ul>
+  <li><strong>Willing Living Creature</strong> The target regains 6 Hit Points. If the target is someone other than yourself, it also gains a +2 status bonus to AC for 1 round.</li>
+  <li><strong>Undead Creature</strong> The target takes 1d6 vitality damage with a basic Fortitude save; on a failure, the target also takes a –2 status penalty to AC for 1 round.</li>
+  </ul>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The amount of healing increases by 6, and the damage to an undead target increases by 1d6.</p>

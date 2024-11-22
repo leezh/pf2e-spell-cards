@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: telepathy
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Telepathy
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- linguistic
+- manipulate
+- mental
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You can communicate telepathically with creatures within 30 feet. Once you establish a connection by communicating with a creature, the communication is two-way. You can communicate with only creatures that share a language with you.</p>
+  <hr/>
+  <p><strong>Heightened (6th)</strong> You can communicate telepathically with creatures using shared mental imagery even if you don't share a language; <em>telepathy</em> loses the linguistic trait.</p>

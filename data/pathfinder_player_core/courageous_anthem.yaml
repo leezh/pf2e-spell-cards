@@ -1,0 +1,27 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: courageous_anthem
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Courageous Anthem
+traditions: []
+traits:
+- bard
+- cantrip
+- composition
+- concentrate
+- emotion
+- mental
+type: cantrip
+
+--- >
+  <p class="area"><strong>Area</strong> 60-foot emanation</p>
+  <p class="duration"><strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>You inspire yourself and your allies with words or tunes of encouragement. You and all allies in the area gain a +1 status bonus to attack rolls, damage rolls, and saves against fear effects.</p>

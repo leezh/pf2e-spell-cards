@@ -1,0 +1,29 @@
+actions: '[one-action]'
+bloodlines:
+- undead
+copyright: 2024 Paizo Inc.
+domains: []
+id: drain_life
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Drain Life
+traditions: []
+traits:
+- focus
+- manipulate
+- sorcerer
+- void
+type: focus
+
+--- >
+  <p class="bloodline"><strong>Bloodline</strong> undead</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 living creature</p>
+  <p class="defense"><strong>Defense</strong> basic Fortitude</p>
+  <hr/>
+  <p>You close your hand and pull life energy from another creature into yourself. This deals 3d4 void damage; the target must attempt a basic Fortitude save. You gain temporary Hit Points equal to the damage the target takes, after resolving its save and applying a blood magic effect if applicable. If the target's Hit Points were lower than the damage you dealt, you gain temporary Hit Points equal to their remaining Hit Points instead. The temporary Hit Points last for 1 minute.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>

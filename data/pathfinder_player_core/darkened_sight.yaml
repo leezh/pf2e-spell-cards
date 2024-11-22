@@ -1,0 +1,28 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- darkness
+id: darkened_sight
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Darkened Sight
+traditions: []
+traits:
+- cleric
+- concentrate
+- darkness
+- focus
+- manipulate
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> darkness</p>
+  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You infuse a creature's vision with darkness. It receives greater darkvision, allowing it to see even in magical darkness.</p>

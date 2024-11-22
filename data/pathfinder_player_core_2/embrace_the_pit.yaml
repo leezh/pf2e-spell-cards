@@ -1,0 +1,28 @@
+actions: '[one-action]'
+bloodlines:
+- diabolic
+copyright: 2024 Paizo Inc.
+domains: []
+id: embrace_the_pit
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Embrace the Pit
+traditions: []
+traits:
+- concentrate
+- focus
+- morph
+- sorcerer
+type: focus
+
+--- >
+  <p class="bloodline"><strong>Bloodline</strong> diabolic</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Devil horns grow from your skull, and your skin takes on features of the devil responsible for your diabolic bloodline. You gain resistance 5 to fire and poison, and resistance 1 to physical damage (except silver).</p>
+  <hr/>
+  <p><strong>Heightened (+2)</strong> The resistance to fire and poison increase by 5, and the resistance to physical damage (except silver) by 2.</p>

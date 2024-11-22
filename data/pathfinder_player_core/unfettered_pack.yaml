@@ -1,0 +1,27 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: unfettered_pack
+lessons: []
+level: 7
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Unfettered Pack
+traditions:
+- primal
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> primal</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> up to 10 creatures</p>
+  <p class="duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>You free those who travel alongside you from environmental hindrances. Targets don't take circumstance penalties to Speed from vegetation, rubble, winds, or other properties of the environment, and they ignore difficult terrain from such environmental properties.</p>
+  <hr/>
+  <p><strong>Heightened (9th)</strong> The targets also ignore greater difficult terrain from environmental properties.</p>

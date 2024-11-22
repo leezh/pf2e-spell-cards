@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodlines:
+- angelic
+copyright: 2023 Paizo Inc.
+domains: []
+id: divine_immolation
+lessons: []
+level: 5
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Divine Immolation
+traditions:
+- divine
+traits:
+- concentrate
+- fire
+- manipulate
+- sanctified
+- spirit
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine</p>
+  <p class="range"><strong>Range</strong> 120 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="defense"><strong>Defense</strong> Reflex</p>
+  <hr/>
+  <p>Divine flames scour creatures within the area. Creatures take 6d6 fire damage and 2d6 persistent fire damage. The divine power within the flames scorches the spirit as well; a creature takes spirit damage instead of fire damage from divine immolation if that would be more detrimental to the creature (as determined by the GM).</p>
+  <p><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p><strong>Success</strong> The creature takes half damage and no persistent damage.</p>
+  <p><strong>Failure</strong> The creature takes full damage and persistent damage.</p>
+  <p><strong>Critical Failure</strong> The creature takes double damage and double persistent damage.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 1d6 and persistent damage increases by 1d6.</p>

@@ -1,0 +1,51 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: animal_form
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Animal Form
+traditions:
+- primal
+traits:
+- concentrate
+- manipulate
+- polymorph
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> primal</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You call upon primal energy to transform yourself into a Medium animal battle form. When you Cast this Spell, choose a listed battle form. You can decide the specific type of animal (such as lion or snow leopard for cat), but this has no effect on the form's Size or statistics. While in this form, you gain the animal trait. You can Dismiss the spell.</p>
+  <p>You gain specific abilities based on the animal you choose:</p>
+  <ul>
+  <li>AC = 16 + your level. Ignore your armor's check penalty and Speed reduction.</li>
+  <li>5 temporary Hit Points.</li>
+  <li>Low-light vision and imprecise scent 30 feet.</li>
+  <li>One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +9, and your damage bonus is +1. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack bonus is higher, you can use it instead.</li>
+  <li>Athletics modifier of +9, unless your own is higher.</li>
+  </ul>
+  <p>You also gain specific abilities based on the animal you choose:</p>
+  <ul>
+  <li><strong>Ape</strong> Speed 25 feet, climb 20 feet; Melee fist, Damage 2d6 bludgeoning.</li>
+  <li><strong>Bear</strong> Speed 30 feet; <strong>Melee</strong> jaws, <strong>Damage</strong> 2d8 piercing; <strong>Melee</strong> claw (agile), <strong>Damage</strong> 1d8 slashing.</li>
+  <li><strong>Bull</strong> Speed 30 feet; <strong>Melee</strong> horn, <strong>Damage</strong> 2d8 piercing.</li>
+  </ul>
+--- >
+  <ul>
+  <li><strong>Canine</strong> Speed 40 feet; <strong>Melee</strong> jaws, <strong>Damage</strong> 2d8 piercing.</li>
+  <li><strong>Cat</strong> Speed 40 feet; <strong>Melee</strong> jaws, <strong>Damage</strong> 2d6 piercing; <strong>Melee</strong> claw (agile), <strong>Damage</strong> 1d10 slashing.</li>
+  <li><strong>Deer</strong> Speed 50 feet; <strong>Melee</strong> antler, <strong>Damage</strong> 2d6 piercing.</li>
+  <li><strong>Frog</strong> Speed 25 feet, swim 25 feet; <strong>Melee</strong> jaws, <strong>Damage</strong> 2d6 bludgeoning; <strong>Melee</strong> tongue (reach 15 feet), <strong>Damage</strong> 2d4 bludgeoning.</li>
+  <li><strong>Shark</strong> swim 35 feet; <strong>Melee</strong> jaws, <strong>Damage</strong> 2d8 piercing; breathe underwater but not in air.</li>
+  <li><strong>Snake</strong> Speed 20 feet, climb 20 feet, swim 20 feet; <strong>Melee</strong> fangs, <strong>Damage</strong> 2d4 piercing plus 1d6 poison.</li>
+  <hr/>
+  <p><strong>Heightened (3rd)</strong> You instead gain 10 temporary HP, AC = 17 + your level, attack modifier +14, damage bonus +5, and Athletics +14.</p>
+  <p><strong>Heightened (4th)</strong> Your battle form is Large and your attacks have 10-foot reach. You instead gain 15 temporary HP, AC = 18 + your level, attack modifier +16, damage bonus +9, and Athletics +16.</p>
+  <p><strong>Heightened (5th)</strong> Your battle form is Huge and your attacks have 15-foot reach. You instead gain 20 temporary HP, AC = 18 + your level, attack modifier +18, damage bonus +7 and double the number of damage dice, and Athletics +20.</p>

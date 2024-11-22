@@ -1,0 +1,26 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: telekinetic_haul
+lessons: []
+level: 5
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Telekinetic Haul
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 unattended object of up to 80 Bulk with no dimension longer than 20 feet</p>
+  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You move the target up to 20 feet, potentially suspending it in midair. When you Sustain the spell, you can do so again, or you can shift your telekinetic focus to a different eligible target within range, moving it instead.</p>

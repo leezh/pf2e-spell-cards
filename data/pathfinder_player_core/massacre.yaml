@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: massacre
+lessons: []
+level: 9
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Massacre
+traditions:
+- arcane
+- divine
+- primal
+traits:
+- concentrate
+- death
+- manipulate
+- void
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="area"><strong>Area</strong> 60-foot line</p>
+  <p class="defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>You unleash a wave of death to snuff out the life force of those in its path. Each living creature of 17th level or lower in the line must attempt a Fortitude save. If the damage from <em>massacre</em> reduces a creature to 0 Hit Points, that creature dies instantly. If <em>massacre</em> doesn't kill even a single creature, the void energy hungrily turns backward toward you, dealing an additional 30 void damage to every living creature in the line (even those above 17th level) and 30 void damage to you.</p>
+  <p><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p><strong>Success</strong> The creature takes 9d6 void damage.</p>
+  <p><strong>Failure</strong> The creature takes 100 void damage.</p>
+  <p><strong>Critical Failure</strong> The creature dies.</p>
+  <hr/>
+  <p><strong>Heightened (10th)</strong> The spell can affect living creatures up to 19th level. Increase the damage to 10d6 on a success, and to 115 on a failure.</p>

@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: forbidding_ward
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Forbidding Ward
+traditions:
+- divine
+- occult
+traits:
+- cantrip
+- concentrate
+- manipulate
+type: cantrip
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 ally and 1 enemy</p>
+  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You ward an ally against the attacks and hostile spells from the target enemy. The target ally gains a +1 status bonus to Armor Class and saving throws against the target enemy's attacks, spells, and other effects.</p>
+  <hr/>
+  <p><strong>Heightened (6th)</strong> The status bonus increases to +2.</p>

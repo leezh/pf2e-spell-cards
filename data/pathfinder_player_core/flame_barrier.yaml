@@ -1,0 +1,28 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- fire
+id: flame_barrier
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Flame Barrier
+traditions: []
+traits:
+- cleric
+- concentrate
+- focus
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> fire</p>
+  <p class="trigger"><strong>Trigger</strong> An effect would deal fire damage to you or an ally within range</p>
+  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> one creature that would take fire damage from the triggering effect</p>
+  <hr/>
+  <p>You swiftly deflect incoming flames. The target gains fire resistance 15 against the triggering effect.</p>
+  <hr/>
+  <p><strong>Heightened (+2)</strong> The resistance increases by 5.</p>

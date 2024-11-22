@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodlines:
+- demonic
+copyright: 2024 Paizo Inc.
+domains: []
+id: chthonian_wrath
+lessons: []
+level: 5
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Chthonian Wrath
+traditions: []
+traits:
+- concentrate
+- focus
+- manipulate
+- sorcerer
+type: focus
+
+--- >
+  <p class="bloodline"><strong>Bloodline</strong> demonic</p>
+  <p class="area"><strong>Area</strong> 60-foot cone</p>
+  <p class="defense"><strong>Defense</strong> basic Reflex</p>
+  <hr/>
+  <p>You evoke the energy of a part of the Outer Rifts. The damage types of the spell (one energy and one physical) are based on the result of rolling on the table below.</p>
+  <p>You deal 4d6 damage of each of the corresponding damage types to each creature in the cone (8d6 total damage).</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage for each type increases by 1d6.</p>
+  <table><tr><td><strong>1d4</strong></td><td><strong>Realm</strong></td><td><strong>Manifestation</strong></td><td><strong>Damage Type</strong></td></tr><tr><td>1</td><td>Skies</td><td>Bolts of lightning and flying debris</td><td>Bludgeoning and electricity</td></tr><tr><td>2</td><td>Depths</td><td>Acid and demonic shells</td><td>Acid and slashing</td></tr><tr><td>3</td><td>Frozen</td><td>Frigid air and ice</td><td>Bludgeoning and cold</td></tr><tr><td>4</td><td>Volcanic</td><td>Jagged volcanic rocks</td><td>Fire and piercing and magma</td></tr></table>

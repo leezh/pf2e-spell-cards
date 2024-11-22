@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: fireball
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Fireball
+traditions:
+- arcane
+- primal
+traits:
+- concentrate
+- fire
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="range"><strong>Range</strong> 500 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="defense"><strong>Defense</strong> basic Reflex</p>
+  <hr/>
+  <p>A roaring blast of fire detonates at a spot you designate, dealing 6d6 fire damage.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>

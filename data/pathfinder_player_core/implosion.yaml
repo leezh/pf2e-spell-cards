@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines:
+- demonic
+- imperial
+copyright: 2023 Paizo Inc.
+domains: []
+id: implosion
+lessons: []
+level: 9
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Implosion
+traditions:
+- arcane
+- primal
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 corporeal creature</p>
+  <p class="defense"><strong>Defense</strong> basic Fortitude; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You crush the target by causing it to collapse in on itself, dealing 75 damage. The first time each round you Sustain the spell, you must choose a new target to be subject to the same effect; the same creature can never be targeted more than once with a single casting of this spell. You also can't affect more than one creature per turn with <em>implosion</em>. You can't target a creature that's incorporeal, gaseous, or liquid, or otherwise lacking a solid form.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 10.</p>

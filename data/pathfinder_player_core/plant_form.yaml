@@ -1,0 +1,46 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: plant_form
+lessons: []
+level: 5
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Plant Form
+traditions:
+- primal
+traits:
+- concentrate
+- manipulate
+- plant
+- polymorph
+- wood
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> primal</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Taking inspiration from verdant creatures, you transform into a Large plant battle form. When you Cast this Spell, choose a listed battle form. You can substitute a similar specific plant to turn into (such as a pitcher plant instead of a flytrap), but this has no effect on the form's Size or statistics. While in this form, you gain the plant trait. You can Dismiss the spell.</p>
+  <p>You gain the following statistics and abilities regardless of which battle form you choose:</p>
+  <ul>
+  <li>AC = 19 + your level. Ignore your armor's check penalty and Speed reduction.</li>
+  <li>12 temporary Hit Points.</li>
+  <li>Resistance 10 to poison.</li>
+  <li>Low-light vision.</li>
+  <li>One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +17, and your damage bonus is +11. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack modifier is higher, you can use it instead.</li>
+  <li>Athletics modifier of +19, unless your own is higher.</li>
+  </ul>
+  <p>You gain specific abilities based on the plant you choose:</p>
+  <ul>
+  <li><strong>Arboreal</strong> Speed 30 feet; Melee branch (reach 15 feet), <strong>Damage</strong> 2d10 bludgeoning; Melee foot, <strong>Damage</strong> 2d8 bludgeoning; you can speak in this form.</li>
+  </ul>
+--- >
+  <ul>
+  <li><strong>Flytrap</strong> Speed 15 feet; resistance 10 to acid; <strong>Melee</strong> leaf (reach 10 feet), <strong>Damage</strong> 2d8 piercing, and you can spend an action after a hit to Grab the target.</li>
+  </ul>
+  <hr/>
+  <p><strong>Heightened (6th)</strong> Your battle form is Huge, and the reach of your attacks increases by 5 feet. You instead gain AC = 22 + your level, 24 temporary HP, attack modifier +21, damage bonus +16, and Athletics +22.</p>

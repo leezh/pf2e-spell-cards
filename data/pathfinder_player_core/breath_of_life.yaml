@@ -1,0 +1,28 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: breath_of_life
+lessons: []
+level: 5
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Breath of Life
+traditions:
+- divine
+traits:
+- concentrate
+- healing
+- vitality
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine</p>
+  <p class="trigger"><strong>Trigger</strong> A living creature within range would die</p>
+  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> the triggering creature</p>
+  <hr/>
+  <p>Your blessing revives a creature at the moment of its death. You prevent the target from dying and restore 5d8 Hit Points to the target. You can't use breath of life if the triggering effect was a death effect or an effect that leaves no remains, such as <em>disintegrate</em>.</p>
+  <hr/>
+  <p><strong>Heightened (+2)</strong> The healing increases by 1d8.</p>

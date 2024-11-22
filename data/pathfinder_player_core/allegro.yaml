@@ -1,0 +1,27 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: allegro
+lessons: []
+level: 7
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Allegro
+traditions: []
+traits:
+- bard
+- cantrip
+- composition
+- concentrate
+- emotion
+- mental
+type: cantrip
+
+--- >
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 ally</p>
+  <p class="duration"><strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>You perform rapidly, speeding up your ally. The ally becomes quickened and can use the additional action to Strike, Stride, or Step.</p>

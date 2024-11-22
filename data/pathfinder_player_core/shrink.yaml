@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: shrink
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Shrink
+traditions:
+- arcane
+- primal
+traits:
+- concentrate
+- manipulate
+- polymorph
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 willing creature</p>
+  <p class="duration"><strong>Duration</strong> 5 minutes</p>
+  <hr/>
+  <p>You warp space to make a creature smaller. The target shrinks to become Tiny in size. Its equipment shrinks with it but returns to its original size if removed. The creature's reach changes to 0 feet. This spell has no effect on a Tiny creature.</p>
+  <hr/>
+  <p><strong>Heightened (6th)</strong> The spell can target up to 10 creatures.</p>

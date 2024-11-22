@@ -1,0 +1,28 @@
+actions: '[one-action] TO [two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: heal_companion
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Heal Companion
+traditions: []
+traits:
+- focus
+- healing
+- ranger
+- vitality
+type: focus
+
+--- >
+  <p class="range"><strong>Range</strong> touch or 30 feet; <strong>Targets</strong> your animal companion</p>
+  <hr/>
+  <p>You heal your animal companion's wounds. You restore 1d10 Hit Points to your animal companion. The number of actions you spend Casting this Spell determines range and other parameters.</p>
+  <p>(manipulate) The spell has a range of touch.</p>
+  <p>(concentrate, manipulate) The spell has a range of 30 feet and restores an additional 8 Hit Points to the target.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The amount of healing increases by 1d10, and the additional healing for the 2-action version increases by 8.</p>

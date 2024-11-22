@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: brain_drain
+lessons: []
+level: 1
+mysteries:
+- lore
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Brain Drain
+traditions: []
+traits:
+- concentrate
+- focus
+- manipulate
+- mental
+- oracle
+type: focus
+
+--- >
+  <p class="mystery"><strong>Mystery</strong> lore</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> Will</p>
+  <hr/>
+  <p>You probe the target's mind to glean knowledge. This deals 1d8 mental damage with a basic Will save. If the target fails the save, you sort through the stolen memories to attempt a single check to Recall Knowledge. Choose a skill that has the Recall Knowledge action, and use the target's skill modifier for the check.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The mental damage increases by 1d8.</p>

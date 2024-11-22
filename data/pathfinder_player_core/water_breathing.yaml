@@ -1,0 +1,32 @@
+actions: ''
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: water_breathing
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Water Breathing
+traditions:
+- arcane
+- divine
+- primal
+traits:
+- concentrate
+- manipulate
+- water
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="cast"><strong>Cast</strong> 1 minute</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> up to 5 creatures</p>
+  <p class="duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>The targets can breathe underwater.</p>
+  <hr/>
+  <p><strong>Heightened (3rd)</strong> The duration is 8 hours.</p>
+  <p><strong>Heightened (4th)</strong> The duration is until your next daily preparations.</p>

@@ -1,0 +1,25 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: protective_wards
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Protective Wards
+traditions: []
+traits:
+- aura
+- focus
+- manipulate
+- wizard
+type: focus
+
+--- >
+  <p class="area"><strong>Area</strong> 5-foot emanation centered on you</p>
+  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You expand a ring of glyphs that shields your allies. You and any allies in the area gain a +1 status bonus to AC. Each time you Sustain the spell, the emanation's radius increases by 5 feet, to a maximum of 30 feet.</p>

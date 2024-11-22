@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- tyranny
+id: commanding_lash
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Commanding Lash
+traditions: []
+traits:
+- cleric
+- concentrate
+- focus
+- linguistic
+- manipulate
+- mental
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> tyranny</p>
+  <p class="requirements"><strong>Requirements</strong> Your most recent action dealt damage to a target</p>
+  <p class="range"><strong>Range</strong> 100 feet; <strong>Targets</strong> a creature you dealt damage to on your most recent action</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> until the end of the target's next turn</p>
+  <hr/>
+  <p>With the threat of more pain, you compel a creature you've recently harmed. You issue a command to the target, with the effects of the spell command. If the target is frightened, stupefied, or taking persistent damage, it takes a –2 circumstance penalty to the save. Regardless of the result, the target is then temporarily immune for 1 hour.</p>

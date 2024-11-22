@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: deafness
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Deafness
+traditions:
+- arcane
+- divine
+- occult
+- primal
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>The target loses its hearing. It must attempt a Fortitude save, and it is then temporarily immune for 1 minute.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target is deafened for 1 round.</p>
+  <p><strong>Failure</strong> The target is deafened for 10 minutes.</p>
+  <p><strong>Critical Failure</strong> The target is deafened permanently.</p>

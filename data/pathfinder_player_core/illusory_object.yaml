@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: illusory_object
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Illusory Object
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- illusion
+- manipulate
+- visual
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="range"><strong>Range</strong> 500 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You create an illusory visual image of a stationary object. The entire image must fit within the spell's area. The object appears to animate naturally, but it doesn't make sounds or generate smells. For example, water would appear to pour down an illusory waterfall, but it would be silent.</p>
+  <p>Any creature that touches the image or uses the Seek action to examine it can attempt to disbelieve your illusion.</p>
+  <hr/>
+  <p><strong>Heightened (2nd)</strong> Your image makes appropriate sounds, generates normal smells, and feels right to the touch. The spell gains the auditory and olfactory traits. The duration increases to 1 hour.</p>
+  <p><strong>Heightened (5th)</strong> As the 2nd-rank version, but the duration is unlimited.</p>

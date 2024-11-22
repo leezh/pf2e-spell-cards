@@ -1,0 +1,27 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- might
+id: enduring_might
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Enduring Might
+traditions: []
+traits:
+- cleric
+- focus
+- manipulate
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> might</p>
+  <p class="trigger"><strong>Trigger</strong> An attack or effect would deal damage to you</p>
+  <hr/>
+  <p>Your own might mingles with divine power to protect you from harm. You gain resistance equal to 8 plus your Strength modifier against all damage from the triggering attack or effect.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The resistance increases by 2.</p>

@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: collective_transposition
+lessons: []
+level: 6
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: Collective Transposition
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- manipulate
+- teleportation
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="area"><strong>Area</strong> 30-foot emanation</p>
+  <p class="targets"><strong>Targets</strong> up to 2 creatures</p>
+  <p class="defense"><strong>Defense</strong> Will</p>
+  <hr/>
+  <p>You teleport the targets to new positions within the area. The creatures must each be able to fit in their new space, and their positions must be unoccupied, entirely within the area, and in your line of sight. Unwilling creatures can attempt a Will save.</p>
+  <p><strong>Critical Success</strong> The target can teleport if it wants, but it chooses the destination within range.</p>
+  <p><strong>Success</strong> The target is unaffected.</p>
+  <p><strong>Failure</strong> You teleport the target and choose its destination.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The number of targets increases by 1.</p>

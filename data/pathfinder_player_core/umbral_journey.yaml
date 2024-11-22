@@ -1,0 +1,29 @@
+actions: ''
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: umbral_journey
+lessons: []
+level: 5
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Umbral Journey
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- manipulate
+- shadow
+- teleportation
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="cast"><strong>Cast</strong> 1 minute</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> you and up to 10 willing creatures touched</p>
+  <p class="duration"><strong>Duration</strong> 8 hours</p>
+  <hr/>
+  <p>You move partially into the Netherworld, using its warped nature to speed your travels. Each hour, you cover roughly as much ground as you normally would in 3 days (page 438). The landmarks are vague and symbolic rather than concrete, leaving you within a mile of your intended destination when you Dismiss the spell or its duration ends.</p>

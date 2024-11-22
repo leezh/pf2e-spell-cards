@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodlines:
+- hag
+copyright: 2023 Paizo Inc.
+domains: []
+id: cursed_metamorphosis
+lessons: []
+level: 6
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Cursed Metamorphosis
+traditions:
+- arcane
+- occult
+- primal
+traits:
+- concentrate
+- curse
+- incapacitation
+- manipulate
+- polymorph
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You transform the target creature into a harmless animal appropriate to the area, with effects based on its Fortitude save.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target's body gains minor features of the harmless animal. Its insides churn as they partially transform, causing it to be sickened 1. When it recovers from the sickened condition, its features revert to normal.</p>
+  <p><strong>Failure</strong> The target transforms for 1 minute but keeps its mind. If it spends all its actions on its turn concentrating on its original form, it can attempt a Will save to end the effect immediately.</p>
+  <p><strong>Critical Failure</strong> The target is transformed into the chosen harmless animal, body and mind, for an unlimited duration.</p>

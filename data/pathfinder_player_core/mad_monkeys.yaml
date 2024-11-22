@@ -1,0 +1,45 @@
+actions: '[two-actions]'
+bloodlines:
+- mischief
+copyright: 2023 Paizo Inc.
+domains: []
+id: mad_monkeys
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Mad Monkeys
+traditions:
+- primal
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> primal</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Area</strong> 5-foot burst</p>
+  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Magical monkey spirits fill the area as they pile and climb on top of one another. Because the monkeys are magical spirits, they can't be attacked or hurt. Casting calm or a similar effect over the monkeys makes them docile, causing them to cease making mischief for the duration of <em>mad monkeys</em>.</p>
+  <p>Choose the kind of mischief your monkeys make when you Cast the Spell. They produce the effect listed for that mischief when you Cast the Spell and the first time each round when you Sustain the spell. The first time each round when you Sustain the spell, you can move the area of the monkeys by 5 feet.</p>
+  <ul>
+  <li><strong>Flagrant Burglary</strong> The monkeys try to Steal any one item from one creature in the area. Use your spell DC – 10 as the monkeys' Thievery modifier. Their attempt relies more on distraction than subtlety, so the victim knows what item the monkeys were trying to take and whether it was taken. Getting a stolen item from the monkeys— even for the caster—requires Stealing it from them or Disarming them, using your spell DC. When the spell ends, any stolen items fall to the ground in any square of the spell's area you choose.</li>
+  </ul>
+--- >
+  <ul>
+  <li><strong>Raucous Din</strong> The monkeys screech loudly, potentially deafening creatures in the spell's area. Each creature in the spell's area must attempt a Fortitude save.</li>
+  </ul>
+  <p class="li"><strong>Critical Success</strong> The creature is unaffected and is temporarily immune for 10 minutes.</p>
+  <p class="li"><strong>Success</strong> The creature is unaffected.</p>
+  <p class="li"><strong>Failure</strong> The creature is deafened for 1 round.</p>
+  <p class="li"><strong>Critical Failure</strong> The creature is deafened for 1 minute.</p>
+  <ul>
+  <li><strong>Tumultuous Gymnastics</strong> The monkeys jump and climb all over creatures in the spell's area, interfering with complex movements. Each creature in the spell's area must attempt a Reflex save.</li>
+  </ul>
+  <p class="li"><strong>Critical Success</strong> The creature is unaffected and is temporarily immune for 10 minutes.</p>
+  <p class="li"><strong>Success</strong> The creature is unaffected.</p>
+  <p class="li"><strong>Failure</strong> For 1 round, the creature must succeed at a DC 5 flat check whenever it attempts a manipulate action. If it fails this check, the action is disrupted.</p>
+  <p class="li"><strong>Critical Failure</strong> As failure, but the monkeys cling to the creature tenaciously, and the effect lasts until the spell ends, even if the creature leaves the spell's area.</p>

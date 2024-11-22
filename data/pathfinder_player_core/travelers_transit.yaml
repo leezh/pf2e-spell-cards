@@ -1,0 +1,28 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- travel
+id: travelers_transit
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Traveler's Transit
+traditions: []
+traits:
+- cleric
+- concentrate
+- focus
+- manipulate
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> travel</p>
+  <p class="duration"><strong>Duration</strong> 5 minutes</p>
+  <hr/>
+  <p>You add power to your muscles, allowing you to swim or climb walls with ease. When you Cast this Spell, you gain either a climb Speed or a swim Speed. The Speed is equal to your land Speed.</p>
+  <hr/>
+  <p><strong>Heightened (5th)</strong> You can choose to gain a fly Speed.</p>

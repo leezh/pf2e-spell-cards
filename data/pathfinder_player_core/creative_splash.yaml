@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- creation
+id: creative_splash
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Creative Splash
+traditions: []
+traits:
+- cleric
+- concentrate
+- focus
+- illusion
+- manipulate
+- visual
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> creation</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Area</strong> 5-foot burst</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>A deluge of paint or colorful illusions descend on the area, reflecting your personal creative specialty. Roll 1d4 to determine the color of the illusion. Each creature in the area must succeed at a Will save or take the effect listed on the table for the color.</p>
+  <table><tr><td><strong>1d4</strong></td><td><strong>Color</strong></td><td><strong>Failure</strong></td><td><strong>Critical Failure</strong></td></tr><tr><td>1</td><td>White</td><td>Dazzled 1 round</td><td>Dazzled 1 minute</td></tr><tr><td>2</td><td>Red</td><td>Enfeebled 1 for 1 round</td><td>Enfeebled 2 for 1 round</td></tr><tr><td>3</td><td>Yellow</td><td>Frightened 1</td><td>Frightened 2</td></tr><tr><td>4</td><td>Blue</td><td>Clumsy 1 for 1 round</td><td>Clumsy 2 for 1 round</td></tr></table>

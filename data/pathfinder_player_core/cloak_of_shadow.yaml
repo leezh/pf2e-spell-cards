@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- darkness
+id: cloak_of_shadow
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Cloak of Shadow
+traditions: []
+traits:
+- aura
+- cleric
+- darkness
+- focus
+- manipulate
+- shadow
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> darkness</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing creature</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You drape the target in a mantle of swirling shadows that make it harder to see. The cloak reduces bright light within a 20-foot emanation to dim light. This is a form of magical darkness and can therefore overcome non-magical light or attempt to counteract magical light as described on page 431.</p>
+  <p>The target can use concealed condition gained from the shadows to Hide, though observant creatures can still follow the moving aura of shadow, making it difficult for the target to become completely undetected. The target can use an Interact action to remove the cloak and leave it behind as a decoy, where it remains, reducing light for the rest of the spell's duration. If anyone picks up the cloak after it's been removed by the original target, the cloak evaporates and the spell ends.</p>

@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: leaden_steps
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: Leaden Steps
+traditions:
+- arcane
+- primal
+traits:
+- concentrate
+- manipulate
+- metal
+- morph
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You partially transform a foe's feet into unwieldy slabs of metal, slowing their steps. The target attempts a Fortitude saving throw.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target is encumbered and has weakness 2 to electricity until the end of your next turn. The spell can't be sustained.</p>
+  <p><strong>Failure</strong> The target is encumbered and has weakness 2 to electricity.</p>
+  <p><strong>Critical Failure</strong> The target is encumbered and has weakness 3 to electricity.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The weakness increases by 1.</p>

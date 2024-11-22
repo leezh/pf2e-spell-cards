@@ -1,0 +1,27 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: create_water
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Create Water
+traditions:
+- arcane
+- divine
+- primal
+traits:
+- concentrate
+- manipulate
+- water
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="range"><strong>Range</strong> 0 feet</p>
+  <hr/>
+  <p>As you cup your hands, water begins to flow forth from them. You create 2 gallons of water. If no one drinks it, it evaporates after 1 day.</p>

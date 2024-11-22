@@ -1,0 +1,27 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: phase_familiar
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Phase Familiar
+traditions: []
+traits:
+- focus
+- hex
+- manipulate
+- witch
+type: focus
+
+--- >
+  <p class="trigger"><strong>Trigger</strong> Your familiar would take damage</p>
+  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> your familiar</p>
+  <hr/>
+  <p>Your patron momentarily recalls your familiar to the ether, shifting it from its solid, physical form into a ghostly version of itself. Against the triggering damage, your familiar gains resistance 5 to all damage and is immune to precision damage.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> Increase the resistance by 2.</p>

@@ -1,0 +1,31 @@
+actions: ''
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: mending
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Mending
+traditions:
+- arcane
+- divine
+- occult
+- primal
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="cast"><strong>Cast</strong> 10 minutes</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> non-magical object of light Bulk or less</p>
+  <hr/>
+  <p>You repair the target item. You restore 5 Hit Points per spell rank to the target, potentially removing the broken condition if this repairs it past the item's Broken Threshold. You can't replace lost pieces or repair an object that's been completely destroyed.</p>
+  <hr/>
+  <p><strong>Heightened (2nd)</strong> You can target a non-magical object of 1 Bulk or less.</p>
+  <p><strong>Heightened (3rd)</strong> You can target a non-magical object of 2 Bulk or less, or a magical object of 1 Bulk or less.</p>

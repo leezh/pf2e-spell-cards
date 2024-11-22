@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: embed_message
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Embed Message
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- illusion
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 object or willing creature</p>
+  <p class="duration"><strong>Duration</strong> unlimited</p>
+  <hr/>
+  <p>You specify a trigger and a message up to 25 words long. When the specified trigger occurs within 30 feet of the target, illusory text of your message circles the target accompanied by a disembodied voice. You can choose a language you know for the text and speech, and can choose what the voice sounds like. Once the message is completed, the spell ends.</p>
+  <hr/>
+  <p><strong>Heightened (4th)</strong> You can add a simple sensory component to emphasize the message, such as an odor, visual effect, or physical sensation. This addition is obviously illusory and part of the message, lasting only while the message is being read.</p>
+  <p><strong>Heightened (6th)</strong> As 4th rank, but you can choose how many times the spell repeats the message before it ends; there is no limit to the number of repetitions.</p>

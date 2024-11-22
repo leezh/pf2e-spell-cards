@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodlines:
+- draconic
+copyright: 2024 Paizo Inc.
+domains: []
+id: dragon_wings
+lessons: []
+level: 5
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Dragon Wings
+traditions: []
+traits:
+- concentrate
+- focus
+- manipulate
+- morph
+- sorcerer
+type: focus
+
+--- >
+  <p class="bloodline"><strong>Bloodline</strong> draconic</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Leathery wings sprout from your back, giving you a fly Speed of 60 feet or your Speed, whichever is faster. If you're still flying when this spell's duration would end, you float to the ground, with the effects of <em>gentle landing</em>.</p>
+  <hr/>
+  <p><strong>Heightened (8th)</strong> The duration increases to 10 minutes.</p>

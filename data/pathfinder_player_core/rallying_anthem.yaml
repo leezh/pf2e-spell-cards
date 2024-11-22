@@ -1,0 +1,27 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: rallying_anthem
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Rallying Anthem
+traditions: []
+traits:
+- bard
+- cantrip
+- composition
+- concentrate
+- emotion
+- mental
+type: cantrip
+
+--- >
+  <p class="area"><strong>Area</strong> 60-foot emanation</p>
+  <p class="duration"><strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>Your song moves allies to protect themselves more effectively. You and all allies in the area gain a +1 status bonus to AC and saving throws, as well as resistance equal to half the spell's rank to physical damage.</p>

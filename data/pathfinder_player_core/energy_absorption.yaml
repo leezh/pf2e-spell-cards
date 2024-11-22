@@ -1,0 +1,24 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: energy_absorption
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Energy Absorption
+traditions: []
+traits:
+- focus
+- wizard
+type: focus
+
+--- >
+  <p class="trigger"><strong>Trigger</strong> An effect would deal acid, cold, electricity, or fire damage to you</p>
+  <hr/>
+  <p>You're used to mitigating the damage done by bombs, siege engines, and magical artillery. You gain resistance 15 to your choice of acid, cold, electricity, or fire damage from the triggering effect. The resistance applies only to the triggering effect's initial damage.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The resistance increases by 5.</p>

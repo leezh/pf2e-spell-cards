@@ -1,0 +1,27 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: ancestral_form
+lessons: []
+level: 6
+mysteries:
+- ancestors
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Ancestral Form
+traditions: []
+traits:
+- concentrate
+- focus
+- oracle
+type: focus
+
+--- >
+  <p class="mystery"><strong>Mystery</strong> ancestors</p>
+  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You take the form of your ancestral spirits, becoming invisible and quasi-corporeal. You gain resistance 10 to all damage (except force, spirit, and damage from Strikes with the <em>ghost touch</em> property rune), and this resistance is doubled against non-magical damage or Strikes that includes precision damage. You gain a fly Speed equal to your land Speed; when Flying, moving upward isn't difficult terrain for you. You can't move through solid objects, but you can float through tiny gaps. You can't Cast Spells (but you can Sustain spells), activate items, or use actions that have the attack or manipulate trait.</p>
+  <hr/>
+  <p><strong>Heightened (+2)</strong> The resistance increases by 5.</p>

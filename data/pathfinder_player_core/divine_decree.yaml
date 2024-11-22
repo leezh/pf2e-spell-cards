@@ -1,0 +1,36 @@
+actions: '[two-actions]'
+bloodlines:
+- angelic
+- demonic
+- diabolic
+copyright: 2023 Paizo Inc.
+domains: []
+id: divine_decree
+lessons: []
+level: 7
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Divine Decree
+traditions:
+- divine
+traits:
+- concentrate
+- manipulate
+- sanctified
+- spirit
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine</p>
+  <p class="range"><strong>Range</strong> 40 feet; <strong>Area</strong> 40-foot emanation</p>
+  <p class="defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You utter a potent litany from your faith, a mandate that harms those who oppose your ideals. You deal 7d10 spirit damage to your enemies in the area; each enemy must attempt a Fortitude save.</p>
+  <p><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p><strong>Success</strong> The creature takes half damage.</p>
+  <p><strong>Failure</strong> The creature takes full damage and is enfeebled 2 for 1 minute.</p>
+  <p><strong>Critical Failure</strong> The creature takes double damage and is enfeebled 2 for 1 minute. If you're on your home plane and the creature is not, the creature is sent back to its home plane. A creature of 10th level or lower must also succeed at a Will save or be paralyzed for 1 minute; if it critically fails, it dies (this is a death effect).</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 1d10, and the level of creatures that must attempt a second save on a critical failure increases by 2.</p>

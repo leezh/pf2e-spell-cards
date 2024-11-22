@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: mountain_resilience
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Mountain Resilience
+traditions:
+- arcane
+- primal
+traits:
+- concentrate
+- earth
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="duration"><strong>Duration</strong> 20 minutes</p>
+  <hr/>
+  <p>The target's skin hardens like the stone of a mountain face. It gains resistance 5 to physical damage, except adamantine. Each time the target is hit by a bludgeoning, piercing, or slashing attack, <em>mountain resilience's</em> duration decreases by 1 minute.</p>
+  <hr/>
+  <p><strong>Heightened (6th)</strong> The resistance increases to 10.</p>
+  <p><strong>Heightened (8th)</strong> The resistance increases to 15.</p>
+  <p><strong>Heightened (10th)</strong> The resistance increases to 20.</p>

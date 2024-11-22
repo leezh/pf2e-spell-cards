@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodlines:
+- demonic
+copyright: 2024 Paizo Inc.
+domains: []
+id: blister
+lessons: []
+level: 5
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: Blister
+traditions:
+- arcane
+- occult
+- primal
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You point at a target in range, and its skin grows searing blisters filled with caustic fluid. The target must attempt a Fortitude save.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target grows one blister. You can spend a single action, which has the concentrate trait, to pop a blister. The target and each creature in a 15-foot cone originating from the target takes 7d6 acid damage (basic Fortitude save). You choose the direction of the cone, which can't include the target. When no blisters are left, the spell ends.</p>
+  <p><strong>Failure</strong> As success, but the target grows two blisters.</p>
+  <p><strong>Critical Failure</strong> As success, but the target grows four blisters.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage of a popped blister increases by 1d6.</p>

@@ -1,0 +1,37 @@
+actions: '[three-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: summon_elemental
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Summon Elemental
+traditions:
+- arcane
+- primal
+traits:
+- concentrate
+- manipulate
+- summon
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="range"><strong>Range</strong> 30 feet</p>
+  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You summon a creature that has the elemental trait and whose level is 1 or lower to fight for you.</p>
+  <hr/>
+  <p><strong>Heightened (3rd)</strong> Level 2.</p>
+  <p><strong>Heightened (4th)</strong> Level 3.</p>
+  <p><strong>Heightened (5th)</strong> Level 5.</p>
+  <p><strong>Heightened (6th)</strong> Level 7.</p>
+  <p><strong>Heightened (7th)</strong> Level 9.</p>
+  <p><strong>Heightened (8th)</strong> Level 11.</p>
+  <p><strong>Heightened (9th)</strong> Level 13.</p>
+  <p><strong>Heightened (10th)</strong> Level 15.</p>
+  <p>&lt;%SUMMON#57%1%&gt;</p>

@@ -1,0 +1,25 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: spell_riposte
+lessons: []
+level: 7
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Spell Riposte
+traditions:
+- arcane
+- divine
+- occult
+traits:
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="trigger"><strong>Trigger</strong> You’re the target of a spell you’re aware of.</p>
+  <hr/>
+  <p>You attempt to counteract the triggering spell. If the spell would be counteracted, it instead continues with the caster as a target instead of you. <em>Spell riposte</em> can't affect spells that aren't targeted (such as area spells).</p>

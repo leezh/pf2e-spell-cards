@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- truth
+id: glimpse_the_truth
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Glimpse the Truth
+traditions: []
+traits:
+- aura
+- cleric
+- focus
+- manipulate
+- revelation
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> truth</p>
+  <p class="area"><strong>Area</strong> 30-foot emanation</p>
+  <p class="duration"><strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>Divine insight lets you see things as they are, unveiled by attempts to magically cloak the truth. The GM attempts a secret counteract check against each illusion that is at least partially within the area. Instead of counteracting the illusion, you see through it (for instance, if the check succeeds against an <em>illusory disguise</em> spell, you see the creature's true form but <em>illusory disguise</em> doesn't end). Each time a new illusion comes into the aura during the duration of the spell, the GM attempts a secret counteract check for that illusion.</p>
+  <hr/>
+  <p><strong>Heightened (7th)</strong> You can allow everyone within range of the emanation to see through any illusions you succeed against, not just yourself.</p>

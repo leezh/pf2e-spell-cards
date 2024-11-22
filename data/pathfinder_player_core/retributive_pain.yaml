@@ -1,0 +1,29 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- pain
+id: retributive_pain
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Retributive Pain
+traditions: []
+traits:
+- cleric
+- focus
+- manipulate
+- mental
+- nonlethal
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> pain</p>
+  <p class="trigger"><strong>Trigger</strong> A creature in range damages you</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> the triggering creature</p>
+  <p class="defense"><strong>Defense</strong> basic Fortitude</p>
+  <hr/>
+  <p>You vengefully reflect your pain upon your tormentor. The target takes mental damage equal to half the triggering damage.</p>

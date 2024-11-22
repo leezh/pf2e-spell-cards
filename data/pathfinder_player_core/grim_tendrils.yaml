@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: grim_tendrils
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Grim Tendrils
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- manipulate
+- void
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="area"><strong>Area</strong> 30-foot line</p>
+  <p class="defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>Tendrils of darkness curl out from your fingertips and race through the air. You deal 2d4 void damage and 1 persistent bleed damage to living creatures in the line. Each living creature in the line must attempt a Fortitude save.</p>
+  <p><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p><strong>Success</strong> The creature takes half the void damage and no persistent bleed damage.</p>
+  <p><strong>Failure</strong> The creature takes full damage.</p>
+  <p><strong>Critical Failure</strong> The creature takes double void damage and double persistent bleed damage.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The void damage increases by 2d4, and the persistent bleed damage increases by 1.</p>

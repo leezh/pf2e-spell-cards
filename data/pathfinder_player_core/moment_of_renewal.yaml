@@ -1,0 +1,27 @@
+actions: '[two-actions]'
+bloodlines:
+- angelic
+copyright: 2023 Paizo Inc.
+domains: []
+id: moment_of_renewal
+lessons: []
+level: 8
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Moment of Renewal
+traditions:
+- divine
+- primal
+traits:
+- concentrate
+- healing
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> up to 6 creatures</p>
+  <hr/>
+  <p>The targets experience a day's worth of recovery in an instant. Any detrimental effects that would be gone after 24 hours end, though this doesn't shorten the duration of any active spells affecting the targets. The targets regain Hit Points and recover from conditions as if they had taken 24 hours of rest, but they do not make their daily preparations again or gain any benefits of rest other than healing. The targets are then temporarily immune for 1 day.</p>

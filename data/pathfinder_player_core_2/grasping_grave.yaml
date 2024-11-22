@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodlines:
+- undead
+copyright: 2024 Paizo Inc.
+domains: []
+id: grasping_grave
+lessons: []
+level: 5
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Grasping Grave
+traditions: []
+traits:
+- concentrate
+- focus
+- manipulate
+- sorcerer
+type: focus
+
+--- >
+  <p class="bloodline"><strong>Bloodline</strong> undead</p>
+  <p class="range"><strong>Range</strong> 60 feet; <strong>Area</strong> 20-foot radius on the ground</p>
+  <p class="defense"><strong>Defense</strong> Reflex</p>
+  <hr/>
+  <p>Hundreds of skeletal arms erupt from the ground in the area, clawing at creatures within and attempting to hold them in place. The skeletal arms deal 6d6 slashing damage. Each creature in the area must attempt a Reflex save.</p>
+  <p><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p><strong>Success</strong> The creature takes half damage.</p>
+  <p><strong>Failure</strong> The creature takes full damage and a –10-foot circumstance penalty to its Speeds for 1 round.</p>
+  <p><strong>Critical Failure</strong> The creature takes double damage and is immobilized for 1 round or until it Escapes.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>

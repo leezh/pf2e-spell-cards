@@ -1,0 +1,25 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: weapon_trance
+lessons: []
+level: 1
+mysteries:
+- battle
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Weapon Trance
+traditions: []
+traits:
+- concentrate
+- focus
+- oracle
+type: focus
+
+--- >
+  <p class="mystery"><strong>Mystery</strong> battle</p>
+  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>The serenity of violence fills your mind, giving you a heightened sense of knowing exactly where your weapons need to be. For the duration, your proficiency with martial weapons is equal to your proficiency with simple weapons. You automatically Sustain this spell as a free action the first time you hit with a weapon Strike each round.</p>

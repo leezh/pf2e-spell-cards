@@ -1,0 +1,27 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: armor_of_bones
+lessons: []
+level: 3
+mysteries:
+- bones
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Armor of Bones
+traditions: []
+traits:
+- focus
+- manipulate
+- oracle
+type: focus
+
+--- >
+  <p class="mystery"><strong>Mystery</strong> bones</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You ossify your physical form, mimicking the durability of bone. You gain resistance 3 to cold, electricity, fire, piercing, and slashing damage.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The resistance increases by 1.</p>

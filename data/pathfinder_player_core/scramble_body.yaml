@@ -1,0 +1,28 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: scramble_body
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Scramble Body
+traditions: []
+traits:
+- concentrate
+- focus
+- manipulate
+- wizard
+type: focus
+
+--- >
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 living creature</p>
+  <p class="defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>Your magic throws the creature's biology into disarray, inducing nausea, fever, and other unpleasant conditions.</p>
+  <p><strong>Success</strong> The target is unaffected.</p>
+  <p><strong>Failure</strong> The target becomes sickened 1.</p>
+  <p><strong>Critical Failure</strong> The target becomes sickened 2 and slowed 1 as long as it's sickened.</p>

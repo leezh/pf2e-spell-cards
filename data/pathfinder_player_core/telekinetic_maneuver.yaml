@@ -1,0 +1,27 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: telekinetic_maneuver
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Telekinetic Maneuver
+traditions:
+- arcane
+- occult
+traits:
+- attack
+- concentrate
+- force
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <hr/>
+  <p>With a rush of telekinetic power, you move a foe or something they carry. You can attempt to Disarm, Reposition, Shove, or Trip the target using a spell attack roll instead of an Athletics check.</p>

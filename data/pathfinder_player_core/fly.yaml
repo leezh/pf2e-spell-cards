@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodlines:
+- draconic
+copyright: 2023 Paizo Inc.
+domains: []
+id: fly
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Fly
+traditions:
+- arcane
+- divine
+- occult
+- primal
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="duration"><strong>Duration</strong> 5 minutes</p>
+  <hr/>
+  <p>The target can soar through the air, gaining a fly Speed equal to its Speed or 20 feet, whichever is greater.</p>
+  <hr/>
+  <p><strong>Heightened (7th)</strong> The duration increases to 1 hour.</p>

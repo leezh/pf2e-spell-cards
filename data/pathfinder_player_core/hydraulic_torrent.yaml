@@ -1,0 +1,28 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: hydraulic_torrent
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Hydraulic Torrent
+traditions:
+- primal
+traits:
+- concentrate
+- manipulate
+- water
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> primal</p>
+  <p class="area"><strong>Area</strong> 60-foot line</p>
+  <p class="defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>A swirling torrent of water manifests along a straight line, battering creatures and unattended objects in its path and possibly pushing them away from you. The torrent deals 8d6 bludgeoning damage. Each creature in the area must attempt a basic Fortitude save; unattended objects automatically fail. Creatures and objects that fail are also knocked back 5 feet (10 feet on a critical failure).</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>

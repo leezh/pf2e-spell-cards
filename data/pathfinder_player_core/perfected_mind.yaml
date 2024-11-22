@@ -1,0 +1,24 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- perfection
+id: perfected_mind
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Perfected Mind
+traditions: []
+traits:
+- cleric
+- concentrate
+- focus
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> perfection</p>
+  <hr/>
+  <p>You meditate upon perfection to remove all distractions from your mind. Attempt a new Will save against one mental effect currently affecting you that required a Will save. Use the result of this new save to determine the outcome of the mental effect, unless the new save would have a worse result than the original save, in which case nothing happens. You can use <em>perfected mind</em> against a given effect only once.</p>

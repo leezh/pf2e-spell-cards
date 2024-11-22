@@ -1,0 +1,26 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: ghostly_weapon
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Ghostly Weapon
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 weapon that is either unattended or wielded by you or a willing ally</p>
+  <p class="duration"><strong>Duration</strong> 5 minutes</p>
+  <hr/>
+  <p>The target weapon becomes translucent and ghostly, and it can affect material and incorporeal creatures and objects. It gains the effects of the <em>ghost touch</em> property rune, meaning it is magical if it wasn't already, is especially effective against incorporeal creatures, and can be wielded by a corporeal or incorporeal creature.</p>

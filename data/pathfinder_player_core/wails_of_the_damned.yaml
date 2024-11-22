@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodlines:
+- undead
+copyright: 2023 Paizo Inc.
+domains: []
+id: wails_of_the_damned
+lessons: []
+level: 9
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Wails of the Damned
+traditions:
+- divine
+- occult
+traits:
+- auditory
+- concentrate
+- death
+- manipulate
+- void
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="area"><strong>Area</strong> 40-foot emanation</p>
+  <p class="defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>You howl a lament of damned souls. Each living enemy in the area takes 8d10 void damage depending on its Fortitude save.</p>
+  <p><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p><strong>Success</strong> The creature takes full damage.</p>
+  <p><strong>Failure</strong> The creature takes full damage and is drained 1d4.</p>
+  <p><strong>Critical Failure</strong> The creature takes double damage and is drained 4.</p>

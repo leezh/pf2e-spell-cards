@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- death
+id: eradicate_undeath
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Eradicate Undeath
+traditions: []
+traits:
+- cleric
+- concentrate
+- focus
+- manipulate
+- vitality
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> death</p>
+  <p class="area"><strong>Area</strong> 30-foot cone</p>
+  <p class="defense"><strong>Defense</strong> basic Fortitude</p>
+  <hr/>
+  <p>A massive deluge of life energy causes the undead to fall apart. Each undead creature in the area takes 4d12 vitality damage.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 1d12.</p>

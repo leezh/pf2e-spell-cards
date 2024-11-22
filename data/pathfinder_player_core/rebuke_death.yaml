@@ -1,0 +1,31 @@
+actions: '[one-action] TO [three-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- healing
+id: rebuke_death
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Rebuke Death
+traditions: []
+traits:
+- cleric
+- concentrate
+- focus
+- healing
+- manipulate
+- vitality
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> healing</p>
+  <p class="area"><strong>Area</strong> 20-foot emanation</p>
+  <p class="targets"><strong>Targets</strong> 1 living creature per action spent to Cast this spell</p>
+  <hr/>
+  <p>You snatch creatures from the jaws of death, restoring them without the strain of a typical close call. You can spend 1 to 3 actions Casting this Spell, and you can target a number of creatures equal to the actions spent. Each target regains 3d6 Hit Points. If the target had the dying condition, coming back from dying due to this healing doesn't increase its wounded condition.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> Increase the healing by 1d6.</p>

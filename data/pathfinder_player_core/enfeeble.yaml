@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: enfeeble
+lessons: []
+level: 1
+mysteries: []
+patrons:
+- The Resentment
+rarity: common
+source: Pathfinder Player Core
+title: Enfeeble
+traditions:
+- arcane
+- divine
+- occult
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You sap the target's strength, depending on its Fortitude save.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target is enfeebled 1 until the start of your next turn.</p>
+  <p><strong>Failure</strong> The target is enfeebled 2 for 1 minute.</p>
+  <p><strong>Critical Failure</strong> The target is enfeebled 3 for 1 minute.</p>

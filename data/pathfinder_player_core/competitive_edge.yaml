@@ -1,0 +1,29 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- ambition
+id: competitive_edge
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Competitive Edge
+traditions: []
+traits:
+- cleric
+- concentrate
+- emotion
+- focus
+- mental
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> ambition</p>
+  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Your competitiveness drives you to prove yourself against the opposition. You gain a +1 status bonus to attack rolls and skill checks. If an enemy within 20 feet critically succeeds at an attack roll or skill check, your status bonus increases to +3 for attack rolls or that specific skill check (whichever the foe critically succeeded at) for 1 round.</p>
+  <hr/>
+  <p><strong>Heightened (7th)</strong> Increase the base bonus to +2 and the increased bonus after an enemy critically succeeds to +4.</p>

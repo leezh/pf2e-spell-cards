@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: ghoulish_cravings
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: Ghoulish Cravings
+traditions:
+- divine
+- occult
+traits:
+- concentrate
+- curse
+- manipulate
+- mental
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You touch the target to afflict it with the overwhelming desire to eat raw meat. The target must attempt a Will save.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target is sickened 1 by its unbidden hunger.</p>
+  <p><strong>Failure</strong> The target is sickened 2 and can't reduce this condition below sickened 1 until it first consumes some raw meat; if the creature doesn't have access to raw meat, it can take a bite out of a corpse within reach as an Interact action.</p>
+  <p><strong>Critical Failure</strong> As failure, but the target can't reduce the condition below sickened 2 until it consumes raw meat.</p>

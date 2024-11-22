@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines:
+- mischief
+copyright: 2023 Paizo Inc.
+domains: []
+id: deceivers_cloak
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Deceiver's Cloak
+traditions: []
+traits:
+- concentrate
+- focus
+- hex
+- illusion
+- manipulate
+- witch
+type: focus
+
+--- >
+  <p class="lesson"><strong>Lesson</strong> mischief</p>
+  <p class="duration"><strong>Duration</strong> sustained up to 1 hour</p>
+  <hr/>
+  <p>Your patron drapes a cloak of illusion about you, making you appear as another creature of the same body shape with roughly similar height and weight as yourself. This has the effects of 3rd-rank <em>illusory disguise</em>.</p>
+  <hr/>
+  <p><strong>Heightened (6th)</strong> You can appear as any creature of the same size, even with a completely different body shape.</p>

@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- destruction
+id: destructive_aura
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Destructive Aura
+traditions: []
+traits:
+- aura
+- cleric
+- concentrate
+- focus
+- manipulate
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> destruction</p>
+  <p class="area"><strong>Area</strong> 15-foot emanation</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Swirling sands of divine devastation surround you, weakening the defenses of all they touch. Reduce the resistances of yourself and creatures in the area by 2.</p>
+  <hr/>
+  <p><strong>Heightened (+2)</strong> Reduce the resistances by an additional 2.</p>

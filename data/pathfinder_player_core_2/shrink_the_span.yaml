@@ -1,0 +1,24 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: shrink_the_span
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Shrink the Span
+traditions: []
+traits:
+- focus
+- manipulate
+- monk
+- teleportation
+type: focus
+
+--- >
+  <p class="range"><strong>Range</strong> See Below</p>
+  <hr/>
+  <p>The world seems to shrink before your footfalls. You teleport up to a distance equal to your Speed within your line of sight.</p>

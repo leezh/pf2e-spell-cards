@@ -1,0 +1,38 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: primal_herd
+lessons: []
+level: 10
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: Primal Herd
+traditions:
+- primal
+traits:
+- concentrate
+- manipulate
+- polymorph
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> primal</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> you and up to 5 willing targets</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Summoning the power of the natural world, you transform the targets into a herd of mammoths, and they each assume a Huge battle form. Each target must have enough space to expand into or the spell fails for that target. Each target gains the animal trait. Each target can Dismiss the spell's effects on itself. Each target gains the following while transformed.</p>
+  <ul>
+  <li>AC = 22 + the target's level. Ignore any armor check penalty and Speed reduction.</li>
+  <li>20 temporary Hit Points.</li>
+  <li>Speed 40 feet.</li>
+  <li>Low-light vision.</li>
+  <li>The following unarmed melee attacks, which are the only attacks the target can use to Strike. When Striking with these attacks, the target uses their attack modifier with the proficiency and item bonuses of their most favorable weapon or unarmed Strike, and the damage is listed for each attack. These attacks are Strength based (for the purpose of the enfeebled condition, for example).</li>
+  <li><strong>Melee</strong> tusk (reach 15 feet), Damage 4d8+19 piercing; <strong>Melee</strong> trunk (agile, reach 15 feet), Damage 4d6+16 bludgeoning; <strong>Melee</strong> foot (agile, reach 15 feet), Damage 4d6+13 bludgeoning.</li>
+  <li>Athletics modifier of +30, unless the target's own modifier is higher.</li>
+  <li>Each target can use the Trample action.</li>
+  </ul>
+--- >
+  <p><strong>Trample</strong> You move up to twice your Speed and move through the space of Large or smaller creatures, trampling each creature whose space you enter. A trampled creature takes damage from your foot Strike based on a basic Reflex save (DC = 19 + your level).</p>

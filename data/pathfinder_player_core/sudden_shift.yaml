@@ -1,0 +1,26 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- trickery
+id: sudden_shift
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Sudden Shift
+traditions: []
+traits:
+- cleric
+- focus
+- manipulate
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> trickery</p>
+  <p class="trigger"><strong>Trigger</strong> An enemy misses you with a melee attack</p>
+  <p class="duration"><strong>Duration</strong> until the end of your next turn</p>
+  <hr/>
+  <p>You swiftly move from a dangerous spot and veil yourself. You Step and become concealed.</p>

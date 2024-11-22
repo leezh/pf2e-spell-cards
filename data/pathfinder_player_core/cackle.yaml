@@ -1,0 +1,22 @@
+actions: '[free-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: cackle
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Cackle
+traditions: []
+traits:
+- concentrate
+- focus
+- hex
+- witch
+type: focus
+
+--- >
+  <p>With a quick burst of laughter, you prolong a magical effect you created. You Sustain a spell.</p>

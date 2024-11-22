@@ -1,0 +1,30 @@
+actions: '[one-action] TO [three-actions]'
+bloodlines:
+- undead
+copyright: 2023 Paizo Inc.
+domains: []
+id: harm
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Harm
+traditions:
+- divine
+traits:
+- manipulate
+- void
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine</p>
+  <p class="range"><strong>Range</strong> varies; <strong>Targets</strong> 1 living creature or 1 willing undead creature</p>
+  <hr/>
+  <p>You channel void energy to harm the living or heal the undead. If the target is a living creature, you deal 1d8 void damage to it, and it gets a basic Fortitude save. If the target is a willing undead creature, you restore that amount of Hit Points. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.</p>
+  <p>The spell has a range of touch.</p>
+  <p>(concentrate) The spell has a range of 30 feet. If you're healing an undead creature, increase the Hit Points restored by 8.</p>
+  <p>(concentrate) You disperse void energy in a 30-foot emanation. This targets all living and undead creatures in the area.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.</p>

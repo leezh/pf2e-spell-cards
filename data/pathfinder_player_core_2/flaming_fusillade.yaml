@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: flaming_fusillade
+lessons: []
+level: 6
+mysteries:
+- flames
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Flaming Fusillade
+traditions: []
+traits:
+- concentrate
+- fire
+- focus
+- manipulate
+- oracle
+type: focus
+
+--- >
+  <p class="mystery"><strong>Mystery</strong> flames</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You call upon an endless barrage of flames, a series of explosions bursting around you like miniature suns. You cast <em>ignition</em> as part of casting <em>flaming fusillade</em>. For the duration of <em>flaming fusillade</em>, <em>ignition's</em> casting time is reduced from 2 actions to 1.</p>
+  <hr/>
+  <p><strong>Heightened (9th)</strong> For the duration, you also gain a status bonus to damage dealt by <em>ignition</em> equal to <em>flaming fusillade's</em> spell rank.</p>

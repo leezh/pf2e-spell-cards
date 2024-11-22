@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines:
+- undead
+copyright: 2023 Paizo Inc.
+domains: []
+id: see_the_unseen
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: See the Unseen
+traditions:
+- arcane
+- divine
+- occult
+traits:
+- concentrate
+- manipulate
+- revelation
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>Your gaze pierces through illusions and finds invisible creatures and spirits. You can see invisible creatures as though they weren't invisible, although their features are blurred, making them concealed and difficult to identify. You can also see incorporeal creatures, like ghosts, phased through an object from within 10 feet of an object's surface as blurry shapes seen through those objects. Subtler clues also grant you a +2 status bonus to checks you make to disbelieve illusions.</p>
+  <hr/>
+  <p><strong>Heightened (5th)</strong> This spell has a duration of 8 hours.</p>

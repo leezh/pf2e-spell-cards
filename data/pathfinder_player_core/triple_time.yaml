@@ -1,0 +1,27 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: triple_time
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Triple Time
+traditions: []
+traits:
+- bard
+- cantrip
+- composition
+- emotion
+- manipulate
+- mental
+type: cantrip
+
+--- >
+  <p class="area"><strong>Area</strong> 60-foot emanation</p>
+  <p class="duration"><strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>Your music sets a fast pace. You and all allies in the area gain a +10-foot status bonus to all Speeds for 1 round.</p>

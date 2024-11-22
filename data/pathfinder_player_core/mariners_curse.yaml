@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodlines:
+- hag
+copyright: 2023 Paizo Inc.
+domains: []
+id: mariners_curse
+lessons: []
+level: 5
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Mariner's Curse
+traditions:
+- arcane
+- occult
+- primal
+traits:
+- concentrate
+- curse
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> Will</p>
+  <hr/>
+  <p>You afflict the target with the curse of the roiling, unforgiving sea. The target must attempt a Will save.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target becomes sickened 1. Reducing its sickened condition to 0 ends the curse.</p>
+  <p><strong>Failure</strong> The target becomes sickened 1 and can't reduce its sickened condition below 1 while the curse remains. The curse can be lifted by 4th-rank <em>cleanse affliction</em> or similar magic. Whenever the target is sickened and on the water at least a mile from shore, it is also slowed 1.</p>
+  <p><strong>Critical Failure</strong> As failure, but the target becomes sickened 2.</p>

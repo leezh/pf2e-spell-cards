@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodlines:
+- hag
+copyright: 2023 Paizo Inc.
+domains: []
+id: phantasmagoria
+lessons: []
+level: 9
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Phantasmagoria
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- death
+- illusion
+- manipulate
+- mental
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="range"><strong>Range</strong> 120 feet; <strong>Targets</strong> any number of creatures</p>
+  <p class="defense"><strong>Defense</strong> Will</p>
+  <hr/>
+  <p>You fill the targets' minds with endless images, like countless dreams and lives colliding with each other. The onrushing information deals 16d6 mental damage to each target, depending on its Will save.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target takes half damage and can't use reactions until the start of your next turn.</p>
+  <p><strong>Failure</strong> The target takes full damage and is confused until the start of your next turn.</p>
+  <p><strong>Critical Failure</strong> The target takes double damage and is confused for 1 minute.</p>

@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: detect_scrying
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Detect Scrying
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- detection
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="area"><strong>Area</strong> 30-foot emanation</p>
+  <p class="duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>By reading trace auras, you detect the presence of scrying effects in the area. If <em>detect scrying</em> is higher rank than a scrying effect, you gain a glimpse of the scrying creature and learn its approximate distance and direction.</p>
+  <hr/>
+  <p><strong>Heightened (6th)</strong> The duration is until your next daily preparations.</p>

@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- zeal
+id: weapon_surge
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Weapon Surge
+traditions: []
+traits:
+- cleric
+- focus
+- manipulate
+- sanctified
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> zeal</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 weapon you're wielding</p>
+  <p class="duration"><strong>Duration</strong> until the start of your next turn</p>
+  <hr/>
+  <p>Holding your weapon aloft, you fill it with divine energy. On your next Strike with that weapon before the start of your next turn, you gain a +1 status bonus to the attack roll, the weapon deals an additional 1d6 spirit damage, and the Strike gains the sanctified trait. Weapon surge ends once you complete this Strike or the weapon leaves your possession.</p>
+  <hr/>
+  <p><strong>Heightened (5th)</strong> The attack deals 2d6 additional spirit damage.</p>
+  <p><strong>Heightened (9th)</strong> The attack deals 3d6 additional spirit damage.</p>

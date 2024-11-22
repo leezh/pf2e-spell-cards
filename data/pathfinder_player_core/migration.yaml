@@ -1,0 +1,27 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: migration
+lessons: []
+level: 8
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Migration
+traditions:
+- primal
+traits:
+- concentrate
+- manipulate
+- polymorph
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> primal</p>
+  <p class="range"><strong>Range</strong> 20 feet; <strong>Targets</strong> you and up to 5 willing creatures</p>
+  <p class="duration"><strong>Duration</strong> 8 hours</p>
+  <hr/>
+  <p>The targets naturally take on animal forms most fitting their movement and environment. Each target gains a land, burrow, climb, fly, and swim Speed of 40 feet, and can transform into a Tiny or Small animal most appropriate for a given movement and environment. It also gains immunity to mild, severe, and extreme cold and heat, along with any other immunities common to the local wildlife, at the GM's discretion. In exploration mode, a target can move much faster, at a travel Speed of 20 miles per hour.</p>
+  <p>A target can't Strike, cast spells, or use most manipulate actions in animal form, but it can resume its normal shape by Sustaining the spell. It can Sustain the spell again to resume animal form.</p>

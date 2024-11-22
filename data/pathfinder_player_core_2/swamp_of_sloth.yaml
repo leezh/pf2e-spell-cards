@@ -1,0 +1,30 @@
+actions: '[one-action] TO [three-actions]'
+bloodlines:
+- demonic
+copyright: 2024 Paizo Inc.
+domains: []
+id: swamp_of_sloth
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Swamp of Sloth
+traditions: []
+traits:
+- concentrate
+- focus
+- manipulate
+- olfactory
+- sorcerer
+type: focus
+
+--- >
+  <p class="bloodline"><strong>Bloodline</strong> demonic</p>
+  <p class="range"><strong>Range</strong> 120 feet; <strong>Area</strong> 5-foot burst or more</p>
+  <p class="defense"><strong>Defense</strong> basic Fortitude; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Ground in the area turns swampy and fetid. The area is difficult terrain. The sludge at the bottom of the morass animates into diminutive sludge beasts that have a demonic appearance. These don't function as normal creatures, but they swarm over creatures in the swamp and exude a noxious stench. The swamp deals 1d6 poison damage to creatures that end their turn in the area (basic Fortitude save). For each additional action you use when Casting the Spell, increase the burst's radius by 5 feet.</p>
+  <hr/>
+  <p><strong>Heightened (+2)</strong> The damage increases by 1d6, and the initial radius increases by 5 feet.</p>

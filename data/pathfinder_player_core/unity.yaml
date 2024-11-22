@@ -1,0 +1,27 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- family
+id: unity
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Unity
+traditions: []
+traits:
+- cleric
+- concentrate
+- focus
+- fortune
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> family</p>
+  <p class="trigger"><strong>Trigger</strong> You and 1 or more allies within range are targeted by a spell or ability that allows a saving throw</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> each ally targeted by the triggering spell</p>
+  <hr/>
+  <p>You put up a united defense. Each ally can use your saving throw modifier instead of its own against the triggering spell. Each ally decides individually which modifier to use.</p>

@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodlines:
+- imperial
+copyright: 2023 Paizo Inc.
+domains: []
+id: detect_magic
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Detect Magic
+traditions:
+- arcane
+- divine
+- occult
+- primal
+traits:
+- cantrip
+- concentrate
+- detection
+- manipulate
+type: cantrip
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="area"><strong>Area</strong> 30-foot emanation</p>
+  <hr/>
+  <p>You send out a pulse that registers the presence of magic. You receive no information beyond the presence or absence of magic. You can choose to ignore magic you're fully aware of, such as the magic items and ongoing spells of you and your allies.</p>
+  <p>You detect illusion magic only if that magic's effect has a lower rank than the rank of your <em>detect magic</em> spell. However, items that have an illusion aura but aren't deceptive in appearance (such as an <em>invisibility potion</em>) typically are detected normally.</p>
+  <hr/>
+  <p><strong>Heightened (3rd)</strong> You learn the rank or level of the most powerful magical effect the spell detects, as determined by the GM.</p>
+  <p><strong>Heightened (4th)</strong> As 3rd rank, but you also pinpoint the source of the highest-rank magic. Like for an imprecise sense, you don't learn the exact location, but can narrow down the source to within a 5-foot cube (or the nearest if larger than that).</p>

@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodlines:
+- draconic
+- imperial
+copyright: 2023 Paizo Inc.
+domains: []
+id: haste
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Haste
+traditions:
+- arcane
+- occult
+- primal
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Magic empowers the target to act faster. It gains the quickened condition and can use the extra action each round for only Strike and Stride actions.</p>
+  <hr/>
+  <p><strong>Heightened (7th)</strong> You can target up to 6 creatures.</p>

@@ -1,0 +1,25 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: clinging_shadows_stance
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Clinging Shadows Stance
+traditions: []
+traits:
+- focus
+- manipulate
+- monk
+- shadow
+- stance
+type: focus
+
+--- >
+  <p class="duration"><strong>Duration</strong> until you leave the stance</p>
+  <hr/>
+  <p>You adopt the stance of clinging shadows. You can make shadow grasp Strikes. These deal 1d4 void damage; are in the brawling group; and have the agile, grapple, reach, and unarmed traits. While in clinging shadows stance, you gain a +2 circumstance bonus to Athletics checks to Grapple, and to the DC for creatures to Escape from you.</p>

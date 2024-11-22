@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodlines:
+- vengeance
+copyright: 2023 Paizo Inc.
+domains: []
+id: needle_of_vengeance
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Needle of Vengeance
+traditions: []
+traits:
+- focus
+- hex
+- manipulate
+- mental
+- witch
+type: focus
+
+--- >
+  <p class="lesson"><strong>Lesson</strong> vengeance</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 enemy</p>
+  <p class="defense"><strong>Defense</strong> basic Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>A long, jagged needle jabs into the target foe's psyche whenever it tries to attack a creature your patron holds in special regard. Name yourself or one of your allies. The target takes 2 mental damage any time it uses a hostile action against the named creature, with a basic Will save.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> Increase the damage by 2.</p>

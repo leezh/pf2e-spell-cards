@@ -1,0 +1,32 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: drop_dead
+lessons: []
+level: 5
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Drop Dead
+traditions:
+- arcane
+- divine
+- occult
+traits:
+- illusion
+- manipulate
+- subtle
+- visual
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="trigger"><strong>Trigger</strong> A creature within range is hit by an attack from an enemy.</p>
+  <p class="range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>The target appears to fall down dead, though it actually turns invisible. Its illusory corpse remains where it fell, complete with a believable fatal wound. This illusion looks and feels like a dead body. If the target's death seems absurd—for instance, a barbarian at full health appears to be slain by 2 damage—the GM can grant the attacker an immediate Perception check to disbelieve the illusion. If the target uses hostile actions, the spell ends. This ends the entire spell, so the illusory corpse disappears too.</p>
+  <hr/>
+  <p><strong>Heightened (7th)</strong> The spell doesn't end if the target uses a hostile action.</p>

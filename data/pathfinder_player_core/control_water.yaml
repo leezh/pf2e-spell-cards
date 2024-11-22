@@ -1,0 +1,27 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: control_water
+lessons: []
+level: 5
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Control Water
+traditions:
+- arcane
+- primal
+traits:
+- concentrate
+- manipulate
+- water
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="range"><strong>Range</strong> 500 feet; <strong>Area</strong> 50 feet long by 50 feet wide</p>
+  <p class="defense"><strong>Defense</strong> Fortitude (see text); <strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>By imposing your will upon the water, you can raise or lower the level of water in the chosen area by 10 feet. Creatures that have the water trait and that are in the area when you Cast the Spell must attempt a Fortitude save, with the effects of the <em>slow</em> spell.</p>

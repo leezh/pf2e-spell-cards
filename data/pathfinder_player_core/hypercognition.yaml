@@ -1,0 +1,22 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: hypercognition
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Hypercognition
+traditions:
+- occult
+traits:
+- concentrate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> occult</p>
+  <hr/>
+  <p>You rapidly catalog and collate information relevant to your current situation. You can instantly use up to 6 Recall Knowledge actions as part of Casting this Spell. For these actions, you can't use any special abilities, reactions, or free actions that trigger when you Recall Knowledge.</p>

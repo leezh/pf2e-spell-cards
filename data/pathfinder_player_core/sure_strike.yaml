@@ -1,0 +1,26 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: sure_strike
+lessons: []
+level: 1
+mysteries: []
+patrons:
+- Spinner of Threads
+rarity: common
+source: Pathfinder Player Core
+title: Sure Strike
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- fortune
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="duration"><strong>Duration</strong> until the end of your turn</p>
+  <hr/>
+  <p>A glimpse into the future ensures your next blow strikes true. The next time you make an attack roll before the end of your turn, roll the attack twice and use the better result. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being concealed or hidden.</p>

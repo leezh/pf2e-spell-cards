@@ -1,0 +1,28 @@
+actions: '[two-actions]'
+bloodlines:
+- undead
+copyright: 2023 Paizo Inc.
+domains: []
+id: bind_undead
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Bind Undead
+traditions:
+- arcane
+- divine
+- occult
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 mindless undead creature with a level no greater than bind undead ’s spell rank</p>
+  <p class="duration"><strong>Duration</strong> 1 day</p>
+  <hr/>
+  <p>With a word of power, you seize control of the target. It gains the minion trait. If you or an ally uses any hostile actions against the target, the spell ends.</p>

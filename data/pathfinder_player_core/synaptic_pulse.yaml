@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: synaptic_pulse
+lessons: []
+level: 5
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Synaptic Pulse
+traditions:
+- occult
+traits:
+- concentrate
+- incapacitation
+- manipulate
+- mental
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> occult</p>
+  <p class="area"><strong>Area</strong> 30-foot emanation</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>You emit a pulsating mental blast that penetrates the minds of all enemies in the area. Each enemy in the area must attempt a Will save.</p>
+  <p><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p><strong>Success</strong> The creature is stunned 1.</p>
+  <p><strong>Failure</strong> The creature is stunned 2.</p>
+  <p><strong>Critical Failure</strong> The creature is stunned for 1 round.</p>

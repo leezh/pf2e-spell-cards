@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodlines:
+- shadow
+copyright: 2023 Paizo Inc.
+domains: []
+id: chilling_darkness
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Chilling Darkness
+traditions:
+- divine
+traits:
+- attack
+- cold
+- concentrate
+- darkness
+- manipulate
+- unholy
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine</p>
+  <p class="range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> AC</p>
+  <hr/>
+  <p>You shoot an utterly cold ray of darkness tinged with unholy energy. Make a ranged spell attack. The ray deals 5d6 cold damage. If the target has the holy trait, you deal an extra 5d6 spirit damage.</p>
+  <p><strong>Critical Success</strong> The target takes double damage.</p>
+  <p><strong>Success</strong> The target takes full damage.</p>
+  <p>If the ray passes through an area of magical light or targets a creature affected by magical light, <em>chilling darkness</em> attempts to counteract the light. If you need to determine whether the ray passes through an area of light, draw a line between yourself and the spell's target.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The cold damage increases by 2d6, and the spirit damage against holy creatures increases by 2d6.</p>

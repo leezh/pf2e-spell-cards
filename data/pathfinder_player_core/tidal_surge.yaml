@@ -1,0 +1,26 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- water
+id: tidal_surge
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Tidal Surge
+traditions: []
+traits:
+- cleric
+- focus
+- manipulate
+- water
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> water</p>
+  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <hr/>
+  <p>You call forth a tremendous wave to move the target either in a body of water or on the ground. You move the target up to 10 feet in any direction along the ground or 20 feet through a body of water. An unwilling target can attempt a Fortitude save, and it avoids being moved if it succeeds.</p>

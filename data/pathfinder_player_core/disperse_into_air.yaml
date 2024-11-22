@@ -1,0 +1,27 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- air
+id: disperse_into_air
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Disperse into Air
+traditions: []
+traits:
+- air
+- cleric
+- focus
+- manipulate
+- polymorph
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> air</p>
+  <p class="trigger"><strong>Trigger</strong> You take damage from an enemy or a hazard</p>
+  <hr/>
+  <p>After taking the triggering damage, you transform into air. Until the end of the current turn, you can't be attacked or targeted, you don't take up space, you can't act, and any auras or emanations you have are suppressed. At the end of the turn, you re-form in any space you can occupy within 15 feet of where you were when you dispersed. Any auras or emanations you had are restored as long as their duration didn't run out while you were dispersed.</p>

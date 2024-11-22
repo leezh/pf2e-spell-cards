@@ -1,0 +1,31 @@
+actions: ''
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: alarm
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Alarm
+traditions:
+- arcane
+- divine
+- occult
+- primal
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="cast"><strong>Cast</strong> 10 minutes</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Area</strong> 20-foot burst</p>
+  <p class="duration"><strong>Duration</strong> 8 hours</p>
+  <hr/>
+  <p>You ward an area to alert you when creatures enter without your permission. When you cast alarm, select a password. Whenever a Small or larger corporeal creature enters the spell's area without speaking the password, alarm sends your choice of a mental alert (in which case the spell gains the mental trait) or an audible alarm with the sound and volume of a hand bell (in which case the spell gains the auditory trait). Either option automatically awakens you, and the bell allows each creature in the area to attempt a DC 15 Perception check to wake up. A creature aware of the alarm must succeed at a Stealth check against the spell's DC or trigger the spell when moving into the area.</p>
+  <hr/>
+  <p><strong>Heightened (3rd)</strong> You can specify a trigger for which types of creatures sound the alarm spell, as described in Setting Triggers on page 303.</p>

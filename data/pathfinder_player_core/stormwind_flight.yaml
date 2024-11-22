@@ -1,0 +1,27 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: stormwind_flight
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Stormwind Flight
+traditions: []
+traits:
+- air
+- concentrate
+- druid
+- focus
+- manipulate
+type: focus
+
+--- >
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Powerful winds carry you through the air, giving you a fly Speed equal to your Speed. When this spell's duration would end, if you're still flying, you float to the ground, as <em>gentle landing</em>.</p>
+  <hr/>
+  <p><strong>Heightened (6th)</strong> When you fly using <em>stormwind flight</em>, you ignore difficult terrain from wind.</p>

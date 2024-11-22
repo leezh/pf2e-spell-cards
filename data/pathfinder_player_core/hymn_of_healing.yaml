@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: hymn_of_healing
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Hymn of Healing
+traditions: []
+traits:
+- bard
+- composition
+- concentrate
+- focus
+- healing
+- vitality
+type: focus
+
+--- >
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> you or 1 ally</p>
+  <p class="duration"><strong>Duration</strong> sustained up to 4 rounds</p>
+  <hr/>
+  <p>Your glorious singing mends wounds and provides a temporary respite from harm. The target gains fast healing 2. When you Cast the Spell and the first time each round you Sustain the Spell, the target gains 2 temporary Hit Points, which last for 1 round.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The fast healing and temporary Hit Points each increase by 2</p>

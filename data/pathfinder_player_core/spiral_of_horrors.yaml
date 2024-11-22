@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: spiral_of_horrors
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Spiral of Horrors
+traditions: []
+traits:
+- aura
+- concentrate
+- emotion
+- fear
+- focus
+- manipulate
+- mental
+- wizard
+type: focus
+
+--- >
+  <p class="area"><strong>Area</strong> 30-foot emanation</p>
+  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Shades and spirits howl and whirl around you in a display that strikes fear into the hearts of all who witness it. Enemies in the area are frightened 1 and can't reduce their frightened value below 1 for the spell's duration.</p>

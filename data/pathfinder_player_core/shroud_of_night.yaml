@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: shroud_of_night
+lessons: []
+level: 1
+mysteries: []
+patrons:
+- Starless Shadow
+rarity: uncommon
+source: Pathfinder Player Core
+title: Shroud of Night
+traditions: []
+traits:
+- cantrip
+- darkness
+- hex
+- manipulate
+- witch
+type: cantrip
+
+--- >
+  <p class="patron"><strong>Patron</strong> Starless Shadow</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Your patron blankets the target's eyes in darkness. If you cast this hex on a willing ally (for instance, one with light blindness), the ally can choose which result it gets without rolling.</p>
+  <p><strong>Success</strong> The target is unaffected.</p>
+  <p><strong>Failure</strong> The target is shrouded in murky darkness. It treats bright light as dim light, and unless it has greater darkvision, all creatures are concealed to it.</p>

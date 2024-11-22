@@ -1,0 +1,26 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- knowledge
+id: know_the_enemy
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Know the Enemy
+traditions: []
+traits:
+- cleric
+- focus
+- fortune
+- manipulate
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> knowledge</p>
+  <p class="trigger"><strong>Trigger</strong> You roll initiative and can see a creature, you succeed at an attack roll against a creature, or a creature fails a saving throw against one of your spells</p>
+  <hr/>
+  <p>You quickly remind yourself of useful information. Use a Recall Knowledge action, rolling the appropriate skill check to identify the triggering creature's abilities. You can roll your check twice and use the better result.</p>

@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: tempest_surge
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Tempest Surge
+traditions: []
+traits:
+- air
+- concentrate
+- druid
+- electricity
+- focus
+- manipulate
+type: focus
+
+--- >
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> basic Reflex</p>
+  <hr/>
+  <p>You surround a foe in a swirling storm of violent winds, roiling clouds, and crackling lightning. The storm deals 1d12 electricity damage to the target with a basic Reflex save. On a failure, the target also is clumsy 2 for 1 round.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The initial damage increases by 1d12.</p>

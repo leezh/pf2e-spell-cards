@@ -1,0 +1,28 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: dirge_of_doom
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Dirge of Doom
+traditions: []
+traits:
+- bard
+- cantrip
+- composition
+- concentrate
+- emotion
+- fear
+- mental
+type: cantrip
+
+--- >
+  <p class="area"><strong>Area</strong> 30-foot emanation</p>
+  <p class="duration"><strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>Enemies within the area are frightened 1. They can't reduce their frightened value below 1 while they remain in the area.</p>

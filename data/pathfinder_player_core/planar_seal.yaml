@@ -1,0 +1,27 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: planar_seal
+lessons: []
+level: 7
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Planar Seal
+traditions:
+- arcane
+- divine
+- occult
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="range"><strong>Range</strong> 120 feet; <strong>Area</strong> 60-foot burst</p>
+  <p class="duration"><strong>Duration</strong> until your next daily preparations</p>
+  <hr/>
+  <p>You create a visible magical barrier that attempts to counteract teleportation effects and planar travel into or out of the area, including items that allow access to extradimensional spaces. <em>Planar seal</em> tries to counteract any attempt to summon a creature into the area but doesn't stop the creature from departing when the summoning ends.</p>

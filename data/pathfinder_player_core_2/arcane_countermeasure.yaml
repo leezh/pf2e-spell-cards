@@ -1,0 +1,27 @@
+actions: '[reaction]'
+bloodlines:
+- imperial
+copyright: 2024 Paizo Inc.
+domains: []
+id: arcane_countermeasure
+lessons: []
+level: 5
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Arcane Countermeasure
+traditions: []
+traits:
+- focus
+- manipulate
+- sorcerer
+type: focus
+
+--- >
+  <p class="bloodline"><strong>Bloodline</strong> imperial</p>
+  <p class="trigger"><strong>Trigger</strong> A creature within range that you can see Casts a Spell.</p>
+  <p class="range"><strong>Range</strong> 120 feet; <strong>Targets</strong> the spell cast by the triggering creature</p>
+  <hr/>
+  <p>You undermine the target spell, making it easier to defend against. You reduce the spell's rank by 1, and targets of the spell gain a +2 status bonus to any saving throws, skill checks, AC, or DC against it.</p>
+  <p>You can't reduce the spell's rank below its minimum. For example, a 5th-rank <em>howling blizzard</em> would remain 5th-rank, but a 5th-rank <em>fireball</em> would become 4th-rank. Targets still gain all the other benefits, even if you don't reduce the spell's rank.</p>

@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- air
+id: pushing_gust
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Pushing Gust
+traditions: []
+traits:
+- air
+- cleric
+- concentrate
+- focus
+- manipulate
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> air</p>
+  <p class="range"><strong>Range</strong> 500 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>Giving the air a push, you buffet the target with a powerful gust of wind; it must attempt a Fortitude save.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target is pushed 5 feet away from you.</p>
+  <p><strong>Failure</strong> The target is pushed 10 feet away from you.</p>
+  <p><strong>Critical Failure</strong> The target is pushed 10 feet away from you and knocked prone.</p>

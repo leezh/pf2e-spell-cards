@@ -1,0 +1,25 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: imprint_message
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: Imprint Message
+traditions:
+- occult
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> occult</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 object</p>
+  <hr/>
+  <p>You project psychic vibrations onto the target object, imprinting it with a short message or emotional theme of your design. This imprinted sensation is revealed to a creature who casts <em>object reading</em> on the target object, replacing any emotional events the item was present for. If the object is in the area of a <em>retrocognition</em> spell, the imprinted messages appear as major events in the timeline, but they don't interfere with any other visions.</p>
+  <p>If the object is targeted with <em>read aura</em> of a higher spell rank than <em>imprint message</em>, the caster learns that the object has been magically modified. When you Cast this Spell, any prior vibrations placed on an object by previous castings of <em>imprint message</em> fade.</p>

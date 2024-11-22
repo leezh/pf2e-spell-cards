@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodlines:
+- fey
+copyright: 2023 Paizo Inc.
+domains: []
+id: laughing_fit
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Laughing Fit
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- emotion
+- manipulate
+- mental
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 living creature</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained</p>
+  <hr/>
+  <p>The target is overtaken with uncontrollable laughter. It must attempt a Will save.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target is plagued with uncontrollable laugher. It can't use reactions.</p>
+  <p><strong>Failure</strong> The target is slowed 1 and can't use reactions.</p>
+  <p><strong>Critical Failure</strong> The target falls prone and can't use actions or reactions for 1 round. It then takes the effects of a failure.</p>

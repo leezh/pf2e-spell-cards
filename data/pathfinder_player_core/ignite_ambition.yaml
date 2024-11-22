@@ -1,0 +1,34 @@
+actions: '[reaction]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- ambition
+id: ignite_ambition
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Ignite Ambition
+traditions: []
+traits:
+- cleric
+- concentrate
+- emotion
+- focus
+- mental
+- subtle
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> ambition</p>
+  <p class="trigger"><strong>Trigger</strong> You or an ally in range attempt to use a mental effect to convince a creature to do something (such as a Coerce, Request, or a suggestion spell)</p>
+  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> one creature being influenced</p>
+  <p class="defense"><strong>Defense</strong> Will</p>
+  <hr/>
+  <p>You strengthen the target's ambition, increase its resentment of its allies, and make its allegiances more susceptible to change. It must attempt a Will save.</p>
+  <p><strong>Critical Success</strong> The target is unaffected and realized you attempted to influence its reaction with magic.</p>
+  <p><strong>Success</strong> The target takes a –1 status penalty to its defenses against the triggering effect. This penalty is –2 if the target is being encouraged to advance its own ambitions. The target doesn't realize you Cast the Spell on it.</p>
+  <p><strong>Failure</strong> As success, but the status penalty is –4 if the target is being encouraged to advance its own ambitions.</p>
+  <p><strong>Critical Failure</strong> As success, but the creature automatically follows a suggestion that advances its own ambitions.</p>

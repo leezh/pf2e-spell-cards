@@ -1,0 +1,27 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: one_with_stone
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: One With Stone
+traditions:
+- arcane
+- primal
+traits:
+- concentrate
+- earth
+- manipulate
+- polymorph
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="duration"><strong>Duration</strong> 10 minutes or 8 hours</p>
+  <hr/>
+  <p>You can either transform into a stone or merge with stone. This spell has the same effects as <em>one with plants</em>, but lets you merge with or turn into stone. A stone you turn into has AC 23. You can Dismiss this spell.</p>

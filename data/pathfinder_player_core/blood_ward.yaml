@@ -1,0 +1,29 @@
+actions: '[one-action]'
+bloodlines:
+- protection
+copyright: 2023 Paizo Inc.
+domains: []
+id: blood_ward
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Blood Ward
+traditions: []
+traits:
+- focus
+- hex
+- manipulate
+- witch
+type: focus
+
+--- >
+  <p class="lesson"><strong>Lesson</strong> protection</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Your patron's aegis descends to shield a target from harm. Designate one of the following creature traits: aberration, animal, beast, celestial, construct, dragon, elemental, fey, fiend, fungus, monitor, ooze, plant, or undead. The target gains a +1 status bonus to its saving throws and AC against creatures with that trait.</p>
+  <hr/>
+  <p><strong>Heightened (5th)</strong> The status bonus increases to +2.</p>

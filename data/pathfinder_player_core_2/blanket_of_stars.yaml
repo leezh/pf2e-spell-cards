@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: blanket_of_stars
+lessons: []
+level: 6
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: Blanket of Stars
+traditions:
+- occult
+- primal
+traits:
+- concentrate
+- illusion
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> occult, primal</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>A flowing cloak of utter darkness drapes over you, filled with pinpricks of light like distant stars. It imparts the stillness of the cosmos to you, granting you a +2 status bonus to Stealth checks to Hide and Sneak. While outside under a starry night sky, you're also invisible as long as you remain still. When moving under a starry night sky, you're concealed instead.</p>
+  <p>Gazing too closely into the stars is disorienting. Any creature that ends its turn adjacent to you must attempt a Will save; this is a mental, visual effect.</p>
+  <p><strong>Success</strong> The creature is unaffected.</p>
+  <p><strong>Failure</strong> The creature is dazzled until the end of its next turn.</p>
+  <p><strong>Critical Failure</strong> The creature is confused and dazzled until the end of its next turn.</p>

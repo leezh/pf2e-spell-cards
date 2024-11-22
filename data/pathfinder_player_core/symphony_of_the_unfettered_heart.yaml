@@ -1,0 +1,26 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: symphony_of_the_unfettered_heart
+lessons: []
+level: 5
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Symphony of the Unfettered Heart
+traditions: []
+traits:
+- bard
+- composition
+- concentrate
+- focus
+type: focus
+
+--- >
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> you or 1 ally</p>
+  <hr/>
+  <p>Your symphony lifts listeners from their worldly concerns. Attempt a Performance check to counteract an effect applying one of the following conditions to the target: grabbed, immobilized, paralyzed, restrained, slowed, or stunned. If you fail, you can't target the same effect on the target for 1 day. Use the condition's source to determine the counteract DC (for example, the Escape DC for grabbed).</p>
+  <hr/>
+  <p><strong>Heightened (9th)</strong> You can target up to four creatures.</p>

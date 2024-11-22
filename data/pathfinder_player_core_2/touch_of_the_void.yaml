@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: touch_of_the_void
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core 2
+title: Touch of the Void
+traditions: []
+traits:
+- champion
+- focus
+- manipulate
+- void
+type: focus
+
+--- >
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing undead creature or 1 living creature</p>
+  <hr/>
+  <p>You infuse the target with void energy, healing undead or damaging a living creature.</p>
+  <ul>
+  <li><strong>Willing Undead Creature</strong> The target regains 6 Hit Points. If the target is yourself, you also gain a +2 status bonus to damage rolls for 1 round.</li>
+  <li><strong>Living Creature</strong> The target takes 1d6 void damage with a basic Fortitude save; on a failure, the target also takes a –2 status penalty to AC for 1 round.</li>
+  </ul>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The amount of healing increases by 6, and the damage to a living target increases by 1d6.</p>

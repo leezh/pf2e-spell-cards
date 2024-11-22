@@ -1,0 +1,34 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: clinging_ice
+lessons: []
+level: 1
+mysteries: []
+patrons:
+- Silence in Snow
+rarity: uncommon
+source: Pathfinder Player Core
+title: Clinging Ice
+traditions: []
+traits:
+- cantrip
+- cold
+- hex
+- manipulate
+- witch
+type: cantrip
+
+--- >
+  <p class="patron"><strong>Patron</strong> Silence in Snow</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="defense"><strong>Defense</strong> Reflex; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Freezing sleet and heavy snowfall collect on the target's feet and legs, dealing 1d4 cold damage and other effects depending on its Reflex save.</p>
+  <p><strong>Critical Success</strong> The target is unaffected.</p>
+  <p><strong>Success</strong> The target takes half damage.</p>
+  <p><strong>Failure</strong> The target takes full damage and a –5-foot circumstance penalty to its Speeds until the spell ends.</p>
+  <p><strong>Critical Failure</strong> The target takes double damage and a –10-foot circumstance penalty to its Speeds until the spell ends.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>

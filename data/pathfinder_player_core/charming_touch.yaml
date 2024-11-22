@@ -1,0 +1,33 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- passion
+id: charming_touch
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Charming Touch
+traditions: []
+traits:
+- cleric
+- emotion
+- focus
+- incapacitation
+- manipulate
+- mental
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> passion</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature that could find you attractive</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You infuse your target with attraction, causing it to act friendlier toward you. The target attempts a Will save. It gains a +4 circumstance bonus to this save if you or your allies recently threatened or were hostile to it.</p>
+  <p><strong>Critical Success</strong> The target is unaffected and aware you tried to charm it.</p>
+  <p><strong>Success</strong> The target is unaffected but thinks your spell was something harmless instead of charming touch, unless it identifies the spell (see Identifying Spells on page 303).</p>
+  <p><strong>Failure</strong> The target's attitude becomes friendly toward you. If it was friendly, it becomes helpful. It can't use hostile actions against you. If you use a hostile action against the target, the spell ends. You can Dismiss the spell. After the spell ends, the target doesn't necessarily realize it was charmed unless its friendship with you or the actions you convinced it to take clash with its expectations. If it doesn't realize you charmed it, you could potentially convince it to continue being your friend via mundane means.</p>
+  <p><strong>Critical Failure</strong> As failure, but the target is helpful.</p>

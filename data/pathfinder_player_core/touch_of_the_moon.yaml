@@ -1,0 +1,33 @@
+actions: '[one-action]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains:
+- moon
+id: touch_of_the_moon
+lessons: []
+level: 4
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Touch of the Moon
+traditions: []
+traits:
+- cleric
+- focus
+- light
+- manipulate
+type: focus
+
+--- >
+  <p class="domain"><strong>Domain</strong> moon</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>When you touch the target, a symbol of the moon appears on its forehead, glowing with soft moonlight. The target glows with dim light in a 20-foot radius. It also gets a benefit based on a phase of the moon, starting with the new moon and changing to the next phase at the end of each of its turns.</p>
+  <ul>
+  <li><strong>New Moon</strong> The target receives no benefit.</li>
+  <li><strong>Waxing Moon</strong> The target gains a +1 status bonus to attack rolls and a +4 status bonus to damage rolls.</li>
+  <li><strong>Full Moon</strong> The target gains a +1 status bonus to attack rolls, AC, and saves, and a +4 status bonus to damage.</li>
+  <li><strong>Waning Moon</strong> The target gains a +1 status bonus to AC and saving throws. After this phase, return to the new moon.</li>
+  </ul>

@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: cornucopia
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: uncommon
+source: Pathfinder Player Core
+title: Cornucopia
+traditions: []
+traits:
+- concentrate
+- druid
+- focus
+- healing
+- manipulate
+- plant
+- vitality
+type: focus
+
+--- >
+  <p class="duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>Vines twine into a wicker horn in your hands, and out spills a single fruit, nut, or similar small bit of produce. A creature who eats the produce with an Interact action regains 1d6+4 HP. The cornucopia, as well as any unconsumed pieces of fruit, wither away at the end of the duration.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The cornucopia produces an additional piece of food. A creature can consume any amount of food from the same casting with a single Interact action. Eating six pieces of produce from the cornucopia gives as much nourishment as one square meal for a typical human.</p>

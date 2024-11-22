@@ -1,0 +1,28 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: stabilize
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Stabilize
+traditions:
+- divine
+- primal
+traits:
+- cantrip
+- concentrate
+- healing
+- manipulate
+- vitality
+type: cantrip
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 dying creature</p>
+  <hr/>
+  <p>Life energy shuts death's door. The target loses the dying condition, though it remains unconscious at 0 Hit Points.</p>

@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: lightning_bolt
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Lightning Bolt
+traditions:
+- arcane
+- primal
+traits:
+- concentrate
+- electricity
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="area"><strong>Area</strong> 120-foot line</p>
+  <p class="defense"><strong>Defense</strong> basic Reflex</p>
+  <hr/>
+  <p>A bolt of lightning strikes outward from your hand, dealing 4d12 electricity damage with a basic Reflex save.</p>
+  <hr/>
+  <p><strong>Heightened (+1)</strong> The damage increases by 1d12.</p>

@@ -1,0 +1,31 @@
+actions: ''
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: environmental_endurance
+lessons: []
+level: 2
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Environmental Endurance
+traditions:
+- arcane
+- divine
+- primal
+traits:
+- concentrate
+- manipulate
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="cast"><strong>Cast</strong> 10 minutes</p>
+  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing creature</p>
+  <p class="duration"><strong>Duration</strong> until your next daily preparations</p>
+  <hr/>
+  <p>You shield the target against dangerous temperatures. Choose severe cold or heat. The target is protected from the temperature you chose (but not extreme cold or heat).</p>
+  <hr/>
+  <p><strong>Heightened (3rd)</strong> The target is protected from severe cold and severe heat.</p>
+  <p><strong>Heightened (5th)</strong> The target is protected from severe cold, severe heat, extreme cold, and extreme heat.</p>

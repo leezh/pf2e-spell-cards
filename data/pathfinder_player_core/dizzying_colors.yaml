@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2023 Paizo Inc.
+domains: []
+id: dizzying_colors
+lessons: []
+level: 1
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core
+title: Dizzying Colors
+traditions:
+- arcane
+- occult
+traits:
+- concentrate
+- illusion
+- incapacitation
+- manipulate
+- visual
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="area"><strong>Area</strong> 15-foot cone</p>
+  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 or more rounds (see below)</p>
+  <hr/>
+  <p>You unleash a swirling multitude of colors that overwhelms creatures based on their Will saves.</p>
+  <p><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p><strong>Success</strong> The creature is dazzled for 1 round.</p>
+  <p><strong>Failure</strong> The creature is stunned 1, blinded for 1 round, and dazzled for 1 minute.</p>
+  <p><strong>Critical Failure</strong> The creature is stunned for 1 round and blinded for 1 minute.</p>

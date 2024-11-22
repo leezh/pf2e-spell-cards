@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodlines: []
+copyright: 2024 Paizo Inc.
+domains: []
+id: shared_invisibility
+lessons: []
+level: 3
+mysteries: []
+patrons: []
+rarity: common
+source: Pathfinder Player Core 2
+title: Shared Invisibility
+traditions:
+- arcane
+- occult
+traits:
+- aura
+- illusion
+- manipulate
+- subtle
+type: spell
+
+--- >
+  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="area"><strong>Area</strong> 30-foot emanation</p>
+  <p class="targets"><strong>Targets</strong> you and up to 5 willing creatures</p>
+  <p class="duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You and all targets are invisible except to each other as long as the targets remain within the emanation. If a creature made invisible by this spell leaves the spell's area, it becomes visible and remains so even if it returns to the spell's area. If any creature made invisible by this spell uses a hostile action, the spell ends after the hostile action is completed.</p>
+  <hr/>
+  <p><strong>Heightened (5th)</strong> The targets increase to you and up to 10 willing creatures. The duration increases to 1 hour.</p>
