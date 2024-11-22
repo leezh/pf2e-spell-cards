@@ -5,6 +5,7 @@ import os
 import pathlib
 import re
 import textwrap
+import unicodedata
 
 import yaml
 from bs4 import BeautifulSoup, NavigableString, Tag
@@ -179,8 +180,9 @@ def read_header(soup: BeautifulSoup) -> dict:
     title = title.extract()
     title = title_case(" ".join(title.stripped_strings))
 
-    entry_id = filter(lambda x: x.isalnum() or x == " ", title)
-    entry_id = "".join(entry_id).replace(" ", "_").lower()
+    entry_id = unicodedata.normalize("NFKD", title).lower().replace(" ", "_")
+    entry_id = entry_id.encode("ASCII", "ignore").decode("ASCII")
+    entry_id = "".join([c for c in entry_id if c.isalnum() or c == "_"])
 
     traits = soup.find("traits")
     if isinstance(traits, Tag):
