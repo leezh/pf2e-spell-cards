@@ -295,6 +295,8 @@ h3 {
 
     #main {
         padding: 0;
+        transform: none;
+        width: auto;
     }
 
     main > div {
