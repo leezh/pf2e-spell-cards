@@ -399,7 +399,10 @@ def scrape() -> None:
         book = entry["source"].lower().replace(" ", "_")
         book_dir = BASE_DIR / "data" / book
         os.makedirs(book_dir, exist_ok=True)
-        with open(book_dir / f"{entry_id}.yaml", "w", encoding="utf-8") as f:
+        path = book_dir / f"{entry_id}.yaml"
+        if os.path.exists(path):
+            continue
+        with open(path, "w", encoding="utf-8") as f:
             entry = entry.copy()
             description = entry.pop("description")
             yaml.safe_dump(entry, f)
@@ -410,4 +413,3 @@ def scrape() -> None:
 
 if __name__ == "__main__":
     scrape()
-    build()
