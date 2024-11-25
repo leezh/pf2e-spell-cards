@@ -65,7 +65,8 @@
     text-align: inherit;
 }
 
-html, body {
+html,
+body {
     margin: 0;
     padding: 0;
 }
@@ -98,7 +99,7 @@ body {
 }
 
 #banner > * {
-  margin-bottom: 10px;
+    margin-bottom: 10px;
 }
 
 #banner h1 {
@@ -138,7 +139,7 @@ body {
     margin-bottom: 0.2em;
 }
 
-input[type=checkbox] + label {
+input[type="checkbox"] + label {
     padding-left: 0.5em;
     text-transform: capitalize;
 }
@@ -175,7 +176,7 @@ img.action {
 }
 
 .title {
-    border-bottom: .5pt #000000 solid;
+    border-bottom: 0.5pt #000000 solid;
     font-family: "Fira Sans Condensed", sans-serif;
     font-size: 8pt;
     font-weight: bold;
@@ -190,8 +191,8 @@ img.action {
 }
 
 .copyright {
-  font-size: 6pt;
-  margin-top: 1pt;
+    font-size: 6pt;
+    margin-top: 1pt;
 }
 
 .traits {
@@ -254,8 +255,9 @@ th {
     font-weight: bold;
 }
 
-th, td {
-    border: 1px solid;
+th,
+td {
+    border: 0.5pt #000000 solid;
     padding: 0 0.2em;
     text-align: center;
     vertical-align: top;
@@ -266,7 +268,7 @@ ul {
 }
 
 hr {
-    border-bottom: .5pt #000000 solid;
+    border-bottom: 0.5pt #000000 solid;
     margin: 2pt 0;
 }
 
@@ -308,20 +310,25 @@ h3 {
         margin: 5mm;
     }
 
-    .card::before, .card::after {
+    .card::before,
+    .card::after {
         position: absolute;
         content: " ";
         z-index: -1;
     }
     .card::before {
-        top: -1mm; bottom: -1mm;
-        left: -10mm; right: -10mm;
+        top: -1mm;
+        bottom: -1mm;
+        left: -10mm;
+        right: -10mm;
         border-top: 1pt solid black;
         border-bottom: 1pt solid black;
     }
     .card::after {
-        top: -10mm; bottom: -10mm;
-        left: -1mm; right: -1mm;
+        top: -10mm;
+        bottom: -10mm;
+        left: -1mm;
+        right: -1mm;
         border-left: 1pt solid black;
         border-right: 1pt solid black;
     }
