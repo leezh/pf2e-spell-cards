@@ -257,7 +257,7 @@ th {
 
 th,
 td {
-    border: 1px solid;
+    border: 0.5pt #000000 solid;
     padding: 0 0.2em;
     text-align: center;
     vertical-align: top;
