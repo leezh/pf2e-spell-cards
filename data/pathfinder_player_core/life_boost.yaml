@@ -1,10 +1,10 @@
 actions: '[one-action]'
-bloodlines:
-- life
+bloodlines: []
 copyright: 2023 Paizo Inc.
 domains: []
 id: life_boost
-lessons: []
+lessons:
+- life
 level: 1
 mysteries: []
 patrons: []

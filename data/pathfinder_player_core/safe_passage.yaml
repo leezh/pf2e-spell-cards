@@ -13,14 +13,14 @@ title: Safe Passage
 traditions:
 - arcane
 - divine
-- occult
+- primal
 traits:
 - concentrate
 - manipulate
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="traditions"><strong>Traditions</strong> arcane, divine, primal</p>
   <p class="range"><strong>Range</strong> touch; <strong>Area</strong> 10-foot-wide, 10-foot-tall 60-foot-long section of terrain</p>
   <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>

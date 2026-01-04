@@ -1,10 +1,10 @@
 actions: '[three-actions]'
-bloodlines:
-- snow
+bloodlines: []
 copyright: 2023 Paizo Inc.
 domains: []
 id: wall_of_wind
-lessons: []
+lessons:
+- snow
 level: 3
 mysteries: []
 patrons: []

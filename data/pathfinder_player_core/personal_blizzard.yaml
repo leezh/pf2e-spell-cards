@@ -1,10 +1,10 @@
 actions: '[one-action]'
-bloodlines:
-- snow
+bloodlines: []
 copyright: 2023 Paizo Inc.
 domains: []
 id: personal_blizzard
-lessons: []
+lessons:
+- snow
 level: 3
 mysteries: []
 patrons: []

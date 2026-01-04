@@ -1,4 +1,6 @@
 __pycache__/
+.venv/
+.idea/
+
 build/
-scrape/
-venv/
+data/scrape.json

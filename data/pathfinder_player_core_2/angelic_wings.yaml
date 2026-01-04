@@ -24,6 +24,6 @@ type: focus
   <p class="bloodline"><strong>Bloodline</strong> angelic</p>
   <p class="duration"><strong>Duration</strong> 3 rounds</p>
   <hr/>
-  <p>Wings of pure light spread out from your back, granting you a fly Speed equal to your Speed. Your wings cast bright light in a 30-foot radius. When this spell's duration would end, if you're still flying, you float to the ground, as gentle landing.</p>
+  <p>Wings of pure light spread out from your back, granting you a fly Speed equal to your Speed. Your wings cast bright light in a 30-foot radius. When this spell's duration would end, if you're still flying, you float to the ground, as <em>gentle landing</em>.</p>
   <hr/>
   <p><strong>Heightened (5th)</strong> The duration increases to 1 minute.</p>

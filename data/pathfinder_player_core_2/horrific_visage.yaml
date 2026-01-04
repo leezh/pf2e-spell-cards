@@ -33,3 +33,5 @@ type: focus
   <p><strong>Success</strong> The foe is unaffected.</p>
   <p><strong>Failure</strong> The foe is frightened 1.</p>
   <p><strong>Critical Failure</strong> The foe is frightened 2.</p>
+  <hr/>
+  <p><strong>Heightened (5th)</strong> Foes in the area are frightened 1 on a success, frightened 2 on a failure, and frightened 3 and fleeing for 1 round on a critical failure. They are still unaffected on a critical success.</p>

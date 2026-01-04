@@ -1,10 +1,10 @@
 actions: ''
-bloodlines:
-- death
+bloodlines: []
 copyright: 2023 Paizo Inc.
 domains: []
 id: raise_dead
-lessons: []
+lessons:
+- death
 level: 6
 mysteries: []
 patrons: []
@@ -22,7 +22,7 @@ type: spell
 --- >
   <p class="traditions"><strong>Traditions</strong> divine</p>
   <p class="cast"><strong>Cast</strong> 10 minutes</p>
-  <p><strong>Cost</strong> gemstones worth a total value of the target’s level (minimum 1) × 200 gp</p>
+  <p class="cost"><strong>Cost</strong> gemstones worth a total value of the target’s level (minimum 1) × 200 gp</p>
   <p class="range"><strong>Range</strong> 10 feet; <strong>Targets</strong> 1 dead creature of 13th level or lower</p>
   <hr/>
   <p>You attempt to call forth the dead creature's soul, requiring the creature's body to be present and relatively intact. The creature must have died within the past 3 days. If Pharasma has decided that the creature's time has come (at the GM's discretion), or if the creature doesn't wish to return to life, this spell automatically fails, but the cost isn't consumed in the casting.</p>

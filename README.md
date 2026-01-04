@@ -46,8 +46,8 @@ type: spell
 Once changes have been made you can rebuild the page with:
 
 ```bash
-python -m venv venv
-source venv/bin/activate
+python -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 python build.py
 ```
@@ -55,12 +55,10 @@ python build.py
 To view the result you can go to the `build/` folder and use your
 favourite static file server such as `python -m http.server`.
 
-I have also included a script that cleans up JSON data from Archives of
+I have also included a script that fetches spell data from Archives of
 Nethys and generates the spell files. Some manual tweaking is required
-as it won't always convert the data cleanly and it won't split long
-descriptions into multiple cards. Place the JSON files from the search
-in the `scrape/` folder and run `scraper.py`. It won't overwrite
-existing files so you need to remove the old one if you're regenerating.
+as it won't always convert the data cleanly, and it won't split long
+descriptions into multiple cards.
 
 ## Pull Requests
 

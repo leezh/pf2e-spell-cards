@@ -16,6 +16,7 @@ traits:
 - cleric
 - concentrate
 - focus
+- fortune
 type: focus
 
 --- >

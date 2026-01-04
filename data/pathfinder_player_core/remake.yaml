@@ -23,7 +23,7 @@ type: spell
 --- >
   <p class="traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
   <p class="cast"><strong>Cast</strong> 1 hour</p>
-  <p><strong>Cost</strong> a remnant of the item</p>
+  <p class="cost"><strong>Cost</strong> a remnant of the item</p>
   <p class="range"><strong>Range</strong> 5 feet</p>
   <hr/>
   <p>You fully re-create an object from nothing, even if the object was destroyed. To do so, you must be able to picture the object in your mind. The remnant of the item can be small or insignificant (even a speck of dust that remains from <em>disintegrate</em> is enough). The spell fails if your imagination relied on too much guesswork; if the object would be too large to fit in a 5-foot cube; if the object still exists and you were simply not aware of it; or if the object is an artifact, has a level over 20, or has similar vast magical power.</p>

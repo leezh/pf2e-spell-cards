@@ -1,10 +1,10 @@
 actions: '[one-action]'
-bloodlines:
-- dreams
+bloodlines: []
 copyright: 2023 Paizo Inc.
 domains: []
 id: veil_of_dreams
-lessons: []
+lessons:
+- dreams
 level: 1
 mysteries: []
 patrons: []

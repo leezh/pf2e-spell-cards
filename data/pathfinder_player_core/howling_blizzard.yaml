@@ -23,7 +23,7 @@ type: spell
 --- >
   <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
   <p class="area"><strong>Area</strong> varies</p>
-  <p class="defense"><strong>Defense</strong> Reflex</p>
+  <p class="defense"><strong>Defense</strong> basic Reflex</p>
   <hr/>
   <p>Freezing winds extend from your hands, pushing away from you with great force. If you Cast this Spell with 2 actions, it has an area of a 60-foot cone; if you Cast this Spell with 3 actions, it has a range of 500 feet and an area of a 30-foot burst. Each creature in the area takes 10d6 cold damage with a basic Reflex save. Snowdrifts and icy gales fill the area until the start of your next turn, making the area difficult terrain.</p>
   <hr/>

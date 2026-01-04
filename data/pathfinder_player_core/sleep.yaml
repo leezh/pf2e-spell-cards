@@ -1,10 +1,10 @@
 actions: '[two-actions]'
-bloodlines:
-- dreams
+bloodlines: []
 copyright: 2023 Paizo Inc.
 domains: []
 id: sleep
-lessons: []
+lessons:
+- dreams
 level: 1
 mysteries: []
 patrons: []

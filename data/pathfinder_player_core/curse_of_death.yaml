@@ -1,10 +1,10 @@
 actions: '[two-actions]'
-bloodlines:
-- death
+bloodlines: []
 copyright: 2023 Paizo Inc.
 domains: []
 id: curse_of_death
-lessons: []
+lessons:
+- death
 level: 5
 mysteries: []
 patrons: []

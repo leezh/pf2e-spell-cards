@@ -1,6 +1,5 @@
 actions: '[one-action]'
-bloodlines:
-- elements
+bloodlines: []
 copyright: 2023 Paizo Inc.
 domains: []
 id: elemental_betrayal
@@ -20,7 +19,6 @@ traits:
 type: focus
 
 --- >
-  <p class="lesson"><strong>Lesson</strong> elements</p>
   <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
   <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>

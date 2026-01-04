@@ -1,10 +1,10 @@
 actions: '[two-actions]'
-bloodlines:
-- shadow
+bloodlines: []
 copyright: 2023 Paizo Inc.
 domains: []
 id: chilling_darkness
-lessons: []
+lessons:
+- shadow
 level: 3
 mysteries: []
 patrons: []

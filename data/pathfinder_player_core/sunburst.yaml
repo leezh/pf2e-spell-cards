@@ -30,6 +30,7 @@ type: spell
   <p><strong>Critical Success</strong> The creature is unaffected.</p>
   <p><strong>Success</strong> The creature takes half damage.</p>
   <p><strong>Failure</strong> The creature takes full damage.</p>
-  <p><strong>Critical Failure</strong> The creature takes full damage and becomes blinded permanently. If the globe overlaps with an area of magical darkness, <em>sunburst</em> attempts to counteract the darkness effect.</p>
+  <p><strong>Critical Failure</strong> The creature takes full damage and becomes blinded permanently.</p>
+  <p>If the globe overlaps with an area of magical darkness, <em>sunburst</em> attempts to counteract the darkness effect.</p>
   <hr/>
   <p><strong>Heightened (+1)</strong> The fire damage increases by 1d10, and the vitality damage against undead increases by 1d10.</p>

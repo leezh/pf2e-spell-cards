@@ -41,7 +41,7 @@ type: spell
   <ul>
   <li><strong>Mantis</strong> Speed 40 feet; imprecise scent 30 feet; <strong>Melee</strong> foreleg, <strong>Damage</strong> 2d8 piercing.</li>
   <li><strong>Scorpion</strong> Speed 40 feet; darkvision, imprecise tremorsense 60 feet; <strong>Melee</strong> stinger, <strong>Damage</strong> 1d8 piercing plus 1d4 persistent poison; <strong>Melee</strong> pincer (agile), <strong>Damage</strong> 1d6 bludgeoning.</li>
-  <li><strong>Spider</strong> Speed 25 feet, climb 25 feet; darkvision; <strong>Melee</strong> fangs, <strong>Damage</strong> 1d6 piercing plus 1d4 persistent poison; <strong>Ranged</strong> web (range increment 20 feet), <strong>Damage</strong> entangles the target for 1 round.</li>
+  <li><strong>Spider</strong> Speed 25 feet, climb 25 feet; darkvision; <strong>Melee</strong> fangs, <strong>Damage</strong> 1d6 piercing plus 1d4 persistent poison; <strong>Ranged</strong> web (range increment 20 feet), <strong>Damage</strong> immobilizes the target for 1 round or until it Escapes.</li>
   <li><strong>Ant</strong> Speed 30 feet, climb 30 feet; <strong>Melee</strong> mandibles, <strong>Damage</strong> 2d6 bludgeoning.</li>
   </ul>
   <hr/>

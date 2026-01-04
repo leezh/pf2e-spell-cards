@@ -1,4 +1,4 @@
-actions: '[two-actions]'
+actions: ''
 bloodlines: []
 copyright: 2023 Paizo Inc.
 domains: []
@@ -20,6 +20,7 @@ type: spell
 
 --- >
   <p class="traditions"><strong>Traditions</strong> primal</p>
+  <p class="cast"><strong>Cast</strong> 10 minutes</p>
   <p class="range"><strong>Range</strong> 20 feet; <strong>Targets</strong> you and up to 5 willing creatures</p>
   <p class="duration"><strong>Duration</strong> 8 hours</p>
   <hr/>

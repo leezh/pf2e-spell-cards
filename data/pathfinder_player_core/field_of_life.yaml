@@ -1,10 +1,10 @@
 actions: '[two-actions]'
-bloodlines:
-- renewal
+bloodlines: []
 copyright: 2023 Paizo Inc.
 domains: []
 id: field_of_life
-lessons: []
+lessons:
+- renewal
 level: 6
 mysteries: []
 patrons: []

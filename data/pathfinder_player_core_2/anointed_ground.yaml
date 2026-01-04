@@ -21,7 +21,7 @@ type: spell
 --- >
   <p class="traditions"><strong>Traditions</strong> divine</p>
   <p class="cast"><strong>Cast</strong> 1 minute</p>
-  <p><strong>Cost</strong> 3 gp worth of oil</p>
+  <p class="cost"><strong>Cost</strong> 3 gp worth of oil</p>
   <p class="area"><strong>Area</strong> 30-foot burst centered on you</p>
   <p class="duration"><strong>Duration</strong> until the next time you make daily preparations</p>
   <hr/>

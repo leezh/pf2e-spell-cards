@@ -33,4 +33,4 @@ type: cantrip
   <p><strong>Failure</strong> The target takes the electricity damage, but not the slashing damage.</p>
   <p><strong>Critical Failure</strong> The target is unaffected.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The slashing damage, initial electricity damage, and persistent electricity damage on a critical hit each increase by 1d4.</p>
+  <p><strong>Heightened (+2)</strong> The slashing damage, initial electricity damage, and persistent electricity damage on a critical hit each increase by 1d4.</p>

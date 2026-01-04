@@ -1,4 +1,5 @@
-markdown
-markdownify
 beautifulsoup4
-pyside6
+markdown
+opensearch-py
+pyyaml
+

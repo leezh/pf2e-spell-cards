@@ -23,7 +23,7 @@ type: cantrip
 --- >
   <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
   <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Fortitude</p>
+  <p class="defense"><strong>Defense</strong> basic Fortitude</p>
   <hr/>
   <p>An orb of biting cold coalesces around your target, freezing its body. The target takes 2d4 cold damage with a basic Fortitude save. On a critical failure, the target also gains weakness 1 to bludgeoning until the start of your next turn.</p>
   <hr/>

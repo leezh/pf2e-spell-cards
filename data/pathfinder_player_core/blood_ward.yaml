@@ -1,10 +1,10 @@
 actions: '[one-action]'
-bloodlines:
-- protection
+bloodlines: []
 copyright: 2023 Paizo Inc.
 domains: []
 id: blood_ward
-lessons: []
+lessons:
+- protection
 level: 1
 mysteries: []
 patrons: []

@@ -10,15 +10,36 @@ import unicodedata
 import yaml
 from bs4 import BeautifulSoup, NavigableString, Tag
 from markdown import markdown
+from opensearchpy import OpenSearch
 
-from build import build
+BASE_DIR = pathlib.Path(os.path.dirname(__file__)) / "data"
 
-BASE_DIR = pathlib.Path(os.path.dirname(__file__))
-
+NETHYS_HOST = 'elasticsearch.aonprd.com'
+NETHYS_PORT = 443
+NETHYS_SSL = True
+NETHYS_INDEX = 'aon'
+NETHYS_BATCH_SIZE = 50
 SOURCES = {
     "Player Core": "2023 Paizo Inc.",
     "Player Core 2": "2024 Paizo Inc.",
 }
+
+
+def to_slug(text: str) -> str:
+    text = (
+        unicodedata.normalize("NFKD", text)
+        .lower()
+        .replace(" ", "_")
+        .encode("ASCII", "ignore")
+        .decode("ASCII")
+    )
+    return "".join([c for c in text if c.isalnum() or c == "_"])
+
+
+def strip_element(soup: BeautifulSoup | Tag, name: str, string: str | None = None):
+    element = soup.find(name, string=string)
+    if isinstance(element, Tag):
+        element.extract()
 
 
 def text_to_soup(text: str) -> BeautifulSoup:
@@ -134,6 +155,14 @@ ACTION_SUBSTITUTION = [
     ("to", "TO"),
 ]
 
+FILTER_TRAITS = [
+    "uncommon",
+    "rare",
+    "positive",
+    "negative",
+    "metamagic",
+]
+
 NO_TITLE_UPPERCASE = [
     "a",
     "an",
@@ -162,80 +191,124 @@ def title_case(text: str) -> str:
     )
     return "".join([title[0].upper(), *title[1:]])
 
-
-def read_header(soup: BeautifulSoup) -> dict:
-    title = soup.find("title")
-    if not isinstance(title, Tag):
-        raise KeyError("Entry is missing <title>")
-
-    actions = title.find("actions")
-    actions = str(actions.extract()["string"]) if isinstance(actions, Tag) else ""
-    for src, dst in ACTION_SUBSTITUTION:
-        actions = actions.replace(src, dst)
-
-    entry_type = title.attrs.get("right", " ").rsplit(" ", 1)
-    level = int(entry_type[1])
-    entry_type = entry_type[0].lower()
-
-    title = title.extract()
-    title = title_case(" ".join(title.stripped_strings))
-
-    entry_id = unicodedata.normalize("NFKD", title).lower().replace(" ", "_")
-    entry_id = entry_id.encode("ASCII", "ignore").decode("ASCII")
-    entry_id = "".join([c for c in entry_id if c.isalnum() or c == "_"])
-
-    traits = soup.find("traits")
-    if isinstance(traits, Tag):
-        traits = traits.extract()
-        traits = [str(t["label"]).lower() for t in traits.find_all("trait")]
-        traits.sort()
-    else:
-        traits = []
-
-    rarity = "common"
-    if "uncommon" in traits:
-        traits.remove("uncommon")
-        rarity = "uncommon"
-    if "rare" in traits:
-        traits.remove("rare")
-        rarity = "rare"
-
-    return {
-        "id": entry_id,
-        "title": title,
-        "actions": actions,
-        "type": entry_type,
-        "level": level,
-        "rarity": rarity,
-        "traits": traits,
-    }
-
-
-FILTER_PATRONS = [
-    "Faith's Flamekeeper",
-    "The Inscribed One",
-    "The Resentment",
-    "Silence in Snow",
-    "Spinner of Threads",
-    "Starless Shadow",
-    "Wilding Steward",
-]
-FILTER_LESSONS = [
-    "dreams",
-    "elements",
-    "life",
-    "protection",
-    "vengeance",
-    "mischief",
-    "shadow",
-    "snow",
-    "death",
-    "renewal",
+REMOVED_PARAMETERS = [
+    "Deity",
+    "Deities",
+    "Source",
+    "Spell Lists",
 ]
 
+RENAMED_PARAMETERS = {
+    "Bloodlines": "Bloodline",
+    "Deities": "Deity",
+    "Domains": "Domain",
+    "Lessons": "Lesson",
+    "Mysteries": "Mystery",
+    "Patron Theme": "Patron",
+    "Patron Themes": "Patron",
+    "Tradition": "Traditions",
+    "Target": "Targets",
+    "Saving Throw": "Defense"
+}
 
-def read_parameter(soup: BeautifulSoup, p: Tag, key: Tag, traits: list[str]) -> dict:
-    result = {}
+COLLAPSED_PARAMETERS = [
+    ("range", "targets"),
+    ("range", "area"),
+    ("defense", "duration")
+]
+
+FILTERED_PARAMETERS = [
+    ("traditions", "traditions", "", (
+        "arcane",
+        "divine",
+        "occult",
+        "primal",
+    )),
+    ("domains", "domain", "cleric", (
+        "air",
+        "ambition",
+        "cities",
+        "confidence",
+        "creation",
+        "darkness",
+        "death",
+        "destruction",
+        "dreams",
+        "earth",
+        "family",
+        "fate",
+        "fire",
+        "freedom",
+        "healing",
+        "indulgence",
+        "knowledge",
+        "luck",
+        "magic",
+        "might",
+        "moon",
+        "nature",
+        "nightmares",
+        "pain",
+        "passion",
+        "perfection",
+        "protection",
+        "secrecy",
+        "sun",
+        "travel",
+        "trickery",
+        "truth",
+        "tyranny",
+        "undeath",
+        "water",
+        "wealth",
+        "zeal",
+    )),
+    ("mysteries", "mystery", "oracle", (
+        "ancestors",
+        "battle",
+        "bones",
+        "cosmos",
+        "flames",
+        "life",
+        "lore",
+        "tempest",
+    )),
+    ("bloodlines", "bloodline", "sorcerer", (
+        "aberrant",
+        "angelic",
+        "demonic",
+        "diabolic",
+        "draconic",
+        "elemental",
+        "fey",
+        "hag",
+        "imperial",
+        "undead",
+    )),
+    ("lessons", "lesson", "witch", (
+        "dreams",
+        "elements",
+        "life",
+        "protection",
+        "vengeance",
+        "mischief",
+        "shadow",
+        "snow",
+        "death",
+        "renewal"
+    )),
+    ("patrons", "patron", "witch", (
+        "Faith's Flamekeeper",
+        "The Inscribed One",
+        "The Resentment",
+        "Silence in Snow",
+        "Spinner of Threads",
+        "Starless Shadow",
+        "Wilding Steward",
+    )),
+]
+
+def parse_parameter(soup: BeautifulSoup, p: Tag, key: Tag):
     if next_key := key.find_next_sibling("strong"):
         assert isinstance(next_key, Tag)
         siblings = [elem.extract() for elem in next_key.next_siblings]
@@ -243,122 +316,17 @@ def read_parameter(soup: BeautifulSoup, p: Tag, key: Tag, traits: list[str]) -> 
         next_p.append(next_key.extract())
         next_p.extend(siblings)
         p.insert_after(next_p)
-        result = read_parameter(soup, next_p, next_key, traits)
+        parse_parameter(soup, next_p, next_key)
     value = key.next_sibling
     assert isinstance(value, NavigableString)
-    match key.string:
-        case "Source":
-            source = value.split(" pg.", 1)[0].strip()
-            p.extract()
-            result["copyright"] = SOURCES[source]
-            result["source"] = f"Pathfinder {source}"
-        case "Tradition" | "Traditions":
-            values = [t.strip().lower() for t in value.split(",")]
-            values.sort()
-            key.string = "Traditions"
-            value.replace_with(f" {', '.join(values)}")
-            result["traditions"] = values
-        case "Domain" | "Domains":
-            values = [t.strip().lower() for t in value.split(",")]
-            values.sort()
-            if "cleric" not in traits:
-                p.extract()
-            key.string = "Domain"
-            value.replace_with(f" {', '.join(values)}")
-            result["domains"] = values
-        case "Mystery":
-            values = [t.strip().lower() for t in value.split(",")]
-            values.sort()
-            if "oracle" not in traits:
-                p.extract()
-            key.string = "Mystery"
-            value.replace_with(f" {', '.join(values)}")
-            result["mysteries"] = values
-        case "Bloodline" | "Bloodlines":
-            values = [t.strip().lower() for t in value.split(",")]
-            values.sort()
-            if "sorcerer" not in traits:
-                p.extract()
-            key.string = "Bloodline"
-            value.replace_with(f" {', '.join(values)}")
-            result["bloodlines"] = values
-        case "Patron Theme" | "Patron Themes":
-            values = [t.strip() for t in value.split(",")]
-            values.sort()
-            for patron in [*values]:
-                if patron not in FILTER_PATRONS:
-                    values.remove(patron)
-            if "witch" not in traits:
-                p.extract()
-            key.string = "Patron"
-            value.replace_with(f" {', '.join(values)}")
-            result["patrons"] = values
-        case "Lesson":
-            values = [t.strip().lower() for t in value.split(",")]
-            for lesson in [*values]:
-                values.remove(lesson)
-                lesson = lesson.replace("lesson of the ", "")
-                lesson = lesson.replace("lesson of ", "")
-                if lesson not in FILTER_LESSONS:
-                    continue
-                values.append(lesson)
-            values.sort()
-            if not len(values) or "witch" not in traits:
-                p.extract()
-            key.string = "Lesson"
-            value.replace_with(f" {', '.join(values)}")
-            result["bloodlines"] = values
-        case "Trigger" | "Requirements" | "Cast" | "Range" | "Area" | "Duration":
-            pass
-        case "Target" | "Targets":
-            key.string = "Targets"
-        case "Defense" | "Saving Throw":
-            key.string = "Defense"
-        case "Deity" | "Deities" | "Spell Lists":
-            p.extract()
-        case _:
-            return result
+    if key.string in RENAMED_PARAMETERS:
+        key.string = RENAMED_PARAMETERS[key.string]
+    if key.string in REMOVED_PARAMETERS:
+        p.extract()
     p.attrs["class"] = key.string.lower()
-    return result
 
 
-def collapse_parameters(soup: BeautifulSoup) -> None:
-    range = soup.find("p", class_="range")
-    targets = soup.find("p", class_="targets")
-    area = soup.find("p", class_="area")
-    defense = soup.find("p", class_="defense")
-    duration = soup.find("p", class_="duration")
-
-    if isinstance(range, Tag) and isinstance(targets, Tag):
-        elements = [e.extract() for e in [*targets.contents]]
-        targets.extract()
-        range.extend(["; ", *elements])
-    if isinstance(range, Tag) and isinstance(area, Tag):
-        elements = [e.extract() for e in [*area.contents]]
-        area.extract()
-        range.extend(["; ", *elements])
-    if isinstance(defense, Tag) and isinstance(duration, Tag):
-        elements = [e.extract() for e in [*duration.contents]]
-        duration.extract()
-        defense.extend(["; ", *elements])
-
-
-def parse_entry(entry: dict) -> dict:
-    soup = text_to_soup(entry["markdown"])
-    result = {
-        **read_header(soup),
-        "traditions": [],
-        "domains": [],
-        "mysteries": [],
-        "bloodlines": [],
-        "lessons": [],
-        "patrons": [],
-        "source": "",
-        "copyright": "",
-        "description": [],
-    }
-    tidy_soup(soup)
-
+def parse_header(soup: BeautifulSoup, info: dict) -> None:
     for p in [*soup.contents]:
         if not isinstance(p, Tag) or p.name != "p" or not len(p.contents):
             break
@@ -370,46 +338,132 @@ def parse_entry(entry: dict) -> dict:
             break
         if not isinstance(key.next_sibling, NavigableString):
             break
-        result.update(read_parameter(soup, p, key, result["traits"]))
+        parse_parameter(soup, p, key)
 
-    collapse_parameters(soup)
+    for left, right in COLLAPSED_PARAMETERS:
+        left_tag = soup.find("p", class_=left)
+        right_tag = soup.find("p", class_=right)
+        if not isinstance(left_tag, Tag) or not isinstance(right_tag, Tag):
+            continue
+        elements = [e.extract() for e in [*right_tag.contents]]
+        right_tag.extract()
+        left_tag.extend(["; ", *elements])
+
+    for attribute, name, trait, _ in FILTERED_PARAMETERS:
+        tag = soup.find("p", class_=name)
+        if not isinstance(tag, Tag):
+            continue
+        values = info[attribute]
+        if not len(values) or (trait and trait not in info["traits"]):
+            tag.extract()
+            continue
+        [*tag.children][1].replace_with(f" {', '.join(info[attribute])}")
+
+
+def parse_entry(entry: dict):
+    source = entry["primary_source"]
+    if source not in SOURCES:
+        return
+
+    copyright = SOURCES[source]
+    source = f"Pathfinder {source}"
+    book = to_slug(source)
+    title = title_case(entry["name"])
+    entry_id = to_slug(title)
+
+    book_dir = BASE_DIR / book
+    os.makedirs(book_dir, exist_ok=True)
+    path = book_dir / f"{entry_id}.yaml"
+    if os.path.exists(path):
+        pass
+
+    actions = entry["actions"] if entry.get("actions_number", 60) < 7 else ""
+    for src, dst in ACTION_SUBSTITUTION:
+        actions = actions.replace(src, dst)
+
+    traits = [x.lower() for x in entry["trait"]]
+    traits = [x for x in traits if x not in FILTER_TRAITS]
+
+    info = {
+        "id": entry_id,
+        "title": title,
+        "actions": actions,
+        "type": entry["spell_type"].lower(),
+        "level": entry["level"],
+        "rarity": entry["rarity"],
+        "traits": traits,
+        "traditions": [x.lower() for x in entry.get("tradition", [])],
+        "domains": [x.lower() for x in entry.get("domain", [])],
+        "mysteries": [x.lower() for x in entry.get("mystery", [])],
+        "bloodlines": [x.lower() for x in entry.get("bloodline", [])],
+        "lessons": [x.lower().replace("lesson of ", "") for x in entry.get("lesson", [])],
+        "patrons": [x for x in entry.get("patron_theme", [])],
+        "source": source,
+        "copyright": copyright,
+    }
+
+    for attribute, _, _, values in FILTERED_PARAMETERS:
+        info[attribute] = [x for x in info[attribute] if x in values]
+
+    soup = text_to_soup(entry["markdown"])
+    strip_element(soup, "title")
+    strip_element(soup, "traits")
+    tidy_soup(soup)
+    parse_header(soup, info)
 
     if isinstance(soup.contents[0], Tag) and soup.contents[0].name == "hr":
         soup.contents[0].extract()
-    result["description"] = [format_soup(soup)]
-    return result
+
+    with open(path, "w", encoding="utf-8") as f:
+        yaml.safe_dump(info, f)
+        f.write("\n--- >\n")
+        f.write(textwrap.indent(format_soup(soup), "  "))
 
 
-def scrape() -> None:
-    entries = {}
-    entry_list = []
-    for path in os.listdir(BASE_DIR / "scrape"):
-        if not path.endswith(".json"):
-            continue
-        with open(BASE_DIR / "scrape" / path, "r", encoding="utf-8") as f:
-            entry_list.extend(json.load(f))
+def parse() -> None:
+    with open(BASE_DIR / "scrape.json", "r", encoding="utf-8") as f:
+        for entry in json.load(f):
+            parse_entry(entry)
 
-    for entry in entry_list:
-        if set(entry["source"]).isdisjoint(set(SOURCES.keys())):
-            continue
-        entry = parse_entry(entry)
-        entries[entry["id"]] = entry
 
-    for entry_id, entry in entries.items():
-        book = entry["source"].lower().replace(" ", "_")
-        book_dir = BASE_DIR / "data" / book
-        os.makedirs(book_dir, exist_ok=True)
-        path = book_dir / f"{entry_id}.yaml"
-        if os.path.exists(path):
-            continue
-        with open(path, "w", encoding="utf-8") as f:
-            entry = entry.copy()
-            description = entry.pop("description")
-            yaml.safe_dump(entry, f)
-            for block in description:
-                f.write("\n--- >\n")
-                f.write(textwrap.indent(block, "  "))
+def download():
+    target = BASE_DIR / "scrape.json"
+    os.makedirs(os.path.dirname(target), exist_ok=True)
+    if os.path.exists(target):
+        return
+    client = OpenSearch(
+        hosts=[{"host": NETHYS_HOST, "port": NETHYS_PORT}],
+        use_ssl=NETHYS_SSL
+    )
+    data = []
+    total = 1
+    query = {
+        "bool": {
+            "must": [
+                {"term": {"category": "spell"}},
+            ],
+            "must_not": [
+                {"exists": {"field": "item_child_id"}},
+                {"term": {"exclude_from_search": True}},
+                {"term": {"trait": "mythic"}},
+            ]
+        }
+    }
+
+    while len(data) < total:
+        payload = {
+            "from": len(data),
+            "size": NETHYS_BATCH_SIZE,
+            "query": query
+        }
+        result = client.search(index="aon", body=payload)
+        total = result["hits"]["total"]["value"]
+        data.extend([x["_source"] for x in result["hits"].get("hits", [])])
+
+    with open(target, "w", encoding="utf-8") as f:
+        json.dump(data, f)
 
 
 if __name__ == "__main__":
-    scrape()
+    download()
+    parse()
