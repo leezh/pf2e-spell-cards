@@ -19,14 +19,14 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> occult</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> unlimited</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> unlimited</p>
   <hr/>
   <p>You alter the target's memories by erasing a memory, enhancing a memory's clarity, altering a memory, or adding a false memory. The target can attempt a Will save to resist the spell.</p>
-  <p><strong>Critical Success</strong> The target is unaffected and realizes you tried to alter its memory.</p>
-  <p><strong>Success</strong> The target is unaffected but thinks your spell was something harmless instead of <em>rewrite memory</em>, unless it identifies the spell.</p>
-  <p><strong>Failure</strong> During the first 5 minutes of the spell's duration, you can Sustain the spell to modify a memory once each round. When you do, you imagine up to 6 seconds of memory to modify, to a maximum of 5 continuous minutes of memory.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected and realizes you tried to alter its memory.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is unaffected but thinks your spell was something harmless instead of <em>rewrite memory</em>, unless it identifies the spell.</p>
+  <p class="hanging-indent"><strong>Failure</strong> During the first 5 minutes of the spell's duration, you can Sustain the spell to modify a memory once each round. When you do, you imagine up to 6 seconds of memory to modify, to a maximum of 5 continuous minutes of memory.</p>
   <p>Any memories you've altered remain changed as long as the spell is active. If the target moves out of range before the 5 minutes is up, you can't alter any further memories.</p>
   <hr/>
-  <p><strong>Heightened (6th)</strong> You can Cast the Spell on a willing target to suppress all memory of a particular topic, detailed in 50 words or fewer. The effect is permanent, and it patches these omissions with an indistinct haze.</p>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> You can Cast the Spell on a willing target to suppress all memory of a particular topic, detailed in 50 words or fewer. The effect is permanent, and it patches these omissions with an indistinct haze.</p>

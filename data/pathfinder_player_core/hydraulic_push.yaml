@@ -21,12 +21,12 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature or unattended object</p>
-  <p class="defense"><strong>Defense</strong> AC</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature or unattended object</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> AC</p>
   <hr/>
   <p>You call forth a powerful blast of pressurized water that bludgeons the target and knocks it back. Make a ranged spell attack roll.</p>
-  <p><strong>Critical Success</strong> The target takes 6d6 bludgeoning damage and is knocked back 10 feet.</p>
-  <p><strong>Success</strong> The target takes 3d6 bludgeoning damage and is knocked back 5 feet.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target takes 6d6 bludgeoning damage and is knocked back 10 feet.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes 3d6 bludgeoning damage and is knocked back 5 feet.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The bludgeoning damage increases by 2d6.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The bludgeoning damage increases by 2d6.</p>

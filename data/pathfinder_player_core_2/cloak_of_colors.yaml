@@ -20,11 +20,11 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>A cloak of swirling colors shrouds the target. Creatures are dazzled while adjacent to it, and attacking the target causes a brilliant flash of light. A creature that hits the target with a melee attack must attempt a Will save. The creature is then temporarily immune until the end of its turn; this effect has the incapacitation trait.</p>
-  <p><strong>Success</strong> The attacker is unaffected.</p>
-  <p><strong>Failure</strong> The attacker is blinded for 1 round.</p>
-  <p><strong>Critical Failure</strong> The attacker is stunned for 1 round.</p>
+  <p class="hanging-indent"><strong>Success</strong> The attacker is unaffected.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The attacker is blinded for 1 round.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The attacker is stunned for 1 round.</p>

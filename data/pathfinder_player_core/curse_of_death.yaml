@@ -24,14 +24,14 @@ traits:
 type: focus
 
 --- >
-  <p class="lesson"><strong>Lesson</strong> death</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> sustained up to 1 minute</p>
+  <p class="hanging-indent lesson"><strong>Lesson</strong> death</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>
   <p>Your patron wraps a hand around your target's heart. The target must attempt a Fortitude saving throw. Regardless of the result, the target is temporarily immune to all <em>curses of death</em> for 1 day.</p>
-  <p><strong>Critical Success</strong> The target is unaffected.</p>
-  <p><strong>Success</strong> The target is afflicted with the curse of death at stage 1, and the stage of the curse can't increase beyond stage 1.</p>
-  <p><strong>Failure</strong> The target is afflicted with the curse of death at stage 1.</p>
-  <p><strong>Critical Failure</strong> The target is afflicted with the curse of death at stage 2. <strong>Curse of Death</strong> (curse, death, void) This curse ends when the spell ends; <strong>Stage 1</strong> 4d6 void damage and fatigued (1 round); <strong>Stage 2</strong> 8d6 void damage and fatigued (1 round); <strong>Stage 3</strong> 12d6 void damage and fatigued (1 round); <strong>Stage 4</strong> death</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is afflicted with the curse of death at stage 1, and the stage of the curse can't increase beyond stage 1.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is afflicted with the curse of death at stage 1.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is afflicted with the curse of death at stage 2. <strong>Curse of Death</strong> (curse, death, void) This curse ends when the spell ends; <strong>Stage 1</strong> 4d6 void damage and fatigued (1 round); <strong>Stage 2</strong> 8d6 void damage and fatigued (1 round); <strong>Stage 3</strong> 12d6 void damage and fatigued (1 round); <strong>Stage 4</strong> death</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> Increase the void damage taken on a success and during the first three stages of the curse by 1d6.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> Increase the void damage taken on a success and during the first three stages of the curse by 1d6.</p>

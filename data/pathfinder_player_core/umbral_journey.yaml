@@ -21,9 +21,9 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
-  <p class="cast"><strong>Cast</strong> 1 minute</p>
-  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> you and up to 10 willing creatures touched</p>
-  <p class="duration"><strong>Duration</strong> 8 hours</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 minute</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> you and up to 10 willing creatures touched</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 8 hours</p>
   <hr/>
   <p>You move partially into the Netherworld, using its warped nature to speed your travels. Each hour, you cover roughly as much ground as you normally would in 3 days (page 438). The landmarks are vague and symbolic rather than concrete, leaving you within a mile of your intended destination when you Dismiss the spell or its duration ends.</p>

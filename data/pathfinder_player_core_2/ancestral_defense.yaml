@@ -21,7 +21,7 @@ traits:
 type: focus
 
 --- >
-  <p class="mystery"><strong>Mystery</strong> ancestors</p>
-  <p class="trigger"><strong>Trigger</strong> You are about to attempt a Will save.</p>
+  <p class="hanging-indent mystery"><strong>Mystery</strong> ancestors</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> You are about to attempt a Will save.</p>
   <hr/>
   <p>Your ancestor protects you against those who would bend your will. You roll the triggering save twice and use the better result.</p>

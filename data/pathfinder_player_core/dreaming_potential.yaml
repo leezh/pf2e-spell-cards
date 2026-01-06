@@ -19,9 +19,9 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> occult</p>
-  <p class="cast"><strong>Cast</strong> 10 minutes</p>
-  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing sleeping creature</p>
-  <p class="duration"><strong>Duration</strong> 8 hours</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 10 minutes</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing sleeping creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 8 hours</p>
   <hr/>
   <p>You draw the target into a lucid dream where it can explore the endless possibilities of its own potential within the everchanging backdrop of its dreamscape. If it sleeps the full 8 hours uninterrupted, when it wakes, it counts as having spent a day of downtime retraining, though it can't use dreaming potential for any retraining that would require either an instructor or specialized knowledge it can't access within the dream.</p>

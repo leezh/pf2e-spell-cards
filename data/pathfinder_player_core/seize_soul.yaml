@@ -20,10 +20,10 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine, occult</p>
-  <p class="requirements"><strong>Requirements</strong> item worth at least the target's level × 100 gp</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature that died within the last minute</p>
-  <p class="duration"><strong>Duration</strong> unlimited</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent requirements"><strong>Requirements</strong> item worth at least the target's level × 100 gp</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature that died within the last minute</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> unlimited</p>
   <hr/>
   <p>You trap the target's soul in the item before the soul can pass on to the afterlife. The item used to contain the soul can be anything as long as it's of the appropriate value. The item has AC 16 and its normal Hardness and HP. Destroying (not just breaking) an item or counteracting <em>seize soul</em> releases the soul to the afterlife. While the soul is in the item, the target can't be returned to life through any means, even powerful magic such as a <em>wish</em> ritual. If the item is destroyed or seize soul is counteracted on the item, the soul is freed. An item can't hold more than one soul, and any attempt wastes the spell.</p>
   <p>You can also target an item that has had a soul trapped it in with a second casting of <em>seize soul</em>, which destroys the item and either releases the soul or relocates it to a different item, whichever you choose. This fails if the target is an artifact or the trapped soul is a creature of 19th level or higher.</p>

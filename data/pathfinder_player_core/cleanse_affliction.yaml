@@ -21,10 +21,10 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine, occult, primal</p>
-  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing creature</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing creature</p>
   <hr/>
   <p>Gentle restorative magic pushes back the effects of toxins and more complex maladies. Choose an affliction on the target, such as a curse, disease, or poison. If it has advanced past stage one, reduce the stage by one. This reduction can be applied only once to a given case of an affliction, with the case ending when it's completely cured. Although the reduction can't occur again, heightened versions of this spell attempt to counteract with each casting.</p>
   <hr/>
-  <p><strong>Heightened (3rd)</strong> Attempt to counteract the affliction if it is a disease or poison.</p>
-  <p><strong>Heightened (4th)</strong> Attempt to counteract the affliction if it is a curse, disease, or poison.</p>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> Attempt to counteract the affliction if it is a disease or poison.</p>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> Attempt to counteract the affliction if it is a curse, disease, or poison.</p>

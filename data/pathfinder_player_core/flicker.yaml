@@ -20,9 +20,9 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>You flicker quickly between your current plane and another. You gain resistance 5 to all damage, except force. At the end of each of your turns, you automatically teleport 10 feet in a random direction, as determined by the GM. You can Sustain the spell to teleport in this way.</p>
   <hr/>
-  <p><strong>Heightened (+2)</strong> The resistance increases by 3.</p>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The resistance increases by 3.</p>

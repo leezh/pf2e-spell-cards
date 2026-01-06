@@ -19,6 +19,6 @@ traits:
 type: focus
 
 --- >
-  <p class="range"><strong>Range</strong> See Below</p>
+  <p class="hanging-indent range"><strong>Range</strong> See Below</p>
   <hr/>
   <p>The world seems to shrink before your footfalls. You teleport up to a distance equal to your Speed within your line of sight.</p>

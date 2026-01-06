@@ -19,8 +19,8 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> trickery</p>
-  <p class="trigger"><strong>Trigger</strong> An enemy misses you with a melee attack</p>
-  <p class="duration"><strong>Duration</strong> until the end of your next turn</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> trickery</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> An enemy misses you with a melee attack</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the end of your next turn</p>
   <hr/>
   <p>You swiftly move from a dangerous spot and veil yourself. You Step and become concealed.</p>

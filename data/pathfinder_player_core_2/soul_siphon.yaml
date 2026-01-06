@@ -20,14 +20,14 @@ traits:
 type: focus
 
 --- >
-  <p class="mystery"><strong>Mystery</strong> bones</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 living creature</p>
-  <p class="defense"><strong>Defense</strong> Fortitude</p>
+  <p class="hanging-indent mystery"><strong>Mystery</strong> bones</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 living creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
   <hr/>
   <p>You siphon off a portion of the target's soul to bolster your own vitality. The target must attempt a Fortitude save or take 1d4 void damage. You gain temporary Hit Points equal to the total amount of HP the target loses, including the HP lost from becoming drained.</p>
-  <p><strong>Critical Success</strong> The creature is unaffected.</p>
-  <p><strong>Success</strong> The creature takes half damage.</p>
-  <p><strong>Failure</strong> The creature takes full damage and becomes drained 1.</p>
-  <p><strong>Critical Failure</strong> The creature takes double damage and becomes drained 2.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes half damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes full damage and becomes drained 1.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature takes double damage and becomes drained 2.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>

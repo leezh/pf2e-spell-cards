@@ -20,10 +20,10 @@ traits:
 type: focus
 
 --- >
-  <p class="mystery"><strong>Mystery</strong> flames</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Area</strong> up to two 5-foot bursts that don’t overlap</p>
-  <p class="defense"><strong>Defense</strong> basic Reflex</p>
+  <p class="hanging-indent mystery"><strong>Mystery</strong> flames</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Area</strong> up to two 5-foot bursts that don’t overlap</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex</p>
   <hr/>
   <p>You call forth a storm of whirling flames, engulfing all creatures in that area and dealing 5d6 fire damage with a basic Reflex save.</p>
   <hr/>
-  <p><strong>Heightened (+2)</strong> The damage increases by 3d6, and you can add another nonoverlapping 5-foot burst to the area.</p>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The damage increases by 3d6, and you can add another nonoverlapping 5-foot burst to the area.</p>

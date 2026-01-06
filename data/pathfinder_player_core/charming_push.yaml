@@ -20,11 +20,11 @@ traits:
 type: focus
 
 --- >
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> until the start of your next turn</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> until the start of your next turn</p>
   <hr/>
   <p>You push at the target's mind to deflect their ire. The target must attempt a Will save.</p>
-  <p><strong>Critical Success</strong> The target is unaffected.</p>
-  <p><strong>Success</strong> The target takes a –1 circumstance penalty to attack rolls and damage rolls against you.</p>
-  <p><strong>Failure</strong> The target can't use hostile actions against you.</p>
-  <p><strong>Critical Failure</strong> The target is stunned 1 and can't use hostile actions against you.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes a –1 circumstance penalty to attack rolls and damage rolls against you.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target can't use hostile actions against you.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is stunned 1 and can't use hostile actions against you.</p>

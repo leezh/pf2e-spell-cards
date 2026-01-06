@@ -19,10 +19,10 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine, occult</p>
-  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing creature</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>You ward a creature against harm. The target gains a +1 status bonus to Armor Class and saving throws.</p>
   <hr/>
-  <p><strong>Heightened (3rd)</strong> You can choose to have the benefits also affect all your allies in a 10-foot emanation around the target.</p>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> You can choose to have the benefits also affect all your allies in a 10-foot emanation around the target.</p>

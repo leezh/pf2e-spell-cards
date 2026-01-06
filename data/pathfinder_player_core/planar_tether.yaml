@@ -20,12 +20,12 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
   <hr/>
   <p>You stitch the target to its current plane. While the target is affected by <em>planar tether</em>, the spell attempts to counteract any teleportation effect that would move the target, or any effect that would transport it to a different plane. <em>Planar tether's</em> duration is determined by the target's Will save.</p>
-  <p><strong>Critical Success</strong> The target is unaffected.</p>
-  <p><strong>Success</strong> The duration is 1 minute.</p>
-  <p><strong>Failure</strong> The duration is 10 minutes.</p>
-  <p><strong>Critical Failure</strong> The duration is 1 hour.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The duration is 1 minute.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The duration is 10 minutes.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The duration is 1 hour.</p>

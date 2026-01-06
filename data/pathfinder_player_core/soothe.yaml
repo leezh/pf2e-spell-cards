@@ -21,10 +21,10 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> occult</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 willing creature</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 willing creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>You grace the target's mind, boosting its mental defenses and healing its wounds. The target regains 1d10+4 Hit Points when you Cast the Spell and gains a +2 status bonus to saves against mental effects for the duration.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The amount of healing increases by 1d10+4.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The amount of healing increases by 1d10+4.</p>

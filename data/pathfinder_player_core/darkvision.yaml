@@ -21,10 +21,10 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
-  <p class="duration"><strong>Duration</strong> 1 hour</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
   <hr/>
   <p>You grant yourself supernatural sight in areas of darkness. You gain darkvision.</p>
   <hr/>
-  <p><strong>Heightened (3rd)</strong> The spell's range is touch and it targets 1 willing creature.</p>
-  <p><strong>Heightened (5th)</strong> The spell's range is touch and it targets 1 willing creature. The duration is until your next daily preparations.</p>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> The spell's range is touch and it targets 1 willing creature.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> The spell's range is touch and it targets 1 willing creature. The duration is until your next daily preparations.</p>

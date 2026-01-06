@@ -18,10 +18,10 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> primal</p>
-  <p class="duration"><strong>Duration</strong> 1 hour</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
   <hr/>
   <p>You obscure the tracks you leave behind. The DC of checks to Track you gains a +4 status bonus or is equal to your spell DC, whichever results in a higher DC.</p>
   <hr/>
-  <p><strong>Heightened (2nd)</strong> The duration increases to 8 hours.</p>
-  <p><strong>Heightened (4th)</strong> The duration increases to 8 hours. The spell has a range of 20 feet and an area of a 20-foot emanation, affecting up to 10 creatures of your choice within that area.</p>
+  <p class="hanging-indent"><strong>Heightened (2nd)</strong> The duration increases to 8 hours.</p>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> The duration increases to 8 hours. The spell has a range of 20 feet and an area of a 20-foot emanation, affecting up to 10 creatures of your choice within that area.</p>

@@ -21,10 +21,10 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="range"><strong>Range</strong> 120 feet; <strong>Area</strong> 20-foot burst</p>
-  <p class="defense"><strong>Defense</strong> basic Fortitude; <strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Fortitude; <strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>You conjure a poisonous fog. This functions as <em>mist</em>, except the area moves 10 feet away from you each round. A breathing creature that starts its turn in the area takes 6d8 poison damage with a basic Fortitude save. You can Dismiss the spell.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 1d8.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d8.</p>

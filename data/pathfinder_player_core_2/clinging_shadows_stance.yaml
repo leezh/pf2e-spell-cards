@@ -20,6 +20,6 @@ traits:
 type: focus
 
 --- >
-  <p class="duration"><strong>Duration</strong> until you leave the stance</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until you leave the stance</p>
   <hr/>
   <p>You adopt the stance of clinging shadows. You can make shadow grasp Strikes. These deal 1d4 void damage; are in the brawling group; and have the agile, grapple, reach, and unarmed traits. While in clinging shadows stance, you gain a +2 circumstance bonus to Athletics checks to Grapple, and to the DC for creatures to Escape from you.</p>

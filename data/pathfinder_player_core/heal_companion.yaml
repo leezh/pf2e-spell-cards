@@ -1,4 +1,4 @@
-actions: '[one-action] TO [two-actions]'
+actions: '[one-action] or [two-actions]'
 bloodlines: []
 copyright: 2023 Paizo Inc.
 domains: []
@@ -19,10 +19,10 @@ traits:
 type: focus
 
 --- >
-  <p class="range"><strong>Range</strong> touch or 30 feet; <strong>Targets</strong> your animal companion</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch or 30 feet; <strong>Targets</strong> your animal companion</p>
   <hr/>
   <p>You heal your animal companion's wounds. You restore 1d10 Hit Points to your animal companion. The number of actions you spend Casting this Spell determines range and other parameters.</p>
-  <p>(manipulate) The spell has a range of touch.</p>
-  <p>(concentrate, manipulate) The spell has a range of 30 feet and restores an additional 8 Hit Points to the target.</p>
+  <p>[one-action] (manipulate) The spell has a range of touch.</p>
+  <p>[two-actions] (concentrate, manipulate) The spell has a range of 30 feet and restores an additional 8 Hit Points to the target.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The amount of healing increases by 1d10, and the additional healing for the 2-action version increases by 8.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The amount of healing increases by 1d10, and the additional healing for the 2-action version increases by 8.</p>

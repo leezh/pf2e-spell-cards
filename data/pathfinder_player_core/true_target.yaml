@@ -20,8 +20,8 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
-  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 4 creatures</p>
-  <p class="duration"><strong>Duration</strong> until the start of your next turn</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 4 creatures</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the start of your next turn</p>
   <hr/>
   <p>You delve into the possible futures of the next few seconds to understand all the ways your foe might avoid harm, then cast out that vision to those around you. Designate a creature. The first time each target makes an attack roll against that creature during <em>true target's</em> duration, the attacker rolls twice and uses the better result. The attacker also ignores circumstance penalties to the attack roll and any flat check required due to the designated creature being concealed or hidden.</p>

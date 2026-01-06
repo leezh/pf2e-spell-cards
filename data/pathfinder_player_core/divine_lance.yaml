@@ -22,10 +22,10 @@ traits:
 type: cantrip
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine</p>
-  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> AC</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> AC</p>
   <hr/>
   <p>You unleash a beam of divine energy. Make a ranged spell attack against the target's AC. On a hit, the target takes 2d4 spirit damage (double damage on a critical hit).</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>

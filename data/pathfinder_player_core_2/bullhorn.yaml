@@ -23,12 +23,12 @@ traits:
 type: cantrip
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult</p>
-  <p class="duration"><strong>Duration</strong> 10 minutes</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
   <hr/>
   <p>You amplify your voice, loud enough for you to be heard easily at a great distance. For the duration, your voice can be heard loudly and clearly by all listeners within 500 feet, even if other ambient noise would otherwise block the sound. Despite the volume, this doesn't make your voice jarring or distracting. This doesn't increase the range or area of other auditory or linguistic effects, and physical barriers such as walls and doors still block or muffle your voice as normal.</p>
   <p>Your loud voice makes it easier to Coerce others, and the acoustics assist in Performing at a large venue. You gain a +1 status bonus to checks to Coerce and auditory Performance checks to Perform at a large venue.</p>
   <p>You can Dismiss the spell.</p>
   <hr/>
-  <p><strong>Heightened (5th)</strong> Your voice can be heard clearly up to 1,200 feet away.</p>
-  <p><strong>Heightened (7th)</strong> Your voice can be heard clearly up to 1 mile away</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> Your voice can be heard clearly up to 1,200 feet away.</p>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> Your voice can be heard clearly up to 1 mile away</p>

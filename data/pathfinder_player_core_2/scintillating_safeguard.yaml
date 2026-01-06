@@ -19,10 +19,10 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine, occult, primal</p>
-  <p class="trigger"><strong>Trigger</strong> An effect would deal physical or energy damage to you or a creature in range</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> up to 5 willing creatures who would be harmed by the triggering effect</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult, primal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> An effect would deal physical or energy damage to you or a creature in range</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> up to 5 willing creatures who would be harmed by the triggering effect</p>
   <hr/>
   <p>A sparkling magical barrier envelops each target, shielding them against the triggering effect. Choose one type of physical or energy damage the triggering effect deals. Each target gains resistance 10 against that damage type for the triggering effect. The resistance applies only against the initial damage, not against any persistent damage or other lingering effects.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The resistance increases by 1.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The resistance increases by 1.</p>

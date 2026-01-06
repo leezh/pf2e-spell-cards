@@ -18,7 +18,7 @@ traits:
 type: focus
 
 --- >
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> your animal companion</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> your animal companion</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>Your animal companion grows a thicker hide, matted fur, or a harder shell, granting it a +1 status bonus to AC.</p>

@@ -21,7 +21,7 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="duration"><strong>Duration</strong> 10 minutes or 8 hours</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes or 8 hours</p>
   <hr/>
   <p>You can either transform into a stone or merge with stone. This spell has the same effects as <em>one with plants</em>, but lets you merge with or turn into stone. A stone you turn into has AC 23. You can Dismiss this spell.</p>

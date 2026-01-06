@@ -23,14 +23,14 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Area</strong> 5-foot burst</p>
-  <p class="defense"><strong>Defense</strong> Will</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Area</strong> 5-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will</p>
   <hr/>
   <p>Each creature in the area becomes drowsy, possibly nodding off. A creature that falls unconscious from this spell doesn't fall prone or release what it's holding. This spell doesn't prevent creatures from waking up due to a successful Perception check, limiting its utility in combat.</p>
-  <p><strong>Critical Success</strong> The creature is unaffected.</p>
-  <p><strong>Success</strong> The creature takes a –1 status penalty to Perception checks for 1 round.</p>
-  <p><strong>Failure</strong> The creature falls unconscious. If it's still unconscious after 1 minute, it wakes up automatically.</p>
-  <p><strong>Critical Failure</strong> The creature falls unconscious. If it's still unconscious after 1 hour, it wakes up automatically.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes a –1 status penalty to Perception checks for 1 round.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature falls unconscious. If it's still unconscious after 1 minute, it wakes up automatically.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature falls unconscious. If it's still unconscious after 1 hour, it wakes up automatically.</p>
   <hr/>
-  <p><strong>Heightened (4th)</strong> The creatures fall unconscious for 1 round on a failure or 1 minute on a critical failure. They fall prone and release what they're holding, and they can't attempt Perception checks to wake up. When the duration ends, the creature is sleeping normally instead of automatically waking up.</p>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> The creatures fall unconscious for 1 round on a failure or 1 minute on a critical failure. They fall prone and release what they're holding, and they can't attempt Perception checks to wake up. When the duration ends, the creature is sleeping normally instead of automatically waking up.</p>

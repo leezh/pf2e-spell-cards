@@ -23,12 +23,12 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
-  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
   <hr/>
   <p>The target is overcome with an all-consuming urge to dance. For the duration of the spell, the target is off-guard and can't use reactions. It also can't use move actions except to dance, using the Stride action to move up to half its Speed.</p>
-  <p><strong>Critical Success</strong> The target is unaffected.</p>
-  <p><strong>Success</strong> The spell's duration is 3 rounds, and the target must spend at least 1 action each turn dancing.</p>
-  <p><strong>Failure</strong> The spell's duration is 1 minute, and the target must spend at least 2 actions each turn dancing.</p>
-  <p><strong>Critical Failure</strong> The spell's duration is 1 minute, and the target must spend all its actions each turn dancing.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The spell's duration is 3 rounds, and the target must spend at least 1 action each turn dancing.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The spell's duration is 1 minute, and the target must spend at least 2 actions each turn dancing.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The spell's duration is 1 minute, and the target must spend all its actions each turn dancing.</p>

@@ -20,12 +20,12 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> tyranny</p>
-  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 living creature</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> tyranny</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 living creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
   <hr/>
   <p>Your imperious touch erodes the target's willpower, making it easier to control. The target attempts a Will save. Regardless of the result, it's then temporarily immune for 1 hour.</p>
-  <p><strong>Critical Success</strong> The target is unaffected.</p>
-  <p><strong>Success</strong> The target is stupefied 1 until the end of your next turn.</p>
-  <p><strong>Failure</strong> The target is stupefied 2 until the end of your next turn.</p>
-  <p><strong>Critical Failure</strong> The target is stupefied 2 for 1 minute and is forced to its knees, becoming prone.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is stupefied 1 until the end of your next turn.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is stupefied 2 until the end of your next turn.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is stupefied 2 for 1 minute and is forced to its knees, becoming prone.</p>

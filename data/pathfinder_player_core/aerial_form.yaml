@@ -20,28 +20,21 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>You harness your mastery of the sky to reshape your body into a Medium flying animal battle form. When you Cast this Spell, choose a listed battle form. You can decide the specific type of animal (such as an owl or eagle for bird), but this has no effect on the form's Size or statistics. While in this form, you gain the animal trait. You can Dismiss the spell.</p>
   <p>You gain specific abilities based on the animal you choose:</p>
-  <ul>
   <li>AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.</li>
   <li>5 temporary Hit Points.</li>
   <li>Low-light vision.</li>
   <li>One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +16, and your damage bonus is +5. These attacks are Dexterity based (for the purpose of the clumsy condition, for example). If your attack modifier for Dexterity-based unarmed attacks is higher, you can use it instead.</li>
   <li>Acrobatics modifier of +16, unless your own is higher.</li>
-  </ul>
   <p>You also gain specific abilities based on the form you choose:</p>
-  <ul>
-  <li><strong>Bat</strong> Speed 20 feet, fly 30 feet; precise echolocation 40 feet; <strong>Melee</strong> fangs, <strong>Damage</strong> 2d8 piercing; <strong>Melee</strong> wing (agile), <strong>Damage</strong> 2d6 bludgeoning.</li>
-  </ul>
---- >
-  <ul>
-  <li><strong>Bird</strong> Speed 10 feet, fly 50 feet; <strong>Melee</strong> beak, <strong>Damage</strong> 2d8 piercing; <strong>Melee</strong> talon (agile), <strong>Damage</strong> 1d10 slashing.</li>
-  <li><strong>Pterosaur</strong> Speed 10 feet, fly 40 feet; imprecise scent 30 feet; Melee beak, Damage 3d6 piercing.</li>
-  <li><strong>Wasp</strong> Speed 20 feet, fly 40 feet; <strong>Melee</strong> stinger, <strong>Damage</strong> 1d8 piercing plus 1d6 persistent poison.</li>
-  </ul>
+  <li><strong>Bat</strong> Speed 20 feet, fly 30 feet; precise echolocation 40 feet; <strong>Melee</strong> [one-action] fangs, <strong>Damage</strong> 2d8 piercing; <strong>Melee</strong> [one-action] wing (agile), <strong>Damage</strong> 2d6 bludgeoning.</li>
+  <li><strong>Bird</strong> Speed 10 feet, fly 50 feet; <strong>Melee</strong> [one-action] beak, <strong>Damage</strong> 2d8 piercing; <strong>Melee</strong> [one-action] talon (agile), <strong>Damage</strong> 1d10 slashing.</li>
+  <li><strong>Pterosaur</strong> Speed 10 feet, fly 40 feet; imprecise scent 30 feet; Melee [one-action] beak, Damage 3d6 piercing.</li>
+  <li><strong>Wasp</strong> Speed 20 feet, fly 40 feet; <strong>Melee</strong> [one-action] stinger, <strong>Damage</strong> 1d8 piercing plus 1d6 persistent poison.</li>
   <hr/>
-  <p><strong>Heightened (5th)</strong> Your battle form is Large and your fly Speed gains a +10-foot status bonus. You instead gain 10 temporary HP, attack modifier +18, damage bonus +8, and Acrobatics +20.</p>
-  <p><strong>Heightened (6th)</strong> Your battle form is Huge, your fly Speed gains a +15-foot status bonus, and your attacks have 10-foot reach. You instead gain AC = 21 + your level, 15 temporary HP, attack modifier +21, damage bonus +4 and double damage dice (including persistent damage), and Acrobatics +23.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> Your battle form is Large and your fly Speed gains a +10-foot status bonus. You instead gain 10 temporary HP, attack modifier +18, damage bonus +8, and Acrobatics +20.</p>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> Your battle form is Huge, your fly Speed gains a +15-foot status bonus, and your attacks have 10-foot reach. You instead gain AC = 21 + your level, 15 temporary HP, attack modifier +21, damage bonus +4 and double damage dice (including persistent damage), and Acrobatics +23.</p>

@@ -19,11 +19,11 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="cast"><strong>Cast</strong> 1 minute</p>
-  <p class="range"><strong>Range</strong> 0 feet</p>
-  <p class="duration"><strong>Duration</strong> 1 hour</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 minute</p>
+  <p class="hanging-indent range"><strong>Range</strong> 0 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
   <hr/>
   <p>You conjure a temporary object from magical energy. It must consist of earthen or plant-derived matter (such as wood, paper, brick, or stone) and be 5 cubic feet or smaller. It can't rely on intricate artistry or complex moving parts, never fulfills a cost or the like, and can't be made of precious materials or materials with a rarity of uncommon or higher. It is obviously temporarily conjured, and thus can't be sold or passed off as a genuine item. The spell gains the appropriate trait for the item created, typically earth, plant, or wood.</p>
   <hr/>
-  <p><strong>Heightened (5th)</strong> The item is metal and can include common minerals, like feldspar or quartz. The spell gains the metal trait if used to create a metal object.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> The item is metal and can include common minerals, like feldspar or quartz. The spell gains the metal trait if used to create a metal object.</p>

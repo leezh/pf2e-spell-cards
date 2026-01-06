@@ -19,47 +19,34 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>You transform into an avatar of your deity, assuming a Huge battle form. You have hands in this battle form and can take manipulate actions. You can Dismiss this spell.</p>
   <p>You gain the following statistics and abilities regardless of which deity's battle form you assume:</p>
-  <ul>
   <li>AC = 25 + your level. Ignore your armor's check penalty and Speed reduction.</li>
   <li>30 temporary Hit Points.</li>
   <li>Darkvision.</li>
   <li>One or more attacks specific to your deity's battle form, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +33, and you use the listed damage. Melee attacks are Strength based (for the purposes of the enfeebled condition, for example) unless they have the finesse trait, and all ranged attacks are Dexterity based.</li>
   <li>Athletics modifier of +35, unless your own is higher.</li>
-  </ul>
   <p>You also gain the specific abilities listed for your deity below:</p>
-  <ul>
-  <li><strong>Abadar</strong> Speed 50 feet, burrow 30 feet, immune to immobilized; <strong>Ranged</strong> crossbow (range increment 120 feet, reload 1), <strong>Damage</strong> 6d10+3 piercing.</li>
-  <li><strong>Asmodeus</strong> Speed 70 feet, fly 70 feet; Melee mace (reach 15 feet), <strong>Damage</strong> 6d10+6 bludgeoning; <strong>Ranged</strong> hellfire (range 120 feet), <strong>Damage</strong> 6d6+3 fire.</li>
-  </ul>
---- >
-  <ul>
-  <li><strong>Calistria</strong> Speed 30 feet, fly 70 feet; <strong>Melee</strong> whip (disarm, finesse, nonlethal, reach 20 feet), <strong>Damage</strong> 6d4+6 slashing; <strong>Ranged</strong> savored sting (range 60 feet), <strong>Damage</strong> 6d6+3 poison.</li>
-  <li><strong>Cayden Cailean</strong> Speed 70 feet, fly 70 feet, ignore difficult terrain and greater difficult terrain; <strong>Melee</strong> rapier (deadly 3d8, reach 15 feet), <strong>Damage</strong> 6d6+6 piercing; <strong>Ranged</strong> ale splash (range 120 feet), <strong>Damage</strong> 6d6+3 poison.</li>
-  <li><strong>Desna</strong> Speed 30 feet, fly 70 feet; <strong>Melee</strong> starknife (agile, deadly 3d4, finesse, reach 15 feet, silver, thrown 60 feet), <strong>Damage</strong> 6d4+6 piercing; <strong>Ranged</strong> moonbeam (range 120 feet, silver), <strong>Damage</strong> 6d6+3 fire.</li>
-  <li><strong>Erastil</strong> Speed 70 feet, fly 70 feet, ignore difficult terrain and greater difficult terrain; <strong>Ranged</strong> longbow (deadly 3d8, range increment 150 feet), <strong>Damage</strong> 6d8+3 piercing.</li>
-  <li><strong>Gorum</strong> Speed 70 feet, immune to immobilized; <strong>Melee</strong> greatsword (versatile P, reach 15 feet), <strong>Damage</strong> 6d12+6 slashing.</li>
-  <li><strong>Gozreh</strong> no land Speed, fly 70 feet, swim 70 feet, ignore difficult terrain and greater difficult terrain; <strong>Melee</strong> waves (reach 15 feet, shove, thrown 20 feet), <strong>Damage</strong> 6d8+6 bludgeoning; <strong>Ranged</strong> wind (versatile electricity, range 120 feet), <strong>Damage</strong> 6d6+3 bludgeoning.</li>
-  <li><strong>Iomedae</strong> Speed 70 feet, fly 70 feet; shield (Hardness 15, can't be damaged); <strong>Melee</strong> longsword (versatile P, reach 15 feet), <strong>Damage</strong> 6d8+6 slashing.</li>
-  <li><strong>Irori</strong> Speed 80 feet, fly 80 feet; <strong>Melee</strong> unfettered strike (agile, versatile P or S, finesse, reach 15 feet), <strong>Damage</strong> 6d8+6 bludgeoning; <strong>Ranged</strong> wind strike (range 60 feet), <strong>Damage</strong> 6d4+6 bludgeoning.</li>
-  </ul>
---- >
-  <ul>
-  <li><strong>Lamashtu</strong> Speed 30 feet, fly 70 feet; <strong>Melee</strong> falchion (forceful, reach 15 feet), <strong>Damage</strong> 6d10+6 slashing; <strong>Ranged</strong> waters of Lamashtu (range 120 feet), <strong>Damage</strong> 6d6+3 poison.</li>
-  <li><strong>Nethys</strong> Speed 70 feet, fly; <strong>Ranged</strong> raw magic (range 120 feet; versatile cold, electricity, or fire), <strong>Damage</strong> 6d6 force.</li>
-  <li><strong>Norgorber</strong> Speed 70 feet, fly 70 feet, ignore difficult terrain and greater difficult terrain; <strong>Melee</strong> shortsword (agile, finesse, versatile S, reach 15 feet), <strong>Damage</strong> 6d6+6 piercing; <strong>Ranged</strong> blackfinger toss (range 120 feet), <strong>Damage</strong> 6d6+3 poison.</li>
-  <li><strong>Pharasma</strong> Speed 70 feet, fly 70 feet; <strong>Melee</strong> dagger (agile, finesse, reach 15 feet, thrown 40 feet), <strong>Damage</strong> 6d6+6 slashing; <strong>Ranged</strong> spiral blast (range 120 feet, damages only undead), <strong>Damage</strong> 6d8+3 vitality.</li>
-  <li><strong>Rovagug</strong> Speed 50 feet, burrow 30 feet, immune to immobilized; <strong>Melee</strong> jaws (reach 15 feet), <strong>Damage</strong> 6d12+6 piercing; <strong>Melee</strong> leg (agile, versatile P, reach 15 feet), <strong>Damage</strong> 6d8+6 bludgeoning.</li>
-  <li><strong>Sarenrae</strong> Speed 30 feet, fly 70 feet; <strong>Melee</strong> scimitar (forceful, nonlethal, reach 15 feet), <strong>Damage</strong> 6d6+6 slashing; <strong>Ranged</strong> everflame (nonlethal, range 120 feet), <strong>Damage</strong> 6d6+3 fire.</li>
-  <li><strong>Shelyn</strong> Speed 70 feet, fly 70 feet, ignore difficult terrain and greater difficult terrain; Melee glaive (deadly 3d8, nonlethal, reach 20 feet), <strong>Damage</strong> 6d8+6 slashing; <strong>Ranged</strong> melody of inner beauty, (nonlethal, range 120 feet), <strong>Damage</strong> 6d6+3 sonic.</li>
-  </ul>
---- >
-  <ul>
-  <li><strong>Torag</strong> Speed 50 feet, burrow 30 feet, immune to immobilized; shield (Hardness 15, can't be damaged); <strong>Melee</strong> warhammer (reach 15 feet, shove), <strong>Damage</strong> 6d8+6 bludgeoning.</li>
-  <li><strong>Urgathoa</strong> Speed 70 feet, fly 70 feet; Melee scythe (deadly 3d10, trip, reach 15 feet), <strong>Damage</strong> 6d10+6 slashing; <strong>Ranged</strong> pallid plague (range 120 feet), <strong>Damage</strong> 6d6+3 void.</li>
-  <li><strong>Zon-Kuthon</strong> Speed 70 feet, fly 70 feet, ignore difficult terrain and greater difficult terrain; <strong>Melee</strong> spiked chain (disarm, trip, reach 15 feet), Damage 6d8+6 slashing; Ranged midnight pain (mental, nonlethal, range 120 feet), Damage 6d6+3 mental.</li>
-  </ul>
+  <li><strong>Abadar</strong> Speed 50 feet, burrow 30 feet, immune to immobilized; <strong>Ranged</strong> [one-action] crossbow (range increment 120 feet, reload 1), <strong>Damage</strong> 6d10+3 piercing.</li>
+  <li><strong>Asmodeus</strong> Speed 70 feet, fly 70 feet; Melee [one-action] mace (reach 15 feet), <strong>Damage</strong> 6d10+6 bludgeoning; <strong>Ranged</strong> [one-action] hellfire (range 120 feet), <strong>Damage</strong> 6d6+3 fire.</li>
+  <li><strong>Calistria</strong> Speed 30 feet, fly 70 feet; <strong>Melee</strong> [one-action] whip (disarm, finesse, nonlethal, reach 20 feet), <strong>Damage</strong> 6d4+6 slashing; <strong>Ranged</strong> [one-action] savored sting (range 60 feet), <strong>Damage</strong> 6d6+3 poison.</li>
+  <li><strong>Cayden Cailean</strong> Speed 70 feet, fly 70 feet, ignore difficult terrain and greater difficult terrain; <strong>Melee</strong> [one-action] rapier (deadly 3d8, reach 15 feet), <strong>Damage</strong> 6d6+6 piercing; <strong>Ranged</strong> [one-action] ale splash (range 120 feet), <strong>Damage</strong> 6d6+3 poison.</li>
+  <li><strong>Desna</strong> Speed 30 feet, fly 70 feet; <strong>Melee</strong> [one-action] starknife (agile, deadly 3d4, finesse, reach 15 feet, silver, thrown 60 feet), <strong>Damage</strong> 6d4+6 piercing; <strong>Ranged</strong> [one-action] moonbeam (range 120 feet, silver), <strong>Damage</strong> 6d6+3 fire.</li>
+  <li><strong>Erastil</strong> Speed 70 feet, fly 70 feet, ignore difficult terrain and greater difficult terrain; <strong>Ranged</strong> [one-action] longbow (deadly 3d8, range increment 150 feet), <strong>Damage</strong> 6d8+3 piercing.</li>
+  <li><strong>Gorum</strong> Speed 70 feet, immune to immobilized; <strong>Melee</strong> [one-action] greatsword (versatile P, reach 15 feet), <strong>Damage</strong> 6d12+6 slashing.</li>
+  <li><strong>Gozreh</strong> no land Speed, fly 70 feet, swim 70 feet, ignore difficult terrain and greater difficult terrain; <strong>Melee</strong> [one-action] waves (reach 15 feet, shove, thrown 20 feet), <strong>Damage</strong> 6d8+6 bludgeoning; <strong>Ranged</strong> [one-action] wind (versatile electricity, range 120 feet), <strong>Damage</strong> 6d6+3 bludgeoning.</li>
+  <li><strong>Iomedae</strong> Speed 70 feet, fly 70 feet; shield (Hardness 15, can't be damaged); <strong>Melee</strong> [one-action] longsword (versatile P, reach 15 feet), <strong>Damage</strong> 6d8+6 slashing.</li>
+  <li><strong>Irori</strong> Speed 80 feet, fly 80 feet; <strong>Melee</strong> [one-action] unfettered strike (agile, versatile P or S, finesse, reach 15 feet), <strong>Damage</strong> 6d8+6 bludgeoning; <strong>Ranged</strong> [one-action] wind strike (range 60 feet), <strong>Damage</strong> 6d4+6 bludgeoning.</li>
+  <li><strong>Lamashtu</strong> Speed 30 feet, fly 70 feet; <strong>Melee</strong> [one-action] falchion (forceful, reach 15 feet), <strong>Damage</strong> 6d10+6 slashing; <strong>Ranged</strong> [one-action] waters of Lamashtu (range 120 feet), <strong>Damage</strong> 6d6+3 poison.</li>
+  <li><strong>Nethys</strong> Speed 70 feet, fly; <strong>Ranged</strong> [one-action] raw magic (range 120 feet; versatile cold, electricity, or fire), <strong>Damage</strong> 6d6 force.</li>
+  <li><strong>Norgorber</strong> Speed 70 feet, fly 70 feet, ignore difficult terrain and greater difficult terrain; <strong>Melee</strong> [one-action] shortsword (agile, finesse, versatile S, reach 15 feet), <strong>Damage</strong> 6d6+6 piercing; <strong>Ranged</strong> [one-action] blackfinger toss (range 120 feet), <strong>Damage</strong> 6d6+3 poison.</li>
+  <li><strong>Pharasma</strong> Speed 70 feet, fly 70 feet; <strong>Melee</strong> [one-action] dagger (agile, finesse, reach 15 feet, thrown 40 feet), <strong>Damage</strong> 6d6+6 slashing; <strong>Ranged</strong> [one-action] spiral blast (range 120 feet, damages only undead), <strong>Damage</strong> 6d8+3 vitality.</li>
+  <li><strong>Rovagug</strong> Speed 50 feet, burrow 30 feet, immune to immobilized; <strong>Melee</strong> [one-action] jaws (reach 15 feet), <strong>Damage</strong> 6d12+6 piercing; <strong>Melee</strong> [one-action] leg (agile, versatile P, reach 15 feet), <strong>Damage</strong> 6d8+6 bludgeoning.</li>
+  <li><strong>Sarenrae</strong> Speed 30 feet, fly 70 feet; <strong>Melee</strong> [one-action] scimitar (forceful, nonlethal, reach 15 feet), <strong>Damage</strong> 6d6+6 slashing; <strong>Ranged</strong> [one-action] everflame (nonlethal, range 120 feet), <strong>Damage</strong> 6d6+3 fire.</li>
+  <li><strong>Shelyn</strong> Speed 70 feet, fly 70 feet, ignore difficult terrain and greater difficult terrain; Melee [one-action] glaive (deadly 3d8, nonlethal, reach 20 feet), <strong>Damage</strong> 6d8+6 slashing; <strong>Ranged</strong> [one-action] melody of inner beauty, (nonlethal, range 120 feet), <strong>Damage</strong> 6d6+3 sonic.</li>
+  <li><strong>Torag</strong> Speed 50 feet, burrow 30 feet, immune to immobilized; shield (Hardness 15, can't be damaged); <strong>Melee</strong> [one-action] warhammer (reach 15 feet, shove), <strong>Damage</strong> 6d8+6 bludgeoning.</li>
+  <li><strong>Urgathoa</strong> Speed 70 feet, fly 70 feet; Melee [one-action] scythe (deadly 3d10, trip, reach 15 feet), <strong>Damage</strong> 6d10+6 slashing; <strong>Ranged</strong> [one-action] pallid plague (range 120 feet), <strong>Damage</strong> 6d6+3 void.</li>
+  <li><strong>Zon-Kuthon</strong> Speed 70 feet, fly 70 feet, ignore difficult terrain and greater difficult terrain; <strong>Melee</strong> [one-action] spiked chain (disarm, trip, reach 15 feet), Damage 6d8+6 slashing; Ranged [one-action] midnight pain (mental, nonlethal, range 120 feet), Damage 6d6+3 mental.</li>

@@ -21,8 +21,8 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine, primal</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> dead creatures and living creatures of your choice within range</p>
-  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> dead creatures and living creatures of your choice within range</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>
   <p>A burst of healing energy soothes living creatures and temporarily rouses those recently slain. All living targets regain 10d8+40 Hit Points. You return any number of dead targets to life temporarily, with the same effects and limitations as <em>raise dead</em>. The raised creatures have a number of temporary Hit Points equal to the Hit Points you gave living creatures, but no normal Hit Points. The raised creatures can't regain Hit Points or gain temporary Hit Points in other ways, and once <em>revival's</em> duration ends, they lose all temporary Hit Points and die. <em>Revival</em> can't resurrect creatures killed by <em>disintegrate</em> or a death effect. It has no effect on undead.</p>

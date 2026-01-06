@@ -19,9 +19,9 @@ traits:
 type: focus
 
 --- >
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>
   <p>Your patron uses its superior command of the elements, empowering them to undermine your foe. When you Cast this Spell, choose air, earth, metal, fire, water, or wood. The target gains weakness 2 to that trait.</p>
   <hr/>
-  <p><strong>Heightened (+2)</strong> Increase the weakness by 1.</p>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> Increase the weakness by 1.</p>

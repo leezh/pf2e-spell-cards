@@ -20,9 +20,9 @@ traits:
 type: cantrip
 
 --- >
-  <p class="patron"><strong>Patron</strong> Spinner of Threads</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent patron"><strong>Patron</strong> Spinner of Threads</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>The barest spin of your patron's spool is enough to alter fate. When the target fails an attack roll, skill check, or saving throw and a +1 status bonus would turn a critical failure into a failure, or failure into a success, you grant the target a +1 status bonus to the check retroactively, changing the outcome appropriately. The spell then ends.</p>
   <p>If you cast <em>nudge fate</em> while a previous casting of this hex is still in effect, the previous effect ends.</p>

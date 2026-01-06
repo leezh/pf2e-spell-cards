@@ -20,7 +20,7 @@ traits:
 type: focus
 
 --- >
-  <p class="mystery"><strong>Mystery</strong> lore</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent mystery"><strong>Mystery</strong> lore</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>You sift through the multiverse's divine knowledge, seeking out tidbits related to a particular subject. Choose one Lore skill. You temporarily gain the same proficiency rank in that Lore skill as your proficiency rank for your oracle spellcasting.</p>

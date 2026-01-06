@@ -22,7 +22,7 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
-  <p class="range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 spell effect or unattended magic item</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 spell effect or unattended magic item</p>
   <hr/>
   <p>You unravel the magic behind a spell or effect. Attempt a counteract check against the target. If you successfully counteract a magic item, it becomes a mundane item of its type for 10 minutes. This doesn't change the item's non-magical properties. If the target is an artifact or similar item, you automatically fail.</p>

@@ -23,7 +23,7 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
-  <p class="duration"><strong>Duration</strong> 10 minutes</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
   <hr/>
   <p>You see things within 60 feet as they actually are. The GM rolls a secret counteract check against any illusion, morph, or polymorph effect in the area, but only for the purpose of determining whether you see through it (for instance, if the check succeeds against a polymorph spell, you can see the creature's true form, but you don't end the polymorph spell).</p>

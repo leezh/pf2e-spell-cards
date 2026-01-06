@@ -20,9 +20,9 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> occult, primal</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 unattended object</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> occult, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 unattended object</p>
   <hr/>
   <p>A high-frequency sonic attack shatters a nearby object. You deal 2d10 sonic damage to the object, ignoring the object's Hardness if it is 4 or lower.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 1d10, and the Hardness the spell ignores increases by 2.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d10, and the Hardness the spell ignores increases by 2.</p>

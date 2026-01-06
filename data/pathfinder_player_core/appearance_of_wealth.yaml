@@ -21,11 +21,11 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> wealth</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Area</strong> 5-foot burst</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> wealth</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Area</strong> 5-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>
   <p>You create a brief vision of immense wealth filling the spell's area. Each creature within 20 feet of the area that could be enticed by material wealth must attempt a Will saving throw. A creature that enters the area automatically disbelieves the illusion, and disbelieving the illusion ends any fascinated condition imposed by the spell. As long as you Sustain the spell, other creatures react to the treasure like they would any other illusion, but they are not at risk of becoming fascinated.</p>
-  <p><strong>Critical Success</strong> The creature disbelieves the illusion and is unaffected by it.</p>
-  <p><strong>Success</strong> The creature is fascinated by the wealth until it has completed its first action on its next turn.</p>
-  <p><strong>Failure</strong> The creature is fascinated by the illusion.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature disbelieves the illusion and is unaffected by it.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature is fascinated by the wealth until it has completed its first action on its next turn.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature is fascinated by the illusion.</p>

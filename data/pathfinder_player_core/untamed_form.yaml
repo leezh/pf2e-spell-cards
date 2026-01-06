@@ -20,8 +20,8 @@ traits:
 type: focus
 
 --- >
-  <p class="duration"><strong>Duration</strong> varies</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> varies</p>
   <hr/>
-  <p>You reach within for a different part of yourself, and you set it free, transforming your body into another form. You polymorph into any form listed in <em>pest form</em>, which lasts 10 minutes. All other <em>untamed form</em> shapes last 1 minute. You can add more shapes to your <em>untamed form</em> list with druid feats; your feat might grant you some or all of the shapes from a given polymorph spell. When you transform into a shape granted by a spell, you gain all the effects of the shape you chose from a version of the spell heightened to <em>untamed form'_s rank. _Untamed form</em> allows you to use your own shapeshifting training more easily than most polymorph spells. When you choose to use your own attack modifier while polymorphed instead of the form's default attack modifier, you gain a +2 status bonus to your attack rolls.</p>
+  <p>You reach within for a different part of yourself, and you set it free, transforming your body into another form. You polymorph into any form listed in <em>pest form</em>, which lasts 10 minutes. All other <em>untamed form</em> shapes last 1 minute. You can add more shapes to your <em>untamed form</em> list with druid feats; your feat might grant you some or all of the shapes from a given polymorph spell. When you transform into a shape granted by a spell, you gain all the effects of the shape you chose from a version of the spell heightened to <em>untamed form'</em>s rank. <em>Untamed form</em> allows you to use your own shapeshifting training more easily than most polymorph spells. When you choose to use your own attack modifier while polymorphed instead of the form's default attack modifier, you gain a +2 status bonus to your attack rolls.</p>
   <hr/>
-  <p><strong>Heightened (2nd)</strong> You can transform into shapes listed in <em>animal form</em>.</p>
+  <p class="hanging-indent"><strong>Heightened (2nd)</strong> You can transform into shapes listed in <em>animal form</em>.</p>

@@ -21,14 +21,14 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult, primal</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> varies</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> varies</p>
   <hr/>
   <p>You dilate the flow of time around the target, slowing its actions.</p>
-  <p><strong>Critical Success</strong> The target is unaffected.</p>
-  <p><strong>Success</strong> The target is slowed 1 for 1 round.</p>
-  <p><strong>Failure</strong> The target is slowed 1 for 1 minute.</p>
-  <p><strong>Critical Failure</strong> The target is slowed 2 for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is slowed 1 for 1 round.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is slowed 1 for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is slowed 2 for 1 minute.</p>
   <hr/>
-  <p><strong>Heightened (6th)</strong> You can target up to 10 creatures.</p>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> You can target up to 10 creatures.</p>

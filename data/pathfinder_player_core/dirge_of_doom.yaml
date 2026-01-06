@@ -22,7 +22,7 @@ traits:
 type: cantrip
 
 --- >
-  <p class="area"><strong>Area</strong> 30-foot emanation</p>
-  <p class="duration"><strong>Duration</strong> 1 round</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot emanation</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 round</p>
   <hr/>
   <p>Enemies within the area are frightened 1. They can't reduce their frightened value below 1 while they remain in the area.</p>

@@ -22,9 +22,9 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine, occult, primal</p>
-  <p class="duration"><strong>Duration</strong> 1 hour</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult, primal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
   <hr/>
   <p>You can ask questions of and receive answers from plants and fungi, but the spell doesn't make them more friendly or intelligent than normal. Most normal plants and fungi have a distinctive view of the world around them, so they don't recognize details about creatures or know anything about the world beyond their immediate vicinity. Cunning plant or fungus monsters are likely to be terse and evasive, while less intelligent ones often make inane comments.</p>
   <hr/>
-  <p><strong>Heightened (4th)</strong> The duration is 8 hours.</p>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> The duration is 8 hours.</p>

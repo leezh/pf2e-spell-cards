@@ -19,14 +19,14 @@ traits:
 type: focus
 
 --- >
-  <p class="requirements"><strong>Requirements</strong> You are in <em>clinging shadows stance</em>.</p>
-  <p class="range"><strong>Range</strong> 30-foot emanation</p>
-  <p class="defense"><strong>Defense</strong> Fortitude</p>
+  <p class="hanging-indent requirements"><strong>Requirements</strong> You are in<em>clinging shadows stance</em>.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30-foot emanation</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
   <hr/>
   <p>Grasping darkness surges from you, dealing 14d4 void damage. Each creature in the area must attempt a Fortitude save.</p>
-  <p><strong>Critical Success</strong> The creature is unaffected.</p>
-  <p><strong>Success</strong> The creature takes half damage and is enfeebled 1 for 1 round.</p>
-  <p><strong>Failure</strong> The creature takes full damage and is enfeebled 2 for 1 round.</p>
-  <p><strong>Critical Failure</strong> The creature takes double damage, is stunned 1, and enfeebled 2 for 1 round, and immobilized for 1 round or until it Escapes, whichever comes first.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes half damage and is enfeebled 1 for 1 round.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes full damage and is enfeebled 2 for 1 round.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature takes double damage, is stunned 1, and enfeebled 2 for 1 round, and immobilized for 1 round or until it Escapes, whichever comes first.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The void damage increases by 2d4.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The void damage increases by 2d4.</p>

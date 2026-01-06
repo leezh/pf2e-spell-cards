@@ -22,14 +22,14 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
-  <p class="area"><strong>Area</strong> 30-foot cone</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 or more rounds</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot cone</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 or more rounds</p>
   <hr/>
   <p>You inflict despair on creatures in the area. The effects for each creature are determined by its Will save.</p>
-  <p><strong>Critical Success</strong> The creature is unaffected.</p>
-  <p><strong>Success</strong> For 1 round, the creature can't use reactions and must attempt another save at the start of its turn; on a failure, it is slowed 1 for that turn as it sobs uncontrollably.</p>
-  <p><strong>Failure</strong> As success, but the duration is 1 minute.</p>
-  <p><strong>Critical Failure</strong> As failure, and the creature is automatically slowed 1 for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> For 1 round, the creature can't use reactions and must attempt another save at the start of its turn; on a failure, it is slowed 1 for that turn as it sobs uncontrollably.</p>
+  <p class="hanging-indent"><strong>Failure</strong> As success, but the duration is 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, and the creature is automatically slowed 1 for 1 minute.</p>
   <hr/>
-  <p><strong>Heightened (7th)</strong> The area increases to a 60-foot cone.</p>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> The area increases to a 60-foot cone.</p>

@@ -20,10 +20,10 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing creature</p>
-  <p class="duration"><strong>Duration</strong> 10 minutes</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
   <hr/>
   <p>The target's feet transform into fins, improving mobility in the water but reducing it on land. The target gains a swim Speed equal to its normal land Speed, but its land Speed becomes 5 feet.</p>
   <hr/>
-  <p><strong>Heightened (6th)</strong> The spell lasts until your next daily preparations.</p>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> The spell lasts until your next daily preparations.</p>

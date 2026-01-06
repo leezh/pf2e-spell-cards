@@ -20,10 +20,10 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="area"><strong>Area</strong> 15-foot cone</p>
-  <p class="defense"><strong>Defense</strong> basic Reflex</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 15-foot cone</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex</p>
   <hr/>
   <p>A gout of flame sprays from your mouth. You deal 2d6 fire damage to creatures in the area with a basic Reflex save.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>

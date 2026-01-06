@@ -23,13 +23,11 @@ traits:
 type: focus
 
 --- >
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> you and up to 9 allies</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> you and up to 9 allies</p>
   <hr/>
   <p>You draw upon your muse to soothe your allies. Choose one of the following three effects:</p>
-  <ul>
   <li>The spell attempts to counteract fear effects on the targets.</li>
   <li>The spell attempts to counteract effects imposing paralysis on the targets.</li>
   <li>The spell restores 7d8 Hit Points to the targets.</li>
-  </ul>
   <hr/>
-  <p><strong>Heightened (+1)</strong> When used to heal, <em>soothing ballad</em> restores 1d8 more Hit Points.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> When used to heal, <em>soothing ballad</em> restores 1d8 more Hit Points.</p>

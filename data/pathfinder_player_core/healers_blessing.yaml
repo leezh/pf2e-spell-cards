@@ -19,11 +19,11 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> healing</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 willing living creature</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> healing</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 willing living creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>Your words bless a creature with an enhanced connection to vital energy. When the target regains Hit Points from a healing vitality spell, it regains 2 additional Hit Points.</p>
   <p>The target regains additional Hit Points from <em>healer's blessing</em> only the first time it regains HP from a given healing spell, so a spell that heals the creature repeatedly over a duration would restore additional Hit Points only once, when they are first healed.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The additional healing increases by 2 HP.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The additional healing increases by 2 HP.</p>

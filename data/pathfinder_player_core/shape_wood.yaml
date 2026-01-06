@@ -21,7 +21,7 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> an unworked piece of wood up to 20 cubic feet in volume</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> an unworked piece of wood up to 20 cubic feet in volume</p>
   <hr/>
   <p>You shape the wood into a rough shape of your choice. The shaping power is too crude to produce with intricate parts, fine details, moving pieces, or the like. You can't use this spell to enhance the value of the wooden object you are shaping.</p>

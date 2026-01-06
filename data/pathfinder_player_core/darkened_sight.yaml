@@ -21,8 +21,8 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> darkness</p>
-  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> darkness</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>You infuse a creature's vision with darkness. It receives greater darkvision, allowing it to see even in magical darkness.</p>

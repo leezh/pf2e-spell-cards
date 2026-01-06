@@ -23,14 +23,14 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> occult</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>Illusory pain wracks the target, dealing 2d4 mental damage and 1d4 persistent mental damage with a Will save.</p>
-  <p><strong>Critical Success</strong> The target is unaffected.</p>
-  <p><strong>Success</strong> The target takes full initial damage but no persistent damage, and the spell ends immediately.</p>
-  <p><strong>Failure</strong> The target takes full initial and persistent damage, and the target is sickened 1. If the target recovers from being sickened, the persistent damage ends and the spell ends.</p>
-  <p><strong>Critical Failure</strong> As failure, but the target is sickened 2.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes full initial damage but no persistent damage, and the spell ends immediately.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target takes full initial and persistent damage, and the target is sickened 1. If the target recovers from being sickened, the persistent damage ends and the spell ends.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, but the target is sickened 2.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 2d4 and the persistent damage by 1d4.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 2d4 and the persistent damage by 1d4.</p>

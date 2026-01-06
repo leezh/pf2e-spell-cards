@@ -20,12 +20,12 @@ traits:
 type: cantrip
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 unattended object of Light bulk or less</p>
-  <p class="duration"><strong>Duration</strong> sustained</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 unattended object of Light bulk or less</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained</p>
   <hr/>
   <p>You create a floating, magical hand, either invisible or ghostlike, that grasps the target object and levitates it slowly up to 20 feet in any direction. When you Sustain the spell, you can move the object an additional 20 feet. If the object is in the air when the spell ends, the object falls.</p>
   <hr/>
-  <p><strong>Heightened (3rd)</strong> You can target an unattended object with a Bulk of 1 or less.</p>
-  <p><strong>Heightened (5th)</strong> The range increases to 60 feet, and you can target an unattended object with a Bulk of 1 or less.</p>
-  <p><strong>Heightened (7th)</strong> The range increases to 60 feet, and you can target an unattended object with a Bulk of 2 or less.</p>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> You can target an unattended object with a Bulk of 1 or less.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> The range increases to 60 feet, and you can target an unattended object with a Bulk of 1 or less.</p>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> The range increases to 60 feet, and you can target an unattended object with a Bulk of 2 or less.</p>

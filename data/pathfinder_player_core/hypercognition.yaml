@@ -17,6 +17,6 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> occult</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> occult</p>
   <hr/>
   <p>You rapidly catalog and collate information relevant to your current situation. You can instantly use up to 6 Recall Knowledge actions as part of Casting this Spell. For these actions, you can't use any special abilities, reactions, or free actions that trigger when you Recall Knowledge.</p>

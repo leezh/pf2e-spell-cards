@@ -20,10 +20,10 @@ traits:
 type: focus
 
 --- >
-  <p class="bloodline"><strong>Bloodline</strong> draconic</p>
-  <p class="area"><strong>Area</strong> 30-foot cone</p>
-  <p class="defense"><strong>Defense</strong> basic Reflex</p>
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> draconic</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot cone</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex</p>
   <hr/>
   <p>You spew energy from your mouth, dealing 5d6 damage with a basic Reflex save. The damage type depends on the magical tradition related to the dragon that influenced your bloodline: <strong>arcane</strong> force, <strong>divine</strong> spirit, <strong>occult</strong> mental, or <strong>primal</strong> fire.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>

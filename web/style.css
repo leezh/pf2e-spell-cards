@@ -152,9 +152,8 @@ input[type="checkbox"] + label {
 }
 
 img.action {
-    height: 0.9em;
-    margin-bottom: 0.25em;
-    vertical-align: bottom;
+    height: 0.8em;
+    vertical-align: central 0.25em;
 }
 
 .card {
@@ -192,7 +191,7 @@ img.action {
 
 .copyright {
     font-size: 6pt;
-    margin-top: 1pt;
+    margin-top: 3pt;
 }
 
 .traits {
@@ -203,8 +202,6 @@ img.action {
 
 .traits > div {
     background: #5e0000;
-    border-left-width: 2pt;
-    border-right-width: 2pt;
     border: 1.2pt #d9c484 solid;
     color: #ffffff;
     display: inline-block;
@@ -223,24 +220,32 @@ img.action {
     overflow: hidden;
 }
 
-.description *:first-child {
+.description + *:first-child {
     margin-top: 0;
 }
 
-.description *:last-child {
+.description + *:last-child {
     margin-bottom: 0;
 }
 
-p + p:not(:has(strong:first-child)) {
-    text-indent: 1em;
+p + p:not(.hanging-indent) {
+    text-indent: 1.5em;
+}
+
+p.hanging-indent {
+    padding-left: 1.5em;
+    text-indent: -1.5em;
 }
 
 p.indent {
-    margin-left: 1em !important;
+    margin-left: 1.5em;
 }
 
-p.li {
-    margin-left: 2.5em !important;
+li {
+    display: list-item;
+    margin-left: 1.5em;
+    list-style: disc;
+    text-indent: 0;
 }
 
 strong {
@@ -263,10 +268,6 @@ td {
     vertical-align: top;
 }
 
-ul {
-    padding-left: 1.5em;
-}
-
 hr {
     border-bottom: 0.5pt #000000 solid;
     margin: 2pt 0;
@@ -276,9 +277,12 @@ hr:first-child {
     display: none;
 }
 
-p:has(strong:first-child) {
-    margin-left: 1em;
-    text-indent: -1em;
+hr:last-child {
+    display: none;
+}
+
+table + hr {
+    border-color: transparent;
 }
 
 h3 {

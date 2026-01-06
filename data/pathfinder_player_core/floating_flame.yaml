@@ -21,10 +21,10 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Area</strong> 1 5-foot square</p>
-  <p class="defense"><strong>Defense</strong> Reflex; <strong>Duration</strong> sustained up to 1 minute</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Area</strong> 1 5-foot square</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Reflex; <strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>
   <p>You create a fire that burns without fuel and moves to your commands. The flame deals 3d6 fire damage to each creature in the square in which it appears, with a basic Reflex save. When you Sustain this spell, you can levitate the flame up to 10 feet. It then deals damage to each creature whose space it shared at any point during its flight. This uses the same damage and save, and you roll the damage once each time you Sustain. A given creature can take damage from <em>floating flame</em> only once per round.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 1d6.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d6.</p>

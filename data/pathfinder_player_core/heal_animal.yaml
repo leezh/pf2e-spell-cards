@@ -1,4 +1,4 @@
-actions: '[one-action] TO [two-actions]'
+actions: '[one-action] to [two-actions]'
 bloodlines: []
 copyright: 2023 Paizo Inc.
 domains: []
@@ -20,10 +20,10 @@ traits:
 type: focus
 
 --- >
-  <p class="range"><strong>Range</strong> touch or 30 feet (see text); <strong>Targets</strong> 1 willing living animal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch or 30 feet (see text); <strong>Targets</strong> 1 willing living animal</p>
   <hr/>
   <p>You heal an animal's wounds, restoring 1d8 Hit Points to the target. The number of actions spent Casting this Spell determines its effect.</p>
-  <p>The spell has a range of touch.</p>
-  <p>(concentrate) The spell has a range of 30 feet and restores an additional 8 Hit Points to the target.</p>
+  <p>[one-action] The spell has a range of touch.</p>
+  <p>[two-actions] (concentrate) The spell has a range of 30 feet and restores an additional 8 Hit Points to the target.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The amount of healing increases by 1d8, and the additional healing for the 2-action version increases by 8.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The amount of healing increases by 1d8, and the additional healing for the 2-action version increases by 8.</p>

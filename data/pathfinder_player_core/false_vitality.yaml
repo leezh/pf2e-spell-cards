@@ -19,9 +19,9 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
-  <p class="duration"><strong>Duration</strong> 8 hours</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 8 hours</p>
   <hr/>
   <p>You augment your flesh with the energies typically used to manipulate the undead. You gain 10 temporary Hit Points.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The temporary Hit Points increase by 3.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The temporary Hit Points increase by 3.</p>

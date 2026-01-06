@@ -20,10 +20,10 @@ traits:
 type: focus
 
 --- >
-  <p class="bloodline"><strong>Bloodline</strong> elemental</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> AC</p>
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> elemental</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> AC</p>
   <hr/>
   <p>With a flick of your wrist, you fling a chunk of your elemental matter at your foe. Make a ranged spell attack roll, dealing 1d8 damage on a success and double damage on a critical success. This spell deals damage according to your elemental influence (for instance, slashing for air or fire for fire) and has your element's trait.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 1d8.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d8.</p>

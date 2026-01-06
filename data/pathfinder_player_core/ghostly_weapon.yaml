@@ -19,8 +19,8 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
-  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 weapon that is either unattended or wielded by you or a willing ally</p>
-  <p class="duration"><strong>Duration</strong> 5 minutes</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 weapon that is either unattended or wielded by you or a willing ally</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 5 minutes</p>
   <hr/>
   <p>The target weapon becomes translucent and ghostly, and it can affect material and incorporeal creatures and objects. It gains the effects of the <em>ghost touch</em> property rune, meaning it is magical if it wasn't already, is especially effective against incorporeal creatures, and can be wielded by a corporeal or incorporeal creature.</p>

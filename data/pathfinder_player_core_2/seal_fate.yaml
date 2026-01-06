@@ -22,14 +22,14 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult</p>
-  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 living creature</p>
-  <p class="defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> varies</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 living creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> varies</p>
   <hr/>
   <p>You utter a curse that a creature will meet a certain end—a death by freezing, stabbing, or another means you devise. Choose one type of damage from the following list: acid, bludgeoning, cold, electricity, fire, piercing, slashing, sonic, or void. The effect is based on the target's Fortitude save.</p>
-  <p><strong>Critical Success</strong> The target is unaffected.</p>
-  <p><strong>Success</strong> The target gains weakness 2 to the chosen damage type until the end of your next turn.</p>
-  <p><strong>Failure</strong> As success, but the duration is 1 minute. If the creature is reduced to 0 Hit Points by the chosen damage and its level is 7 or less, it dies.</p>
-  <p><strong>Critical Failure</strong> As failure, but the duration is unlimited.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target gains weakness 2 to the chosen damage type until the end of your next turn.</p>
+  <p class="hanging-indent"><strong>Failure</strong> As success, but the duration is 1 minute. If the creature is reduced to 0 Hit Points by the chosen damage and its level is 7 or less, it dies.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, but the duration is unlimited.</p>
   <hr/>
-  <p><strong>Heightened (+2)</strong> The weakness increases by 1, and the maximum level of creature that can be automatically killed increases by 4.</p>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The weakness increases by 1, and the maximum level of creature that can be automatically killed increases by 4.</p>

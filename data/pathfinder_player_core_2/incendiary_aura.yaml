@@ -21,10 +21,10 @@ traits:
 type: focus
 
 --- >
-  <p class="mystery"><strong>Mystery</strong> flames</p>
-  <p class="area"><strong>Area</strong> 10-foot emanation</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent mystery"><strong>Mystery</strong> flames</p>
+  <p class="hanging-indent area"><strong>Area</strong> 10-foot emanation</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>You surround yourself with a combustible aura. Each time a creature within the emanation takes fire damage, it catches on fire, taking 2d4 persistent fire damage.</p>
   <hr/>
-  <p><strong>Heightened (+2)</strong> The persistent damage increases by 1d4 and the radius of the emanation increases by 5 feet.</p>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The persistent damage increases by 1d4 and the radius of the emanation increases by 5 feet.</p>

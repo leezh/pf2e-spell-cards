@@ -21,11 +21,10 @@ traits:
 type: focus
 
 --- >
-  <p class="mystery"><strong>Mystery</strong> cosmos</p>
-  <p class="area"><strong>Area</strong> 30 feet</p>
-  <p class="targets"><strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> sustained up to 1 minute</p>
+  <p class="hanging-indent mystery"><strong>Mystery</strong> cosmos</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>
   <p>You call upon the frigid depths of outer space to bring a terrible chill to your enemy. The target is cloaked in the freezing void, which deals 3d6 cold damage immediately and the first time each round you Sustain the spell on future turns, with a basic Fortitude save. The target is fatigued for as long as the effect persists.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The cold damage increases by 1d6.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The cold damage increases by 1d6.</p>

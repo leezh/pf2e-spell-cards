@@ -26,16 +26,16 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult, primal</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 hour</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 hour</p>
   <hr/>
   <p>To the target, your words are honey and your visage seems bathed in a dreamy haze. It must attempt a Will save, with a +4 circumstance bonus if you or your allies recently threatened it or used hostile actions against it.</p>
   <p>You can Dismiss the spell. If you use hostile actions against the target, the spell ends. When the spell ends, the target doesn't necessarily realize it was charmed unless its friendship with you or the actions you convinced it to take clash with its expectations, meaning you could potentially convince the target to continue being your friend via mundane means.</p>
-  <p><strong>Critical Success</strong> The target is unaffected and aware you tried to charm it.</p>
-  <p><strong>Success</strong> The target is unaffected but thinks your spell was something harmless instead of <em>charm</em>, unless it identifies the spell.</p>
-  <p><strong>Failure</strong> The target's attitude becomes friendly toward you. If it was friendly, it becomes helpful. It can't use hostile actions against you.</p>
-  <p><strong>Critical Failure</strong> The target's attitude becomes helpful toward you, and it can't use hostile actions against you.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected and aware you tried to charm it.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is unaffected but thinks your spell was something harmless instead of <em>charm</em>, unless it identifies the spell.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target's attitude becomes friendly toward you. If it was friendly, it becomes helpful. It can't use hostile actions against you.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target's attitude becomes helpful toward you, and it can't use hostile actions against you.</p>
   <hr/>
-  <p><strong>Heightened (4th)</strong> The duration lasts until your next daily preparations.</p>
-  <p><strong>Heightened (8th)</strong> The duration lasts until your next daily preparations, and you can target up to 10 creatures.</p>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> The duration lasts until your next daily preparations.</p>
+  <p class="hanging-indent"><strong>Heightened (8th)</strong> The duration lasts until your next daily preparations, and you can target up to 10 creatures.</p>

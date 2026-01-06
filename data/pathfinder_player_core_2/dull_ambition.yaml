@@ -23,12 +23,12 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult</p>
-  <p class="range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
   <hr/>
   <p>You curse the target to fail in all avenues of its life that require drive and ambition, as it inadvertently undermines its own goals at every turn. The effect is based on the target's Will save.</p>
-  <p><strong>Critical Success</strong> The target is unaffected.</p>
-  <p><strong>Success</strong> For 1 hour, the target rolls twice and uses the lower result on initiative rolls.</p>
-  <p><strong>Failure</strong> For 1 day, the target rolls twice and uses the lower result on initiative rolls and any check to determine the success of a downtime activity.</p>
-  <p><strong>Critical Failure</strong> As failure, but the duration is unlimited.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> For 1 hour, the target rolls twice and uses the lower result on initiative rolls.</p>
+  <p class="hanging-indent"><strong>Failure</strong> For 1 day, the target rolls twice and uses the lower result on initiative rolls and any check to determine the success of a downtime activity.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, but the duration is unlimited.</p>

@@ -21,7 +21,7 @@ traits:
 type: cantrip
 
 --- >
-  <p class="area"><strong>Area</strong> 60-foot emanation</p>
-  <p class="duration"><strong>Duration</strong> 1 round</p>
+  <p class="hanging-indent area"><strong>Area</strong> 60-foot emanation</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 round</p>
   <hr/>
   <p>You inspire yourself and your allies with words or tunes of encouragement. You and all allies in the area gain a +1 status bonus to attack rolls, damage rolls, and saves against fear effects.</p>

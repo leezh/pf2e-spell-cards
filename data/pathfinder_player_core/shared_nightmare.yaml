@@ -23,12 +23,12 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> nightmares</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> nightmares</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
   <hr/>
   <p>Merging minds with the target, you swap distressing visions. One of you will become confused, based on the target's Will save.</p>
-  <p><strong>Critical Success</strong> You are confused for 1 round.</p>
-  <p><strong>Success</strong> At the start of your next turn, you spend your first action with the confused condition, then act normally.</p>
-  <p><strong>Failure</strong> The target spends the first action of each of its turns confused. The duration is 1 minute.</p>
-  <p><strong>Critical Failure</strong> The target is confused. The duration is 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> You are confused for 1 round.</p>
+  <p class="hanging-indent"><strong>Success</strong> At the start of your next turn, you spend your first action with the confused condition, then act normally.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target spends the first action of each of its turns confused. The duration is 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is confused. The duration is 1 minute.</p>

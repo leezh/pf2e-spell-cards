@@ -23,14 +23,14 @@ traits:
 type: cantrip
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> AC</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> AC</p>
   <hr/>
   <p>You conjure up a length of sharp copper filament humming with electrical current that strikes out at your foe. The wire deals 1d4 slashing damage and 1d4 electricity damage, depending on your spell attack roll against the target's AC.</p>
-  <p><strong>Critical Success</strong> The target takes double damage and 1d4 persistent electricity damage.</p>
-  <p><strong>Success</strong> The target takes full damage.</p>
-  <p><strong>Failure</strong> The target takes the electricity damage, but not the slashing damage.</p>
-  <p><strong>Critical Failure</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target takes double damage and 1d4 persistent electricity damage.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes full damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target takes the electricity damage, but not the slashing damage.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is unaffected.</p>
   <hr/>
-  <p><strong>Heightened (+2)</strong> The slashing damage, initial electricity damage, and persistent electricity damage on a critical hit each increase by 1d4.</p>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The slashing damage, initial electricity damage, and persistent electricity damage on a critical hit each increase by 1d4.</p>

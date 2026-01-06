@@ -17,6 +17,6 @@ traits:
 type: focus
 
 --- >
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>You build up gravitational force and funnel it into your blows, leading to more powerful attacks with blade and bow alike. On your first weapon Strike each round, you gain a status bonus to damage equal to twice the number of weapon damage dice.</p>

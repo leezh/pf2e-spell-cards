@@ -21,10 +21,10 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> undeath</p>
-  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing undead creature</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> undeath</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing undead creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>You embed a seed of void energy in an undead creature, restoring its unnatural vigor over time. The target gains fast healing 7.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The fast healing increases by 2.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The fast healing increases by 2.</p>

@@ -21,10 +21,10 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> death</p>
-  <p class="area"><strong>Area</strong> 30-foot cone</p>
-  <p class="defense"><strong>Defense</strong> basic Fortitude</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> death</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot cone</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Fortitude</p>
   <hr/>
   <p>A massive deluge of life energy causes the undead to fall apart. Each undead creature in the area takes 4d12 vitality damage.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 1d12.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d12.</p>

@@ -1,4 +1,4 @@
-actions: '[one-action] TO [three-actions]'
+actions: '[one-action] to [three-actions]'
 bloodlines: []
 copyright: 2023 Paizo Inc.
 domains: []
@@ -20,9 +20,9 @@ traits:
 type: focus
 
 --- >
-  <p class="range"><strong>Range</strong> 60 feet; <strong>Area</strong> 5-foot burst or more</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Area</strong> 5-foot burst or more</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>With a ripple of earth, you raise small barriers from the ground. The ground in the area becomes difficult terrain. The spell's area is a 5-foot burst if you spent 1 action to cast it, a 10-foot burst if you spent 2 actions, or a 15-foot burst if you spent 3 actions. A creature can Interact to clear the barriers from one 5-foot square adjacent to it.</p>
   <hr/>
-  <p><strong>Heightened (4th)</strong> You pull the barriers to float in the air, causing the spell to function as difficult terrain for flying creatures.</p>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> You pull the barriers to float in the air, causing the spell to function as difficult terrain for flying creatures.</p>

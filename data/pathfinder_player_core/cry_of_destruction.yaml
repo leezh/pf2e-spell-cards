@@ -21,10 +21,10 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> destruction</p>
-  <p class="area"><strong>Area</strong> 15-foot cone</p>
-  <p class="defense"><strong>Defense</strong> basic Fortitude</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> destruction</p>
+  <p class="hanging-indent area"><strong>Area</strong> 15-foot cone</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Fortitude</p>
   <hr/>
   <p>Your voice booms, smashing what's in front of you. Each creature and unattended object in the area takes 1d8 sonic damage. If you already dealt damage to an enemy this turn with a Strike or spell, increase the damage dice from this spell to d12s.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 1d8.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d8.</p>

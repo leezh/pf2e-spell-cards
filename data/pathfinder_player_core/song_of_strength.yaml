@@ -21,7 +21,7 @@ traits:
 type: cantrip
 
 --- >
-  <p class="area"><strong>Area</strong> 60-foot emanation</p>
-  <p class="duration"><strong>Duration</strong> 1 round</p>
+  <p class="hanging-indent area"><strong>Area</strong> 60-foot emanation</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 round</p>
   <hr/>
   <p>You bolster your allies' physical strength with a hearty exhortation. You and your allies gain a +1 status bonus to Athletics checks and to their DCs against Athletics skill actions such as Disarm, Reposition, Shove, and Trip.</p>

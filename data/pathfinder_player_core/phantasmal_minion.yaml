@@ -20,8 +20,8 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
-  <p class="range"><strong>Range</strong> 60 feet</p>
-  <p class="duration"><strong>Duration</strong> sustained</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained</p>
   <hr/>
   <p>You summon a phantasmal minion. The minion is roughly the shape of a humanoid. You can choose to have it be invisible or have an ephemeral appearance, but it's obviously a magical effect, not a real creature.</p>

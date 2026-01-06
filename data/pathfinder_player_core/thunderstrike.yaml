@@ -21,10 +21,10 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> basic Reflex</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex</p>
   <hr/>
   <p>You call down a tendril of lightning that cracks with thunder, dealing 1d12 electricity damage and 1d4 sonic damage to the target with a basic Reflex save. A target wearing metal armor or made of metal takes a –1 circumstance bonus to its save, and if damaged by the spell is clumsy 1 for 1 round.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 1d12 electricity and 1d4 sonic.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d12 electricity and 1d4 sonic.</p>

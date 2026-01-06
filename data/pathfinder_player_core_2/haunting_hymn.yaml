@@ -22,10 +22,10 @@ traits:
 type: cantrip
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine, occult</p>
-  <p class="area"><strong>Area</strong> 15-foot cone</p>
-  <p class="defense"><strong>Defense</strong> basic Fortitude</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent area"><strong>Area</strong> 15-foot cone</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Fortitude</p>
   <hr/>
   <p>You echo a jarring hymn that only creatures in the area can hear. The hymn deals 1d8 sonic damage, with a basic Fortitude save. If a target critically fails the save, it's also deafened for 1 minute.</p>
   <hr/>
-  <p><strong>Heightened (+2)</strong> The damage increases by 1d8.</p>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The damage increases by 1d8.</p>

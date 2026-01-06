@@ -22,12 +22,12 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine, occult</p>
-  <p class="range"><strong>Range</strong> 120 feet; <strong>Area</strong> 10-foot burst</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Area</strong> 10-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>
   <p>You forcibly calm creatures in the area, soothing them into a nonviolent state; each creature must attempt a Will save.</p>
-  <p><strong>Critical Success</strong> The creature is unaffected.</p>
-  <p><strong>Success</strong> Calming urges impose a –1 status penalty to the creature's attack rolls.</p>
-  <p><strong>Failure</strong> Any emotion effects that would affect the creature are suppressed and the creature can't use hostile actions. If the target is subject to hostility from any other creature, it ceases to be affected by <em>calm</em>.</p>
-  <p><strong>Critical Failure</strong> As failure, but hostility doesn't end the effect.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> Calming urges impose a –1 status penalty to the creature's attack rolls.</p>
+  <p class="hanging-indent"><strong>Failure</strong> Any emotion effects that would affect the creature are suppressed and the creature can't use hostile actions. If the target is subject to hostility from any other creature, it ceases to be affected by <em>calm</em>.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, but hostility doesn't end the effect.</p>

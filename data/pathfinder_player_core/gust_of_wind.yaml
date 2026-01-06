@@ -21,12 +21,12 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="area"><strong>Area</strong> 60-foot line</p>
-  <p class="defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> until the start of your next turn</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 60-foot line</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> until the start of your next turn</p>
   <hr/>
   <p>A violent wind issues forth from your palm, blowing from the point where you are when you Cast the Spell to the line's opposite end. The wind extinguishes small non-magical fires, disperses fog and mist, blows objects of light Bulk or less around, and pushes larger objects. Large or smaller creatures in the area must attempt a Fortitude save. Large or smaller creatures that later move into the gust must attempt the save on entering.</p>
-  <p><strong>Critical Success</strong> The creature is unaffected.</p>
-  <p><strong>Success</strong> The creature can't move against the wind.</p>
-  <p><strong>Failure</strong> The creature is knocked prone. If it was flying, it takes the effects of critical failure instead.</p>
-  <p><strong>Critical Failure</strong> The creature is pushed 30 feet in the wind's direction, knocked prone, and takes 2d6 bludgeoning damage.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature can't move against the wind.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature is knocked prone. If it was flying, it takes the effects of critical failure instead.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature is pushed 30 feet in the wind's direction, knocked prone, and takes 2d6 bludgeoning damage.</p>

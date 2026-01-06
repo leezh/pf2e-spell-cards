@@ -21,14 +21,14 @@ traits:
 type: cantrip
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="range"><strong>Range</strong> 10 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Fortitude</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 10 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
   <hr/>
   <p>You exhale a shimmering cloud of toxic breath at an enemy's face. The target takes 1d4 poison damage and 1d4 persistent poison damage, depending on its Fortitude save.</p>
-  <p><strong>Critical Success</strong> The creature is unaffected.</p>
-  <p><strong>Success</strong> The target takes half initial damage and no persistent damage.</p>
-  <p><strong>Failure</strong> The target takes full initial and persistent damage.</p>
-  <p><strong>Critical Failure</strong> The target takes double initial and persistent damage.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes half initial damage and no persistent damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target takes full initial and persistent damage.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target takes double initial and persistent damage.</p>
   <hr/>
-  <p><strong>Heightened (+2)</strong> The initial poison damage increases by 1d4, and the persistent poison damage increases by 1d4.</p>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The initial poison damage increases by 1d4, and the persistent poison damage increases by 1d4.</p>

@@ -22,10 +22,10 @@ traits:
 type: cantrip
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine, primal</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature that is undead or otherwise has void healing</p>
-  <p class="defense"><strong>Defense</strong> basic Fortitude</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature that is undead or otherwise has void healing</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Fortitude</p>
   <hr/>
   <p>You demolish the target's corrupted essence with energy from Creation's Forge. You deal 2d6 vitality damage with a basic Fortitude save. If the creature critically fails the save, it is also enfeebled 1 until the start of your next turn.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 1d6.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d6.</p>

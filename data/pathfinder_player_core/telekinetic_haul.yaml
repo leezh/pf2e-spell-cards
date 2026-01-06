@@ -19,8 +19,8 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
-  <p class="range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 unattended object of up to 80 Bulk with no dimension longer than 20 feet</p>
-  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 unattended object of up to 80 Bulk with no dimension longer than 20 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>
   <p>You move the target up to 20 feet, potentially suspending it in midair. When you Sustain the spell, you can do so again, or you can shift your telekinetic focus to a different eligible target within range, moving it instead.</p>

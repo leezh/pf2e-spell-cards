@@ -19,10 +19,10 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
-  <p class="duration"><strong>Duration</strong> 10 minutes</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
   <hr/>
   <p>Tiny clinging hairs sprout across the creature's hands and feet, offering purchase on nearly any surface. The target gains a climb Speed equal to its Speed.</p>
   <hr/>
-  <p><strong>Heightened (5th)</strong> The duration increases to 1 hour.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> The duration increases to 1 hour.</p>

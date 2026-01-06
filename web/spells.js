@@ -1,8 +1,3 @@
-const COPYRIGHT_HOLDERS = {
-  "Pathfinder Player Core": "&copy; 2023 Paizo Inc.",
-  "Pathfinder Player Core 2": "&copy; 2024 Paizo Inc.",
-};
-
 function createCheckbox(id, name, callback) {
   const group = document.createElement("div");
   const input = document.createElement("input");
@@ -25,7 +20,7 @@ function createFilter(title, set, prefix, callback, names) {
     typeof [...set][0] != "number"
       ? [...set].sort()
       : [...set].sort((a, b) => a - b);
-  const inputs = new Array();
+  const inputs = [];
 
   const [allGroup, allInput] = createCheckbox(prefix + "All", "Any");
   container.append(allGroup);
@@ -102,20 +97,24 @@ document.addEventListener("DOMContentLoaded", async function () {
     entry.traits = new Set(entry.traits);
     entry.traits.forEach((c) => traitsFilter.add(c));
     cards[cardId] = [];
+    let page = 0;
+    const titles = [];
+    const content = document.createElement("div");
+    content.innerHTML = addIcons(entry.description);
 
-    for (let i = 0; i < entry.description.length; i++) {
+    while (content.childNodes.length > 0) {
       const card = document.createElement("div");
       card.classList.add("card");
-      card.classList.add("card-" + (i + 1));
+      card.classList.add(`card-${page + 1}`);
       card.classList.add(cardId);
 
       const title = document.createElement("div");
       title.classList.add("title");
       title.innerText = entry.title;
-      if (i == 0) {
+      if (page === 0) {
         const type = document.createElement("span");
         type.classList.add("type");
-        type.innerText = `${entry.type} ${entry.level}`;
+        type.append(`${entry.type} ${entry.level}`);
         title.prepend(type, " ");
 
         const actions = document.createElement("span");
@@ -123,29 +122,25 @@ document.addEventListener("DOMContentLoaded", async function () {
         actions.innerHTML = addIcons(entry.actions);
         title.append(" ", actions);
       }
-      if (entry.description.length > 1) {
-        const pageNumber = document.createElement("span");
-        pageNumber.classList.add("page");
-        pageNumber.innerHTML = `(${i + 1}/${entry.description.length})`;
-        title.append(" ", pageNumber);
-      }
       card.append(title);
+      titles.push(title);
 
-      if (i == 0) {
+      if (page === 0) {
         const traits = document.createElement("div");
         traits.classList.add("traits");
 
-        if (entry.rarity != "common") {
+        if (entry.rarity !== "common") {
           const rarity = document.createElement("div");
           rarity.classList.add("rarity");
           rarity.classList.add(entry.rarity);
-          rarity.innerText = entry.rarity;
+          rarity.append(entry.rarity);
           traits.append(rarity);
         }
 
         for (let name of entry.traits) {
           const trait = document.createElement("div");
-          trait.innerText = name;
+          trait.classList.add(`trait-${name}`);
+          trait.append(name)
           traits.append(trait);
         }
 
@@ -154,13 +149,11 @@ document.addEventListener("DOMContentLoaded", async function () {
 
       const description = document.createElement("div");
       description.classList.add("description");
-      description.innerHTML = addIcons(entry.description[i]);
       card.append(description);
 
-      const copyrightHolder = COPYRIGHT_HOLDERS[entry.source] || "";
       const copyright = document.createElement("div");
       copyright.classList.add("copyright");
-      copyright.innerHTML = entry.source + " " + copyrightHolder;
+      copyright.append(`${entry.source} \u00A9 ${entry.copyright}`);
       card.append(copyright);
 
       card.style.display = "";
@@ -170,10 +163,20 @@ document.addEventListener("DOMContentLoaded", async function () {
         }
       });
       cards[cardId].push(card);
-      container.appendChild(card);
+      container.append(card);
 
-      if (description.clientHeight < description.scrollHeight) {
-        console.log("overflow detected: " + entry.source + ": " + entry.title + " #" + (i + 1));
+      description.append(...content.childNodes);
+      while (description.childNodes.length > 1 && description.clientHeight < description.scrollHeight) {
+        content.prepend(description.lastElementChild);
+      }
+      page++;
+    }
+    if (page > 1) {
+      for (let i = 0; i < page; i++) {
+          const pageNumber = document.createElement("span");
+          pageNumber.classList.add("page");
+          pageNumber.append(`(${i + 1}/${page})`);
+          titles[i].append(" ", pageNumber);
       }
     }
   }

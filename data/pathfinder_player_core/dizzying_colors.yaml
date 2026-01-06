@@ -22,12 +22,12 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
-  <p class="area"><strong>Area</strong> 15-foot cone</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 or more rounds (see below)</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent area"><strong>Area</strong> 15-foot cone</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 or more rounds (see below)</p>
   <hr/>
   <p>You unleash a swirling multitude of colors that overwhelms creatures based on their Will saves.</p>
-  <p><strong>Critical Success</strong> The creature is unaffected.</p>
-  <p><strong>Success</strong> The creature is dazzled for 1 round.</p>
-  <p><strong>Failure</strong> The creature is stunned 1, blinded for 1 round, and dazzled for 1 minute.</p>
-  <p><strong>Critical Failure</strong> The creature is stunned for 1 round and blinded for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature is dazzled for 1 round.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature is stunned 1, blinded for 1 round, and dazzled for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature is stunned for 1 round and blinded for 1 minute.</p>

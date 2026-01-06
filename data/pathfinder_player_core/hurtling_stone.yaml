@@ -21,12 +21,12 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> earth</p>
-  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> AC</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> earth</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> AC</p>
   <hr/>
   <p>You evoke a magical stone and throw it, with divine guide to your aim. The stone deals 2d6 bludgeoning damage depending on your spell attack roll against the target's AC.</p>
-  <p><strong>Critical Success</strong> The target takes double damage and you can push it up to 10 feet.</p>
-  <p><strong>Success</strong> The target takes full damage and you can push it up to 5 feet.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target takes double damage and you can push it up to 10 feet.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes full damage and you can push it up to 5 feet.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The stone's damage increases by 1d6.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The stone's damage increases by 1d6.</p>

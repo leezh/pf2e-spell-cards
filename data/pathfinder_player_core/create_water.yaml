@@ -21,7 +21,7 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, divine, primal</p>
-  <p class="range"><strong>Range</strong> 0 feet</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 0 feet</p>
   <hr/>
   <p>As you cup your hands, water begins to flow forth from them. You create 2 gallons of water. If no one drinks it, it evaporates after 1 day.</p>

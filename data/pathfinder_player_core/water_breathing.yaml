@@ -21,12 +21,12 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, divine, primal</p>
-  <p class="cast"><strong>Cast</strong> 1 minute</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> up to 5 creatures</p>
-  <p class="duration"><strong>Duration</strong> 1 hour</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 minute</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> up to 5 creatures</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
   <hr/>
   <p>The targets can breathe underwater.</p>
   <hr/>
-  <p><strong>Heightened (3rd)</strong> The duration is 8 hours.</p>
-  <p><strong>Heightened (4th)</strong> The duration is until your next daily preparations.</p>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> The duration is 8 hours.</p>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> The duration is until your next daily preparations.</p>

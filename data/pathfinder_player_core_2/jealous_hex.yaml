@@ -20,11 +20,11 @@ traits:
 type: focus
 
 --- >
-  <p class="bloodline"><strong>Bloodline</strong> hag</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> hag</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>You draw forth a hag's innate jealousy to deny a target its greatest attribute. The target is cursed with an adverse condition depending on its highest attribute modifier: Strength (enfeebled); Dexterity (clumsy); Constitution (drained); or Intelligence, Wisdom, or Charisma (stupefied). On a tie, the creature decides which of the conditions associated with the tied ability attribute to take. The target must attempt a Will save. At the start of each of your turns, the target can attempt another Will save, ending the effect on a success.</p>
-  <p><strong>Success</strong> The target is unaffected.</p>
-  <p><strong>Failure</strong> The condition's value is 1.</p>
-  <p><strong>Critical Failure</strong> The condition's value is 2.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The condition's value is 1.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The condition's value is 2.</p>

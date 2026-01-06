@@ -1,4 +1,4 @@
-actions: '[one-action] TO [three-actions]'
+actions: '[one-action] to [three-actions]'
 bloodlines:
 - angelic
 copyright: 2023 Paizo Inc.
@@ -21,12 +21,12 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine, primal</p>
-  <p class="range"><strong>Range</strong> varies; <strong>Targets</strong> 1 willing living creature or 1 undead creature</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> varies; <strong>Targets</strong> 1 willing living creature or 1 undead creature</p>
   <hr/>
   <p>You channel vital energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of vitality damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.</p>
-  <p>The spell has a range of touch.</p>
-  <p>(concentrate) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.</p>
-  <p>(concentrate) You disperse vital energy in a 30-foot emanation. This targets all living and undead creatures in the burst.</p>
+  <p>[one-action] The spell has a range of touch.</p>
+  <p>[two-actions] (concentrate) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.</p>
+  <p>[three-actions] (concentrate) You disperse vital energy in a 30-foot emanation. This targets all living and undead creatures in the burst.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.</p>

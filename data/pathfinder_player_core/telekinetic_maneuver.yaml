@@ -21,7 +21,7 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
-  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
   <hr/>
   <p>With a rush of telekinetic power, you move a foe or something they carry. You can attempt to Disarm, Reposition, Shove, or Trip the target using a spell attack roll instead of an Athletics check.</p>

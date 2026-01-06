@@ -20,11 +20,11 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine</p>
-  <p class="cost"><strong>Cost</strong> One vial of holy water</p>
-  <p class="range"><strong>Range</strong> 500 feet; <strong>Area</strong> 20-foot burst</p>
-  <p class="defense"><strong>Defense</strong> basic Reflex</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent cost"><strong>Cost</strong> One vial of holy water</p>
+  <p class="hanging-indent range"><strong>Range</strong> 500 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex</p>
   <hr/>
   <p>You call upon sacred energy to amplify a vial of holy water, tossing it an incredible distance. It explodes in an enormous burst that deals 3d6 bludgeoning damage to creatures in the area from the cascade of water. The water deals an additional 6d6 spirit damage to creatures with the unholy trait in the area.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The bludgeoning damage increases by 1d6, and the additional spirit damage increases by 2d6.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The bludgeoning damage increases by 1d6, and the additional spirit damage increases by 2d6.</p>

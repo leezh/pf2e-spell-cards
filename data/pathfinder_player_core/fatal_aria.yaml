@@ -22,9 +22,9 @@ traits:
 type: focus
 
 --- >
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
   <hr/>
   <p>You perform music so perfect that the target may die of joy or sorrow. Once targeted, the creature becomes temporarily immune for 1 minute. The effect of the spell depends on the target's level and current Hit Points.</p>
-  <p><strong>16th or Lower</strong> The target dies instantly.</p>
-  <p><strong>17th</strong> If the target has 50 Hit Points or fewer, it dies instantly; otherwise, it drops to 0 Hit Points and becomes dying 1.</p>
-  <p><strong>18th or Higher</strong> The target takes 50 damage. If this brings it to 0 Hit Points, it dies instantly.</p>
+  <p class="hanging-indent"><strong>16th or Lower</strong> The target dies instantly.</p>
+  <p class="hanging-indent"><strong>17th</strong> If the target has 50 Hit Points or fewer, it dies instantly; otherwise, it drops to 0 Hit Points and becomes dying 1.</p>
+  <p class="hanging-indent"><strong>18th or Higher</strong> The target takes 50 damage. If this brings it to 0 Hit Points, it dies instantly.</p>

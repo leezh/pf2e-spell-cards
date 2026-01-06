@@ -19,12 +19,12 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine, occult</p>
-  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>You ward a creature with protective energy that deters attacks. Creatures attempting to attack the target must attempt a Will save each time. If the target uses a hostile action, the spell ends.</p>
-  <p><strong>Critical Success</strong><em>Sanctuary</em> ends.</p>
-  <p><strong>Success</strong> The creature can attempt its attack and any other attacks against the target this turn.</p>
-  <p><strong>Failure</strong> The creature can't attack the target and wastes the action. It can't attempt further attacks against the target this turn.</p>
-  <p><strong>Critical Failure</strong> The creature wastes the action and can't attempt to attack the target for the rest of sanctuary's duration.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong><em>Sanctuary</em> ends.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature can attempt its attack and any other attacks against the target this turn.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature can't attack the target and wastes the action. It can't attempt further attacks against the target this turn.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature wastes the action and can't attempt to attack the target for the rest of sanctuary's duration.</p>

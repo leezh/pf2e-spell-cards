@@ -19,7 +19,7 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> perfection</p>
-  <p class="trigger"><strong>Trigger</strong> You fail or critically fail a saving throw against an effect that has the morph, poison, or polymorph trait, or that would make you clumsy, doomed, enfeebled, petrified, or sickened</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> perfection</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> You fail or critically fail a saving throw against an effect that has the morph, poison, or polymorph trait, or that would make you clumsy, doomed, enfeebled, petrified, or sickened</p>
   <hr/>
   <p>Your body's perfection keeps you just a little bit healthier than most. You get a failure if you rolled a critical failure or a success if you rolled a failure.</p>

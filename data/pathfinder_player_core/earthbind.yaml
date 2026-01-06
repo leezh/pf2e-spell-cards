@@ -20,12 +20,12 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 flying creature</p>
-  <p class="defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> varies</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 flying creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> varies</p>
   <hr/>
   <p>Using the weight of earth, you hamper a target's flight, with effects based on its Fortitude save. If the creature reaches the ground safely, it doesn't take falling damage.</p>
-  <p><strong>Critical Success</strong> The target is unaffected.</p>
-  <p><strong>Success</strong> The target falls safely up to 120 feet.</p>
-  <p><strong>Failure</strong> The target falls safely up to 120 feet. If it hits the ground, it can't Fly, <em>levitate</em>, or otherwise leave the ground for 1 round.</p>
-  <p><strong>Critical Failure</strong> The target falls safely up to 120 feet. If it hits the ground, it can't Fly, <em>levitate</em>, or otherwise leave the ground for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target falls safely up to 120 feet.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target falls safely up to 120 feet. If it hits the ground, it can't Fly, <em>levitate</em>, or otherwise leave the ground for 1 round.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target falls safely up to 120 feet. If it hits the ground, it can't Fly, <em>levitate</em>, or otherwise leave the ground for 1 minute.</p>

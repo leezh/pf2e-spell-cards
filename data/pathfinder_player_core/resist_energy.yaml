@@ -22,11 +22,11 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
-  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
-  <p class="duration"><strong>Duration</strong> 10 minutes</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
   <hr/>
   <p>A shield of elemental energy protects a creature against one type of energy damage. Choose acid, cold, electricity, fire, or sonic damage. The target and its gear gain resistance 5 against the damage type you chose.</p>
   <hr/>
-  <p><strong>Heightened (4th)</strong> The resistance increases to 10, and you can target up to two creatures.</p>
-  <p><strong>Heightened (7th)</strong> The resistance increases to 15, and you can target up to five creatures.</p>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> The resistance increases to 10, and you can target up to two creatures.</p>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> The resistance increases to 15, and you can target up to five creatures.</p>

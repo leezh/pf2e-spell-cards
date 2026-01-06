@@ -20,6 +20,6 @@ type: focus
 
 --- >
   <p>You call upon your muse to greatly increase the benefits you provide with your courageous anthem, rallying anthem, or song of strength composition. If your next action is to cast one of these compositions, attempt a Performance check. The DC is usually the highest Will DC of the composition's targets, but the GM can assign a different DC based on the circumstances. The effect of your composition depends on the result of your check.</p>
-  <p><strong>Critical Success</strong> The status bonus from your composition increases to +3.</p>
-  <p><strong>Success</strong> The status bonus from your composition increases to +2.</p>
-  <p><strong>Failure</strong> Your composition provides only its normal bonus of +1, but you don't spend the Focus Point for casting this spell.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The status bonus from your composition increases to +3.</p>
+  <p class="hanging-indent"><strong>Success</strong> The status bonus from your composition increases to +2.</p>
+  <p class="hanging-indent"><strong>Failure</strong> Your composition provides only its normal bonus of +1, but you don't spend the Focus Point for casting this spell.</p>

@@ -17,8 +17,8 @@ traits:
 type: focus
 
 --- >
-  <p class="trigger"><strong>Trigger</strong> An effect would deal acid, cold, electricity, or fire damage to you</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> An effect would deal acid, cold, electricity, or fire damage to you</p>
   <hr/>
   <p>You're used to mitigating the damage done by bombs, siege engines, and magical artillery. You gain resistance 15 to your choice of acid, cold, electricity, or fire damage from the triggering effect. The resistance applies only to the triggering effect's initial damage.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The resistance increases by 5.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The resistance increases by 5.</p>

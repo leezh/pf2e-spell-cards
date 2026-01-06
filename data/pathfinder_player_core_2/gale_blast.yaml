@@ -21,14 +21,14 @@ traits:
 type: cantrip
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="area"><strong>Area</strong> 5-foot emanation</p>
-  <p class="defense"><strong>Defense</strong> Fortitude</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 5-foot emanation</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
   <hr/>
   <p>Wind flows from your outstretched hands and whirls around you in a 5-foot emanation. Each creature in the area takes 1d6 bludgeoning damage, with a Fortitude save.</p>
-  <p><strong>Critical Success</strong> The creature is unaffected.</p>
-  <p><strong>Success</strong> The creature takes half damage.</p>
-  <p><strong>Failure</strong> The creature takes full damage and is pushed 5 feet away from you.</p>
-  <p><strong>Critical Failure</strong> The creature takes double damage and is pushed 10 feet away from you.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes half damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes full damage and is pushed 5 feet away from you.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature takes double damage and is pushed 10 feet away from you.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 1d6.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d6.</p>

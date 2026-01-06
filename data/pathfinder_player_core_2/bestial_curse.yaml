@@ -22,12 +22,12 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult, primal</p>
-  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> 1 living humanoid</p>
-  <p class="defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> varies</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 living humanoid</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> varies</p>
   <hr/>
   <p>You tap into the target's inner being and curse it to become a bestial version of itself. The effect is based on its Fortitude save.</p>
-  <p><strong>Critical Success</strong> The target is unaffected.</p>
-  <p><strong>Success</strong> The target's body gains minor bestial features. Its insides churn as they partially transform, causing it to be clumsy 1 for 1 round. When it recovers from the clumsy condition, its features revert to normal, and the spell ends.</p>
-  <p><strong>Failure</strong> The target transforms into a bestial form for 1 hour. The target becomes clumsy 1 and gains weakness 1 to silver. It gains a claw, hoof, horn, or jaws Strike (your choice) that uses the target's unarmed Strike statistics except that the damage type changes to bludgeoning, piercing, or slashing, as appropriate. Whenever the target attempts to use any manipulate action, it must succeed at a DC 5 flat check or the action is lost.</p>
-  <p><strong>Critical Failure</strong> As failure, but the duration is unlimited.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target's body gains minor bestial features. Its insides churn as they partially transform, causing it to be clumsy 1 for 1 round. When it recovers from the clumsy condition, its features revert to normal, and the spell ends.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target transforms into a bestial form for 1 hour. The target becomes clumsy 1 and gains weakness 1 to silver. It gains a claw, hoof, horn, or jaws Strike (your choice) that uses the target's unarmed Strike statistics except that the damage type changes to bludgeoning, piercing, or slashing, as appropriate. Whenever the target attempts to use any manipulate action, it must succeed at a DC 5 flat check or the action is lost.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, but the duration is unlimited.</p>

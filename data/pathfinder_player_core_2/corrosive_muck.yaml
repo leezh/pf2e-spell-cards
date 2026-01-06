@@ -20,10 +20,10 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="range"><strong>Range</strong> 120 feet; <strong>Area</strong> all squares in two 10-foot bursts</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Area</strong> all squares in two 10-foot bursts</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>You create two puddles of acidic slime that hinder the movement of anyone who walks through them. The area of each pool becomes greater difficult terrain. Each round that a creature starts its turn in one of the pools or enters a pool during a move action it's using, it takes 8d6 acid damage with a basic Reflex save. A creature that critically fails its saving throw also takes 1d6 persistent acid damage. As normal, if a Large or larger creature starts its turn in both pools, it takes the damage only once.</p>
   <hr/>
-  <p><strong>Heightened (+2)</strong> Create an additional 10-foot burst.</p>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> Create an additional 10-foot burst.</p>

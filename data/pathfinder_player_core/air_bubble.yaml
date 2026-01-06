@@ -20,9 +20,9 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, divine, primal</p>
-  <p class="trigger"><strong>Trigger</strong> A creature within range enters an environment where it can't breathe.</p>
-  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> the triggering creature</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> A creature within range enters an environment where it can't breathe.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> the triggering creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>A bubble of pure air appears around the target's head, allowing it to breathe normally. The effect ends as soon as the target returns to an environment where it can breathe normally.</p>

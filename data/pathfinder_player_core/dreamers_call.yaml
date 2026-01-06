@@ -23,12 +23,12 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> dreams</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> until the end of the target's next turn</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> dreams</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> until the end of the target's next turn</p>
   <hr/>
   <p>You create a vivid, illusory daydream drawn from the images of the target's dreams. The daydream appears in an unoccupied space in range, and you attempt to draw the target toward it.</p>
-  <p><strong>Critical Success</strong> The target is unaffected.</p>
-  <p><strong>Success</strong> The target's attention wavers. It becomes fascinated by the daydream.</p>
-  <p><strong>Failure</strong> The target is fascinated with the daydream and pursues a course of action you choose as its first action after you Cast the Spell: approach the daydream, run away from it (as the fleeing condition), Release what it's holding as an offering, or Drop Prone in obeisance.</p>
-  <p><strong>Critical Failure</strong> As failure, but the target follows the course of action for as many actions as possible for the spell's duration, and does nothing else.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target's attention wavers. It becomes fascinated by the daydream.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is fascinated with the daydream and pursues a course of action you choose as its first action after you Cast the Spell: approach the daydream, run away from it (as the fleeing condition), Release what it's holding as an offering, or Drop Prone in obeisance.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, but the target follows the course of action for as many actions as possible for the spell's duration, and does nothing else.</p>

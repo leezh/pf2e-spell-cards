@@ -20,18 +20,14 @@ traits:
 type: focus
 
 --- >
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>Without fully transforming your body, you gain one animalistic feature, which you select from the list below each time you Cast the Spell.</p>
-  <ul>
   <li><strong>Cat Eyes</strong> You gain low-light vision.</li>
   <li><strong>Claws</strong> You gain a claw attack that deals 1d6 slashing damage and has the agile, finesse, and unarmed traits.</li>
   <li><strong>Jaws</strong> You gain a jaws attack that deals 1d8 piercing damage and has the unarmed trait.</li>
-  </ul>
   <hr/>
-  <p><strong>Heightened (4th)</strong> Add the following options to the list.</p>
-  <ul>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> Add the following options to the list.</p>
   <li><strong>Fish Tail</strong> You gain a swim Speed equal to your land Speed.</li>
   <li><strong>Owl Eyes</strong> You gain darkvision.</li>
   <li><strong>Wings</strong> You gain a fly Speed equal to your land Speed.</li>
-  </ul>

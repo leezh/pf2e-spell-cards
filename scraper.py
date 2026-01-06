@@ -9,7 +9,7 @@ import unicodedata
 
 import yaml
 from bs4 import BeautifulSoup, NavigableString, Tag
-from markdown import markdown
+from markdown2 import markdown
 from opensearchpy import OpenSearch
 
 BASE_DIR = pathlib.Path(os.path.dirname(__file__)) / "data"
@@ -35,85 +35,76 @@ def to_slug(text: str) -> str:
     )
     return "".join([c for c in text if c.isalnum() or c == "_"])
 
-
-def strip_element(soup: BeautifulSoup | Tag, name: str, string: str | None = None):
-    element = soup.find(name, string=string)
-    if isinstance(element, Tag):
-        element.extract()
-
-
 def text_to_soup(text: str) -> BeautifulSoup:
+    # Workaround for Markdown inside HTML tags
     soup = BeautifulSoup(text, "html.parser")
-    for elem in [*soup.descendants]:
-        if (
-            isinstance(elem, NavigableString)
-            and elem.parent
-            and elem.parent.name in ["li", "td"]
-        ):
-            elem_soup = BeautifulSoup(markdown(str(elem)), "html.parser")
-            contents = []
-            for e in elem_soup.find_all("p"):
-                contents.extend(e.contents)
-            elem.replace_with(*contents)
-    html = markdown(str(soup))
+    for elem in soup.find_all(["p", "li", "td"]):
+        html = markdown(str(elem), extras=["cuddled-lists"]).strip()
+        elem_soup = BeautifulSoup(html, "html.parser")
+        for p in [x for x in elem_soup.contents if isinstance(x, Tag) and x.name == "p"]:
+            p.replace_with(*p.contents)
+        elem.replace_with(elem_soup)
+    html = markdown(str(soup), extras=["cuddled-lists"])
     soup = BeautifulSoup(html, "html.parser")
-    for sup in soup.find_all("sup"):
-        sup.extract()
-    for a in soup.find_all("a"):
-        a.replace_with(*a.contents)
-    return soup
-
-
-WHITELIST_TAGS = [
-    "p",
-    "hr",
-    "strong",
-    "em",
-    "li",
-    "ul",
-    "br",
-    "table",
-    "tr",
-    "th",
-    "td",
-]
-
-
-def tidy_soup(soup: BeautifulSoup) -> None:
-    for elem in [*soup.descendants]:
-        if not isinstance(elem, Tag):
-            continue
+    for elem in [x for x in soup.descendants if isinstance(x, Tag)]:
+        attrs = elem.attrs
+        parent = elem.parent
         elem.attrs = {}
-        if elem.name not in WHITELIST_TAGS:
-            if elem.parent == soup:
+        match elem.name:
+            case "title" | "traits" | "sup":
                 elem.extract()
-            else:
+            case "li":
+                if parent and parent.name == "p":
+                    new_tag = soup.new_tag("p")
+                    new_tag.extend([x.extract() for x in elem.next_siblings])
+                    parent.insert_after(new_tag)
+                    parent.insert_after(elem.extract())
+            case "br":
+                if parent and parent.name in ["li", "p"]:
+                    new_tag = soup.new_tag("p")
+                    if parent.name == "li":
+                        new_tag.attrs["class"] = "indent"
+                    elif "class" in parent.attrs:
+                        new_tag.attrs["class"] = parent.attrs["class"]
+                    new_tag.extend([x.extract() for x in elem.next_siblings])
+                    parent.insert_after(new_tag)
+                elem.extract()
+            case "actions":
+                elem.replace_with(ACTION_SUBSTITUTION[attrs["string"]])
+            case "b" | "strong":
+                elem.name = "strong"
+            case "i" | "em":
+                elem.name = "em"
+            case "p" | "table" | "tr" | "td" | "hr":
+                if parent and parent.name == "p":
+                    parent.replace_with(elem)
+            case _:
                 elem.replace_with(*elem.contents)
-        if elem.name == "br" and elem.parent and elem.parent.name in ["p", "li"]:
-            following = []
-            for sibling in [*elem.next_siblings]:
-                following.append(sibling.extract())
-            new_tag = soup.new_tag(name=elem.parent.name)
-            new_tag.extend(following)
-            elem.parent.insert_after(new_tag)
-            elem.extract()
-
-    for elem in soup.contents:
-        if isinstance(elem, NavigableString):
-            elem.extract()
-
     soup.smooth()
-    for elem in [*soup.descendants]:
+    for elem in [x for x in soup.descendants if isinstance(x, NavigableString)]:
+        if not elem.strip(" \n"):
+            elem.extract()
+        else:
+            elem.replace_with(elem.replace("\n", " "))
+    soup.smooth()
+    for elem in [*soup.contents]:
         if isinstance(elem, NavigableString):
-            if not elem.strip(" \n"):
-                elem.extract()
-            else:
-                elem.replace_with(elem.replace("\n", " "))
-
-    for p in soup.find_all("p"):
-        if not len(p.contents):
-            p.extract()
-            continue
+            if str(elem).strip():
+                new_tag = soup.new_tag("p", string=str(elem).strip())
+                elem.insert_after(new_tag)
+            elem.extract()
+    for elem in soup.find_all("p"):
+        if not len(elem.contents):
+            elem.extract()
+        elif elem.contents[0].name == "strong":
+            current_class = elem.attrs.get("class", "")
+            if isinstance(elem.previous_sibling, Tag):
+                if elem.previous_sibling.name == "li":
+                    current_class = "indent"
+                if elem.previous_sibling.attrs.get("class", "").startswith("indent"):
+                    current_class = "indent"
+            elem.attrs["class"] = f"{current_class} hanging-indent".strip()
+    return soup
 
 
 def format_soup(soup: BeautifulSoup) -> str:
@@ -133,10 +124,6 @@ def format_soup(soup: BeautifulSoup) -> str:
                 text.extract()
             text.replace_with(text.rstrip())
         p.insert_after("\n")
-    for ul in soup.find_all("ul"):
-        assert isinstance(ul, Tag)
-        ul.insert(0, "\n")
-        ul.insert_after("\n")
     for hr in soup.find_all("hr"):
         assert isinstance(hr, Tag)
         hr.insert_after("\n")
@@ -145,15 +132,13 @@ def format_soup(soup: BeautifulSoup) -> str:
     return text
 
 
-ACTION_SUBSTITUTION = [
-    ("Reaction", "[reaction]"),
-    ("Free Action", "[free-action]"),
-    ("Single Action", "[one-action]"),
-    ("Two Actions", "[two-actions]"),
-    ("Three Actions", "[three-actions]"),
-    ("or", "TO"),
-    ("to", "TO"),
-]
+ACTION_SUBSTITUTION = {
+    "Reaction": "[reaction]",
+    "Free Action": "[free-action]",
+    "Single Action": "[one-action]",
+    "Two Actions": "[two-actions]",
+    "Three Actions": "[three-actions]",
+}
 
 FILTER_TRAITS = [
     "uncommon",
@@ -193,7 +178,6 @@ def title_case(text: str) -> str:
 
 REMOVED_PARAMETERS = [
     "Deity",
-    "Deities",
     "Source",
     "Spell Lists",
 ]
@@ -214,6 +198,7 @@ RENAMED_PARAMETERS = {
 COLLAPSED_PARAMETERS = [
     ("range", "targets"),
     ("range", "area"),
+    ("area", "targets"),
     ("defense", "duration")
 ]
 
@@ -305,12 +290,18 @@ FILTERED_PARAMETERS = [
         "Spinner of Threads",
         "Starless Shadow",
         "Wilding Steward",
+        "Curse",
+        "Fate",
+        "Fervor",
+        "Night",
+        "Rune",
+        "Wild",
+        "Winter",
     )),
 ]
 
 def parse_parameter(soup: BeautifulSoup, p: Tag, key: Tag):
     if next_key := key.find_next_sibling("strong"):
-        assert isinstance(next_key, Tag)
         siblings = [elem.extract() for elem in next_key.next_siblings]
         next_p = soup.new_tag("p")
         next_p.append(next_key.extract())
@@ -318,31 +309,30 @@ def parse_parameter(soup: BeautifulSoup, p: Tag, key: Tag):
         p.insert_after(next_p)
         parse_parameter(soup, next_p, next_key)
     value = key.next_sibling
-    assert isinstance(value, NavigableString)
+    if isinstance(value, NavigableString):
+        value.replace_with(value.rstrip(" ;"))
     if key.string in RENAMED_PARAMETERS:
         key.string = RENAMED_PARAMETERS[key.string]
     if key.string in REMOVED_PARAMETERS:
         p.extract()
-    p.attrs["class"] = key.string.lower()
+    p.attrs["class"] = f"hanging-indent {key.string.lower()}"
 
 
 def parse_header(soup: BeautifulSoup, info: dict) -> None:
-    for p in [*soup.contents]:
-        if not isinstance(p, Tag) or p.name != "p" or not len(p.contents):
+    for p in [x for x in soup.contents if isinstance(x, Tag)]:
+        if p.name != "p":
             break
-        if p.find("strong", string="PFS Note"):
+        if next(p.stripped_strings).startswith("PFS Note"):
             p.extract()
             continue
         key = p.contents[0]
         if not isinstance(key, Tag) or key.name != "strong":
             break
-        if not isinstance(key.next_sibling, NavigableString):
-            break
         parse_parameter(soup, p, key)
 
     for left, right in COLLAPSED_PARAMETERS:
-        left_tag = soup.find("p", class_=left)
-        right_tag = soup.find("p", class_=right)
+        left_tag = soup.find("p", class_=f"hanging-indent {left}")
+        right_tag = soup.find("p", class_=f"hanging-indent {right}")
         if not isinstance(left_tag, Tag) or not isinstance(right_tag, Tag):
             continue
         elements = [e.extract() for e in [*right_tag.contents]]
@@ -350,7 +340,7 @@ def parse_header(soup: BeautifulSoup, info: dict) -> None:
         left_tag.extend(["; ", *elements])
 
     for attribute, name, trait, _ in FILTERED_PARAMETERS:
-        tag = soup.find("p", class_=name)
+        tag = soup.find("p", class_=f"hanging-indent {name}")
         if not isinstance(tag, Tag):
             continue
         values = info[attribute]
@@ -378,7 +368,7 @@ def parse_entry(entry: dict):
         pass
 
     actions = entry["actions"] if entry.get("actions_number", 60) < 7 else ""
-    for src, dst in ACTION_SUBSTITUTION:
+    for src, dst in ACTION_SUBSTITUTION.items():
         actions = actions.replace(src, dst)
 
     traits = [x.lower() for x in entry["trait"]]
@@ -406,9 +396,6 @@ def parse_entry(entry: dict):
         info[attribute] = [x for x in info[attribute] if x in values]
 
     soup = text_to_soup(entry["markdown"])
-    strip_element(soup, "title")
-    strip_element(soup, "traits")
-    tidy_soup(soup)
     parse_header(soup, info)
 
     if isinstance(soup.contents[0], Tag) and soup.contents[0].name == "hr":

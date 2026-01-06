@@ -19,9 +19,9 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> might</p>
-  <p class="trigger"><strong>Trigger</strong> An attack or effect would deal damage to you</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> might</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> An attack or effect would deal damage to you</p>
   <hr/>
   <p>Your own might mingles with divine power to protect you from harm. You gain resistance equal to 8 plus your Strength modifier against all damage from the triggering attack or effect.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The resistance increases by 2.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The resistance increases by 2.</p>

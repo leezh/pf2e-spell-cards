@@ -21,9 +21,9 @@ traits:
 type: focus
 
 --- >
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> basic Reflex</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex</p>
   <hr/>
   <p>You surround a foe in a swirling storm of violent winds, roiling clouds, and crackling lightning. The storm deals 1d12 electricity damage to the target with a basic Reflex save. On a failure, the target also is clumsy 2 for 1 round.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The initial damage increases by 1d12.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The initial damage increases by 1d12.</p>

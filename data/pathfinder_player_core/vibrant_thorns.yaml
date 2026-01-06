@@ -22,9 +22,9 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> nature</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> nature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>Your body sprouts brambly thorns that thrive on life magic. Adjacent creatures that hit you with a melee attack, as well as creatures that hit you with unarmed attacks, take 1 piercing damage each time they do. Anytime you cast a vitality spell, the thorns' damage increases to 1d6 until the start of your next turn.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 1, or 1d6 after you cast a vitality spell.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1, or 1d6 after you cast a vitality spell.</p>

@@ -20,9 +20,9 @@ traits:
 type: focus
 
 --- >
-  <p class="bloodline"><strong>Bloodline</strong> diabolic</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> diabolic</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>Devil horns grow from your skull, and your skin takes on features of the devil responsible for your diabolic bloodline. You gain resistance 5 to fire and poison, and resistance 1 to physical damage (except silver).</p>
   <hr/>
-  <p><strong>Heightened (+2)</strong> The resistance to fire and poison increase by 5, and the resistance to physical damage (except silver) by 2.</p>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The resistance to fire and poison increase by 5, and the resistance to physical damage (except silver) by 2.</p>

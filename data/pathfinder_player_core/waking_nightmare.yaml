@@ -23,14 +23,14 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> nightmares</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> nightmares</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
   <hr/>
   <p>You fill the creature's mind with a terrifying vision. The target must attempt a Will save. A creature frightened by this spell takes 1 additional mental damage each time it's hit by a Strike.</p>
-  <p><strong>Critical Success</strong> The target is unaffected.</p>
-  <p><strong>Success</strong> The target is frightened 1.</p>
-  <p><strong>Failure</strong> The target is frightened 2. If it's asleep, it wakes up and is paralyzed for 1 round.</p>
-  <p><strong>Critical Failure</strong> As failure, but frightened 3.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is frightened 1.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is frightened 2. If it's asleep, it wakes up and is paralyzed for 1 round.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, but frightened 3.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The mental damage increases by 1.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The mental damage increases by 1.</p>

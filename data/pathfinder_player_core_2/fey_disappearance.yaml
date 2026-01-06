@@ -19,9 +19,9 @@ traits:
 type: focus
 
 --- >
-  <p class="bloodline"><strong>Bloodline</strong> fey</p>
-  <p class="duration"><strong>Duration</strong> until the end of your next turn</p>
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> fey</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the end of your next turn</p>
   <hr/>
   <p>You become invisible and ignore natural difficult terrain (such as underbrush). Any hostile action you use ends this invisibility, but you still ignore natural difficult terrain.</p>
   <hr/>
-  <p><strong>Heightened (5th)</strong> If you use a hostile action, the invisibility doesn't end.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> If you use a hostile action, the invisibility doesn't end.</p>

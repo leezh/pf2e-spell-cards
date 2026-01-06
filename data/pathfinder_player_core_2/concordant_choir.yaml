@@ -1,4 +1,4 @@
-actions: '[one-action] TO [three-actions]'
+actions: '[one-action] to [three-actions]'
 bloodlines: []
 copyright: 2024 Paizo Inc.
 domains: []
@@ -19,13 +19,13 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine, occult</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> varies</p>
-  <p class="defense"><strong>Defense</strong> basic Fortitude</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> varies</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Fortitude</p>
   <hr/>
   <p>You unleash a dangerous consonance of reverberating sound, focusing on a single target or spreading out to damage many foes. The number of actions you spend Casting this Spell determines its targets, range, area, and other parameters.</p>
-  <p>The spell deals 1d4 sonic damage to a single enemy, with a basic Fortitude save.</p>
-  <p>(manipulate) The spell deals 2d4 sonic damage to all creatures in a 10-foot burst, with a basic Fortitude save.</p>
-  <p>(manipulate) The spell deals 2d4 sonic damage to all creatures in a 30-foot emanation, with a basic Fortitude save</p>
+  <p>[one-action] The spell deals 1d4 sonic damage to a single enemy, with a basic Fortitude save.</p>
+  <p>[two-actions] (manipulate) The spell deals 2d4 sonic damage to all creatures in a 10-foot burst, with a basic Fortitude save.</p>
+  <p>[three-actions] (manipulate) The spell deals 2d4 sonic damage to all creatures in a 30-foot emanation, with a basic Fortitude save</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 1d4 for the 1-action version, or 2d4 for the other versions.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d4 for the 1-action version, or 2d4 for the other versions.</p>

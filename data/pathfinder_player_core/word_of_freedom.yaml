@@ -20,9 +20,9 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> freedom</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="duration"><strong>Duration</strong> 1 round</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> freedom</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 round</p>
   <hr/>
   <p>You utter a liberating word of power that frees a creature. You suppress one of the following conditions of your choice: confused, frightened, grabbed, paralyzed, or restrained. The target isn't affected by the chosen condition, and if you suppress the grabbed or restrained condition, the target automatically breaks free from the grab or restraint when you Cast the Spell.</p>
   <p>If you don't remove the effect that provided the condition, the condition returns after the spell ends. For example, if a spell was making the target confused for 1 minute, <em>word of freedom</em> would let the target act normally for a round, but the confused condition would return afterward.</p>

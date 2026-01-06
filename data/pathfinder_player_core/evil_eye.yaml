@@ -21,8 +21,8 @@ traits:
 type: cantrip
 
 --- >
-  <p class="patron"><strong>Patron</strong> The Resentment</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <p class="hanging-indent patron"><strong>Patron</strong> The Resentment</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>
   <p>Your patron's resentment manifests in a baleful, envious gaze. The target becomes sickened 1 if it fails a Will save (or sickened 2 on a critical failure). This condition value can't be reduced below 1 while the spell is active and you can see the target.</p>

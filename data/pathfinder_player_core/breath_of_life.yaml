@@ -19,10 +19,10 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine</p>
-  <p class="trigger"><strong>Trigger</strong> A living creature within range would die</p>
-  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> the triggering creature</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> A living creature within range would die</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> the triggering creature</p>
   <hr/>
   <p>Your blessing revives a creature at the moment of its death. You prevent the target from dying and restore 5d8 Hit Points to the target. You can't use breath of life if the triggering effect was a death effect or an effect that leaves no remains, such as <em>disintegrate</em>.</p>
   <hr/>
-  <p><strong>Heightened (+2)</strong> The healing increases by 1d8.</p>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The healing increases by 1d8.</p>

@@ -22,8 +22,8 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
-  <p class="range"><strong>Range</strong> touch; <strong>Targets</strong> a gemstone worth 6 gp or more</p>
-  <p class="duration"><strong>Duration</strong> unlimited</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> a gemstone worth 6 gp or more</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> unlimited</p>
   <hr/>
   <p>The gemstone you touch glows, spreading bright light with a color of your choice in a 20-foot radius (and dim light for the next 20 feet). The spell ends immediately if the gemstone is broken.</p>

@@ -21,7 +21,7 @@ traits:
 type: focus
 
 --- >
-  <p class="trigger"><strong>Trigger</strong> You or an ally within 60 feet rolls a saving throw against an auditory or visual effect</p>
-  <p class="area"><strong>Area</strong> 60-foot emanation</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> You or an ally within 60 feet rolls a saving throw against an auditory or visual effect</p>
+  <p class="hanging-indent area"><strong>Area</strong> 60-foot emanation</p>
   <hr/>
   <p>Your performance protects you and your allies. Roll a Performance check for a type you know—it must be an auditory performance if the trigger was auditory or a visual one for a visual trigger, and this action gains the traits for the type of performance (page 243). You and allies in the area can use the better result between your Performance check and the saving throw.</p>

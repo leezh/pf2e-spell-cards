@@ -19,10 +19,10 @@ traits:
 type: focus
 
 --- >
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 living creature</p>
-  <p class="defense"><strong>Defense</strong> Fortitude</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 living creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
   <hr/>
   <p>Your magic throws the creature's biology into disarray, inducing nausea, fever, and other unpleasant conditions.</p>
-  <p><strong>Success</strong> The target is unaffected.</p>
-  <p><strong>Failure</strong> The target becomes sickened 1.</p>
-  <p><strong>Critical Failure</strong> The target becomes sickened 2 and slowed 1 as long as it's sickened.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target becomes sickened 1.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target becomes sickened 2 and slowed 1 as long as it's sickened.</p>

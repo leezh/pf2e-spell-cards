@@ -22,9 +22,9 @@ traits:
 type: cantrip
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine, occult, primal</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult, primal</p>
   <hr/>
   <p>In your mind's eye, you magically reorient yourself. You immediately know which direction is north (if it exists at your current location), and you can choose a location you were at within the last 24 hours and learn what direction it lies.</p>
   <hr/>
-  <p><strong>Heightened (3rd)</strong> You can choose a location you were at within the last week.</p>
-  <p><strong>Heightened (7th)</strong> You can choose a location you were at regardless of how long ago you were there.</p>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> You can choose a location you were at within the last week.</p>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> You can choose a location you were at regardless of how long ago you were there.</p>

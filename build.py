@@ -21,7 +21,7 @@ def build():
                 continue
             with open(spells_dir / book / file, "r", encoding="utf-8") as f:
                 data = [*yaml.safe_load_all(f)]
-            data[0]["description"] = data[1:]
+            data[0]["description"] = data[1]
             entries[data[0]["id"]] = data[0]
     entries = {k: entries[k] for k in sorted(entries.keys())}
 

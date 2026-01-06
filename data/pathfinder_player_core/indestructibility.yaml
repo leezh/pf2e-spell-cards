@@ -21,7 +21,7 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
-  <p class="duration"><strong>Duration</strong> until the start of your next turn</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the start of your next turn</p>
   <hr/>
   <p>You sever yourself from cause and effect. For the duration of the spell, you are immune to any effect or damage that would harm you, excluding effects caused by artifacts, deific power, and similarly powerful sources. You can selectively allow yourself to be affected by anything you're willing to have affect you.</p>

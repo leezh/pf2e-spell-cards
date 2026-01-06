@@ -21,9 +21,9 @@ traits:
 type: focus
 
 --- >
-  <p class="bloodline"><strong>Bloodline</strong> draconic</p>
-  <p class="duration"><strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> draconic</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>Leathery wings sprout from your back, giving you a fly Speed of 60 feet or your Speed, whichever is faster. If you're still flying when this spell's duration would end, you float to the ground, with the effects of <em>gentle landing</em>.</p>
   <hr/>
-  <p><strong>Heightened (8th)</strong> The duration increases to 10 minutes.</p>
+  <p class="hanging-indent"><strong>Heightened (8th)</strong> The duration increases to 10 minutes.</p>

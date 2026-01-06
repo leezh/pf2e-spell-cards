@@ -24,13 +24,13 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine, primal</p>
-  <p class="range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> AC</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> AC</p>
   <hr/>
   <p>You shine a blazing ray of light tinged with holy energy. Make a ranged spell attack. The ray deals 5d6 fire damage. If the target has the unholy trait, you deal an extra 5d6 spirit damage.</p>
-  <p><strong>Critical Success</strong> The target takes double damage.</p>
-  <p><strong>Success</strong> The target takes full damage.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target takes double damage.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes full damage.</p>
   <p>If the light passes through an area of magical darkness or targets a creature affected by magical darkness, <em>holy light</em> attempts to counteract the darkness. If you need to determine whether the light passes through an area of darkness, draw a line between yourself and the spell's target.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The fire damage increases by 2d6, and the spirit damage against unholy creatures increases by 2d6.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The fire damage increases by 2d6, and the spirit damage against unholy creatures increases by 2d6.</p>

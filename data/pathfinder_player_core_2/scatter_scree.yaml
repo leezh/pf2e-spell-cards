@@ -21,11 +21,11 @@ traits:
 type: cantrip
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, primal</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Area</strong> two contiguous 5-foot cubes</p>
-  <p class="defense"><strong>Defense</strong> basic Reflex; <strong>Duration</strong> 1 minute</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Area</strong> two contiguous 5-foot cubes</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex; <strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>A jumble of rocks cascades into the area. The scattering rocks deal 2d4 bludgeoning damage (basic Reflex save). The ground in the area becomes difficult terrain for the duration of the spell. A creature can Interact to clear a square of this scree.</p>
   <p>If you cast this spell again, any previous <em>scatter scree</em> you've cast ends.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>

@@ -1,4 +1,4 @@
-actions: '[one-action] TO [three-actions]'
+actions: '[one-action] to [three-actions]'
 bloodlines: []
 copyright: 2024 Paizo Inc.
 domains: []
@@ -20,13 +20,13 @@ traits:
 type: focus
 
 --- >
-  <p class="area"><strong>Area</strong> 15-foot cone or more</p>
-  <p class="defense"><strong>Defense</strong> Fortitude</p>
+  <p class="hanging-indent area"><strong>Area</strong> 15-foot cone or more</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
   <hr/>
   <p>You unleash your qi as a powerful blast that deals 2d6 force damage. If you use 2 actions to cast <em>qi blast</em>, increase the size of the cone to 30 feet and the damage to 3d6. If you use 3 actions to cast <em>qi blast</em>, increase the cone to 60 feet and the damage to 4d6. Each creature in the area must attempt a Fortitude save.</p>
-  <p><strong>Critical Success</strong> The creature is unaffected.</p>
-  <p><strong>Success</strong> The creature takes half damage.</p>
-  <p><strong>Failure</strong> The creature takes full damage and is pushed 5 feet.</p>
-  <p><strong>Critical Failure</strong> The creature takes double damage and is pushed 10 feet.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes half damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes full damage and is pushed 5 feet.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature takes double damage and is pushed 10 feet.</p>
   <hr/>
-  <p><strong>Heightened (+1)</strong> The damage increases by 1d6, or by 2d6 if you use 2 or 3 actions.</p>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d6, or by 2d6 if you use 2 or 3 actions.</p>

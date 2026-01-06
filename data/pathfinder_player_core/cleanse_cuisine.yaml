@@ -19,9 +19,9 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine, primal</p>
-  <p class="range"><strong>Range</strong> 10 feet; <strong>Area</strong> 1 cubic foot</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 10 feet; <strong>Area</strong> 1 cubic foot</p>
   <hr/>
   <p>You transform all food and beverages in the area into delicious fare, changing water into wine or another fine beverage, or enhancing the food's taste and ingredients to make it a gourmet treat. You can also choose to remove all toxins and contaminations from the food. This spell doesn't prevent future contamination, natural decay, or spoilage, nor does it make the food any more nutritious.</p>
   <hr/>
-  <p><strong>Heightened (+2)</strong> Add another cubic foot to the area, which must be contiguous with the rest.</p>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> Add another cubic foot to the area, which must be contiguous with the rest.</p>

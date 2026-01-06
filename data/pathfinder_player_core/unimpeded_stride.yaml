@@ -19,6 +19,6 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> freedom</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> freedom</p>
   <hr/>
   <p>Divine grace ensure that nothing can keep you prisoner or hold you back. You immediately escape from every magical effect that has you immobilized or grabbed unless the effect is of a higher rank than your <em>unimpeded stride</em> spell. You then Stride. During this movement, you ignore difficult terrain and any circumstance or status penalties to your Speed.</p>

@@ -19,7 +19,7 @@ traits:
 type: focus
 
 --- >
-  <p class="trigger"><strong>Trigger</strong> A creature’s dying condition would reach the value at which they would die</p>
-  <p class="range"><strong>Range</strong> 60 feet; <strong>Targets</strong> the triggering creature</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> A creature’s dying condition would reach the value at which they would die</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> the triggering creature</p>
   <hr/>
   <p>Your ode staves off death. The target's dying condition remains 1 below the value at which it dies. This doesn't help prevent death from effects that kill the target without increasing its dying condition, such as <em>disintegrate</em> and death effects.</p>

@@ -20,14 +20,14 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine</p>
-  <p class="range"><strong>Range</strong> 30 feet</p>
-  <p class="duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>
   <p>You summon a creature that has the celestial trait and whose level is 5 or lower to fight for you. The GM might determine your deity restricts the specific types of celestials you can summon in certain cases. For instance, Calistria doesn't typically allow her followers to summon aeons.</p>
   <hr/>
-  <p><strong>Heightened (6th)</strong> Level 7.</p>
-  <p><strong>Heightened (7th)</strong> Level 9.</p>
-  <p><strong>Heightened (8th)</strong> Level 11.</p>
-  <p><strong>Heightened (9th)</strong> Level 13.</p>
-  <p><strong>Heightened (10th)</strong> Level 15.</p>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> Level 7.</p>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> Level 9.</p>
+  <p class="hanging-indent"><strong>Heightened (8th)</strong> Level 11.</p>
+  <p class="hanging-indent"><strong>Heightened (9th)</strong> Level 13.</p>
+  <p class="hanging-indent"><strong>Heightened (10th)</strong> Level 15.</p>

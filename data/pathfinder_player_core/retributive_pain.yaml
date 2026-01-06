@@ -21,9 +21,9 @@ traits:
 type: focus
 
 --- >
-  <p class="domain"><strong>Domain</strong> pain</p>
-  <p class="trigger"><strong>Trigger</strong> A creature in range damages you</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> the triggering creature</p>
-  <p class="defense"><strong>Defense</strong> basic Fortitude</p>
+  <p class="hanging-indent domain"><strong>Domain</strong> pain</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> A creature in range damages you</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> the triggering creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Fortitude</p>
   <hr/>
   <p>You vengefully reflect your pain upon your tormentor. The target takes mental damage equal to half the triggering damage.</p>

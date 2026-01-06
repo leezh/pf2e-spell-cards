@@ -21,12 +21,12 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult, primal</p>
-  <p class="cast"><strong>Cast</strong> 10 minutes</p>
-  <p class="range"><strong>Range</strong> 500 feet; <strong>Area</strong> 50-foot burst</p>
-  <p class="duration"><strong>Duration</strong> until your next daily preparations</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 10 minutes</p>
+  <p class="hanging-indent range"><strong>Range</strong> 500 feet; <strong>Area</strong> 50-foot burst</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until your next daily preparations</p>
   <hr/>
   <p>You create an illusion that causes natural terrain to look, sound, feel, and smell like a different kind of terrain. This doesn't disguise any structures or creatures in the area.</p>
   <p>Any creature that touches the illusion or uses the Seek action to examine it can attempt to disbelieve your illusion.</p>
   <hr/>
-  <p><strong>Heightened (5th)</strong> Your image can also disguise structures or create illusory structures (but still doesn't disguise creatures).</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> Your image can also disguise structures or create illusory structures (but still doesn't disguise creatures).</p>

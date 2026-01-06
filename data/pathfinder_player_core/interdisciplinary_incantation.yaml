@@ -18,6 +18,6 @@ traits:
 type: focus
 
 --- >
-  <p class="trigger"><strong>Trigger</strong> A creature within 30 feet casts an arcane spell</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> A creature within 30 feet casts an arcane spell</p>
   <hr/>
   <p>You gather the embers of another caster's spell, using your understanding of unified magic to pick apart their formulas and incantations well enough to imitate the spell yourself, if only for a short time. Until the end of your next turn, you can Cast the triggering Spell by expending a wizard spell slot of the same rank. That caster's spells can't trigger your <em>interdisciplinary incantation</em> again for 24 hours.</p>

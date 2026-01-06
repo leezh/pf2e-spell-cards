@@ -22,12 +22,12 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, occult</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
   <hr/>
   <p>You dull the target's mind, depending on its Will save.</p>
-  <p><strong>Critical Success</strong> The target is unaffected.</p>
-  <p><strong>Success</strong> The target is stupefied 1 until the start of your next turn.</p>
-  <p><strong>Failure</strong> The target is stupefied 2 for 1 minute.</p>
-  <p><strong>Critical Failure</strong> The target is stupefied 3 for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is stupefied 1 until the start of your next turn.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is stupefied 2 for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is stupefied 3 for 1 minute.</p>

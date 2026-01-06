@@ -21,14 +21,14 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
-  <p class="cast"><strong>Cast</strong> 10 minutes</p>
-  <p class="range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
-  <p class="duration"><strong>Duration</strong> 8 hours</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 10 minutes</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 8 hours</p>
   <hr/>
   <p>You conjure a Large fantastical creature to serve as a mount for the target. The mount is the target's minion, has a Speed of 40 feet, and can bear the target with any carried possessions. It can't carry any other creature. The mount uses the target's AC and saves, but it's destroyed if it takes more than 10 damage at one time, ending the spell.</p>
   <hr/>
-  <p><strong>Heightened (3rd)</strong> The mount can walk on water, but it must end its turn on solid ground or sink.</p>
-  <p><strong>Heightened (4th)</strong> The mount has a Speed of 60 feet and can walk on water.</p>
-  <p><strong>Heightened (5th)</strong> The mount has a Speed of 60 feet and can walk on water. It also has a fly Speed of 60 feet, but it must end its turn on a surface or fall.</p>
-  <p><strong>Heightened (6th)</strong> The mount has a Speed and fly Speed of 80 feet.</p>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> The mount can walk on water, but it must end its turn on solid ground or sink.</p>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> The mount has a Speed of 60 feet and can walk on water.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> The mount has a Speed of 60 feet and can walk on water. It also has a fly Speed of 60 feet, but it must end its turn on a surface or fall.</p>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> The mount has a Speed and fly Speed of 80 feet.</p>

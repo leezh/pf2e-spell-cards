@@ -23,12 +23,12 @@ traits:
 type: spell
 
 --- >
-  <p class="traditions"><strong>Traditions</strong> divine, occult</p>
-  <p class="area"><strong>Area</strong> 40-foot emanation</p>
-  <p class="defense"><strong>Defense</strong> Fortitude</p>
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent area"><strong>Area</strong> 40-foot emanation</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
   <hr/>
   <p>You howl a lament of damned souls. Each living enemy in the area takes 8d10 void damage depending on its Fortitude save.</p>
-  <p><strong>Critical Success</strong> The creature is unaffected.</p>
-  <p><strong>Success</strong> The creature takes full damage.</p>
-  <p><strong>Failure</strong> The creature takes full damage and is drained 1d4.</p>
-  <p><strong>Critical Failure</strong> The creature takes double damage and is drained 4.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes full damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes full damage and is drained 1d4.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature takes double damage and is drained 4.</p>
