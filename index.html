@@ -2,20 +2,35 @@
 <html>
     <head>
         <title>Pathfinder 2E Spell Cards</title>
-        <link rel="stylesheet" href="style.css">
+        <link rel="preload" href="icons/one-action.svg" as="image" />
+        <link rel="preload" href="icons/two-actions.svg" as="image" />
+        <link rel="preload" href="icons/three-actions.svg" as="image" />
+        <link rel="preload" href="icons/free-action.svg" as="image" />
+        <link rel="preload" href="icons/reaction.svg" as="image" />
+        <link rel="preload" href="icons/reaction.svg" as="image" />
+        <link rel="preload" href="fonts/FiraSans-Bold.ttf" as="font" crossorigin />
+        <link rel="preload" href="fonts/FiraSans-Italic.ttf" as="font" crossorigin />
+        <link rel="preload" href="fonts/FiraSans-Regular.ttf" as="font" crossorigin />
+        <link rel="preload" href="fonts/FiraSansCondensed-Bold.ttf" as="font" crossorigin />
+        <link rel="preload" href="data.json" as="fetch" crossorigin />
+        <link rel="stylesheet" href="style.css" />
         <script src="spells.js"></script>
     </head>
     <body>
         <nav id="header">
-          <div id="banner">
-            <h1>Pathfinder2E Spell Cards</h1>
-            <div>An unofficial spell card generator for Pathfinder 2nd Edition (Remastered) [<a href="https://github.com/leezh/pf2e-spell-cards">More Info</a>]</div>
-            <div>
-              Click a card to pin<br />
-              <input id="hideUnpinned" type="checkbox"/><label for="hideUnpinned">Show Only Pinned</label>
-            </div>
-            <div><button id="print">Print</button></div>
-          </div>
+              <div id="banner">
+                    <h1>Pathfinder2E Spell Cards</h1>
+                    <div>
+                        An unofficial spell card generator for Pathfinder 2nd Edition <br />
+                        <input id="remastered" type="checkbox" checked /><label for="remastered">Remastered</label></br>
+                        [<a href="https://github.com/leezh/pf2e-spell-cards">More Info</a>]
+                    </div>
+                    <div>
+                          Click a card to pin<br />
+                          <input id="hideUnpinned" type="checkbox" /><label for="hideUnpinned">Show Only Pinned</label>
+                    </div>
+                    <div><button id="print">Print</button></div>
+              </div>
           <div id="filters"></div>
         </nav>
         <main id="main"></main>
