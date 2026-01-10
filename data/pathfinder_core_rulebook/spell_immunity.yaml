@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodline:
+- Draconic
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-296
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Spell Immunity
+traditions:
+- Arcane
+- Divine
+- Occult
+traits:
+- Abjuration
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the next time you make your daily preparations.</p>
+  <hr/>
+  <p>You ward a creature against the effects of a single spell. Choose a spell and name it aloud as part of the verbal component. <em>Spell immunity</em> attempts to counteract that spell whenever <em>spell immunity</em>'s target is the target of the named spell or in that spell's area. Successfully counteracting a spell that targets an area or multiple targets with spell immunity negates the effects only for the target affected by <em>spell immunity</em>.</p>

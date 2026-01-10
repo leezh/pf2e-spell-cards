@@ -1,21 +1,23 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: rune_of_observation
-lessons: []
+domain: []
+id: spell-1895
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Rune of Observation
 traditions: []
 traits:
-- concentrate
-- focus
-- wizard
-type: focus
+- Concentrate
+- Focus
+- Wizard
+type: Focus
 
 --- >
   <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>

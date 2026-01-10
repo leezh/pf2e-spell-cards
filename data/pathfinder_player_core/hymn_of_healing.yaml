@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: hymn_of_healing
-lessons: []
+domain: []
+id: spell-1768
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Hymn of Healing
 traditions: []
 traits:
-- bard
-- composition
-- concentrate
-- focus
-- healing
-- vitality
-type: focus
+- Bard
+- Composition
+- Concentrate
+- Focus
+- Healing
+- Vitality
+type: Focus
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> you or 1 ally</p>

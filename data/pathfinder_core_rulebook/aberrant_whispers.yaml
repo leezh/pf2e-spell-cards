@@ -1,0 +1,36 @@
+actions: '[one-action] to [three-actions]'
+bloodline:
+- Aberrant
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-491
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Aberrant Whispers
+traditions: []
+traits:
+- Auditory
+- Enchantment
+- Focus
+- Mental
+- Sorcerer
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> aberrant</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 5-foot emanation or more; <strong>Targets</strong> each foe in the area</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>You utter phrases in an unknown tongue, assaulting the minds of those nearby. Each target must attempt a Will save. Regardless of the result of its save, each target is then temporarily immune for 1 minute. You can increase the number of actions it takes to Cast the Spell (to a maximum of 3 actions total). For each additional action, increase the emanation's radius by 5 feet, to a maximum of 10 extra feet for 3 actions.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is stupefied 2.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is confused.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+3)</strong> The initial radius increases by 5 feet.</p>

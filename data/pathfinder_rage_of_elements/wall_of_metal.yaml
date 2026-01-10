@@ -1,0 +1,34 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1379
+legacy: false
+lesson: []
+level: 6
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Wall of Metal
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Manipulate
+- Metal
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You call forth a sheet of metal, forming a wall of iron, low-grade cold iron, or standard-grade silver up to 60 feet long, 30 feet high, and 1/4 inch thick. The wall doesn't need to stand vertically but must form a straight line in an unbroken open space so it doesn't pass through any creatures or objects, or the spell is lost. Each 10-foot-by-10- foot section of the wall has AC 10 and is immune to critical hits and precision damage. The wall's Hardness, HP, and BT use the statistics of a structure of the material you chose. Creatures can move through a section of the wall that's broken.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> The wall is high-grade silver or standard-grade dawnsilver.</p>
+  <p class="hanging-indent"><strong>Heightened (8th)</strong> The wall is standard-grade cold iron.</p>
+  <p class="hanging-indent"><strong>Heightened (9th)</strong> The wall is high-grade dawnsilver.</p>
+  <p class="hanging-indent"><strong>Heightened (10th)</strong> The wall is high-grade cold iron or standard-grade adamantine.</p>

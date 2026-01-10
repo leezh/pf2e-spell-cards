@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline:
+- Diabolic
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-121
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Flaming Sphere
+traditions:
+- Arcane
+- Primal
+traits:
+- Evocation
+- Fire
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Area</strong> 1 5-foot square</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Reflex; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You create a sphere of flame in a square within range. The sphere must be supported by a solid surface, such as a stone floor. The sphere deals 3d6 fire damage to each creature in the square where it first appears; each creature must attempt a basic Reflex save. On subsequent rounds, the first time you Sustain this Spell each round, you can leave the sphere in its square or roll it to another square within range. It deals 3d6 fire damage (basic Reflex save) to each creature in that square.</p>
+  <p>Creatures that succeed at their save take no damage (instead of half).</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d6.</p>

@@ -1,0 +1,34 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Earth
+id: spell-427
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Hurtling Stone
+traditions: []
+traits:
+- Attack
+- Cleric
+- Earth
+- Evocation
+- Focus
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> earth</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <hr/>
+  <p>You evoke a magical stone and throw it, with your god's presence guiding your aim. Make a spell attack roll against the target. The stone deals bludgeoning damage equal to 1d6 plus your Strength modifier.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The stone deals double damage.</p>
+  <p class="hanging-indent"><strong>Success</strong> The stone deals full damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The stone's damage increases by 1d6.</p>

@@ -1,0 +1,30 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-14
+legacy: true
+lesson: []
+level: 8
+mystery: []
+patron: []
+rarity: Rare
+remaster: false
+source: Pathfinder Core Rulebook
+title: Antimagic Field
+traditions:
+- Arcane
+- Divine
+- Occult
+traits:
+- Abjuration
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 10-foot emanation, which affects you</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You repel all magic from the target area, preventing spells and other magic from functioning. Spells can't penetrate the area, magic items cease to function within it, and no one inside can cast spells or use magic abilities. Likewise, spells—such as <em>dispel magic</em>—can't affect the field itself unless they are of a higher level. Magic effects resume the moment they pass outside the field. For example, a ray fired from one side of the field could target a creature on the other side (as long as caster and target are both outside the field). A summoned creature winks out of existence but reappears if the field moves or ends. Invested magic items cease to function, but they remain invested and resume functioning when they exit the field; the ability boost from an apex item isn't suppressed within the field. Spells of a higher level than the <em>antimagic field</em> overcome its effects, and can even be cast by a creature within the field.</p>
+  <p>The field disrupts only magic, so a <em>+3 longsword</em> still functions as a longsword. Magically created creatures (such as golems) function normally within an <em>antimagic field</em>.</p>

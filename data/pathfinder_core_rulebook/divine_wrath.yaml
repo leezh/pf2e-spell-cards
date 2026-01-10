@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodline:
+- Angelic
+- Demonic
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-86
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Divine Wrath
+traditions:
+- Divine
+traits:
+- Evocation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>You can channel the fury of your deity against foes of opposed alignment. Choose an alignment your deity has (chaotic, evil, good, or lawful). You can't cast this spell if you don't have a deity or your deity is true neutral. This spell gains the trait of the alignment you chose. You deal 4d10 damage of the alignment you chose; each creature in the area must attempt a Fortitude save. Creatures that match the alignment you chose are unaffected. Those that neither match nor oppose it treat the result of their saving throw as one degree better.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes half damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes full damage and is sickened 1.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature takes full damage and is sickened 2; while it is sickened, it is also slowed 1.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d10.</p>

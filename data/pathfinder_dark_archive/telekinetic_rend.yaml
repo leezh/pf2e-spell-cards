@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1130
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Dark Archive
+title: Telekinetic Rend
+traditions: []
+traits:
+- Cantrip
+- Evocation
+- Psychic
+type: Cantrip
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Area</strong> 2 non-overlapping 5-foot bursts</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Fortitude</p>
+  <hr/>
+  <p>Your mind creates a violent axis of motion in a nearby space. You deal your choice of 1d6 bludgeoning or 1d6 slashing damage to all creatures in the area, with a basic Fortitude save. A creature large enough to be in more than one of the bursts takes damage only once.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The damage increases by 1d6.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Amp</strong> Your thoughts expand in scope and power. The bursts deal 1d6 bludgeoning damage and 1d6 slashing damage, instead of the usual damage. A creature that critically fails its save is also stunned 1.</p>
+  <p class="hanging-indent"><strong>Amp Heightened (+2)</strong> Both types of damage increase by 1d6 instead of just one. Add a third non-overlapping 5-foot burst to the area.</p>

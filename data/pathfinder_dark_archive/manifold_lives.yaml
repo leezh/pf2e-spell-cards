@@ -1,0 +1,39 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1197
+legacy: true
+lesson: []
+level: 6
+mystery:
+- Time
+- Time
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Dark Archive
+title: Manifold Lives
+traditions: []
+traits:
+- Cursebound
+- Divination
+- Emotion
+- Focus
+- Mental
+- Oracle
+type: Focus
+
+--- >
+  <p class="hanging-indent mystery"><strong>Mystery</strong> time, time</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You cast a creature's mind back through time, forcing them to take other paths and make other choices, experiencing countless alternate lives in an instant. The creature becomes overwhelmed with regret over paths untraveled, lives unlived, and times unrealized. The creature takes 6d6 mental damage and must attempt a Will save. After the effect is resolved, the target is then temporarily immune for 1 day.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes half damage and is stupefied 2 for 1 round.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes full damage and is stupefied 2 for 1 minute. While affected, the creature must attempt another save at the start of its turn; on a failure, it's slowed 1 for that turn as it sobs uncontrollably.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature takes double damage and for 1 minute, it's stupefied 4 and slowed 1 as it sobs uncontrollably.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The mental damage increases by 1d6.</p>

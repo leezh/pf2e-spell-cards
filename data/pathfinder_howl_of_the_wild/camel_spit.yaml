@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1948
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Camel Spit
+traditions:
+- Arcane
+- Primal
+traits:
+- Acid
+- Attack
+- Concentrate
+- Manipulate
+- Morph
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> AC; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You alter your stomach, esophagus, and tongue to be able to spit partially digested food with force. You can spit at a foe once you finish Casting the Spell and can repeat the attack once on each of your subsequent turns by taking a single action, which has the acid, attack, and concentrate traits. After your third spit attack, the spell ends.</p>
+  <p>When you attack with camel spit, make a ranged spell attack roll against a creature within 15 feet, dealing 1d6 acid damage and causing the target to be dazzled for 1 round if you hit. On a critical hit, you deal double damage and the target takes 1 persistent acid damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d6, and the persistent damage on a critical hit is increased by 1.</p>

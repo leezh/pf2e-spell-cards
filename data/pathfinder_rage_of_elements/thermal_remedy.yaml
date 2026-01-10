@@ -1,0 +1,37 @@
+actions: ''
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1363
+legacy: false
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Thermal Remedy
+traditions:
+- Arcane
+- Divine
+- Primal
+traits:
+- Concentrate
+- Fire
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 minute</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> up to 1 gallon of non-magical liquid or up to 5 pounds of food</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>You adjust the delicate levels of bitter ingredients in food and drink to draw out their full restorative and fortifying properties. Choose one of the benefits listed below. Any creature that consumes the targeted drink or food gains that benefit. Up to 10 creatures can partake in the meal, and a creature gets no extra benefit for consuming more than one portion.</p>
+  <li>Gain 5 temporary Hit Points.</li>
+  <li>Gain resistance 2 to fire.</li>
+  <li>Gain a +1 circumstance bonus to saves against disease.</li>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> Your remedy provides two benefits of your choice instead of one. The temporary Hit Points increase to 10, the resistance to fire increases to 3, the bonus against disease increases to +2, and the duration is 2 hours.</p>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> The remedy provides all three benefits. The temporary Hit Points increase to 15, the resistance to fire increases to 5, the bonus against disease increases to +3, and the duration is 8 hours.</p>

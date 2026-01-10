@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-392
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Triple Time
+traditions: []
+traits:
+- Bard
+- Cantrip
+- Composition
+- Emotion
+- Enchantment
+- Mental
+type: Cantrip
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent area"><strong>Area</strong> 60-foot emanation</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>You dance at a lively tempo, speeding your allies' movement. You and all allies in the area gain a +10-foot status bonus to all Speeds for 1 round.</p>

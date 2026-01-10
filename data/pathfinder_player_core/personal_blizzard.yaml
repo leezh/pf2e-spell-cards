@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: personal_blizzard
-lessons:
-- snow
+domain: []
+id: spell-1883
+legacy: false
+lesson:
+- Snow
 level: 3
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Personal Blizzard
 traditions: []
 traits:
-- cold
-- focus
-- hex
-- witch
-type: focus
+- Cold
+- Focus
+- Hex
+- Witch
+type: Focus
 
 --- >
   <p class="hanging-indent lesson"><strong>Lesson</strong> snow</p>

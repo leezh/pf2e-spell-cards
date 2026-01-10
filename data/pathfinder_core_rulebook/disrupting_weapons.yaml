@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-80
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Disrupting Weapons
+traditions:
+- Divine
+traits:
+- Necromancy
+- Positive
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> up to two weapons, each of which must be wielded by you or a willing ally, or else unattended</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You infuse weapons with positive energy. Attacks with these weapons deal an extra 1d4 positive damage to undead.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> The damage increases to 2d4 damage.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> Target up to three weapons, and the damage increases to 3d4 damage.</p>

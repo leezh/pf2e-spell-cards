@@ -1,0 +1,32 @@
+actions: '[one-action]'
+bloodline:
+- Diabolic
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-506
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Embrace the Pit
+traditions: []
+traits:
+- Evil
+- Focus
+- Morph
+- Sorcerer
+- Transmutation
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> diabolic</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Devil horns grow from your skull, and your skin takes on features of the devil responsible for your diabolic bloodline. You gain resistance 5 to evil, fire, and poison, and resistance 1 to physical damage (except silver). You can take good damage, even if you aren't evil, and you gain weakness 5 to good damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The resistance to evil, fire, and poison increases by 5, the resistance to physical damage (except silver) by 2, and the weakness to good damage by 5.</p>

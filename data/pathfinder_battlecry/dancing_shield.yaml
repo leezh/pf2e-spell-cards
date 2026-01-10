@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2025 Paizo Inc.
+domain: []
+id: spell-2499
+legacy: false
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Battlecry!
+title: Dancing Shield
+traditions:
+- Arcane
+- Divine
+- Occult
+- Primal
+traits:
+- Concentrate
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 touched shield (unattended or in your possession) and 1 willing creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You levitate the touched shield and send it to orbit around a creature. When you Cast the Spell and Sustain it, the shield uses the Raise a Shield action to protect the target creature.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> If you have the Shield Block reaction, you can use your reaction to have the target shield use Shield Block when the target creature would take damage from a physical attack, in addition to the usual trigger. In this case, Shield Block protects the target creature, rather than you. Since the shield is using Shield Block and not you, additional effects or abilities that normally apply when you Shield Block don’t apply.</p>

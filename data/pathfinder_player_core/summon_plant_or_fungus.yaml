@@ -1,22 +1,24 @@
 actions: '[three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: summon_plant_or_fungus
-lessons: []
+domain: []
+id: spell-1705
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Summon Plant or Fungus
 traditions:
-- primal
+- Primal
 traits:
-- concentrate
-- manipulate
-- summon
-type: spell
+- Concentrate
+- Manipulate
+- Summon
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>

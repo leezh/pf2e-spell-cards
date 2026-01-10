@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1389
+legacy: false
+lesson: []
+level: 6
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Frost Pillar
+traditions:
+- Arcane
+- Primal
+traits:
+- Cold
+- Concentrate
+- Manipulate
+- Water
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Reflex; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Ice crystallizes around a creature, imprisoning it within an icy pillar. On a successful saving throw, the creature is pushed to an adjacent space of its choice; otherwise, it's frozen inside the pillar and becomes restrained as its body can barely move within the ice. The ice has AC 10, Hardness 10, and 60 Hit Point; it's immune to critical hits, cold damage, and precision damage, and it has weakness 15 to fire. If the ice is destroyed, the creature within is freed and the spell immediately ends.</p>

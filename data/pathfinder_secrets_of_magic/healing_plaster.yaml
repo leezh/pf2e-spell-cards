@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-925
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Healing Plaster
+traditions:
+- Primal
+traits:
+- Cantrip
+- Earth
+- Transmutation
+type: Cantrip
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> 5 feet; <strong>Targets</strong> a handful of dirt or mud</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You purify some dirt or mud into a pliable, claylike plaster that can aid in clotting and healing. This restorative substance can be used in lieu of healer's tools for Medicine checks to Administer First Aid or Treat Wounds. If the plaster isn't used within the spell's duration, or if you Cast the Spell again before using the plaster, it reverts to being normal non-magical earth.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> The plaster grants anyone using it to Administer First Aid or Treat Wounds a +1 item bonus to the Medicine check.</p>

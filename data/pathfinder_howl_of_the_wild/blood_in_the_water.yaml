@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1941
+legacy: false
+lesson:
+- the Shark
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Blood in the Water
+traditions: []
+traits:
+- Concentrate
+- Focus
+- Hex
+- Manipulate
+- Spirit
+- Witch
+type: Focus
+
+--- >
+  <p class="hanging-indent lesson"><strong>Lesson</strong> shark</p>
+  <p class="hanging-indent requirements"><strong>Requirements</strong> The target is taking persistent bleed damage or your last action dealt slashing damage to the target.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature that can bleed</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Predators are drawn to the scent of blood, and blood can disperse shockingly far in the water. You summon the spirits of aquatic predators to appear as a spectral swarm around the target. When you Cast or Sustain this Spell, the target takes 2d6 spirit damage (basic Reflex save). If the target takes any damage from the spell, it treats all water as difficult terrain for 1 round as the predators try to drag them down. The spectral predators don’t take up space, grant flanking, or have any other attributes a creature would.</p>
+  <p>If you deal slashing damage to the target while the spell is active, you automatically Sustain this Spell. If you cast <em>blood in the water</em> while a previous casting of this hex is still in effect, the previous effect ends.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The damage dealt increases by 2d6.</p>

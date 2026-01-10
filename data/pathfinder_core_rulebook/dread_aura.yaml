@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-526
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Dread Aura
+traditions: []
+traits:
+- Aura
+- Emotion
+- Enchantment
+- Fear
+- Focus
+- Mental
+- Wizard
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot-radius emanation</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You emit an aura of terror. Foes in the area are frightened 1 and unable to reduce the condition.</p>

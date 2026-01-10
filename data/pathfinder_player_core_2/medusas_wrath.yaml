@@ -1,22 +1,24 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: medusas_wrath
-lessons: []
+domain: []
+id: spell-2057
+legacy: false
+lesson: []
 level: 8
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Medusa's Wrath
 traditions: []
 traits:
-- concentrate
-- focus
-- manipulate
-- monk
-type: focus
+- Concentrate
+- Focus
+- Manipulate
+- Monk
+type: Focus
 
 --- >
   <p>You make an attack filled with a medusa's petrifying power. Make an unarmed Strike with the following additional effects.</p>

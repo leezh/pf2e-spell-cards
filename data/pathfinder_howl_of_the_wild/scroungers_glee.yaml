@@ -1,0 +1,34 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1938
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron:
+- Devourer of Decay
+rarity: Uncommon
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Scrounger's Glee
+traditions: []
+traits:
+- Auditory
+- Cantrip
+- Concentrate
+- Fear
+- Hex
+- Mental
+- Witch
+type: Cantrip
+
+--- >
+  <p class="hanging-indent patron"><strong>Patron</strong> devourer of decay</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>With a cruel laugh and a flash of your canines, you make a target understand that death is coming to claim it and that its demise will serve to strengthen another. The target becomes frightened 1 if it fails a Will save (or frightened 2 on a critical failure). This condition can't be reduced below 1 while the spell is active and the target can hear you. You can Dismiss the spell as a reaction when an ally critically succeeds at a Strike against the target, restoring 1d4 Hit Points to that ally.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The number of Hit Points restored when you Dismiss the spell increases by 1d4.</p>

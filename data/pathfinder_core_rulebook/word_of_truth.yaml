@@ -1,0 +1,29 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Truth
+id: spell-471
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Word of Truth
+traditions: []
+traits:
+- Cleric
+- Divination
+- Focus
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> truth</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You speak a statement you believe to be true and that is free of any attempt to deceive through twisting words, omission, and so on. The statement must be 25 words or fewer. A symbol of your deity glows above your head, and anyone who sees you and hears your statement knows that you believe it to be true.</p>
+  <p>Each time you Sustain this Spell, you can repeat this effect.</p>

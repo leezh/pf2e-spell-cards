@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1932
+legacy: false
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Imitate Fauna
+traditions: []
+traits:
+- Concentrate
+- Focus
+- Illusion
+- Manipulate
+- Ranger
+type: Focus
+
+--- >
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 willing animal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>You use your knowledge of nature to pass the target off as a common animal of the same size, representing a species chosen when the spell is cast. This covers the target’s visual appearance, scent, and voice. The target can communicate with other members of the species as though they shared a language but can’t speak other languages while the spell persists. Casting <em>imitate fauna</em> counts as setting up a disguise for the purpose of the Impersonate action. It allows the target to ignore any circumstance penalties they might take for being disguised as dissimilar creatures, and it gives the target a +4 status bonus to Deception checks to prevent other animals from seeing through their disguise. You can Dismiss this spell.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> You can target up to six willing animals.</p>

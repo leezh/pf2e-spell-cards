@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- undeath
-id: touch_of_undeath
-lessons: []
+domain:
+- Undeath
+id: spell-1846
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Touch of Undeath
 traditions: []
 traits:
-- cleric
-- focus
-- manipulate
-- void
-type: focus
+- Cleric
+- Focus
+- Manipulate
+- Void
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> undeath</p>

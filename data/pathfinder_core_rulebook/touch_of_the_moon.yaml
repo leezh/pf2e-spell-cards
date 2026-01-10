@@ -1,0 +1,34 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Moon
+id: spell-460
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Touch of the Moon
+traditions: []
+traits:
+- Cleric
+- Enchantment
+- Focus
+- Light
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> moon</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>When you touch the target, a symbol of the moon appears on its forehead, glowing with soft moonlight. The target glows with dim light in a 20-foot radius. It also gets a benefit based on a phase of the moon, starting with the new moon and changing to the next phase at the end of each of its turns.</p>
+  <li><strong>New Moon</strong> The target receives no benefit.</li>
+  <li><strong>Waxing Moon</strong> The target gains a +1 status bonus to attack rolls and a +4 status bonus to damage rolls.</li>
+  <li><strong>Full Moon</strong> The target gains a +1 status bonus to attack rolls, AC, and saving throws and a +4 status bonus to damage rolls.</li>
+  <li><strong>Waning Moon</strong> The target gains a +1 status bonus to AC and saving throws. After this phase, return to the new moon.</li>

@@ -1,0 +1,27 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-774
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Magic Hide
+traditions: []
+traits:
+- Abjuration
+- Focus
+- Ranger
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> your animal companion</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Your animal companion grows a thicker hide, matted fur, or a harder shell, granting it a +1 status bonus to AC.</p>

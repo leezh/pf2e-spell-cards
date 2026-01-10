@@ -1,0 +1,29 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1394
+legacy: false
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Pillar of Water
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Manipulate
+- Water
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You create a large, self-contained cylinder of still, clear fresh water. You choose the radius and height of the pillar, to a maximum radius of 15 feet and a maximum height of 60 feet. Creatures inside the pillar can Swim through the water as normal (Athletics DC 10), or if the spell was cast on solid ground, walk along the bottom (which is difficult terrain). Any creature that exits the pillar falls or lands accordingly.</p>

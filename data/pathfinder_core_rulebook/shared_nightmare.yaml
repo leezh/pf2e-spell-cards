@@ -1,0 +1,36 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Nightmares
+id: spell-451
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Shared Nightmare
+traditions: []
+traits:
+- Cleric
+- Emotion
+- Enchantment
+- Focus
+- Incapacitation
+- Mental
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> nightmares</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>Merging minds with the target, you swap disorienting visions from one another's nightmares. One of you will become confused, but which it'll be depends on the target's Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> You are confused for 1 round.</p>
+  <p class="hanging-indent"><strong>Success</strong> At the start of your next turn, you spend your first action with the confused condition, then act normally.</p>
+  <p class="hanging-indent"><strong>Failure</strong> As success, but the target is affected instead of you, spending its first action each turn confused. The duration is 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is confused for 1 minute.</p>

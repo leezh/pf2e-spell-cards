@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- undeath
-id: malignant_sustenance
-lessons: []
+domain:
+- Undeath
+id: spell-1847
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Malignant Sustenance
 traditions: []
 traits:
-- cleric
-- concentrate
-- focus
-- manipulate
-- void
-type: focus
+- Cleric
+- Concentrate
+- Focus
+- Manipulate
+- Void
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> undeath</p>

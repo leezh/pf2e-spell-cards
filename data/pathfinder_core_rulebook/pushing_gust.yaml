@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Air
+id: spell-444
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Pushing Gust
+traditions: []
+traits:
+- Air
+- Cleric
+- Conjuration
+- Focus
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> air</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 500 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>Giving the air a push, you buffet the target with a powerful gust of wind; it must attempt a Fortitude save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is pushed 5 feet away from you.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is pushed 10 feet away from you.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is pushed 10 feet away from you and knocked prone.</p>

@@ -1,26 +1,29 @@
 actions: '[reaction]'
-bloodlines: []
+bloodline:
+- Aesir
 copyright: 2024 Paizo Inc.
-domains: []
-id: blinding_fury
-lessons: []
+domain: []
+id: spell-1968
+legacy: false
+lesson: []
 level: 6
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Blinding Fury
 traditions:
-- divine
-- occult
-- primal
+- Divine
+- Occult
+- Primal
 traits:
-- concentrate
-- curse
-- emotion
-- incapacitation
-- mental
-type: spell
+- Concentrate
+- Curse
+- Emotion
+- Incapacitation
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult, primal</p>

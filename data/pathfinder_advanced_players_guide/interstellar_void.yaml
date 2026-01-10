@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-756
+legacy: true
+lesson: []
+level: 3
+mystery:
+- Cosmos
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Interstellar Void
+traditions: []
+traits:
+- Cold
+- Cursebound
+- Evocation
+- Focus
+- Oracle
+type: Focus
+
+--- >
+  <p class="hanging-indent mystery"><strong>Mystery</strong> cosmos</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You call upon the frigid depths of outer space to bring a terrible chill to your enemy. The target is cloaked in the freezing void, which deals 3d6 cold damage immediately and the first time each round you Sustain the Spell on future turns, with a basic Fortitude save. The target is fatigued for as long as the effect persists.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The cold damage increases by 1d6.</p>

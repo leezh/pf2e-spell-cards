@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines:
-- hag
+bloodline:
+- Hag
 copyright: 2023 Paizo Inc.
-domains: []
-id: blindness
-lessons: []
+domain: []
+id: spell-1453
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Blindness
 traditions:
-- arcane
-- divine
-- occult
-- primal
+- Arcane
+- Divine
+- Occult
+- Primal
 traits:
-- concentrate
-- incapacitation
-- manipulate
-type: spell
+- Concentrate
+- Incapacitation
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>

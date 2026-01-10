@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1162
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Dark Archive
+title: Sea of Thought
+traditions:
+- Arcane
+- Occult
+traits:
+- Conjuration
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Area</strong> 15-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You cover the area in a sloshing torrent of semi-solidified thought, roughly ankle high. The area becomes difficult terrain, similarly to a shallow bog. Each round that a creature starts its turn in the area, it must attempt a Fortitude save against the shifting waves of thought. On a failure, it takes a –10-foot circumstance penalty to its Speeds until it leaves the area, and on a critical failure, it is also knocked prone.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The radius of the spell's area increases by 5 feet.</p>

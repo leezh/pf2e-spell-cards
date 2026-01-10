@@ -1,0 +1,26 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain:
+- Toil
+id: spell-1346
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Rage of Elements
+title: Practice Makes Perfect
+traditions: []
+traits:
+- Focus
+- Manipulate
+type: Focus
+
+--- >
+  <p class="hanging-indent trigger"><strong>Trigger</strong> You or an ally within range fails a skill check for a skill in which you or they are trained.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> the triggering creature</p>
+  <hr/>
+  <p>The target gains a +2 status bonus to the triggering check, or a +3 bonus if the target has master or better proficiency in the skill. This bonus can change the outcome of the target's check.</p>

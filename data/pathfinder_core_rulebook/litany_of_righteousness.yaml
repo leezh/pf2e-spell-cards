@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-398
+legacy: true
+lesson: []
+level: 7
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Litany of Righteousness
+traditions: []
+traits:
+- Champion
+- Evocation
+- Focus
+- Good
+- Litany
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature that isn't holy</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>Your litany denounces an evildoer, rendering it susceptible to the powers of good. The target gains weakness 7 to holy. The target then becomes temporarily immune to all of your litanies for 1 minute.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The weakness increases by 1.</p>

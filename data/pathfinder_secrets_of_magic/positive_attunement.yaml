@@ -1,0 +1,37 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-972
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Positive Attunement
+traditions:
+- Divine
+- Primal
+traits:
+- Healing
+- Necromancy
+- Positive
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 living or undead creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You attune a creature to the Positive Energy Plane, connecting its life force without fully transporting it. The creature's appearance becomes more brightly colored. If the creature is living, it heals 1d8 Hit Points immediately and at the end of each of your turns. Effects that increase healing only increase the initial healing.</p>
+  <p>If the creature is undead or has negative healing, it instead takes 1d8 positive damage, depending on the result of its Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature is damaged once and the spell ends.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature is damaged immediately and at the end of each of your turns (so twice in the round you Cast the Spell).</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, and the damage is doubled.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+3)</strong> The damage and healing each increase by 1d8.</p>

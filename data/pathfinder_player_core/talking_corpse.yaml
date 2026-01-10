@@ -1,23 +1,25 @@
 actions: ''
-bloodlines:
-- undead
+bloodline:
+- Undead
 copyright: 2023 Paizo Inc.
-domains: []
-id: talking_corpse
-lessons: []
+domain: []
+id: spell-1712
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Talking Corpse
 traditions:
-- divine
-- occult
+- Divine
+- Occult
 traits:
-- concentrate
-- manipulate
-type: spell
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>

@@ -1,23 +1,25 @@
 actions: '[three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: summon_fey
-lessons: []
+domain: []
+id: spell-1700
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Summon Fey
 traditions:
-- occult
-- primal
+- Occult
+- Primal
 traits:
-- concentrate
-- manipulate
-- summon
-type: spell
+- Concentrate
+- Manipulate
+- Summon
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> occult, primal</p>

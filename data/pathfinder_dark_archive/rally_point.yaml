@@ -1,0 +1,31 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1161
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Dark Archive
+title: Rally Point
+traditions:
+- Arcane
+- Occult
+traits:
+- Conjuration
+- Teleportation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Area</strong> one 5-foot square</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You mark the area touched as a rally point. During the spell's duration, you can take a single action, which has the concentrate trait, to teleport to the rally point along with items you are wearing or holding. This teleportation fails if the area is occupied, if the rally point is more than 120 feet away, or if you try to bring along any other creature, even if it's in an extradimensional container. Once you teleport to the rally point, the spell's duration ends.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> You can target up to four other creatures within 30 feet, in addition to yourself. Each of you can teleport to the rally point once during the spell's duration, by taking a single action, which has the concentrate trait. The duration no longer ends once you teleport to the rally point, though you still can't teleport to the rally point again.</p>

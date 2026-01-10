@@ -1,0 +1,25 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-485
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Ki Rush
+traditions: []
+traits:
+- Focus
+- Monk
+- Transmutation
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <hr/>
+  <p>Accelerated by your ki, you move with such speed you become a blur. Move two times: two Strides, two Steps, or one Stride and one Step (in either order). You gain the concealed condition during this movement and until the start of your next turn.</p>

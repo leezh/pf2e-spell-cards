@@ -1,24 +1,26 @@
 actions: '[one-action] to [three-actions]'
-bloodlines:
-- imperial
+bloodline:
+- Imperial
 copyright: 2023 Paizo Inc.
-domains: []
-id: force_barrage
-lessons: []
+domain: []
+id: spell-1536
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Force Barrage
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- concentrate
-- force
-- manipulate
-type: spell
+- Concentrate
+- Force
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

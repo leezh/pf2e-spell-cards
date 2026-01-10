@@ -1,0 +1,37 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1422
+legacy: false
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Elemental Sense
+traditions:
+- Arcane
+- Primal
+- Elemental
+traits:
+- Concentrate
+- Manipulate
+- Revelation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>The elements grant you sensory enhancements. Choose one of the options below. The spell gains the listed trait or traits.</p>
+  <li><strong>Aquatic Echolocation</strong> (water) You use your hearing as a precise sense when underwater.</li>
+  <li><strong>Heatsense</strong> (fire) You can sense creatures with a temperature of 90º Fahrenheit or higher within 30 feet as an imprecise sense.</li>
+  <li><strong>Magnetoreception</strong> (metal) You can sense creatures carrying metal items with a total of 1 Bulk or greater; this is an imprecise sense with a range of 30 feet. If a creature is made of metal or has the metal trait, you can detect it as though magnetoreception were a precise sense. In addition, you continuously know which direction is north.</li>
+  <li><strong>Mechanoreception</strong> (air) You can see invisible creatures and objects. They appear to you as translucent shapes, and they are concealed to you.</li>
+  <li><strong>Tremorsense</strong> (earth) You gain tremorsense (imprecise) with a range of 30 feet.</li>
+  <li><strong>Woodsense</strong> (plant, wood) You can sense creatures carrying wood items with a total of 1 Bulk or greater; this is an imprecise sense with a range of 30 feet. If a creature is made of wood or has the plant or wood trait, you can detect it as though woodsense were a precise sense.</li>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> The duration increases to 8 hours, and you can take 1 minute to recalibrate the sense, switching from your current elemental sense to a different one.</p>

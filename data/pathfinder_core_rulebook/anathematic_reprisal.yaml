@@ -1,0 +1,33 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-9
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Anathematic Reprisal
+traditions:
+- Divine
+traits:
+- Enchantment
+- Mental
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> A creature performs an act anathema to your deity.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> the triggering creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will</p>
+  <hr/>
+  <p>You punish a creature that transgresses against your deity, drawing upon the anguish you feel upon seeing one of your deity's anathema committed.</p>
+  <p>You can cast this spell only when a creature actively commits a unique act of anathema. For example, if creating undead were anathema to your deity, you could use <em>anathematic reprisal</em> on a necromancer who had just created undead in front of you, but not on an undead creature just for existing.</p>
+  <p>You deal 4d6 mental damage to the target, but a basic Will save can reduce this damage. If it fails, it is also stupefied 1 for 1 round. The creature is then temporarily immune for 1 minute.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d6.</p>

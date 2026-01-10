@@ -1,24 +1,26 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: tempest_touch
-lessons: []
+domain: []
+id: spell-2087
+legacy: false
+lesson: []
 level: 1
-mysteries:
-- tempest
-patrons: []
-rarity: uncommon
+mystery:
+- Tempest
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Tempest Touch
 traditions: []
 traits:
-- cold
-- focus
-- manipulate
-- oracle
-- water
-type: focus
+- Cold
+- Focus
+- Manipulate
+- Oracle
+- Water
+type: Focus
 
 --- >
   <p class="hanging-indent mystery"><strong>Mystery</strong> tempest</p>

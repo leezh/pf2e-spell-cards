@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain:
+- Wood
+id: spell-1418
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Rage of Elements
+title: Arms of Nature
+traditions: []
+traits:
+- Concentrate
+- Druid
+- Focus
+- Manipulate
+- Wood
+type: Focus
+
+--- >
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 wooden object or plant of at least 4 Bulk</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>All wood, dead or alive, is your armory. When you cast this spell, you draw forth a <em>+1</em> weapon of your choice from the target. The weapon must be 2 Bulk or less. This weapon is of the same material as the target.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> The weapon is a <em>+1 striking</em> weapon.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> The weapon is a <em>+2 striking</em> weapon.</p>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> The weapon is a <em>+3 greater striking</em> weapon.</p>

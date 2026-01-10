@@ -1,0 +1,31 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Fire
+id: spell-423
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Flame Barrier
+traditions: []
+traits:
+- Abjuration
+- Cleric
+- Focus
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> fire</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> An effect would deal fire damage to either you or an ally within range.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> the creature that would take fire damage</p>
+  <hr/>
+  <p>You swiftly deflect incoming flames. The target gains fire resistance 15 against the triggering effect.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The resistance increases by 5.</p>

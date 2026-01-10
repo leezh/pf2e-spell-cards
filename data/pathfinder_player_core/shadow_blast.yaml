@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: shadow_blast
-lessons: []
+domain: []
+id: spell-1666
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Shadow Blast
 traditions:
-- divine
-- occult
+- Divine
+- Occult
 traits:
-- concentrate
-- manipulate
-- shadow
-type: spell
+- Concentrate
+- Manipulate
+- Shadow
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>

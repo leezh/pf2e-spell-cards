@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: final_sacrifice
-lessons: []
+domain: []
+id: spell-1992
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Final Sacrifice
 traditions:
-- arcane
-- divine
-- occult
-- primal
+- Arcane
+- Divine
+- Occult
+- Primal
 traits:
-- concentrate
-- fire
-- manipulate
-type: spell
+- Concentrate
+- Fire
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>

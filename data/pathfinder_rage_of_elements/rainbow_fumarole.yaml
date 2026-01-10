@@ -1,0 +1,33 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1361
+legacy: false
+lesson: []
+level: 8
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Rainbow Fumarole
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Fire
+- Incapacitation
+- Light
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 500 feet; <strong>Area</strong> 20-foot radius, 60-foot-tall cylinder</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Multi-hued flames break through cracks in the ground, reaching high into the sky and giving off dangerous fumes. When you cast the spell, roll 1d8 on the table below to determine the effects of the fumarole.</p>
+  <p>Any creature caught inside the area of <em>rainbow fumarole</em> when you cast it takes the indicated damage with a basic Reflex save and, on a failure, takes any added effect listed. Creatures must also attempt a saving throw when they move through the spell's area or end their turn in it. Squares within the area of the <em>rainbow fumarole</em> are difficult terrain.</p>
+  <table><tr><td><strong>1d8</strong></td><td><strong>Color</strong></td><td><strong>Damage</strong></td><td><strong>Added Effect</strong></td></tr><tr><td>1</td><td>Red</td><td>50 fire plus 2d6 persistent fire</td><td>—</td></tr><tr><td>2</td><td>Orange</td><td>50 fire</td><td>Knocked prone</td></tr><tr><td>3</td><td>Yellow</td><td>30 fire plus 20 bludgeoning</td><td>Pushed 10 feet</td></tr><tr><td>4</td><td>Green</td><td>20 fire plus 20 acid</td><td>Sickened 2</td></tr><tr><td>5</td><td>Blue</td><td>30 fire</td><td>Paralyzed for 1 round</td></tr><tr><td>6</td><td>Indigo</td><td>30 fire</td><td>Confused for 1 minute</td></tr><tr><td>7</td><td>Violet</td><td>30 fire</td><td>Slowed 1 for 1 minute</td></tr><tr><td>8</td><td>All</td><td>Choose the color for each affected creature and use that color's damage and added effect; if a creature is affected again, you can choose a different color.</td><td>—</td></tr></table>

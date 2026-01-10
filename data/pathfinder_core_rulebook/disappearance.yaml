@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodline:
+- Shadow
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-73
+legacy: true
+lesson: []
+level: 8
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Disappearance
+traditions:
+- Arcane
+- Occult
+traits:
+- Illusion
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You shroud a creature from others' senses. The target becomes undetected, not just to sight but to all senses, allowing the target to count as invisible no matter what precise and imprecise senses an observer might have. It's still possible for a creature to find the target by Seeking, looking for disturbed dust, hearing gaps in the sound spectrum, or finding some other way to discover the presence of an otherwise-undetectable creature.</p>

@@ -1,0 +1,34 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-940
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Lose the Path
+traditions:
+- Occult
+- Primal
+traits:
+- Illusion
+- Mental
+- Visual
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> A creature in range Strides.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> the triggering creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will</p>
+  <hr/>
+  <p>You surround a moving creature with lifelike illusions, shifting their perception of the terrain to subtly lead them off course. The target must attempt a Will save. Regardless of the result, the creature is immune to <em>lose the path</em> for 1 hour.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature treats all squares as difficult terrain for its Stride.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, except that you determine where the target moves during the Stride, though you can't move it into hazardous terrain or to a place it can't stand.</p>

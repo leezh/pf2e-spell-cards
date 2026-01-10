@@ -1,0 +1,29 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-524
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Dimensional Steps
+traditions: []
+traits:
+- Conjuration
+- Focus
+- Teleportation
+- Wizard
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> 20 feet</p>
+  <hr/>
+  <p>You teleport to a location up to 20 feet away within your line of sight.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The distance you can teleport increases by 5 feet.</p>

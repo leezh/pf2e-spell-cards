@@ -1,25 +1,27 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: life_boost
-lessons:
-- life
+domain: []
+id: spell-1879
+legacy: false
+lesson:
+- Life
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Life Boost
 traditions: []
 traits:
-- focus
-- healing
-- hex
-- manipulate
-- vitality
-- witch
-type: focus
+- Focus
+- Healing
+- Hex
+- Manipulate
+- Vitality
+- Witch
+type: Focus
 
 --- >
   <p class="hanging-indent lesson"><strong>Lesson</strong> life</p>

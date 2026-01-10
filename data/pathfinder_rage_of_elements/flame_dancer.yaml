@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1356
+legacy: false
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Flame Dancer
+traditions:
+- Arcane
+- Occult
+- Primal
+traits:
+- Concentrate
+- Fire
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 willing creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Fire encircles the target's hands and feet, and its eyes and hair catch ablaze. The target's unarmed Strikes deal an additional 2d6 fire damage. Critical hits with these Strikes also deal 2d4 persistent fire damage. Additionally, when the target attempts to Demoralize a foe, they can use Performance instead of Intimidation; when using Performance to Demoralize, the action loses the auditory trait but gains the visual trait, and the target doesn't take a penalty when attempting to Demoralize a creature that doesn't understand its language.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> The fire damage increases to 3d6, and the persistent fire damage increases to 3d4. If the target gets a critical success on a Demoralize check using Performance, the target of the Demoralize check becomes fleeing from the target of <em>flame dancer</em> for 1 round.</p>

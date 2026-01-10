@@ -1,0 +1,36 @@
+actions: '[two-actions]'
+bloodline:
+- Undead
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-361
+legacy: true
+lesson: []
+level: 9
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Wail of the Banshee
+traditions:
+- Divine
+- Occult
+traits:
+- Auditory
+- Death
+- Necromancy
+- Negative
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 40-foot emanation</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>Your scream chills the souls of enemies that hear it. Each living enemy in the area takes 8d10 negative damage and must attempt a Fortitude save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes full damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes full damage and is drained 1d4.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature takes double damage and is drained 4.</p>

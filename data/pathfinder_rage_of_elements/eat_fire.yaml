@@ -1,0 +1,33 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1352
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Eat Fire
+traditions:
+- Arcane
+- Occult
+- Primal
+traits:
+- Cantrip
+- Fire
+- Manipulate
+type: Cantrip
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> You would take fire damage.</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the end of your next turn</p>
+  <hr/>
+  <p>You consume and ingest fire, making it less harmful to you. You gain resistance 5 to fire damage until the end of the current turn. During the remaining duration of the spell, you can use the Belch Smoke action. The spell ends if you fall unconscious, inhale, or exhale (this includes speaking).</p>
+  <p class="hanging-indent"><strong>Belch Smoke</strong> [one-action] You exhale what remains of the smoke, ending the spell and creating a smoke cloud in a 5-foot burst within 20 feet. All creatures within the smoke cloud are concealed, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+3)</strong> The resistance increases by 5.</p>

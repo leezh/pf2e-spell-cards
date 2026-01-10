@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline:
+- Harrow
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-696
+legacy: true
+lesson:
+- Calamity
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Ill Omen
+traditions:
+- Occult
+traits:
+- Curse
+- Divination
+- Misfortune
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>The target is struck with misfortune, which throws it off balance. The target must attempt a Will save.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The first time during the duration that the target attempts an attack roll or skill check, it must roll twice and use the worse result.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> Every time during the duration that the target attempts an attack roll or skill check, it must roll twice and use the worse result.</p>

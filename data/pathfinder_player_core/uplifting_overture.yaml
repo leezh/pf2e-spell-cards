@@ -1,24 +1,26 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: uplifting_overture
-lessons: []
+domain: []
+id: spell-1779
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Uplifting Overture
 traditions: []
 traits:
-- bard
-- cantrip
-- composition
-- concentrate
-- emotion
-- mental
-type: cantrip
+- Bard
+- Cantrip
+- Composition
+- Concentrate
+- Emotion
+- Mental
+type: Cantrip
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 ally</p>

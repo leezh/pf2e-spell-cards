@@ -1,24 +1,26 @@
 actions: '[one-action] to [three-actions]'
-bloodlines:
-- demonic
+bloodline:
+- Demonic
 copyright: 2024 Paizo Inc.
-domains: []
-id: swamp_of_sloth
-lessons: []
+domain: []
+id: spell-2097
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Swamp of Sloth
 traditions: []
 traits:
-- concentrate
-- focus
-- manipulate
-- olfactory
-- sorcerer
-type: focus
+- Concentrate
+- Focus
+- Manipulate
+- Olfactory
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> demonic</p>

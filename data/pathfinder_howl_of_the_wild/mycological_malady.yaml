@@ -1,0 +1,39 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1942
+legacy: false
+lesson:
+- Decay
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Mycological Malady
+traditions: []
+traits:
+- Concentrate
+- Disease
+- Focus
+- Hex
+- Manipulate
+- Witch
+type: Focus
+
+--- >
+  <p class="hanging-indent lesson"><strong>Lesson</strong> decay</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You infect your target with fungal spores to hasten the cycle of decay. The target must attempt a Fortitude saving throw. Undead that aren’t incorporeal, such as skeletons and zombies, don’t have their normal immunity to this disease, as the spores can still colonize their remaining flesh and bone. This might also apply to other non-living creatures made of organic material at the GM’s discretion.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target sprouts mushrooms and is enfeebled 2 for 1 round.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is afflicted with voidcap spores at stage 1.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is afflicted with voidcap spores at stage 2.</p>
+  <p class="hanging-indent"><strong>Voidcap Spores</strong> (disease) This disease ends when the spell ends</p>
+  <p class="hanging-indent"><strong>Stage 1</strong> enfeebled 2 (1 round)</p>
+  <p class="hanging-indent"><strong>Stage 2</strong> enfeebled 2 and slowed 1 (1 round)</p>
+  <p class="hanging-indent"><strong>Stage 3</strong> enfeebled 2, slowed 1, and stupefied 2 (1 round)</p>

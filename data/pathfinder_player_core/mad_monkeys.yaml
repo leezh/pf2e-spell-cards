@@ -1,22 +1,24 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: mad_monkeys
-lessons:
-- mischief
+domain: []
+id: spell-1590
+legacy: false
+lesson:
+- Mischief
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Mad Monkeys
 traditions:
-- primal
+- Primal
 traits:
-- concentrate
-- manipulate
-type: spell
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>

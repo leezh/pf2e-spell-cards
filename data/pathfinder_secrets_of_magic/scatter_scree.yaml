@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-990
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Scatter Scree
+traditions:
+- Arcane
+- Primal
+traits:
+- Cantrip
+- Earth
+- Evocation
+type: Cantrip
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Area</strong> two contiguous 5-foot cubes</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You evoke a jumble of rocks in the area. The scattering rocks deal 2d4 bludgeoning damage to creatures in the area, with a basic Reflex save. The ground in the area becomes difficult terrain for the duration. A creature can Interact to clear a square of this scree.</p>
+  <p>If you cast this spell again, any previous <em>scatter scree</em> you have cast ends.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>

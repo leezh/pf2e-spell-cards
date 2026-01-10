@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-662
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Dance of Darkness
+traditions: []
+traits:
+- Darkness
+- Evocation
+- Focus
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You dance, Striding up to half your Speed. At either the start or end of your Stride, you create an area of magical darkness in a 10-foot burst centered on your location. This area is filled with magical darkness that works the same way as that created by a <em>darkness</em> spell of the same level. When you create the darkness, attempt a Performance check to dance, with a standard DC for your level, to determine the duration of the darkness.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> 1 minute</p>
+  <p class="hanging-indent"><strong>Success</strong> 2 rounds</p>
+  <p class="hanging-indent"><strong>Failure</strong> 1 round</p>

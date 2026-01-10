@@ -1,22 +1,24 @@
 actions: '[one-action] or [two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: heal_companion
-lessons: []
+domain: []
+id: spell-1864
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Heal Companion
 traditions: []
 traits:
-- focus
-- healing
-- ranger
-- vitality
-type: focus
+- Focus
+- Healing
+- Ranger
+- Vitality
+type: Focus
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> touch or 30 feet; <strong>Targets</strong> your animal companion</p>

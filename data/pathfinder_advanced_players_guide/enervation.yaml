@@ -1,0 +1,36 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-687
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Enervation
+traditions:
+- Arcane
+- Divine
+- Occult
+traits:
+- Necromancy
+- Negative
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot line</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>Extending a finger, you fire a beam of negative energy that weakens the life force of any creature it touches. Each living creature in the line must attempt a Fortitude save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes 2d8 persistent negative damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes 4d8 persistent negative damage and becomes drained 1.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature takes 4d8 persistent negative damage and becomes drained 2 and doomed 1.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The persistent negative damage increases by 1d8 on a success, or by 2d8 on a failure or critical failure.</p>

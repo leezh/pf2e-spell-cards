@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-892
+legacy: true
+lesson: []
+level: 7
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Deity's Strike
+traditions:
+- Divine
+traits:
+- Evocation
+- Force
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent requirements"><strong>Requirements</strong> You have a deity.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 500 feet; <strong>Targets</strong> 1 creature (see text)</p>
+  <hr/>
+  <p>A manifested version of your deity's favored weapon appears in the air above and attacks the target, using your spell attack roll. On a hit, the weapon deals 7d12 force damage, or double damage on a critical hit.</p>
+  <p>After the attack, whether it succeeds or fails, divine energy bursts from the weapon in a shock wave. It emits in a 10-foot-wide, 30-foot-long line starting from the target and continuing in a direction you choose. Choose an alignment your deity has (chaotic, evil, good, or lawful). Your target and any other creatures within the area of the spell take 5d6 damage of the chosen alignment type, with a basic Reflex save. The spell gains the trait of the alignment you choose. If your deity is true neutral, the weapon doesn't create a shock wave.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (9th)</strong> The force damage increases by 1d12 and the alignment damage increases by 1d6.</p>

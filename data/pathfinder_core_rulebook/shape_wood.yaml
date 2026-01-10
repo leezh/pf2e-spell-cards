@@ -1,0 +1,27 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-277
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Shape Wood
+traditions:
+- Primal
+traits:
+- Plant
+- Transmutation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> an unworked piece of wood up to 20 cubic feet in volume</p>
+  <hr/>
+  <p>You shape the wood into a rough shape of your choice. The shaping power is too crude to produce with intricate parts, fine details, moving pieces, or the like. You cannot use this spell to enhance the value of the wooden object you are shaping.</p>

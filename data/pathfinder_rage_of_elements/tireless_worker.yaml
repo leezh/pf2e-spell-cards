@@ -1,0 +1,28 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain:
+- Toil
+id: spell-1347
+legacy: false
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Tireless Worker
+traditions: []
+traits:
+- Concentrate
+- Focus
+- Healing
+- Manipulate
+type: Focus
+
+--- >
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You suppress your choice of one of the following conditions that's affecting the target: clumsy, encumbered, enfeebled, or fatigued. If you don't remove the effect that caused the condition, the condition returns after the spell's duration expires.</p>

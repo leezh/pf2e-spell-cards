@@ -1,0 +1,35 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-227
+legacy: true
+lesson: []
+level: 9
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Power Word Kill
+traditions:
+- Arcane
+traits:
+- Auditory
+- Death
+- Enchantment
+- Mental
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You utter the most powerful arcane word of power. Once targeted, the target is then temporarily immune for 10 minutes. The effect of the spell depends on the target's level.</p>
+  <p class="hanging-indent"><strong>14th or Lower</strong> The target dies instantly.</p>
+  <p class="hanging-indent"><strong>15th</strong> If the target has 50 Hit Points or fewer, it dies instantly; otherwise, it drops to 0 Hit Points and becomes dying 1, or increases its dying condition by 1 if it's already dying.</p>
+  <p class="hanging-indent"><strong>16th or Higher</strong> The target takes 50 damage; if this brings the target to 0 Hit Points, the target dies instantly.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (10th)</strong> The levels at which each outcome applies increase by 2.</p>

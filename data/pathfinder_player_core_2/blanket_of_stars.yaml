@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: blanket_of_stars
-lessons: []
+domain: []
+id: spell-1967
+legacy: false
+lesson: []
 level: 6
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Blanket of Stars
 traditions:
-- occult
-- primal
+- Occult
+- Primal
 traits:
-- concentrate
-- illusion
-- manipulate
-type: spell
+- Concentrate
+- Illusion
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> occult, primal</p>

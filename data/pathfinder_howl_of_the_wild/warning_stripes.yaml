@@ -1,0 +1,29 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1934
+legacy: false
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Warning Stripes
+traditions: []
+traits:
+- Concentrate
+- Focus
+- Morph
+- Poison
+- Ranger
+type: Focus
+
+--- >
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Your skin becomes painted with vivid stripes or bright aposematic swirls, warning other creatures of its toxic qualities. Any creature that touches you or hits you with an unarmed melee attack takes 2d8 poison damage. If you have an animal companion, you can cast this spell on them instead, with a range of 30 feet.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The poison damage increases by 1d8.</p>

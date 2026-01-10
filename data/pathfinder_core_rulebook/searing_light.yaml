@@ -1,0 +1,38 @@
+actions: '[two-actions]'
+bloodline:
+- Angelic
+- Psychopomp
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-269
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Searing Light
+traditions:
+- Divine
+- Primal
+traits:
+- Attack
+- Evocation
+- Fire
+- Good
+- Light
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature</p>
+  <hr/>
+  <p>You shoot a blazing ray of light tinged with holy energy. Make a ranged spell attack. The ray deals 5d6 fire damage. If the target is a fiend or undead, you deal an extra 5d6 good damage.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target takes double fire damage, as well as double good damage if a fiend or undead.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes full damage.</p>
+  <p>If the light passes through an area of magical darkness or targets a creature affected by magical darkness, <em>searing light</em> attempts to counteract the darkness. If you need to determine whether the light passes through an area of darkness, draw a line between yourself and the spell's target.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The fire damage increases by 2d6, and the good damage against fiends and undead increases by 2d6.</p>

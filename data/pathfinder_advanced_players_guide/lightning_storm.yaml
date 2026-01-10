@@ -1,0 +1,30 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-701
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Lightning Storm
+traditions:
+- Primal
+traits:
+- Electricity
+- Evocation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You create a black, rumbling storm cloud and call down one lightning bolt within the spell's area. The bolt is a vertical line from the top of the storm cloud to the ground below, dealing 4d12 electricity damage to creatures in the line (basic Reflex save). On subsequent rounds, the first time you Sustain the Spell each round, you can call another lightning bolt within the area. If you Cast this Spell outdoors, you can create two non-overlapping clouds instead of one, though you can still call down only one bolt per turn.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The damage of each bolt increases by 1d12.</p>

@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline:
+- Elemental
+- Phoenix
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-30
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Burning Hands
+traditions:
+- Arcane
+- Primal
+traits:
+- Evocation
+- Fire
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 15-foot cone</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex</p>
+  <hr/>
+  <p>Gouts of flame rush from your hands. You deal 2d6 fire damage to creatures in the area.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>

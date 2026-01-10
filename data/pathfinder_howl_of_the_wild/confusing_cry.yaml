@@ -1,0 +1,36 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1950
+legacy: false
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Confusing Cry
+traditions:
+- Divine
+- Primal
+traits:
+- Auditory
+- Concentrate
+- Emotion
+- Incapacitation
+- Manipulate
+- Mental
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 20-foot emanation</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You give an unsettling, warbling cry that causes nearby creatures to lash out without control. Each creature in the area that can hear must attempt a Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected and immune to this spell for 1 minute.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is stunned 1.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is confused for 1 minute. It can attempt a new save at the end of each of its turns to end the confusion.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, and the creature immediately attacks itself. This Strike doesn’t give the creature a flat check to recover from the confusion.</p>

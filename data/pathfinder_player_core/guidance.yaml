@@ -1,24 +1,26 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: guidance
-lessons: []
+domain: []
+id: spell-1549
+legacy: false
+lesson: []
 level: 1
-mysteries:
-- ancestors
-patrons: []
-rarity: common
+mystery:
+- Ancestors
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Guidance
 traditions:
-- divine
-- occult
-- primal
+- Divine
+- Occult
+- Primal
 traits:
-- cantrip
-- concentrate
-type: cantrip
+- Cantrip
+- Concentrate
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult, primal</p>

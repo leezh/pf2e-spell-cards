@@ -1,0 +1,29 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-529
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Force Bolt
+traditions: []
+traits:
+- Evocation
+- Focus
+- Force
+- Wizard
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <hr/>
+  <p>You fire an unerring dart of force from your fingertips. It automatically hits and deals 1d4+1 force damage to the target.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The damage increases by 1d4+1.</p>

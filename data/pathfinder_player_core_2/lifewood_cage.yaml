@@ -1,24 +1,26 @@
 actions: '[three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: lifewood_cage
-lessons: []
+domain: []
+id: spell-2006
+legacy: false
+lesson: []
 level: 7
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Lifewood Cage
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- concentrate
-- manipulate
-- vitality
-- wood
-type: spell
+- Concentrate
+- Manipulate
+- Vitality
+- Wood
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

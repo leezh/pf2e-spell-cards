@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline:
+- Undead
+- Psychopomp
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-116
+legacy: true
+lesson: []
+level: 7
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Finger of Death
+traditions:
+- Divine
+- Primal
+traits:
+- Death
+- Necromancy
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 living creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Fortitude</p>
+  <hr/>
+  <p>You point your finger toward the target and speak a word of slaying. You deal 70 negative damage to the target. If the damage from <em>finger of death</em> reduces the target to 0 Hit Points, the target dies instantly.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 10.</p>

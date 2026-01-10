@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-577
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Gravity Well
+traditions:
+- Arcane
+- Occult
+traits:
+- Evocation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Area</strong> 30-foot-radius burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Reflex</p>
+  <hr/>
+  <p>You create a sphere of altered gravity. All creatures and unsecured objects in the area move towards the center, depending on their Reflex saving throws. This follows the rules for forced movement. If there’s not enough space near the center of the sphere, creatures and objects nearer to the center move first, and others move as far as they can without being blocked, up to the amount set by their saving throw outcomes.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature moves 5 feet toward the center.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature moves 15 feet toward the center.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature moves 30 feet toward the center.</p>

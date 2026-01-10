@@ -1,24 +1,26 @@
 actions: '[one-action] to [three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: blazing_bolt
-lessons: []
+domain: []
+id: spell-1450
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Blazing Bolt
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- attack
-- concentrate
-- fire
-- manipulate
-type: spell
+- Attack
+- Concentrate
+- Fire
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

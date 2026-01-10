@@ -1,25 +1,27 @@
 actions: ''
-bloodlines:
-- imperial
+bloodline:
+- Imperial
 copyright: 2023 Paizo Inc.
-domains: []
-id: scouting_eye
-lessons: []
+domain: []
+id: spell-1661
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Scouting Eye
 traditions:
-- arcane
-- divine
-- occult
+- Arcane
+- Divine
+- Occult
 traits:
-- concentrate
-- manipulate
-- scrying
-type: spell
+- Concentrate
+- Manipulate
+- Scrying
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>

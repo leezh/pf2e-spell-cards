@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1949
+legacy: false
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Claws of the Otter
+traditions:
+- Divine
+- Primal
+traits:
+- Cold
+- Concentrate
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>Webbing grows between your fingers and your nails extend into vicious claws. For the spell's duration, you gain a +1 status bonus to Athletics checks to Swim and you gain a claws unarmed attack. They're an agile, finesse, unarmed attack that deals 1d4 slashing damage and an additional 1d6 cold damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+3)</strong> The additional cold damage increases by 1d6.</p>

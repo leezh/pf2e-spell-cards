@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: stormwind_flight
-lessons: []
+domain: []
+id: spell-1859
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Stormwind Flight
 traditions: []
 traits:
-- air
-- concentrate
-- druid
-- focus
-- manipulate
-type: focus
+- Air
+- Concentrate
+- Druid
+- Focus
+- Manipulate
+type: Focus
 
 --- >
   <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>

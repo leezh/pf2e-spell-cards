@@ -1,0 +1,40 @@
+actions: '[two-actions] or [three-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-881
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Chromatic Armor
+traditions:
+- Arcane
+- Occult
+traits:
+- Abjuration
+- Light
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You wrap the target in armor made of sheets of colored light. The armor sheds bright light for 20 feet (and dim light for the next 20 feet). Whenever a creature attacks the target and is adjacent to it, the attacker must attempt a Will save at the end of its action. On a failure, it becomes dazzled until the end of its next turn. Regardless of the result of the save, the attacker is temporarily immune until the end of its next turn. The dazzling effect has the light and visual traits.</p>
+  <p>When you cast the spell, roll 1d8 twice on the table below to see the armor's colors (rerolling any duplicates). Each color grants resistance 5 to the indicated damage type. If you spend three actions to Cast the Spell, roll three times instead.</p>
+  <li><strong>Matching Color</strong> The armor becomes the color matching the type of damage the target took most recently in the past minute. If it didn't take any of those seven types of damage or the armor is already that color, roll again, rerolling any results of 8.</li>
+  <li><strong>Violet</strong> force</li>
+  <li><strong>Indigo</strong> mental</li>
+  <li><strong>Blue</strong> sonic</li>
+  <li><strong>Green</strong> poison</li>
+  <li><strong>Yellow</strong> electricity</li>
+  <li><strong>Orange</strong> acid</li>
+  <li><strong>Red</strong> fire</li>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+3)</strong> The resistance is increased by 5.</p>

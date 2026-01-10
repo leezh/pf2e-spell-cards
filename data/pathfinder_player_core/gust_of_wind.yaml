@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: gust_of_wind
-lessons: []
+domain: []
+id: spell-1550
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons:
+mystery: []
+patron:
 - Silence in Snow
-rarity: common
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Gust of Wind
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- air
-- concentrate
-- manipulate
-type: spell
+- Air
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

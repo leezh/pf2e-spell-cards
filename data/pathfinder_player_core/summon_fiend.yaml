@@ -1,23 +1,25 @@
 actions: '[three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: summon_fiend
-lessons: []
+domain: []
+id: spell-1701
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Summon Fiend
 traditions:
-- divine
+- Divine
 traits:
-- concentrate
-- manipulate
-- summon
-- unholy
-type: spell
+- Concentrate
+- Manipulate
+- Summon
+- Unholy
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>

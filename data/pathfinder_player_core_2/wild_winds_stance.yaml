@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: wild_winds_stance
-lessons: []
+domain: []
+id: spell-2062
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Wild Winds Stance
 traditions: []
 traits:
-- air
-- focus
-- manipulate
-- monk
-- stance
-type: focus
+- Air
+- Focus
+- Manipulate
+- Monk
+- Stance
+type: Focus
 
 --- >
   <p class="hanging-indent duration"><strong>Duration</strong> until you leave the stance</p>

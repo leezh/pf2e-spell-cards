@@ -1,22 +1,24 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: weapon_trance
-lessons: []
+domain: []
+id: spell-2069
+legacy: false
+lesson: []
 level: 1
-mysteries:
-- battle
-patrons: []
-rarity: uncommon
+mystery:
+- Battle
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Weapon Trance
 traditions: []
 traits:
-- concentrate
-- focus
-- oracle
-type: focus
+- Concentrate
+- Focus
+- Oracle
+type: Focus
 
 --- >
   <p class="hanging-indent mystery"><strong>Mystery</strong> battle</p>

@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: shape_wood
-lessons: []
+domain: []
+id: spell-1668
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Shape Wood
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- concentrate
-- manipulate
-- plant
-- wood
-type: spell
+- Concentrate
+- Manipulate
+- Plant
+- Wood
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

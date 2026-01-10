@@ -1,24 +1,26 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: courageous_anthem
-lessons: []
+domain: []
+id: spell-1763
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Courageous Anthem
 traditions: []
 traits:
-- bard
-- cantrip
-- composition
-- concentrate
-- emotion
-- mental
-type: cantrip
+- Bard
+- Cantrip
+- Composition
+- Concentrate
+- Emotion
+- Mental
+type: Cantrip
 
 --- >
   <p class="hanging-indent area"><strong>Area</strong> 60-foot emanation</p>

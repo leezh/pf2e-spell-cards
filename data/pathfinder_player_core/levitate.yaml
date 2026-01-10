@@ -1,22 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: levitate
-lessons: []
+domain: []
+id: spell-1584
+legacy: false
+lesson:
+- the Flock
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Levitate
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
+- Elemental
 traits:
-- concentrate
-- manipulate
-type: spell
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

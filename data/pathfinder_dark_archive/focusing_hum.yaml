@@ -1,0 +1,29 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1154
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Dark Archive
+title: Focusing Hum
+traditions:
+- Divine
+- Occult
+traits:
+- Divination
+- Enchantment
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 15-foot emanation centered on you</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You infuse the air around you with a sustained hum that allows creatures within it to resist distractions. The DC of any flat check to Cast a Spell while stupefied for creatures within the area is 2 lower. Confused creatures in the area don't attack anyone, including themselves, and instead lose the ability to speak coherently. You take a –2 penalty to Stealth checks to Hide and Sneak.</p>

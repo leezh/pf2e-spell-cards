@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: dull_ambition
-lessons: []
+domain: []
+id: spell-1990
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Dull Ambition
 traditions:
-- arcane
-- divine
-- occult
+- Arcane
+- Divine
+- Occult
 traits:
-- concentrate
-- curse
-- manipulate
-- mental
-- misfortune
-type: spell
+- Concentrate
+- Curse
+- Manipulate
+- Mental
+- Misfortune
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>

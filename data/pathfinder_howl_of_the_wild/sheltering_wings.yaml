@@ -1,0 +1,29 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1943
+legacy: false
+lesson:
+- the Flock
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Sheltering Wings
+traditions: []
+traits:
+- Focus
+- Hex
+- Manipulate
+- Witch
+type: Focus
+
+--- >
+  <p class="hanging-indent lesson"><strong>Lesson</strong> flock</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> An ally moves through a square within 15 feet of you or uses an action that has the move trait.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 15 feet; <strong>Targets</strong> 1 ally</p>
+  <hr/>
+  <p>Like migratory birds, you know everyone flies farther together. You cause immense wings to sprout from your familiar. Your familiar Flies up to 30 feet, though it must move toward the triggering ally. If your familiar ends this movement adjacent to the triggering ally, it lands on their back; until the beginning of your next turn, the familiar automatically is carried by the ally, and its wings provide them cover. When the spell ends, the familiar hops off your ally into an adjacent square.</p>

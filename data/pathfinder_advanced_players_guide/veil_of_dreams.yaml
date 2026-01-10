@@ -1,0 +1,34 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-808
+legacy: true
+lesson:
+- Dreams
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Veil of Dreams
+traditions: []
+traits:
+- Enchantment
+- Focus
+- Hex
+- Mental
+- Witch
+type: Focus
+
+--- >
+  <p class="hanging-indent lesson"><strong>Lesson</strong> dreams</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You draw the target into a drowsy state, causing daydreams and sluggishness. The target must attempt a Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes a –1 status penalty to Perception, attack rolls, and Will saves. This penalty increases to –2 for Will saves against sleep effects.</p>
+  <p class="hanging-indent"><strong>Failure</strong> As success, and any time the target uses a concentrate action, it must succeed at a DC 5 flat check or the action is disrupted.</p>

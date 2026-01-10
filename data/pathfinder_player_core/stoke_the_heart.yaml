@@ -1,27 +1,29 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: stoke_the_heart
-lessons: []
+domain: []
+id: spell-1892
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons:
+mystery: []
+patron:
 - Faith's Flamekeeper
-rarity: uncommon
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Stoke the Heart
 traditions: []
 traits:
-- cantrip
-- concentrate
-- emotion
-- hex
-- witch
-type: cantrip
+- Cantrip
+- Concentrate
+- Emotion
+- Hex
+- Witch
+type: Cantrip
 
 --- >
-  <p class="hanging-indent patron"><strong>Patron</strong> Faith's Flamekeeper</p>
+  <p class="hanging-indent patron"><strong>Patron</strong> faith's flamekeeper</p>
   <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
   <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>

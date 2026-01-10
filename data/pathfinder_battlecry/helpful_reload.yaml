@@ -1,0 +1,34 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2025 Paizo Inc.
+domain: []
+id: spell-2507
+legacy: false
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Battlecry!
+title: Helpful Reload
+traditions:
+- Arcane
+- Divine
+- Occult
+traits:
+- Concentrate
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> One of your allies makes a ranged Strike with a weapon with a reload of 1 or less</p>
+  <p class="hanging-indent requirements"><strong>Requirements</strong> Your ally has more ammunition for their ranged weapon available.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> the triggering creature</p>
+  <hr/>
+  <p>With a quick gesture, you reload your ally’s weapon, allowing them to focus on fighting the enemy. You reload their weapon with a piece of mundane ammunition from the triggering creature’s inventory.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> You reload your ally’s weapon and grant them a +1 status bonus to their next Strike with this weapon.</p>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> You reload your ally’s weapon with the ammunition of their choice from their inventory. Your ally gains a +1 status bonus to their next Strike with this weapon.</p>
+  <p class="hanging-indent"><strong>Heightened (8th)</strong> The spell no longer requires your ally to have appropriate ammunition available. You summon a single piece of common magical ammunition of 10th level or lower to reload your ally’s weapon with. Your ally gains a +1 status bonus to their next Strike with this weapon.</p>

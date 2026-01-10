@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-663
+legacy: true
+lesson: []
+level: 6
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Shadow Illusion
+traditions: []
+traits:
+- Auditory
+- Focus
+- Illusion
+- Shadow
+- Visual
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 500 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained</p>
+  <hr/>
+  <p>You create a shadowy illusion of a creature or a stationary object, but the illusion can exist only in an area of dim light or darkness. The spell ends if the illusion is ever out of an area of dim light or darkness. If the illusion is an object, it must fit within a 20-foot burst, and the creature can be of any size up to Gargantuan, filling a 20-foot-by-20-foot space.</p>
+  <p>The object or creature appears to animate naturally; it even generates the appropriate sounds and smells, and feels believable to the touch, though its coloring is always muted.</p>
+  <p>If the illusion is a creature, <em>shadow illusion</em> has the effects of an <em>illusory creature</em> spell of the same level, except it deals 3d8 damage, instead of the amount listed in <em>illusory creature</em>.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The area that an illusory object can fit in increases by 10 feet. The damage of the illusory creature's Strike increases by 1d8.</p>

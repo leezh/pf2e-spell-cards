@@ -1,26 +1,29 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: sleep
-lessons:
-- dreams
+domain: []
+id: spell-1675
+legacy: false
+lesson:
+- Dreams
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron:
+- Paradox of Opposites
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Sleep
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- concentrate
-- incapacitation
-- manipulate
-- mental
-- sleep
-type: spell
+- Concentrate
+- Incapacitation
+- Manipulate
+- Mental
+- Sleep
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

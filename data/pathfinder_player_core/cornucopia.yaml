@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: cornucopia
-lessons: []
+domain: []
+id: spell-1856
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Cornucopia
 traditions: []
 traits:
-- concentrate
-- druid
-- focus
-- healing
-- manipulate
-- plant
-- vitality
-type: focus
+- Concentrate
+- Druid
+- Focus
+- Healing
+- Manipulate
+- Plant
+- Vitality
+type: Focus
 
 --- >
   <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>

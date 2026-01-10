@@ -1,24 +1,26 @@
 actions: ''
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: natures_pathway
-lessons: []
+domain: []
+id: spell-1613
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Nature's Pathway
 traditions:
-- primal
+- Primal
 traits:
-- concentrate
-- manipulate
-- mental
-- plant
-- teleportation
-type: spell
+- Concentrate
+- Manipulate
+- Mental
+- Plant
+- Teleportation
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>

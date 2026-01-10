@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- nightmares
-id: shared_nightmare
-lessons: []
+domain:
+- Nightmares
+id: spell-1825
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Shared Nightmare
 traditions: []
 traits:
-- cleric
-- concentrate
-- emotion
-- focus
-- incapacitation
-- manipulate
-- mental
-type: focus
+- Cleric
+- Concentrate
+- Emotion
+- Focus
+- Incapacitation
+- Manipulate
+- Mental
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> nightmares</p>

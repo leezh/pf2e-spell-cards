@@ -1,0 +1,32 @@
+actions: ''
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-370
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Water Breathing
+traditions:
+- Arcane
+- Divine
+- Primal
+traits:
+- Transmutation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 minute (somatic, verbal)</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> up to 5 creatures</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>The targets can breathe underwater.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> The duration increases to 8 hours.</p>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> The duration increases to until your next daily preparations.</p>

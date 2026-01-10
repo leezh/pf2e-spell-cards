@@ -1,22 +1,24 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- magic
-id: mystic_beacon
-lessons: []
+domain:
+- Magic
+id: spell-1817
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Mystic Beacon
 traditions: []
 traits:
-- cleric
-- focus
-- manipulate
-type: focus
+- Cleric
+- Focus
+- Manipulate
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> magic</p>

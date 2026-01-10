@@ -1,0 +1,37 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Dreams
+id: spell-455
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Sweet Dream
+traditions: []
+traits:
+- Auditory
+- Cleric
+- Enchantment
+- Focus
+- Linguistic
+- Mental
+- Sleep
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> dreams</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 willing creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>With soothing song or tales, you lull the target into an enchanting dream. When you cast the spell, the target falls unconscious if it wasn't already. While unconscious, it experiences a dream of your choice. If it sleeps for at least 1 minute, it gains the benefit of the dream for the remainder of the spell's duration.</p>
+  <p>If you Cast this Spell again, the effects of any previous sweet dream you cast end.</p>
+  <li><strong>Dream of Voyaging</strong> +5-foot status bonus to Speed</li>
+  <li><strong>Dream of Glamour</strong> +1 status bonus to Charisma-based skill checks</li>
+  <li><strong>Dream of Insight</strong> +1 status bonus to Intelligence-based skill checks</li>

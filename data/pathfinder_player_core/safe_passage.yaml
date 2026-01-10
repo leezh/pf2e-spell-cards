@@ -1,23 +1,26 @@
 actions: '[three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: safe_passage
-lessons: []
+domain: []
+id: spell-1659
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Safe Passage
 traditions:
-- arcane
-- divine
-- primal
+- Arcane
+- Divine
+- Primal
+- Elemental
 traits:
-- concentrate
-- manipulate
-type: spell
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, primal</p>

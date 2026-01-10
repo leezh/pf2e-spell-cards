@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines:
-- imperial
+bloodline:
+- Imperial
 copyright: 2023 Paizo Inc.
-domains: []
-id: translocate
-lessons: []
+domain: []
+id: spell-1724
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Translocate
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- concentrate
-- manipulate
-- teleportation
-type: spell
+- Concentrate
+- Manipulate
+- Teleportation
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

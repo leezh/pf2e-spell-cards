@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1343
+legacy: false
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Tremorsense
+traditions:
+- Arcane
+- Occult
+- Primal
+traits:
+- Concentrate
+- Earth
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You become aware of vibrations in the ground around you. You gain tremorsense as an imprecise sense with a range of 30 feet. As normal for tremorsense, you can detect a creature only if it's on the same surface as you and only if the subject is moving along (or burrowing through) the surface.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> The spell's duration is 1 hour.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> The spell's duration is 8 hours.</p>

@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline:
+- Aberrant
+- Hag
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-341
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Touch of Idiocy
+traditions:
+- Arcane
+- Occult
+traits:
+- Enchantment
+- Mental
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 living creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You dull the target's mind; the target must attempt a Will save.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is stupefied 2.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is stupefied 4.</p>

@@ -1,0 +1,30 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1160
+legacy: true
+lesson: []
+level: 6
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Dark Archive
+title: Poltergeist's Fury
+traditions:
+- Arcane
+- Occult
+traits:
+- Evocation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 20-foot emanation</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Your fury spills over in a telekinetic storm of terrifying proportions. Any loose, unattended objects of 1 Bulk or less within range are picked up and begin to orbit you at breathtaking speeds. All creatures in the area take 6d4 piercing damage with a basic Reflex save. Each time you Sustain the Spell, you can increase the radius of the storm by 10 feet, to a maximum of 100 feet. The storm moves with you and provides you with lesser cover, though you can't use this cover to Hide or Sneak. Allies within the storm who roll a success on their Reflex save against your poltergeist's fury get a critical success instead, as you attempt to avoid hitting them.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>

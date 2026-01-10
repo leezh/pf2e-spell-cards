@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Undeath
+id: spell-432
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Malignant Sustenance
+traditions: []
+traits:
+- Cleric
+- Focus
+- Necromancy
+- Negative
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> undeath</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing undead creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You embed a seed of negative energy in an undead creature, restoring its unnatural vigor. The target gains fast healing 7. This healing comes from negative energy, so it heals the undead rather than damaging it.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The fast healing increases by 2.</p>

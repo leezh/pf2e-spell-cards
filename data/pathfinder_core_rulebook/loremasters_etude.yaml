@@ -1,0 +1,28 @@
+actions: '[free-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-390
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Loremaster's Etude
+traditions: []
+traits:
+- Bard
+- Divination
+- Focus
+- Fortune
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> You or an ally within range attempts a skill check to Recall Knowledge</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> you or the triggering ally</p>
+  <hr/>
+  <p>You call upon your muse's deep mysteries, granting the target a greater ability to think and recall information. Roll the triggering Recall Knowledge skill check twice and use the better result.</p>

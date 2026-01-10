@@ -1,0 +1,34 @@
+actions: '[one-action]'
+bloodline:
+- Hag
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-515
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Jealous Hex
+traditions: []
+traits:
+- Curse
+- Focus
+- Necromancy
+- Sorcerer
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> hag</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> up to 1 minute</p>
+  <hr/>
+  <p>You draw forth a hag's innate jealousy to deny a target its greatest attribute. The target is cursed with an adverse condition depending on its highest ability modifier: Strength (enfeebled); Dexterity (clumsy); Constitution (drained); or Intelligence, Wisdom, or Charisma (stupefied). On a tie, the creature decides which of the conditions associated with the tied ability modifiers to take. The target must attempt a Will save.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The condition's value is 1.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The condition's value is 2.</p>
+  <p>At the start of each of your turns, the target can attempt another Will save, ending the effect on a success.</p>

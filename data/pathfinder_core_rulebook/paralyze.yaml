@@ -1,0 +1,36 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-213
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Paralyze
+traditions:
+- Arcane
+- Occult
+traits:
+- Enchantment
+- Incapacitation
+- Mental
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You block the target's motor impulses before they can leave its mind, threatening to freeze the target in place. The target must attempt a Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is stunned 1.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is paralyzed for 1 round.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is paralyzed for 4 rounds. At the end of each of its turns, it can attempt a new Will save to reduce the remaining duration by 1 round, or end it entirely on a critical success.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> You can target up to 10 creatures.</p>

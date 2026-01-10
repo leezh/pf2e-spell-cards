@@ -1,0 +1,36 @@
+actions: '[two-actions]'
+bloodline:
+- Aberrant
+- Fey
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-347
+legacy: true
+lesson: []
+level: 8
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Uncontrollable Dance
+traditions:
+- Arcane
+- Occult
+traits:
+- Enchantment
+- Incapacitation
+- Mental
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>The target is overcome with an all-consuming urge to dance. For the duration of the spell, the target is flat-footed and can't use reactions. While affected, the creature can't use actions with the move trait except to dance, using the Stride action to move up to half its Speed.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The spell's duration is 3 rounds, and the target must spend at least 1 action each turn dancing.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The spell's duration is 1 minute, and the target must spend at least 2 actions each turn dancing.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The spell's duration is 1 minute, and the target must spend all its actions each turn dancing.</p>

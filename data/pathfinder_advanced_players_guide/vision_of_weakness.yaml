@@ -1,0 +1,27 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-765
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Vision of Weakness
+traditions: []
+traits:
+- Cursebound
+- Divination
+- Focus
+- Oracle
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent targets"><strong>Targets</strong> 1 creature</p>
+  <hr/>
+  <p>You focus your gaze on a creature and gain a flash of divine insight into its nature. If the creature has any weaknesses, you learn them, as well as which of its three saving throw modifiers is lowest. You also learn an inherent understanding of its movements and gain a +2 status bonus to your next attack roll (or skill check made as part of an attack action) against that foe before the end of your turn. The target is then temporarily immune to <em>vision of weakness</em> for 1 day.</p>

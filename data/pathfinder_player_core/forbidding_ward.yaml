@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: forbidding_ward
-lessons: []
+domain: []
+id: spell-1535
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Forbidding Ward
 traditions:
-- divine
-- occult
+- Divine
+- Occult
 traits:
-- cantrip
-- concentrate
-- manipulate
-type: cantrip
+- Cantrip
+- Concentrate
+- Manipulate
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>

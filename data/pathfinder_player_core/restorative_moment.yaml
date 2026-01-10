@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: restorative_moment
-lessons:
-- renewal
+domain: []
+id: spell-1885
+legacy: false
+lesson:
+- Renewal
 level: 5
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Restorative Moment
 traditions: []
 traits:
-- concentrate
-- focus
-- hex
-- manipulate
-- witch
-type: focus
+- Concentrate
+- Focus
+- Hex
+- Manipulate
+- Witch
+type: Focus
 
 --- >
   <p class="hanging-indent lesson"><strong>Lesson</strong> renewal</p>

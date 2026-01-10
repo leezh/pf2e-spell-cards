@@ -1,0 +1,30 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-952
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Mud Pit
+traditions:
+- Arcane
+- Primal
+traits:
+- Conjuration
+- Earth
+- Water
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Area</strong> squares on the ground in a 15-foot burst</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Thick, clinging mud covers the ground, 1 foot deep. The mud is difficult terrain.</p>

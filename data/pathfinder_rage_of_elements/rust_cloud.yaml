@@ -1,0 +1,32 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1377
+legacy: false
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Rust Cloud
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Manipulate
+- Metal
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Fortitude; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Red-blown flecks of rust jitter in the air, forming a cloud of agitated particles. All creatures within the cloud become concealed, and all creatures outside the cloud become concealed to creatures within it. The cloud deals 5d10 slashing damage to any creature that starts its turn in the area, with a basic Fortitude save.</p>
+  <p>Metal that rusts off of a creature adds to the cloud. When a metal creature takes damage from the cloud, the cloud's area increases by 5 feet (to a maximum of a 40-foot burst), and the creature starts to rust, taking 1d4 persistent slashing damage. You can Dismiss the cloud.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The cloud's slashing damage increases by 1d10 and the persistent damage increases by 1d4.</p>

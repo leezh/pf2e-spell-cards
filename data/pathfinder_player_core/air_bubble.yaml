@@ -1,23 +1,25 @@
 actions: '[reaction]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: air_bubble
-lessons: []
+domain: []
+id: spell-1438
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Air Bubble
 traditions:
-- arcane
-- divine
-- primal
+- Arcane
+- Divine
+- Primal
 traits:
-- air
-- concentrate
-type: spell
+- Air
+- Concentrate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, primal</p>

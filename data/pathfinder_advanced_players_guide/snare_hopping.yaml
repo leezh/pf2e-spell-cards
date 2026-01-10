@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-776
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Snare Hopping
+traditions: []
+traits:
+- Conjuration
+- Focus
+- Ranger
+- Teleportation
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 10 feet; <strong>Targets</strong> one snare you built</p>
+  <hr/>
+  <p>You may not have placed your snare in the right place, but you can magically move it there. You teleport the target snare to another unoccupied location in range.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The range of the spell increases by 10 feet.</p>

@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- trickery
-id: tricksters_twin
-lessons: []
+domain:
+- Trickery
+id: spell-1841
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Trickster's Twin
 traditions: []
 traits:
-- cleric
-- concentrate
-- focus
-- illusion
-- manipulate
-- visual
-type: focus
+- Cleric
+- Concentrate
+- Focus
+- Illusion
+- Manipulate
+- Visual
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> trickery</p>

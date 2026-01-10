@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-68
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Detect Scrying
+traditions:
+- Arcane
+- Occult
+traits:
+- Detection
+- Divination
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot emanation</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>By tapping into trace divinatory auras, you detect the presence of scrying effects in the area. If <em>detect scrying</em> is higher level than a scrying effect, you gain a glimpse of the scrying creature and learn its approximate distance and direction.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> The duration is until the next time you make your daily preparations.</p>

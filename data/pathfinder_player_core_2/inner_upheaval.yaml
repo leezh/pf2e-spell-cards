@@ -1,21 +1,23 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: inner_upheaval
-lessons: []
+domain: []
+id: spell-2053
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Inner Upheaval
 traditions: []
 traits:
-- concentrate
-- focus
-- monk
-type: focus
+- Concentrate
+- Focus
+- Monk
+type: Focus
 
 --- >
   <p>You focus your qi into devastating magical attacks. Make an unarmed Strike or Flurry of Blows (this doesn't change the limit on using only one flourish per turn). You gain a +1 status bonus to your attack rolls with the Strikes, and the Strikes deal 1d6 extra damage. This damage can be any of the following types of your choice, chosen each time you Strike: force, spirit, vitality, or void.</p>

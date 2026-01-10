@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-728
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Hymn of Healing
+traditions: []
+traits:
+- Bard
+- Composition
+- Focus
+- Healing
+- Necromancy
+- Positive
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> you or 1 ally</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 4 rounds</p>
+  <hr/>
+  <p>Your divine singing mends wounds and provides a temporary respite from harm. The target gains fast healing 2. When you Cast the Spell and the first time each round you Sustain the Spell, the target gains 2 temporary Hit Points, which last for 1 round.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The fast healing and temporary Hit Points each increase by 2.</p>

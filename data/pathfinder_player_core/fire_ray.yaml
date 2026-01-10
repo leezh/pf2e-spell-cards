@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- fire
-id: fire_ray
-lessons: []
+domain:
+- Fire
+id: spell-1804
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Fire Ray
 traditions: []
 traits:
-- attack
-- cleric
-- concentrate
-- fire
-- focus
-- manipulate
-type: focus
+- Attack
+- Cleric
+- Concentrate
+- Fire
+- Focus
+- Manipulate
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> fire</p>

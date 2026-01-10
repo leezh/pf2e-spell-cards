@@ -1,22 +1,24 @@
 actions: '[one-action]'
-bloodlines:
-- fey
+bloodline:
+- Fey
 copyright: 2024 Paizo Inc.
-domains: []
-id: fey_disappearance
-lessons: []
+domain: []
+id: spell-2109
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Fey Disappearance
 traditions: []
 traits:
-- focus
-- manipulate
-- sorcerer
-type: focus
+- Focus
+- Manipulate
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> fey</p>

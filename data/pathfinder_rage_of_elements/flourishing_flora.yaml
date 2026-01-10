@@ -1,0 +1,36 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1401
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Flourishing Flora
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Manipulate
+- Plant
+- Wood
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Area</strong> 5-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex</p>
+  <hr/>
+  <p>Plants rapidly grow up from the ground. All creatures in the target area take 2d4 damage. The type of damage depends on the type of plant you choose to grow. On a critical failure, targets experience additional effects, also depending on what you choose to grow. The type of plant and its effects are chosen when you Cast the Spell.</p>
+  <li><strong>Cacti</strong> Piercing damage, and 1 persistent bleed damage on a critical failure.</li>
+  <li><strong>Flowers</strong> Poison damage, and dazzled for 2 rounds on a critical failure.</li>
+  <li><strong>Fruits</strong> Bludgeoning damage, and clumsy 1 for 2 rounds on a critical failure.</li>
+  <li><strong>Roots</strong> Bludgeoning damage, and the affected creatures fall prone on a critical failure.</li>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d4, and the persistent bleed damage from cacti increases by 1.</p>

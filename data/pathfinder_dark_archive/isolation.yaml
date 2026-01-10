@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1171
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Rare
+remaster: false
+source: Pathfinder Dark Archive
+title: Isolation
+traditions: []
+traits:
+- Cleric
+- Focus
+- Illusion
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 3 rounds</p>
+  <hr/>
+  <p>You summon a tangible manifestation of loneliness to cloak the target from view as surely as if it were wreathed in darkness. The target attempts a Will saving throw.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target becomes invisible, but only to its allies. Any creature not allied with the target can see it normally. Effects such as <em>see invisibility</em> enable an ally to see the target. The target's allies still know the target is present and can still see all the effects of the target's actions.</p>
+  <p class="hanging-indent"><strong>Failure</strong> As success, except the target also becomes inaudible to its allies and imperceptible to them through any other senses.</p>

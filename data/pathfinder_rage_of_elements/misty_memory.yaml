@@ -1,0 +1,34 @@
+actions: ''
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1392
+legacy: false
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Rage of Elements
+title: Misty Memory
+traditions:
+- Arcane
+- Divine
+- Primal
+traits:
+- Concentrate
+- Manipulate
+- Water
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 minute</p>
+  <p class="hanging-indent targets"><strong>Targets</strong> 1 body of water of at least 5 square feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 10 minutes</p>
+  <hr/>
+  <p>Some say water holds memories or impressions of the past, and you can raise those memories to the surface to glimpse recent events. When you Cast the Spell, you fix your mind on an amount of time in the past, up to 24 hours ago. A mist rises from the target body of water, filling a 30-foot burst and coalescing into a misty scene of the events that took place at that time within 60 feet of the water.</p>
+  <p>Any creature who can see the area can observe the images produced, which are a translucent white color and detailed enough to show a silhouette, outline, or contour of creatures and objects that passed through the area and the motions they took. Fine details, such as facial features or written letters, are too precise for the mist to form, and the scene is silent.</p>
+  <p>You can Sustain the spell to cause the mist to play events backward or forward, with each minute spent Sustaining corresponding to a minute of playback.</p>
+  <p>Strong winds from a magical source can disrupt this spell if the effect succeeds at a counteract check against your spell DC.</p>

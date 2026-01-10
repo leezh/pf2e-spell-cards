@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-2141
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder War of Immortals
+title: Nymph's Grace
+traditions: []
+traits:
+- Animist
+- Aura
+- Emotion
+- Focus
+- Incapacitation
+- Mental
+- Visual
+type: Focus
+
+--- >
+  <p class="hanging-indent area"><strong>Area</strong> 10-foot emanation</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Your apparition manifests as a mask of unearthly beauty that bewilders your enemies. The first time an enemy enters the aura each round, or if they start their turn within the aura, they must succeed at a Will saving throw or become confused for 1 round. While confused by this effect, the creature's confused actions never include harming you.</p>

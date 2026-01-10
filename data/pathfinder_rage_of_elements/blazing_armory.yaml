@@ -1,0 +1,37 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1348
+legacy: false
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Blazing Armory
+traditions:
+- Arcane
+- Divine
+- Primal
+traits:
+- Concentrate
+- Fire
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 willing creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 5 minutes</p>
+  <hr/>
+  <p>As long as you have magic, you're never unarmed. You materialize a flaming simulacrum of any common simple or martial weapon into the target's grasp. The target must have a free hand to hold the weapon, or else the weapon falls to the ground in the target's space. The blazing weapon functions as a <em>+1 striking</em> weapon, and its damage type changes to fire. The damage type can't be changed using the versatile trait, modular trait, or similar methods.</p>
+  <p>A thrown weapon rematerializes in the target's hand after the Strike is complete. If you choose a ranged weapon that uses ammunition, the wielder must still reload the weapon using the normal number of actions, though this generates ammunition automatically; this functions as normal ammunition, and the <em>blazing weapon</em> can't use other types of ammunition.</p>
+  <p>Any creature other than you or the target that attempts to touch, make a Strike with, or Disarm the weapon takes 1d6 fire damage each time.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> You can target up to 5 willing creatures and can choose a different weapon for each target. The weapons function as <em>+1 striking flaming</em> weapons.</p>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> As 4th, but the weapons function as <em>+2 greater striking flaming</em> weapons.</p>
+  <p class="hanging-indent"><strong>Heightened (8th)</strong> As 4th, but the weapons function as <em>+3 greater striking greater flaming</em> weapons.</p>
+  <p class="hanging-indent"><strong>Heightened (10th)</strong> As 4th, but the weapons function as <em>+3 superior striking greater flaming</em> weapons.</p>

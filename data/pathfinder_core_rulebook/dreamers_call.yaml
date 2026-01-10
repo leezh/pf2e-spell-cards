@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Dreams
+id: spell-418
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Dreamer's Call
+traditions: []
+traits:
+- Cleric
+- Enchantment
+- Focus
+- Incapacitation
+- Mental
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> dreams</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> until the end of the target's next turn</p>
+  <hr/>
+  <p>The target becomes distracted and suggestible, inundated by vivid daydreams.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target's attention wavers. It becomes flat-footed and fascinated by its daydreams.</p>
+  <p class="hanging-indent"><strong>Failure</strong> As success, except that you appear in the dream and give a suggestion. This can be to approach you, run away (as if it had the fleeing condition), Release what it's holding, Drop Prone, or stand in place. The creature follows this course of action as its first action after you Cast the Spell.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, but the target follows the course of action for as many actions as possible for the spell's duration, and it does nothing else.</p>

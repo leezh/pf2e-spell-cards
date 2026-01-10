@@ -1,22 +1,24 @@
 actions: '[free-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: lingering_composition
-lessons: []
+domain: []
+id: spell-1769
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Lingering Composition
 traditions: []
 traits:
-- bard
-- concentrate
-- focus
-- spellshape
-type: focus
+- Bard
+- Concentrate
+- Focus
+- Spellshape
+type: Focus
 
 --- >
   <p>You add a flourish to your composition to extend its benefits. If your next action is to cast a cantrip composition with a duration of 1 round, attempt a Performance check. The DC is usually a standard-difficulty DC of a level equal to the highest-level target of your composition, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.</p>

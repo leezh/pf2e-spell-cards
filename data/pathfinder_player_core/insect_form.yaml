@@ -1,23 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: insect_form
-lessons: []
+domain: []
+id: spell-1575
+legacy: false
+lesson:
+- Decay
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Insect Form
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- concentrate
-- manipulate
-- polymorph
-type: spell
+- Concentrate
+- Manipulate
+- Polymorph
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

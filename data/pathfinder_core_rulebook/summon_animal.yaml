@@ -1,0 +1,40 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-316
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Summon Animal
+traditions:
+- Arcane
+- Primal
+traits:
+- Conjuration
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You conjure an animal to fight for you. You summon a common creature that has the animal trait and whose level is –1, such as those below. Heightening the spell increases the maximum level of creature you can summon.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (2nd)</strong> Level 1.</p>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> Level 2.</p>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> Level 3.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> Level 5.</p>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> Level 7.</p>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> Level 9.</p>
+  <p class="hanging-indent"><strong>Heightened (8th)</strong> Level 11.</p>
+  <p class="hanging-indent"><strong>Heightened (9th)</strong> Level 13.</p>
+  <p class="hanging-indent"><strong>Heightened (10th)</strong> Level 15.</p>
+  <p>Spells with the summon trait can conjure creatures, typically ones with a particular trait. Such creatures can be found in Monster Core and similar books. Unless noted otherwise, the creature must be common, it gains the summoned trait (page 301), and it must appear in an unoccupied space in range large enough to contain it. The highest level of creature the spell can summon depends on the rank of the spell, as listed below. The spell can still summon a creature of a lower level if you so choose. These rules apply only to spells that have the summon trait; other spells that call or conjure items or beings but that don’t have the trait, like summon instrument, work as explained in the spell.</p>
+  <table><tr><td><strong>Spell Rank</strong></td><td><strong>Maximum Creature Level</strong></td></tr><tr><td>1st</td><td>-1</td></tr><tr><td>2nd</td><td>1</td></tr><tr><td>3rd</td><td>2</td></tr><tr><td>4th</td><td>3</td></tr><tr><td>5th</td><td>5</td></tr><tr><td>6th</td><td>7</td></tr><tr><td>7th</td><td>9</td></tr><tr><td>8th</td><td>11</td></tr><tr><td>9th</td><td>13</td></tr><tr><td>9th</td><td>15</td></tr><tr></tr></table>

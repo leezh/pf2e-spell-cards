@@ -1,0 +1,30 @@
+actions: ''
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-89
+legacy: true
+lesson: []
+level: 8
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Dream Council
+traditions:
+- Arcane
+- Occult
+traits:
+- Illusion
+- Mental
+- Sleep
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 10 minutes (somatic, verbal)</p>
+  <p class="hanging-indent range"><strong>Range</strong> planetary; <strong>Targets</strong> up to 12 creatures you know by name and have met in person</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>When you Cast this Spell, any targets—including you—can choose to immediately fall asleep. The spell ends for any creatures that don't choose to fall asleep. Sleepers join a shared dream, where they can communicate with one another as though they were in the same room. Individual targets leave this shared dream upon awakening, and if all the targets awaken, the spell ends.</p>

@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: ghoulish_cravings
-lessons: []
+domain: []
+id: spell-1996
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Ghoulish Cravings
 traditions:
-- divine
-- occult
+- Divine
+- Occult
 traits:
-- concentrate
-- curse
-- manipulate
-- mental
-type: spell
+- Concentrate
+- Curse
+- Manipulate
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>

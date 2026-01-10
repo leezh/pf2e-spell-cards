@@ -1,0 +1,32 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1134
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Dark Archive
+title: Omnidirectional Scan
+traditions: []
+traits:
+- Cantrip
+- Divination
+- Psychic
+- Scrying
+type: Cantrip
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot emanation; <strong>Targets</strong> 1 ally and 1 enemy</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the start of your next turn</p>
+  <hr/>
+  <p>You quickly view your surroundings from a variety of angles, your senses constructing an overall mental picture. You can choose to Seek the entire emanation of the spell.</p>
+  <p>Regardless of whether you Seek, target one ally and one enemy in the area; if a target is concealed or hidden from you, you automatically succeed at the flat check to target it with this spell. You prepare to Aid the target ally on an attack roll against the target enemy. If you take this Aid reaction, you use your spell attack modifier and proficiency rank on your check to Aid. If you critically fail the roll to Aid, you get a failure instead.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Amp</strong> Your scans are so minute that you can project your foe's likely strengths and weaknesses. You learn which of the target enemy's saving throws is highest and which is lowest, and you and all allies within 30 feet gain a +1 circumstance bonus to attacks and damage against the creature.</p>
+  <p>If you take the Aid reaction you prepared for and succeed at your roll, these bonuses increase to +2 on the attack you're Aiding. On a critical success, they increase to +3, or to +4 if you have legendary proficiency in spell attack rolls.</p>

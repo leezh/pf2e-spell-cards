@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Darkness
+id: spell-411
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Darkened Eyes
+traditions: []
+traits:
+- Cleric
+- Darkness
+- Focus
+- Transmutation
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> darkness</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You infuse a creature's vision with darkness. After attempting its save, the target becomes temporarily immune for 24 hours.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target's darkvision or low-light vision is suppressed for 1 round.</p>
+  <p class="hanging-indent"><strong>Failure</strong> As success, but the duration is 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As success, but the duration is 1 minute, and the target is also blinded for the duration. It can attempt a new save at the end of each of its turns. If it succeeds, it's no longer blinded, but its darkvision or low-light vision remains suppressed.</p>

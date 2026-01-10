@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-21
+legacy: true
+lesson: []
+level: 9
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Bind Soul
+traditions:
+- Divine
+- Occult
+traits:
+- Evil
+- Necromancy
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent requirements"><strong>Requirements</strong> black sapphire with a gp value of at least the target's level × 100</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature that died within the last minute</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> unlimited</p>
+  <hr/>
+  <p>You wrench the target's soul away before it can pass on to the afterlife and imprison it in a black sapphire.</p>
+  <p>While the soul is in the gem, the target can't be returned to life through any means, even powerful magic such as <em>wish</em>. If the gem is destroyed or <em>bind soul</em> is counteracted on the gem, the soul is freed. The gem has AC 16 and Hardness 10. A gem can't hold more than one soul, and any attempt wastes the spell.</p>

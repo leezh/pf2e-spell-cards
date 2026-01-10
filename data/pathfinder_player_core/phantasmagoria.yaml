@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines:
-- hag
+bloodline:
+- Hag
 copyright: 2023 Paizo Inc.
-domains: []
-id: phantasmagoria
-lessons: []
+domain: []
+id: spell-1629
+legacy: false
+lesson: []
 level: 9
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Phantasmagoria
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- concentrate
-- death
-- illusion
-- manipulate
-- mental
-type: spell
+- Concentrate
+- Death
+- Illusion
+- Manipulate
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

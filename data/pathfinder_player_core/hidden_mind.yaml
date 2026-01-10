@@ -1,22 +1,24 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: hidden_mind
-lessons: []
+domain: []
+id: spell-1556
+legacy: false
+lesson: []
 level: 8
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Hidden Mind
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- concentrate
-- manipulate
-type: spell
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

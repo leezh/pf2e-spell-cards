@@ -1,0 +1,31 @@
+actions: ''
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1330
+legacy: false
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Rage of Elements
+title: Engrave Memory
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Earth
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 minute</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 stone of at least 1 Bulk</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> unlimited</p>
+  <hr/>
+  <p>You store memories inside a stone. This memory can convey up to 10 minutes of material. When you Cast this Spell, choose a command word. Doing so creates a carved symbol on the stone that hints at the word. Any creature can access the memories stored within the stone by using an action to speak the command word.</p>
+  <p>As it imparts the memories, the stone crumbles to dust, but the memory is infallibly available to the creature that activated the stone for the next 24 hours. After that time, the creature's normal capacity for memory must be relied upon to recall the stone's imparted memory. It's up to the GM what benefit the imparted memory grants, from circumstance bonuses to checks related to the memory or clear information on subjects the memory covers.</p>

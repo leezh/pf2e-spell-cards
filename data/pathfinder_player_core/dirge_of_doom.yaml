@@ -1,25 +1,27 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: dirge_of_doom
-lessons: []
+domain: []
+id: spell-1764
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Dirge of Doom
 traditions: []
 traits:
-- bard
-- cantrip
-- composition
-- concentrate
-- emotion
-- fear
-- mental
-type: cantrip
+- Bard
+- Cantrip
+- Composition
+- Concentrate
+- Emotion
+- Fear
+- Mental
+type: Cantrip
 
 --- >
   <p class="hanging-indent area"><strong>Area</strong> 30-foot emanation</p>

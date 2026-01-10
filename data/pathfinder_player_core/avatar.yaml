@@ -1,22 +1,24 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: avatar
-lessons: []
+domain: []
+id: spell-1446
+legacy: false
+lesson: []
 level: 10
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Avatar
 traditions:
-- divine
+- Divine
 traits:
-- concentrate
-- manipulate
-- polymorph
-type: spell
+- Concentrate
+- Manipulate
+- Polymorph
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>

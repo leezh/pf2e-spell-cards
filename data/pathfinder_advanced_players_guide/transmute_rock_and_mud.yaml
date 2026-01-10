@@ -1,0 +1,36 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-724
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Transmute Rock and Mud
+traditions:
+- Arcane
+- Primal
+traits:
+- Earth
+- Transmutation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Area</strong> 2 adjacent 10-foot cubes</p>
+  <hr/>
+  <p>You warp the structure of earthen material, turning rock into mud or mud into rock. Choose one of these two options when you Cast the Spell.</p>
+  <li><strong>Rock to Mud</strong> You transform non-magical, unworked, and unattended stone in the area into an equal volume of mud. If you Cast this Spell on a stone floor, it becomes difficult terrain; if the resulting mud is at least 3 feet deep, it is greater difficult terrain, or the creature can try to Swim through it (DC 10 Athletics). If the mud is deep enough that a creature can't reach the bottom, the creature must Swim to move through it. If you Cast this Spell on a ceiling, the falling mud deals 8d6 bludgeoning damage (basic Reflex save) and spreads out, creating difficult terrain in an area 10 feet larger in radius than the original spell's area. Once the rock is transformed into mud, the mud is non-magical and remains until natural conditions cause it to dry out or otherwise disperse.</li>
+  <li><strong>Mud to Rock</strong> Mud in the area turns into unworked stone. If creatures are in the mud when it is transformed to stone, they must attempt a Reflex saving throw.</li>
+  <p class="indent hanging-indent"><strong>Critical Success</strong> The creature escapes the mud and is atop the stone, unaffected.</p>
+  <p class="indent hanging-indent"><strong>Success</strong> The creature climbs out of the mud as it turns to rock and is prone atop the stone.</p>
+  <p class="indent hanging-indent"><strong>Failure</strong> The creature is partially stuck in the mud and is grabbed for 1 round or until it Escapes, whichever comes first.</p>
+  <p class="indent hanging-indent"><strong>Critical Failure</strong> The creature is entirely stuck. It is restrained for 1 round or until it Escapes, whichever comes first.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> Add an additional 10-foot cube to the area, adjacent to at least one of the other cubes.</p>

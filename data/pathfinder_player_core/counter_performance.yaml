@@ -1,24 +1,26 @@
 actions: '[reaction]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: counter_performance
-lessons: []
+domain: []
+id: spell-1762
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Counter Performance
 traditions: []
 traits:
-- bard
-- composition
-- concentrate
-- focus
-- fortune
-- mental
-type: focus
+- Bard
+- Composition
+- Concentrate
+- Focus
+- Fortune
+- Mental
+type: Focus
 
 --- >
   <p class="hanging-indent trigger"><strong>Trigger</strong> You or an ally within 60 feet rolls a saving throw against an auditory or visual effect</p>

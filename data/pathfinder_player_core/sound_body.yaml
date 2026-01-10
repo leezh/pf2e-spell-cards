@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: sound_body
-lessons: []
+domain: []
+id: spell-1679
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Sound Body
 traditions:
-- divine
-- occult
-- primal
+- Divine
+- Occult
+- Primal
 traits:
-- concentrate
-- healing
-- manipulate
-- vitality
-type: spell
+- Concentrate
+- Healing
+- Manipulate
+- Vitality
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult, primal</p>

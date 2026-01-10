@@ -1,25 +1,27 @@
 actions: '[reaction]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: drop_dead
-lessons: []
+domain: []
+id: spell-1989
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Drop Dead
 traditions:
-- arcane
-- divine
-- occult
+- Arcane
+- Divine
+- Occult
 traits:
-- illusion
-- manipulate
-- subtle
-- visual
-type: spell
+- Illusion
+- Manipulate
+- Subtle
+- Visual
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>

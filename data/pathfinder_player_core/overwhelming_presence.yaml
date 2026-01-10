@@ -1,27 +1,29 @@
 actions: '[two-actions]'
-bloodlines:
-- draconic
+bloodline:
+- Draconic
 copyright: 2023 Paizo Inc.
-domains: []
-id: overwhelming_presence
-lessons: []
+domain: []
+id: spell-1621
+legacy: false
+lesson: []
 level: 9
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Overwhelming Presence
 traditions:
-- divine
-- occult
+- Divine
+- Occult
 traits:
-- auditory
-- concentrate
-- incapacitation
-- manipulate
-- mental
-- visual
-type: spell
+- Auditory
+- Concentrate
+- Incapacitation
+- Manipulate
+- Mental
+- Visual
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>

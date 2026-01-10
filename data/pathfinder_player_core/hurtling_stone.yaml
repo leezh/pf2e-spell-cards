@@ -1,24 +1,26 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- earth
-id: hurtling_stone
-lessons: []
+domain:
+- Earth
+id: spell-1798
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Hurtling Stone
 traditions: []
 traits:
-- attack
-- cleric
-- earth
-- focus
-- manipulate
-type: focus
+- Attack
+- Cleric
+- Earth
+- Focus
+- Manipulate
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> earth</p>

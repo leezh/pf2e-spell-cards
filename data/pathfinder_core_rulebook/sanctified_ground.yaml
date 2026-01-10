@@ -1,0 +1,29 @@
+actions: ''
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-265
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Sanctified Ground
+traditions:
+- Divine
+traits:
+- Abjuration
+- Consecration
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 minute (material, somatic, verbal)</p>
+  <p class="hanging-indent cost"><strong>Cost</strong> 1 vial of<em>holy water</em></p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot burst centered on you</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the next time you make your daily preparations.</p>
+  <hr/>
+  <p>You sanctify the area, sprinkling it with <em>holy water</em> and warding it against your foes. Choose aberrations, celestials, dragons, fiends, monitors, or undead. All creatures in the area gain a +1 status bonus to AC, attack rolls, damage rolls, and saving throws against the chosen creatures.</p>

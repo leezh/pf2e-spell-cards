@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1412
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Timber
+traditions:
+- Arcane
+- Primal
+traits:
+- Cantrip
+- Concentrate
+- Manipulate
+- Wood
+type: Cantrip
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 15-foot line</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex</p>
+  <hr/>
+  <p>You create a small dead tree in your space that falls over on anyone in its path, then immediately decomposes. Any creature in the area takes 2d4 bludgeoning damage, with a basic Reflex saving throw. A creature that critically fails its save is knocked for a loop, making it dazzled until the end of its next turn.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The initial damage increases by 1d4.</p>

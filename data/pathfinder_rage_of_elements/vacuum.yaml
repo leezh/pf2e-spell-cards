@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1324
+legacy: false
+lesson: []
+level: 7
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Vacuum
+traditions:
+- Arcane
+- Primal
+traits:
+- Air
+- Concentrate
+- Incapacitation
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 15-foot emanation</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You inhale all air in the surrounding area, stealing the breath of nearby creatures. During vacuum's duration, you take a –1 circumstance penalty against inhaled threats, such as inhaled poisons. If you cast <em>vacuum</em> in an environment where you can't breathe, the spell fails and you immediately begin to suffocate. Creatures in the area must attempt a Fortitude save. A creature that's holding its breath gets a result one degree of success better than it rolled, and creatures that don't need to breathe air are immune to the spell. A creature that later enters the area or ceases holding its breath must attempt a save against the effect. On subsequent rounds, the first time each round you Sustain the spell, you can force each creature in the area to save against the effect.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature begins holding its breath.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature wheezes and gasps as its breath is stolen, becoming stunned 1. The creature then begins holding its breath but has only half its normal number of rounds of remaining air.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature has all the air sucked out from its lungs and immediately starts to suffocate.</p>

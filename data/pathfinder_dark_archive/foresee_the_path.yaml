@@ -1,0 +1,32 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1135
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Dark Archive
+title: Foresee the Path
+traditions: []
+traits:
+- Cantrip
+- Divination
+- Psychic
+type: Cantrip
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 ally and 1 enemy</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You see just a split second into the future and glean how an enemy will move, making it easier for your allies to strike it mid-action. Make a Perception check against the target enemy's Will DC or Deception DC, whichever is higher. The GM may judge a different DC is more appropriate if it's higher; for instance, using the Warfare Lore DC of a military captain. The target is then temporarily immune for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target ally gains a reaction that lets it make a melee Strike against the target enemy, triggered if the enemy leaves a square within the ally's reach. If the ally already has an ability that lets it make melee Strikes as a reaction, such as Attack of Opportunity, the ally can forgo gaining the temporary reaction to instead gain a +2 status bonus to melee Strikes it makes as reactions.</p>
+  <p class="hanging-indent"><strong>Success</strong> As critical success, but the status bonus an ally gets if it forgoes the reaction is +1.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The spell has no effect.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Amp</strong> The spell has the same result on a failure as on a success (but still no effect on a critical failure). Each time you Sustain the Spell, you can choose an additional ally to target, granting them the same benefit as the initial target ally</p>

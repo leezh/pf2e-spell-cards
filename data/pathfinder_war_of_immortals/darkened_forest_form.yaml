@@ -1,0 +1,28 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-2143
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder War of Immortals
+title: Darkened Forest Form
+traditions: []
+traits:
+- Animist
+- Focus
+- Polymorph
+type: Focus
+
+--- >
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Your apparition casts a feral shadow over your form. You can polymorph into any form listed in <em>pest form</em>. When you transform into a form granted by a spell, you gain all the effects of the form you chose from a version of the spell heightened to darkened forest form's rank. Each time you Sustain this Spell, you can choose to change to a different shape from those available via any of the associated spells.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (2nd)</strong> You can also transform into the forms listed in <em>animal form</em>.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> You can also transform into the forms listed in <em>elemental form</em>.</p>

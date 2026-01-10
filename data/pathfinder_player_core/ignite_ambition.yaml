@@ -1,25 +1,27 @@
 actions: '[reaction]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- ambition
-id: ignite_ambition
-lessons: []
+domain:
+- Ambition
+id: spell-1782
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Ignite Ambition
 traditions: []
 traits:
-- cleric
-- concentrate
-- emotion
-- focus
-- mental
-- subtle
-type: focus
+- Cleric
+- Concentrate
+- Emotion
+- Focus
+- Mental
+- Subtle
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> ambition</p>

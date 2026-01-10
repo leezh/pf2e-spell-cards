@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: vitality_lash
-lessons: []
+domain: []
+id: spell-1744
+legacy: false
+lesson: []
 level: 1
-mysteries:
-- life
-patrons: []
-rarity: common
+mystery:
+- Life
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Vitality Lash
 traditions:
-- divine
-- primal
+- Divine
+- Primal
 traits:
-- cantrip
-- concentrate
-- manipulate
-- vitality
-type: cantrip
+- Cantrip
+- Concentrate
+- Manipulate
+- Vitality
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>

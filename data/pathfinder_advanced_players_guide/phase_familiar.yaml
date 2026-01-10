@@ -1,0 +1,30 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-804
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Phase Familiar
+traditions: []
+traits:
+- Abjuration
+- Focus
+- Hex
+- Witch
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> Your familiar would take damage.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> your familiar</p>
+  <hr/>
+  <p>You draw upon your patron's power to momentarily shift your familiar from its solid, physical form into an ephemeral version of itself shaped of mist. Your familiar gains resistance 5 to all damage and is immune to precision damage. These apply only against the triggering damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> Increase the resistance by 2.</p>

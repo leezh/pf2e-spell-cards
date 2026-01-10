@@ -1,24 +1,26 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- truth
-id: glimpse_the_truth
-lessons: []
+domain:
+- Truth
+id: spell-1843
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Glimpse the Truth
 traditions: []
 traits:
-- aura
-- cleric
-- focus
-- manipulate
-- revelation
-type: focus
+- Aura
+- Cleric
+- Focus
+- Manipulate
+- Revelation
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> truth</p>

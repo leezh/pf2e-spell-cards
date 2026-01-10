@@ -1,23 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: feet_to_fins
-lessons: []
+domain: []
+id: spell-1525
+legacy: false
+lesson:
+- the Shark
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
-title: Feet To Fins
+title: Feet to Fins
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- concentrate
-- manipulate
-- morph
-type: spell
+- Concentrate
+- Manipulate
+- Morph
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

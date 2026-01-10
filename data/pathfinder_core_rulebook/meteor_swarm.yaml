@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline:
+- Diabolic
+- Phoenix
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-191
+legacy: true
+lesson: []
+level: 9
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Meteor Swarm
+traditions:
+- Arcane
+- Primal
+traits:
+- Evocation
+- Fire
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 500 feet; <strong>Area</strong> 4 40-foot bursts</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex</p>
+  <hr/>
+  <p>You call down four meteors that explode in a fiery blast. Each meteor deals 6d10 bludgeoning damage to any creatures in the 10-foot burst at the center of its area of effect before exploding, dealing 14d6 fire damage to any creatures in its 40-foot burst. The meteors' central 10-foot bursts can't overlap, and a creature attempts only one saving throw against the spell no matter how many overlapping explosions it's caught in, and they can take each type of damage once once. The saving throw applies to both the bludgeoning and the fire damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The bludgeoning damage increases by 1d10, and the fire damage increases by 2d6.</p>

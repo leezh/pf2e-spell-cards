@@ -1,25 +1,27 @@
 actions: '[three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: summon_dragon
-lessons: []
+domain: []
+id: spell-1697
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Summon Dragon
 traditions:
-- arcane
-- divine
-- occult
-- primal
+- Arcane
+- Divine
+- Occult
+- Primal
 traits:
-- concentrate
-- manipulate
-- summon
-type: spell
+- Concentrate
+- Manipulate
+- Summon
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>

@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodline:
+- Psychopomp
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-788
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Spirit Veil
+traditions: []
+traits:
+- Focus
+- Illusion
+- Sorcerer
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> psychopomp</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You draw an occluding veil of spirits around yourself, blocking yourself especially well from undead eyes. You become concealed to all creatures, and you are hidden from undead creatures regardless of what precise senses they have; this grants the effects of <em>invisibility</em>, but against all the undead creature's precise senses. If you physically interact with an undead creature or use a hostile action, the spell ends.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> You can target one additional willing creature within 30 feet. The spell ends if any target physically interacts with an undead creature or uses a hostile action</p>

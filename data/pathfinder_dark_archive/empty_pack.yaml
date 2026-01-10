@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1151
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Dark Archive
+title: Empty Pack
+traditions:
+- Arcane
+- Occult
+traits:
+- Illusion
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 container of 2 Bulk or less</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>You render every item inside the container you touch invisible, although the container itself remains visible. The items within are undetected to all creatures, though a creature can attempt to find an item by reaching into the bag, making an item hidden to them instead if they succeed. Additionally, the spell doesn't prevent the items from making protrusions in the bag, adding weight, making noise when jostling around, and so on. However, the spell prevents anything within the container from falling out if it's upended. Any object removed from the container becomes visible and remains visible even if returned to the container.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> The duration is until the next time you make your daily preparations.</p>

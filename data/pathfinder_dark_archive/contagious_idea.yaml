@@ -1,0 +1,38 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1141
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Dark Archive
+title: Contagious Idea
+traditions: []
+traits:
+- Cantrip
+- Emotion
+- Enchantment
+- Mental
+- Psychic
+type: Cantrip
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet (see text); <strong>Targets</strong> 1 or 2 creatures other than yourself (see text)</p>
+  <hr/>
+  <p>Nothing is so contagious as a thought. You place either a pleasant thought or a terrifying one in a creature's mind. You can then plant the same thought in a second creature's mind. You can't choose a creature that's already been a target of this casting of <em>contagious idea</em>, nor can you choose yourself. The second target can be beyond the range of the spell, but it must be within 30 feet of the first target.</p>
+  <li><strong>Pleasant Thought</strong> The target is soothed, gaining 5 temporary Hit Points that last for 1 minute.</li>
+  <li><strong>Terrifying Thought</strong> The target must attempt a Will save.</li>
+  <strong>Critical Success</strong><p>The target is unaffected and is temporarily immune for 1 minute.</p>
+  <strong>Success</strong><p>The target is frightened 1 and is then temporarily immune for 1 minute.</p>
+  <strong>Failure</strong><p>The target becomes frightened 2.</p>
+  <strong>Critical Failure</strong><p>The target becomes frightened 3.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The temporary Hit Points for a pleasant thought increase by 1.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Amp</strong> You can choose to spread the thought from the second target to a third target, in the same manner as spreading it from the first target to the second. A pleasant thought grants twice as many temporary Hit Points (10, plus an additional 2 for each level heightened).</p>

@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: sunburst
-lessons: []
+domain: []
+id: spell-1707
+legacy: false
+lesson: []
 level: 7
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Sunburst
 traditions:
-- divine
-- primal
+- Divine
+- Primal
 traits:
-- concentrate
-- fire
-- light
-- manipulate
-- vitality
-type: spell
+- Concentrate
+- Fire
+- Light
+- Manipulate
+- Vitality
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>

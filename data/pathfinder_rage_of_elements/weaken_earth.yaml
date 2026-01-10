@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1345
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Weaken Earth
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Earth
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature, unattended object, or hazard or structure made of stone or earth</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You weaken the bonds that hold earth and stone together. If your target has Hardness, you can affect one contiguous object, up to a 5-foot cube, or one creature, decreasing the Hardness by 5, to a minimum of 0. If the target lacks Hardness, it gains weakness 3 to physical damage. A target with a Fortitude modifier can attempt a Fortitude saving throw, negating the effect on a success.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> Hardness decreases by 5, the size of a contiguous object increases by one 5-foot cube, and the weakness increases by 3.</p>

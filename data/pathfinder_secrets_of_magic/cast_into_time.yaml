@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-880
+legacy: true
+lesson: []
+level: 6
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Cast into Time
+traditions:
+- Arcane
+- Occult
+traits:
+- Divination
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 15-foot cone</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>You release a wave of temporal energy that sends creatures violently tumbling through time, scarring their thoughts with the information flowing around them. Although the journey can feel like it lasts for minutes or even days, the targets reappear instantly. Witnessing this chaotic flow of time and being bashed against objects from different times deals the targets 5d8 mental damage and 5d6 bludgeoning damage, with a Fortitude save. A creature that falls into time disappears until the end of your turn. It then reappears in the same space it left; if that space is occupied, it appears in the nearest empty space, chosen by the GM.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature falls into time. When it returns, it takes half damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature falls into time. When it returns, it takes full damage and is sickened 1.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature falls into time. When it returns, it takes double damage and is sickened 2.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The bludgeoning damage increase by 2d6.</p>

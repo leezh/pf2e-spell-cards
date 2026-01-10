@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-697
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Impaling Spike
+traditions:
+- Arcane
+- Primal
+traits:
+- Conjuration
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Reflex; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You conjure a spike that thrusts up from the earth beneath a target creature, potentially impaling it. The spike is made of cold iron and deals 8d6 piercing damage. The target must attempt a Reflex save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target dodges the spike and is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is struck by the spike and takes half damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is impaled through a leg or another non-vital body part. The creature takes full damage and, if it's standing on solid ground, becomes immobilized. It can attempt to Escape (the DC is your spell DC). While it remains impaled, it takes damage from any weakness to cold iron it has at the end of each of its turns.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, but the creature is impaled through a vital organ or its center of mass, taking double damage, and it is flat-footed as long as it's impaled.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>

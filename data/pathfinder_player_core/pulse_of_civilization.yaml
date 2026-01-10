@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- cities
-id: pulse_of_civilization
-lessons: []
+domain:
+- Cities
+id: spell-1785
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Pulse of Civilization
 traditions: []
 traits:
-- cleric
-- concentrate
-- focus
-- manipulate
-- scrying
-type: focus
+- Cleric
+- Concentrate
+- Focus
+- Manipulate
+- Scrying
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> cities</p>

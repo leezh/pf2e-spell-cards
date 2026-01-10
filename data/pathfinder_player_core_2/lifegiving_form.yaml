@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: lifegiving_form
-lessons: []
+domain: []
+id: spell-2083
+legacy: false
+lesson: []
 level: 6
-mysteries:
-- life
-patrons: []
-rarity: uncommon
+mystery:
+- Life
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
-title: Life-giving Form
+title: Life-Giving Form
 traditions: []
 traits:
-- concentrate
-- focus
-- healing
-- light
-- manipulate
-- oracle
-- vitality
-type: focus
+- Concentrate
+- Focus
+- Healing
+- Light
+- Manipulate
+- Oracle
+- Vitality
+type: Focus
 
 --- >
   <p class="hanging-indent mystery"><strong>Mystery</strong> life</p>

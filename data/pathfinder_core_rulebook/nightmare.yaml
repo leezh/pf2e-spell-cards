@@ -1,0 +1,33 @@
+actions: ''
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-208
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Nightmare
+traditions:
+- Arcane
+- Occult
+traits:
+- Illusion
+- Mental
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 10 minutes (material, somatic, verbal)</p>
+  <p class="hanging-indent range"><strong>Range</strong> planetary; <strong>Targets</strong> 1 creature you know by name</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 day</p>
+  <hr/>
+  <p>You send disturbing nightmares to your target. The next time the target falls asleep, it must attempt a Will save. If you know the target only by name and have never met them, the target gets a +4 circumstance bonus to the Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target suffers no adverse effects and is temporarily immune for 1 week.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target experiences the nightmares but suffers no adverse effects other than unpleasant memories.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target experiences the nightmares and awakens fatigued.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target experiences the nightmares, awakens fatigued, and is drained 2 until it is no longer fatigued.</p>

@@ -1,0 +1,37 @@
+actions: '[two-actions]'
+bloodline:
+- Hag
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-211
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Outcast's Curse
+traditions:
+- Arcane
+- Divine
+- Occult
+traits:
+- Curse
+- Enchantment
+- Mental
+- Misfortune
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will</p>
+  <hr/>
+  <p>You afflict the target with a curse that makes its presence abrasive and off -putting. The target must attempt a Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> For 10 minutes, the target must roll twice and use the worse result whenever attempting a Deception, Diplomacy, Intimidation, or Performance check, and creatures they encounter have an initial attitude toward them of one step worse (for instance, unfriendly instead of indifferent).</p>
+  <p class="hanging-indent"><strong>Failure</strong> As success, but the effect is permanent.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, and creatures that the target encounters have an initial attitude toward them of two steps worse.</p>

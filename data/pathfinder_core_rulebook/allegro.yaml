@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-380
+legacy: true
+lesson: []
+level: 7
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Allegro
+traditions: []
+traits:
+- Bard
+- Cantrip
+- Composition
+- Emotion
+- Enchantment
+- Mental
+type: Cantrip
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 ally</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>You perform rapidly, speeding up your ally. The ally becomes quickened and can use the additional action to Strike, Stride, or Step.</p>

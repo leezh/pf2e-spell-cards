@@ -1,0 +1,36 @@
+actions: '[two-actions]'
+bloodline:
+- Demonic
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-289
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Slow
+traditions:
+- Arcane
+- Occult
+- Primal
+traits:
+- Transmutation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You dilate the flow of time around the target, slowing its actions.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is slowed 1 for 1 round.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is slowed 1 for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is slowed 2 for 1 minute.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> You can target up to 10 creatures.</p>

@@ -1,24 +1,26 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: life_link
-lessons: []
+domain: []
+id: spell-2081
+legacy: false
+lesson: []
 level: 1
-mysteries:
-- life
-patrons: []
-rarity: uncommon
+mystery:
+- Life
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Life Link
 traditions: []
 traits:
-- focus
-- healing
-- manipulate
-- oracle
-- vitality
-type: focus
+- Focus
+- Healing
+- Manipulate
+- Oracle
+- Vitality
+type: Focus
 
 --- >
   <p class="hanging-indent mystery"><strong>Mystery</strong> life</p>

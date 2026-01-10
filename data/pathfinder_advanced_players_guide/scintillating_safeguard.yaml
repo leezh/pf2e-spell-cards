@@ -1,0 +1,31 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-713
+legacy: true
+lesson: []
+level: 6
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Scintillating Safeguard
+traditions:
+- Divine
+- Occult
+- Primal
+traits:
+- Abjuration
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> An effect would deal physical or energy damage to you or a creature in range.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> up to 5 willing creatures who would be harmed by the triggering effect</p>
+  <hr/>
+  <p>A sparkling magical barrier envelops each target, shielding them against the triggering effect. Choose one type of physical or energy damage the triggering effect deals. Each target gains resistance 10 against that damage type for the triggering effect. The resistance applies only against the initial damage, not against any persistent damage or other lingering effects of the effect.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The resistance increases by 1.</p>

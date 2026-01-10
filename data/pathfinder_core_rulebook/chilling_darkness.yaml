@@ -1,0 +1,37 @@
+actions: '[two-actions]'
+bloodline:
+- Shadow
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-36
+legacy: true
+lesson:
+- Shadow
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Chilling Darkness
+traditions:
+- Divine
+traits:
+- Attack
+- Cold
+- Darkness
+- Evil
+- Evocation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature</p>
+  <hr/>
+  <p>You shoot an utterly cold ray of darkness tinged with unholy energy. Make a ranged spell attack against the target. You deal 5d6 cold damage, plus 5d6 evil damage if the target is a celestial.</p>
+  <p>If the ray passes through an area of magical light or targets a creature affected by magical light, <em>chilling darkness</em> attempts to counteract the light. If you need to determine whether the ray passes through an area of light, draw a line between yourself and the spell's target.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target takes double damage.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes full damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The cold damage increases by 2d6, and the evil damage against celestials increases by 2d6.</p>

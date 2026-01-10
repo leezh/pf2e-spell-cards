@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines:
-- fey
+bloodline:
+- Fey
 copyright: 2023 Paizo Inc.
-domains: []
-id: mislead
-lessons: []
+domain: []
+id: spell-1605
+legacy: false
+lesson: []
 level: 6
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Mislead
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- concentrate
-- illusion
-- manipulate
-type: spell
+- Concentrate
+- Illusion
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

@@ -1,27 +1,29 @@
 actions: '[two-actions]'
-bloodlines:
-- aberrant
-- hag
+bloodline:
+- Aberrant
+- Hag
 copyright: 2023 Paizo Inc.
-domains: []
-id: warp_mind
-lessons: []
+domain: []
+id: spell-1754
+legacy: false
+lesson: []
 level: 7
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Warp Mind
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- concentrate
-- emotion
-- incapacitation
-- manipulate
-- mental
-type: spell
+- Concentrate
+- Emotion
+- Incapacitation
+- Manipulate
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

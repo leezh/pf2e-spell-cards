@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- zeal
-id: weapon_surge
-lessons: []
+domain:
+- Zeal
+id: spell-1852
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Weapon Surge
 traditions: []
 traits:
-- cleric
-- focus
-- manipulate
-- sanctified
-type: focus
+- Cleric
+- Focus
+- Manipulate
+- Sanctified
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> zeal</p>

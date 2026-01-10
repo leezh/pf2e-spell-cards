@@ -1,22 +1,24 @@
 actions: '[reaction]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: spell_riposte
-lessons: []
+domain: []
+id: spell-2027
+legacy: false
+lesson: []
 level: 7
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Spell Riposte
 traditions:
-- arcane
-- divine
-- occult
+- Arcane
+- Divine
+- Occult
 traits:
-- manipulate
-type: spell
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>

@@ -1,0 +1,28 @@
+actions: ''
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-235
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Private Sanctum
+traditions:
+- Arcane
+- Occult
+traits:
+- Abjuration
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 10 minutes (material, somatic, verbal)</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Area</strong> 100-foot burst</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the next time you make your daily preparations.</p>
+  <hr/>
+  <p>From outside, the area looks like a bank of impenetrable black fog. Sensory stimuli (such as sounds, smells, and light) don't pass from inside the area to outside the area. Scrying spells can't perceive any stimuli from the area, and mind-reading effects don't work in the area.</p>

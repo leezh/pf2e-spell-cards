@@ -1,0 +1,33 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1196
+legacy: true
+lesson: []
+level: 3
+mystery:
+- Time
+- Time
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Dark Archive
+title: Time Skip
+traditions: []
+traits:
+- Cursebound
+- Focus
+- Oracle
+- Transmutation
+type: Focus
+
+--- >
+  <p class="hanging-indent mystery"><strong>Mystery</strong> time, time</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 willing creature other than yourself</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>You manipulate time around your ally, pushing them forward a few moments in time. The target is quickened on its next turn and can use the action only to Step, Stride, or Strike.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> You can one additional willing creature other than yourself within range.</p>

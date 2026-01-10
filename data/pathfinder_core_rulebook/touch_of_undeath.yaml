@@ -1,0 +1,36 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Undeath
+id: spell-461
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Touch of Undeath
+traditions: []
+traits:
+- Cleric
+- Focus
+- Necromancy
+- Negative
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> undeath</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 living creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>You attack the target's life force with undeath, dealing 1d6 negative damage. The target must attempt a Fortitude save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes half damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target takes full damage, and positive effects heal it only half as much as normal for 1 round.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target takes double damage, and positive effects heal it only half as much as normal for 1 minute.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d6.</p>

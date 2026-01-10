@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: tangle_vine
-lessons: []
+domain: []
+id: spell-1713
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Tangle Vine
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- attack
-- cantrip
-- concentrate
-- manipulate
-- plant
-- wood
-type: cantrip
+- Attack
+- Cantrip
+- Concentrate
+- Manipulate
+- Plant
+- Wood
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

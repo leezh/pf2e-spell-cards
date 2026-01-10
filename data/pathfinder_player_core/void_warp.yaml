@@ -1,27 +1,29 @@
 actions: '[two-actions]'
-bloodlines:
-- undead
+bloodline:
+- Undead
 copyright: 2023 Paizo Inc.
-domains: []
-id: void_warp
-lessons: []
+domain: []
+id: spell-1745
+legacy: false
+lesson: []
 level: 1
-mysteries:
-- bones
-patrons: []
-rarity: common
+mystery:
+- Bones
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Void Warp
 traditions:
-- arcane
-- divine
-- occult
+- Arcane
+- Divine
+- Occult
 traits:
-- cantrip
-- concentrate
-- manipulate
-- void
-type: cantrip
+- Cantrip
+- Concentrate
+- Manipulate
+- Void
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>

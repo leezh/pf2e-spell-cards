@@ -1,0 +1,33 @@
+actions: ''
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-221
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Phantom Steed
+traditions:
+- Arcane
+- Occult
+- Primal
+traits:
+- Conjuration
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 10 minutes (somatic, verbal)</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 8 hours</p>
+  <hr/>
+  <p>You conjure a Large, magical, equine creature that only you (or another Medium or Small creature you choose) can ride. The horse is clearly phantasmal in nature, has 20 AC and 10 Hit Points, and automatically fails all saves. If it's reduced to 0 Hit Points, it disappears and the spell ends. The steed has a Speed of 40 feet and can hold its rider's body weight, plus 20 Bulk.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> The steed has a Speed of 60 feet, can walk on water, and ignores areas of natural difficult terrain.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> The steed has a Speed of 60 feet, can walk on water, and ignores areas of natural difficult terrain. It can also <em>air walk</em> but must end its turn on solid ground or fall.</p>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> The steed can walk or fly at a Speed of 80 feet, can walk on water, and ignores natural difficult terrain.</p>

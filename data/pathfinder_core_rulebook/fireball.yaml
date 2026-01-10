@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline:
+- Elemental
+- Phoenix
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-119
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Fireball
+traditions:
+- Arcane
+- Primal
+traits:
+- Evocation
+- Fire
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 500 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex</p>
+  <hr/>
+  <p>A roaring blast of fire appears at a spot you designate, dealing 6d6 fire damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>

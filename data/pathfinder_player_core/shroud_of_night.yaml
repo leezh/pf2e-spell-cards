@@ -1,27 +1,29 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: shroud_of_night
-lessons: []
+domain: []
+id: spell-1891
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons:
+mystery: []
+patron:
 - Starless Shadow
-rarity: uncommon
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Shroud of Night
 traditions: []
 traits:
-- cantrip
-- darkness
-- hex
-- manipulate
-- witch
-type: cantrip
+- Cantrip
+- Darkness
+- Hex
+- Manipulate
+- Witch
+type: Cantrip
 
 --- >
-  <p class="hanging-indent patron"><strong>Patron</strong> Starless Shadow</p>
+  <p class="hanging-indent patron"><strong>Patron</strong> starless shadow</p>
   <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
   <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>

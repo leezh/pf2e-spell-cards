@@ -1,0 +1,26 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-1043
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Spinning Staff
+traditions: []
+traits:
+- Evocation
+- Focus
+- Magus
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent requirements"><strong>Requirements</strong> You're wielding a staff.</p>
+  <hr/>
+  <p>You spin your staff with a twirling flourish, attacking two foes and transforming the momentum into magical energy to charge for your next Spellstrike. Make a melee Strike with your staff against one foe and then a second melee Strike with your staff against a different foe. Your multiple attack penalty applies to both of these attacks as normal.</p>

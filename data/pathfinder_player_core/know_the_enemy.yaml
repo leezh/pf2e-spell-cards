@@ -1,23 +1,25 @@
 actions: '[reaction]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- knowledge
-id: know_the_enemy
-lessons: []
+domain:
+- Knowledge
+id: spell-1813
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Know the Enemy
 traditions: []
 traits:
-- cleric
-- focus
-- fortune
-- manipulate
-type: focus
+- Cleric
+- Focus
+- Fortune
+- Manipulate
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> knowledge</p>

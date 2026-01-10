@@ -1,22 +1,24 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: force_bolt
-lessons: []
+domain: []
+id: spell-1896
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Force Bolt
 traditions: []
 traits:
-- focus
-- force
-- manipulate
-- wizard
-type: focus
+- Focus
+- Force
+- Manipulate
+- Wizard
+type: Focus
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>

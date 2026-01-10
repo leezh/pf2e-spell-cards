@@ -1,0 +1,30 @@
+actions: '[one-action] to [three-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-537
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Warped Terrain
+traditions: []
+traits:
+- Focus
+- Illusion
+- Visual
+- Wizard
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Area</strong> 5-foot burst or more</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You create illusory hazards that cover all surfaces in the area (typically the ground). Any creature moving through the illusion treats the squares as difficult terrain. A creature can attempt to disbelieve the effect as normal after using a Seek action or otherwise spending actions interacting with the illusion. If it successfully disbelieves, it ignores the effect for the remaining duration. For each additional action you use casting the spell, the burst's radius increases by 5 feet, to a maximum of 10 extra feet for 3 actions.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> You can make the illusion appear in the air rather than on a surface, causing it to function as difficult terrain for flying creatures.</p>

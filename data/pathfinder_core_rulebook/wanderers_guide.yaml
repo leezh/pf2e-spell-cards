@@ -1,0 +1,28 @@
+actions: ''
+bloodline:
+- Harrow
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-368
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Wanderer's Guide
+traditions:
+- Divine
+- Occult
+traits:
+- Divination
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 minute (material, somatic, verbal)</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until your next daily preparations</p>
+  <hr/>
+  <p>You call upon the beyond to guide your route. When you Cast this Spell, choose a destination; you receive an inspired route to that destination, allowing you and allies who travel overland with you to reduce the movement penalty from difficult terrain by half for the duration, as long as you don't deviate from the inspired route. This doesn't have any effect on movement during encounters. If you use this ability again before the duration is over, this effect ends and is replaced by that of the new route.</p>

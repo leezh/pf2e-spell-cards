@@ -1,0 +1,36 @@
+actions: '[one-action]'
+bloodline:
+- Undead
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-518
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Undeath's Blessing
+traditions: []
+traits:
+- Focus
+- Necromancy
+- Negative
+- Sorcerer
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> undead</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 living creature touched</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You instill within a creature the touch of the grave. For the duration, <em>harm</em> and <em>heal</em> spells treat the creature as undead. In addition, <em>harm</em> spells gain a +2 status bonus to the Hit Points restored to the target.</p>
+  <p>If the target wishes to avoid the spell, it can attempt a Will save to reduce the effects.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target heals half as much from <em>heal</em> and takes half as much damage from <em>harm</em> for 1 round.</p>
+  <p class="hanging-indent"><strong>Failure</strong> Effects as described in the text.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The status bonus to the Hit Points restored increases by 2.</p>

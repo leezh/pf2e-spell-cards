@@ -1,24 +1,26 @@
 actions: '[two-actions] or [three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: howling_blizzard
-lessons: []
+domain: []
+id: spell-1559
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Howling Blizzard
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- air
-- cold
-- concentrate
-- manipulate
-type: spell
+- Air
+- Cold
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

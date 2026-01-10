@@ -1,0 +1,33 @@
+actions: ''
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-189
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Mending
+traditions:
+- Arcane
+- Divine
+- Occult
+- Primal
+- Elemental
+traits:
+- Transmutation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 10 minutes (somatic, verbal)</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> non-magical object of light Bulk or less</p>
+  <hr/>
+  <p>You repair the target item. You restore 5 Hit Points per spell level to the target, potentially removing the broken condition if this repairs it past the item's Broken Threshold. You can't replace lost pieces or repair an object that's been completely destroyed.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (2nd)</strong> You can target a non-magical object of 1 Bulk or less.</p>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> You can target a non-magical object of 2 Bulk or less, or a magical object of 1 Bulk or less.</p>

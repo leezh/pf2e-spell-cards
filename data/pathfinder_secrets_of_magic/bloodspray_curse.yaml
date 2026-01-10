@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-873
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Bloodspray Curse
+traditions:
+- Divine
+- Occult
+- Primal
+traits:
+- Curse
+- Necromancy
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You inflict a curse upon the target that causes any wound to gush blood. The target must attempt a Fortitude save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> For 1 minute, the first time each round that the target takes at least 10 piercing or slashing damage from a single Strike, it takes 2d6 additional damage of the same type.</p>
+  <p class="hanging-indent"><strong>Failure</strong> As success, but when it takes the additional damage, it also takes 2d6 persistent bleed damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The additional damage increases by 1d6 and the persistent bleed damage increases by 1d6.</p>

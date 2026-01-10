@@ -1,0 +1,30 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-1008
+legacy: true
+lesson: []
+level: 9
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Summon Draconic Legion
+traditions:
+- Arcane
+traits:
+- Conjuration
+- Incarnate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 100 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the end of your next turn</p>
+  <hr/>
+  <p>You momentarily summon an army of powerful dragons that unleash annihilating blasts as they descend upon your location. These dragons act as one and collectively occupy the space of a Gargantuan creature. They have a fly Speed of 100 feet. When you Cast this Spell, choose whether it summons chromatic or metallic dragons.</p>
+  <p class="hanging-indent"><strong>Arrive</strong> (evocation) <em>Energy Annihilation</em> The draconic legion breathes out two blasts of energy: a 120-foot line and a 60-foot cone that can't overlap. Each creature in either of the areas takes 10d8 damage (basic Reflex save). The dragons choose the damage type of each breath weapon, depending on the category of dragons summoned. Chromatic dragons can choose cold, fire, or poison for the cone and acid or electricity for the line; metallic dragons can choose cold or fire for the cone and acid, electricity, or fire for the line.</p>
+  <p class="hanging-indent"><strong>Depart</strong> <em>Draconic Whirlwind</em> The draconic legion strikes with fury, dealing 9d8 slashing damage (basic Reflex save) to all enemy creatures in its location or within 20 feet.</p>

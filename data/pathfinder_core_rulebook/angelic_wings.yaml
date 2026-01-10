@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline:
+- Angelic
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-495
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Angelic Wings
+traditions: []
+traits:
+- Evocation
+- Focus
+- Light
+- Sorcerer
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> angelic</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 3 rounds</p>
+  <hr/>
+  <p>Wings of pure light spread out from your back, granting you a fly Speed equal to your Speed. Your wings cast bright light in a 30-foot radius. When this spell's duration would end, if you're still flying, you float to the ground, as <em>feather fall</em>.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> The duration increases to 1 minute.</p>

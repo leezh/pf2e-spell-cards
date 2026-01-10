@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1376
+legacy: false
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Noxious Metals
+traditions:
+- Arcane
+traits:
+- Concentrate
+- Manipulate
+- Metal
+- Poison
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Fortitude</p>
+  <hr/>
+  <p>This spell forces toxic metal to coalesce on the skin or surface of all living creatures in the area, dealing 4d6 poison damage with a basic Fortitude save. Any creature that has the plant trait, has the wood trait, or has an anathema toward metal, takes the following effects depending on the result of that Fortitude save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature suffers no additional effects.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes 1 persistent poison damage and is sickened 1 as long as it takes this persistent damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> As success, except 1d4 persistent poison damage and sickened 2.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As success, except 1d8 persistent poison damage and sickened 3.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The initial poison damage increases by 2d6.</p>

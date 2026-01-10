@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Ambition
+id: spell-404
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Blind Ambition
+traditions: []
+traits:
+- Cleric
+- Emotion
+- Enchantment
+- Focus
+- Mental
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> ambition</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You strengthen a target's ambition, increase its resentment of allies, and make its allegiances more susceptible to change. The target must attempt a Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes a –1 status penalty to its saving throws and other defenses against attempts to Coerce it, Request something of it, or use mental effects to convince it to do something (such as a <em>suggestion</em> spell). This penalty applies only if the target is being encouraged to advance its own ambitions.</p>
+  <p class="hanging-indent"><strong>Failure</strong> As success, but the penalty is –2.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is overcome with ambition, taking whatever actions would advance its own agenda over those of anyone else, even without attempts to convince it.</p>

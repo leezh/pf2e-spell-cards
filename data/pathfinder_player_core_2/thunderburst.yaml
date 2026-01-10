@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: thunderburst
-lessons: []
+domain: []
+id: spell-2088
+legacy: false
+lesson: []
 level: 3
-mysteries:
-- tempest
-patrons: []
-rarity: uncommon
+mystery:
+- Tempest
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Thunderburst
 traditions: []
 traits:
-- air
-- concentrate
-- focus
-- manipulate
-- oracle
-- sonic
-type: focus
+- Air
+- Concentrate
+- Focus
+- Manipulate
+- Oracle
+- Sonic
+type: Focus
 
 --- >
   <p class="hanging-indent mystery"><strong>Mystery</strong> tempest</p>

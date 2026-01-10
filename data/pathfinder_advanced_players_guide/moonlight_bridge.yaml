@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-759
+legacy: true
+lesson: []
+level: 6
+mystery:
+- Cosmos
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Moonlight Bridge
+traditions: []
+traits:
+- Conjuration
+- Cursebound
+- Focus
+- Light
+- Oracle
+type: Focus
+
+--- >
+  <p class="hanging-indent mystery"><strong>Mystery</strong> cosmos</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You summon a bridge of radiant, shimmering moonlight. The 10-foot-wide span must start at the ground on a point within range, and it extends as a horizontal plane, either in a straight line or at any angle up to 45 degrees upward or downward, for up to 120 feet. This bridge has AC 10, Hardness 30, and 60 Hit Points, and it's immune to critical hits and precision damage. You and your allies can cross the bridge normally, but other creatures simply pass through it if they try to do so. The bridge blocks physical, ethereal, and incorporeal attacks from crossing, whether from above or below. You can Dismiss the spell.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The length of the bridge increases by 20 feet, and its Hit Points increase by 20.</p>

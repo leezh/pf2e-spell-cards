@@ -1,27 +1,30 @@
 actions: '[two-actions]'
-bloodlines:
-- diabolic
+bloodline:
+- Diabolic
 copyright: 2023 Paizo Inc.
-domains: []
-id: ignition
-lessons: []
+domain: []
+id: spell-1565
+legacy: false
+lesson: []
 level: 1
-mysteries:
-- flames
-patrons: []
-rarity: common
+mystery:
+- Ash
+- Flames
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Ignition
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- attack
-- cantrip
-- concentrate
-- fire
-- manipulate
-type: cantrip
+- Attack
+- Cantrip
+- Concentrate
+- Fire
+- Manipulate
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

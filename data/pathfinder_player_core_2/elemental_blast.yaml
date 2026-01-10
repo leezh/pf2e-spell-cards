@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines:
-- elemental
+bloodline:
+- Elemental
 copyright: 2024 Paizo Inc.
-domains: []
-id: elemental_blast
-lessons: []
+domain: []
+id: spell-2107
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Elemental Blast
 traditions: []
 traits:
-- concentrate
-- focus
-- manipulate
-- sorcerer
-type: focus
+- Concentrate
+- Focus
+- Manipulate
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> elemental</p>

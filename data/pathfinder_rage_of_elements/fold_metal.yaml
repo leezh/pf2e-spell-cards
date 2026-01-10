@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1371
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Fold Metal
+traditions:
+- Arcane
+traits:
+- Concentrate
+- Manipulate
+- Metal
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 unattended metallic object up to 5 Bulk</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You bend the target object into a smooth metallic ball no larger than an egg. The target reverts to its original shape only when you Dismiss the spell, the duration expires, or if the ball touches water or fire, whichever comes first.</p>
+  <p>Creatures that see the reshaped object can attempt a Perception check against your spell DC to notice the ball might not actually be what it seems. If the object is magical, it retains its magical auras but can't be worn, affixed, or Activated.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> The spell duration becomes 1 hour.</p>

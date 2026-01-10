@@ -1,0 +1,32 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-2149
+legacy: false
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder War of Immortals
+title: Vindicator's Judgement
+traditions: []
+traits:
+- Focus
+- Manipulate
+type: Focus
+
+--- >
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> your hunted prey</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You pronounce a terrible judgment upon your quarry that causes all of your attacks and divine spells to strike with deadly efficacy. The target takes extra damage from your attacks, depending on the result of its Fortitude save. The spell ends immediately if the target is no longer your hunted prey.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target has weakness 5 to the next Strike you make against it or damaging divine spell you cast that includes it as a target before the end of your next turn.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target has weakness 5 to all Strikes you make against it or damaging divine spells you cast that includes it as a target for the duration of the spell.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, but the target is off-guard against the first Strike or divine spell attack you make against it each round for the duration of the spell.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> The weakness is 10.</p>
+  <p class="hanging-indent"><strong>Heightened (9th)</strong> The weakness is 15.</p>

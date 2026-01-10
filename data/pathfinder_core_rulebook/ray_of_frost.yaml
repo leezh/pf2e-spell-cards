@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-245
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Ray of Frost
+traditions:
+- Arcane
+- Primal
+traits:
+- Attack
+- Cantrip
+- Cold
+- Evocation
+type: Cantrip
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature</p>
+  <hr/>
+  <p>You blast an icy ray. Make a spell attack roll. The ray deals 2d4 cold damage.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target takes double damage and takes a –10-foot status penalty to its Speeds for 1 round.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes normal damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>

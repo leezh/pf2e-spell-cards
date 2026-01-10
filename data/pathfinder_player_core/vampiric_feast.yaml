@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines:
-- aberrant
+bloodline:
+- Aberrant
 copyright: 2023 Paizo Inc.
-domains: []
-id: vampiric_feast
-lessons: []
+domain: []
+id: spell-1736
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Vampiric Feast
 traditions:
-- arcane
-- divine
-- occult
+- Arcane
+- Divine
+- Occult
 traits:
-- concentrate
-- death
-- manipulate
-- void
-type: spell
+- Concentrate
+- Death
+- Manipulate
+- Void
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>

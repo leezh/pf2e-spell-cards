@@ -1,0 +1,34 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Tyranny
+id: spell-459
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Touch of Obedience
+traditions: []
+traits:
+- Cleric
+- Enchantment
+- Focus
+- Mental
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> tyranny</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 living creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>Your imperious touch erodes the target's willpower, making it easier to control. The target attempts a Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is stupefied 1 until the end of your current turn.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is stupefied 1 until the end of your next turn.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is stupefied 1 for 1 minute.</p>

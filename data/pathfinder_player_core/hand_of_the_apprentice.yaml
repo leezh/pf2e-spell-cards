@@ -1,22 +1,24 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: hand_of_the_apprentice
-lessons: []
+domain: []
+id: spell-1906
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Hand of the Apprentice
 traditions: []
 traits:
-- attack
-- focus
-- manipulate
-- wizard
-type: focus
+- Attack
+- Focus
+- Manipulate
+- Wizard
+type: Focus
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> 500 feet; <strong>Targets</strong> 1 creature</p>

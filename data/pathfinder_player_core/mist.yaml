@@ -1,23 +1,25 @@
 actions: '[three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: mist
-lessons: []
+domain: []
+id: spell-1606
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Mist
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- concentrate
-- manipulate
-- water
-type: spell
+- Concentrate
+- Manipulate
+- Water
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

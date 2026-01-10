@@ -1,23 +1,25 @@
 actions: '[three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: fabricated_truth
-lessons: []
+domain: []
+id: spell-1520
+legacy: false
+lesson: []
 level: 10
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Fabricated Truth
 traditions:
-- occult
+- Occult
 traits:
-- concentrate
-- incapacitation
-- manipulate
-- mental
-type: spell
+- Concentrate
+- Incapacitation
+- Manipulate
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> occult</p>

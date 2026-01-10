@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1311
+legacy: false
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Rage of Elements
+title: Pulverizing Cascade
+traditions: []
+traits:
+- Concentrate
+- Druid
+- Focus
+- Manipulate
+- Water
+type: Focus
+
+--- >
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Area</strong> 10-foot radius, 20-foot-tall cylinder</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex</p>
+  <hr/>
+  <p>You raise a pair of towering waves and slam them into each other, crushing creatures caught between them. Creatures in the area take 5d6 bludgeoning damage with a basic Reflex save.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> Increase the damage by 2d6.</p>

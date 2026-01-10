@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- destruction
-id: cry_of_destruction
-lessons: []
+domain:
+- Destruction
+id: spell-1794
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Cry of Destruction
 traditions: []
 traits:
-- cleric
-- concentrate
-- focus
-- manipulate
-- sonic
-type: focus
+- Cleric
+- Concentrate
+- Focus
+- Manipulate
+- Sonic
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> destruction</p>

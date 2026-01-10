@@ -1,24 +1,26 @@
 actions: '[one-action] to [three-actions]'
-bloodlines:
-- aberrant
+bloodline:
+- Aberrant
 copyright: 2024 Paizo Inc.
-domains: []
-id: aberrant_whispers
-lessons: []
+domain: []
+id: spell-2091
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Aberrant Whispers
 traditions: []
 traits:
-- auditory
-- concentrate
-- focus
-- mental
-- sorcerer
-type: focus
+- Auditory
+- Concentrate
+- Focus
+- Mental
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> aberrant</p>

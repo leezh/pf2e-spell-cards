@@ -1,24 +1,26 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- nature
-id: natures_bounty
-lessons: []
+domain:
+- Nature
+id: spell-1823
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Nature's Bounty
 traditions: []
 traits:
-- cleric
-- focus
-- manipulate
-- plant
-- vitality
-type: focus
+- Cleric
+- Focus
+- Manipulate
+- Plant
+- Vitality
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> nature</p>

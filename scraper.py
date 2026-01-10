@@ -6,23 +6,110 @@ import pathlib
 import re
 import textwrap
 import unicodedata
+from collections.abc import Callable
 
 import yaml
 from bs4 import BeautifulSoup, NavigableString, Tag
 from markdown2 import markdown
 from opensearchpy import OpenSearch
 
-BASE_DIR = pathlib.Path(os.path.dirname(__file__)) / "data"
 
 NETHYS_HOST = 'elasticsearch.aonprd.com'
 NETHYS_PORT = 443
 NETHYS_SSL = True
 NETHYS_INDEX = 'aon'
 NETHYS_BATCH_SIZE = 50
+
+
 SOURCES = {
-    "Player Core": "2023 Paizo Inc.",
-    "Player Core 2": "2024 Paizo Inc.",
+    "Core Rulebook": ("Pathfinder ", "2019 Paizo Inc.", "legacy"),
+    "Advanced Player's Guide": ("Pathfinder ", "2020 Paizo Inc.", "legacy"),
+    "Gamemastery Guide": ("Pathfinder ", "2019 Paizo Inc.", "legacy"),
+    "Secrets of Magic": ("Pathfinder ", "2021 Paizo Inc.", "legacy"),
+    "Player Core": ("Pathfinder ", "2023 Paizo Inc.", "remaster"),
+    "Player Core 2": ("Pathfinder ", "2024 Paizo Inc.", "remaster"),
+    "Guns & Gears": ("Pathfinder ", "2021 Paizo Inc.", "both"),
+    "Book of the Dead": ("Pathfinder ", "2023 Paizo Inc.", "legacy"),
+    "Dark Archive": ("Pathfinder ", "2022 Paizo Inc.", "legacy"),
+    "Treasure Vault": ("Pathfinder ", "2023 Paizo Inc.", "both"),
+    "Rage of Elements": ("Pathfinder ", "2023 Paizo Inc.", "remaster"),
+    "Howl of the Wild": ("Pathfinder ", "2024 Paizo Inc.", "remaster"),
+    "War of Immortals": ("Pathfinder ", "2024 Paizo Inc.", "remaster"),
+    "Battlecry!": ("Pathfinder ", "2025 Paizo Inc.", "remaster"),
 }
+
+ACTION_SUBSTITUTION = {
+    "Reaction": "[reaction]",
+    "Free Action": "[free-action]",
+    "Single Action": "[one-action]",
+    "Two Actions": "[two-actions]",
+    "Three Actions": "[three-actions]",
+}
+
+RENAMED_PARAMETERS = {
+    "Bloodlines": "Bloodline",
+    "Deities": "Deity",
+    "Domains": "Domain",
+    "Lessons": "Lesson",
+    "Mysteries": "Mystery",
+    "Patron Themes": "Patron",
+    "Patron Theme": "Patron",
+    "Tradition": "Traditions",
+    "Target": "Targets",
+    "Saving Throw": "Defense"
+}
+
+LOWERCASE_PARAMETERS = [
+    "traditions",
+    "domain",
+    "mystery",
+    "bloodline",
+    "lesson",
+    "patron",
+]
+
+HIDDEN_PARAMETERS = [
+    "deity",
+    "source",
+    "spell-lists",
+]
+
+COLLAPSED_PARAMETERS = [
+    ("range", "targets"),
+    ("range", "area"),
+    ("area", "targets"),
+    ("defense", "duration")
+]
+
+CLASS_PARAMETERS = {
+    "domain": "Cleric",
+    "mystery": "Oracle",
+    "bloodline": "Sorcerer",
+    "lesson": "Witch",
+    "patron": "Witch",
+}
+
+FILTERS = {
+    "filters": {
+        "Type": ["Cantrip", "Spell", "Focus"],
+        "Level": {f"Level {level}": level for level in range(1, 11)},
+        "Rarity": ["Common", "Uncommon", "Rare"],
+    },
+    "legacy": {
+        "Traditions": ["No Tradition", "Arcane", "Divine", "Occult", "Primal", "Elemental"],
+        "Traits": [],
+        "Source": [f"{SOURCES[s][0]}{s}" for s in SOURCES if SOURCES[s][2] in ["legacy", "both"]],
+    },
+    "remaster": {
+        "Traditions": ["No Tradition", "Arcane", "Divine", "Occult", "Primal"],
+        "Traits": [],
+        "Source": [f"{SOURCES[s][0]}{s}" for s in SOURCES if SOURCES[s][2] in ["remaster", "both"]],
+    }
+}
+
+BASE_DIR = pathlib.Path(os.path.dirname(__file__)) / "data"
+
+ADJUSTMENTS: list[Callable[[dict, BeautifulSoup], None]] = []
 
 
 def to_slug(text: str) -> str:
@@ -34,6 +121,7 @@ def to_slug(text: str) -> str:
         .decode("ASCII")
     )
     return "".join([c for c in text if c.isalnum() or c == "_"])
+
 
 def text_to_soup(text: str) -> BeautifulSoup:
     # Workaround for Markdown inside HTML tags
@@ -57,10 +145,10 @@ def text_to_soup(text: str) -> BeautifulSoup:
                 if parent and parent.name == "p":
                     new_tag = soup.new_tag("p")
                     new_tag.extend([x.extract() for x in elem.next_siblings])
-                    parent.insert_after(new_tag)
                     parent.insert_after(elem.extract())
+                    parent.insert_after(new_tag)
             case "br":
-                if parent and parent.name in ["li", "p"]:
+                if parent and parent.name in ["li", "p"] and parent.parent:
                     new_tag = soup.new_tag("p")
                     if parent.name == "li":
                         new_tag.attrs["class"] = "indent"
@@ -75,7 +163,17 @@ def text_to_soup(text: str) -> BeautifulSoup:
                 elem.name = "strong"
             case "i" | "em":
                 elem.name = "em"
-            case "p" | "table" | "tr" | "td" | "hr":
+            case "p":
+                if parent and parent.name in ["li", "p"] and parent.parent:
+                    new_tag = soup.new_tag("p")
+                    if parent.name == "li":
+                        new_tag.attrs["class"] = "indent"
+                    elif "class" in parent.attrs:
+                        new_tag.attrs["class"] = parent.attrs["class"]
+                    new_tag.extend([x.extract() for x in elem.next_siblings])
+                    parent.insert_after(new_tag)
+                    elem.replace_with(*elem.contents)
+            case "table" | "tr" | "td" | "hr":
                 if parent and parent.name == "p":
                     parent.replace_with(elem)
             case _:
@@ -127,178 +225,13 @@ def format_soup(soup: BeautifulSoup) -> str:
     for hr in soup.find_all("hr"):
         assert isinstance(hr, Tag)
         hr.insert_after("\n")
+    for strong in soup.find_all("strong"):
+        if isinstance(strong.next_sibling, Tag) and strong.next_sibling.name == "em":
+            strong.insert_after(" ")
     text = str(soup)
     text = re.sub(r" {2,}", " ", text)
     return text
 
-
-ACTION_SUBSTITUTION = {
-    "Reaction": "[reaction]",
-    "Free Action": "[free-action]",
-    "Single Action": "[one-action]",
-    "Two Actions": "[two-actions]",
-    "Three Actions": "[three-actions]",
-}
-
-FILTER_TRAITS = [
-    "uncommon",
-    "rare",
-    "positive",
-    "negative",
-    "metamagic",
-]
-
-NO_TITLE_UPPERCASE = [
-    "a",
-    "an",
-    "the",
-    "as",
-    "and",
-    "but",
-    "for",
-    "if",
-    "its",
-    "nor",
-    "or",
-    "at",
-    "by",
-    "in",
-    "into",
-    "of",
-    "on",
-]
-
-
-def title_case(text: str) -> str:
-    words = text.strip().lower().split(" ")
-    title = " ".join(
-        [(w if w in NO_TITLE_UPPERCASE else w.capitalize()) for w in words]
-    )
-    return "".join([title[0].upper(), *title[1:]])
-
-REMOVED_PARAMETERS = [
-    "Deity",
-    "Source",
-    "Spell Lists",
-]
-
-RENAMED_PARAMETERS = {
-    "Bloodlines": "Bloodline",
-    "Deities": "Deity",
-    "Domains": "Domain",
-    "Lessons": "Lesson",
-    "Mysteries": "Mystery",
-    "Patron Theme": "Patron",
-    "Patron Themes": "Patron",
-    "Tradition": "Traditions",
-    "Target": "Targets",
-    "Saving Throw": "Defense"
-}
-
-COLLAPSED_PARAMETERS = [
-    ("range", "targets"),
-    ("range", "area"),
-    ("area", "targets"),
-    ("defense", "duration")
-]
-
-FILTERED_PARAMETERS = [
-    ("traditions", "traditions", "", (
-        "arcane",
-        "divine",
-        "occult",
-        "primal",
-    )),
-    ("domains", "domain", "cleric", (
-        "air",
-        "ambition",
-        "cities",
-        "confidence",
-        "creation",
-        "darkness",
-        "death",
-        "destruction",
-        "dreams",
-        "earth",
-        "family",
-        "fate",
-        "fire",
-        "freedom",
-        "healing",
-        "indulgence",
-        "knowledge",
-        "luck",
-        "magic",
-        "might",
-        "moon",
-        "nature",
-        "nightmares",
-        "pain",
-        "passion",
-        "perfection",
-        "protection",
-        "secrecy",
-        "sun",
-        "travel",
-        "trickery",
-        "truth",
-        "tyranny",
-        "undeath",
-        "water",
-        "wealth",
-        "zeal",
-    )),
-    ("mysteries", "mystery", "oracle", (
-        "ancestors",
-        "battle",
-        "bones",
-        "cosmos",
-        "flames",
-        "life",
-        "lore",
-        "tempest",
-    )),
-    ("bloodlines", "bloodline", "sorcerer", (
-        "aberrant",
-        "angelic",
-        "demonic",
-        "diabolic",
-        "draconic",
-        "elemental",
-        "fey",
-        "hag",
-        "imperial",
-        "undead",
-    )),
-    ("lessons", "lesson", "witch", (
-        "dreams",
-        "elements",
-        "life",
-        "protection",
-        "vengeance",
-        "mischief",
-        "shadow",
-        "snow",
-        "death",
-        "renewal"
-    )),
-    ("patrons", "patron", "witch", (
-        "Faith's Flamekeeper",
-        "The Inscribed One",
-        "The Resentment",
-        "Silence in Snow",
-        "Spinner of Threads",
-        "Starless Shadow",
-        "Wilding Steward",
-        "Curse",
-        "Fate",
-        "Fervor",
-        "Night",
-        "Rune",
-        "Wild",
-        "Winter",
-    )),
-]
 
 def parse_parameter(soup: BeautifulSoup, p: Tag, key: Tag):
     if next_key := key.find_next_sibling("strong"):
@@ -308,14 +241,21 @@ def parse_parameter(soup: BeautifulSoup, p: Tag, key: Tag):
         next_p.extend(siblings)
         p.insert_after(next_p)
         parse_parameter(soup, next_p, next_key)
-    value = key.next_sibling
-    if isinstance(value, NavigableString):
-        value.replace_with(value.rstrip(" ;"))
     if key.string in RENAMED_PARAMETERS:
         key.string = RENAMED_PARAMETERS[key.string]
-    if key.string in REMOVED_PARAMETERS:
+    value = key.next_sibling
+    slug = key.string.lower().replace(" ", "-")
+    if isinstance(value, NavigableString):
+        text = value.rstrip(" ;")
+        if slug in LOWERCASE_PARAMETERS:
+            text = text.lower()
+        if slug == "lesson":
+            text = text.replace("lesson of the ", "")
+            text = text.replace("lesson of ", "")
+        value.replace_with(text)
+    if slug in HIDDEN_PARAMETERS:
         p.extract()
-    p.attrs["class"] = f"hanging-indent {key.string.lower()}"
+    p.attrs["class"] = f"hanging-indent {slug}"
 
 
 def parse_header(soup: BeautifulSoup, info: dict) -> None:
@@ -339,31 +279,24 @@ def parse_header(soup: BeautifulSoup, info: dict) -> None:
         right_tag.extract()
         left_tag.extend(["; ", *elements])
 
-    for attribute, name, trait, _ in FILTERED_PARAMETERS:
-        tag = soup.find("p", class_=f"hanging-indent {name}")
-        if not isinstance(tag, Tag):
-            continue
-        values = info[attribute]
-        if not len(values) or (trait and trait not in info["traits"]):
+    for attribute, trait in CLASS_PARAMETERS.items():
+        tag = soup.find("p", class_=f"hanging-indent {attribute}")
+        if isinstance(tag, Tag) and trait not in info["traits"]:
             tag.extract()
             continue
-        [*tag.children][1].replace_with(f" {', '.join(info[attribute])}")
 
 
-def parse_entry(entry: dict):
+def parse_entry(entry: dict) -> dict | None:
     source = entry["primary_source"]
     if source not in SOURCES:
-        return
+        return None
 
-    copyright = SOURCES[source]
-    source = f"Pathfinder {source}"
-    book = to_slug(source)
-    title = title_case(entry["name"])
-    entry_id = to_slug(title)
+    source = f"{SOURCES[source][0]}{source}"
+    title = entry["name"]
 
-    book_dir = BASE_DIR / book
+    book_dir = BASE_DIR / to_slug(source)
     os.makedirs(book_dir, exist_ok=True)
-    path = book_dir / f"{entry_id}.yaml"
+    path = book_dir / f"{to_slug(title)}.yaml"
     if os.path.exists(path):
         pass
 
@@ -371,29 +304,30 @@ def parse_entry(entry: dict):
     for src, dst in ACTION_SUBSTITUTION.items():
         actions = actions.replace(src, dst)
 
-    traits = [x.lower() for x in entry["trait"]]
-    traits = [x for x in traits if x not in FILTER_TRAITS]
+    rarity = entry["rarity"].title()
+    traits = sorted(entry["trait_raw"])
+    if rarity in traits:
+        traits.remove(rarity)
 
     info = {
-        "id": entry_id,
+        "id": entry["id"],
         "title": title,
         "actions": actions,
-        "type": entry["spell_type"].lower(),
+        "type": entry["spell_type"],
         "level": entry["level"],
-        "rarity": entry["rarity"],
+        "rarity": rarity,
         "traits": traits,
-        "traditions": [x.lower() for x in entry.get("tradition", [])],
-        "domains": [x.lower() for x in entry.get("domain", [])],
-        "mysteries": [x.lower() for x in entry.get("mystery", [])],
-        "bloodlines": [x.lower() for x in entry.get("bloodline", [])],
-        "lessons": [x.lower().replace("lesson of ", "") for x in entry.get("lesson", [])],
-        "patrons": [x for x in entry.get("patron_theme", [])],
+        "traditions": entry.get("tradition", []),
+        "domain": entry.get("domain", []),
+        "mystery": entry.get("mystery", []),
+        "bloodline": entry.get("bloodline", []),
+        "lesson": [x.replace("Lesson of ", "") for x in entry.get("lesson", [])],
+        "patron": entry.get("patron_theme", []),
+        "remaster": SOURCES[entry["primary_source"]][2] in ["remaster", "both"],
+        "legacy": SOURCES[entry["primary_source"]][2] in ["legacy", "both"],
         "source": source,
-        "copyright": copyright,
+        "copyright": SOURCES[entry["primary_source"]][1],
     }
-
-    for attribute, _, _, values in FILTERED_PARAMETERS:
-        info[attribute] = [x for x in info[attribute] if x in values]
 
     soup = text_to_soup(entry["markdown"])
     parse_header(soup, info)
@@ -401,16 +335,57 @@ def parse_entry(entry: dict):
     if isinstance(soup.contents[0], Tag) and soup.contents[0].name == "hr":
         soup.contents[0].extract()
 
+    for func in ADJUSTMENTS:
+        func(info, soup)
+
+    description = format_soup(soup)
+
     with open(path, "w", encoding="utf-8") as f:
         yaml.safe_dump(info, f)
         f.write("\n--- >\n")
-        f.write(textwrap.indent(format_soup(soup), "  "))
+        f.write(textwrap.indent(description, "  "))
+
+    info["description"] = description
+    return info
 
 
 def parse() -> None:
+    legacy_traits = set()
+    remaster_traits = set()
+
     with open(BASE_DIR / "scrape.json", "r", encoding="utf-8") as f:
         for entry in json.load(f):
-            parse_entry(entry)
+            info = parse_entry(entry)
+            if not info:
+                continue
+            if info["legacy"]:
+                legacy_traits.update(info["traits"])
+            if info["remaster"]:
+                remaster_traits.update(info["traits"])
+
+    FILTERS["legacy"]["Traits"] = sorted(legacy_traits)
+    FILTERS["remaster"]["Traits"] = sorted(remaster_traits)
+
+    with open(BASE_DIR / "filters.json", "w", encoding="utf-8") as f:
+        json.dump(FILTERS, f, indent=2)
+
+
+@ADJUSTMENTS.append
+def adjust_avatar(info: dict, soup: BeautifulSoup):
+    if info["title"] != "Avatar":
+        return
+    for elem in [*soup.find("strong", string="Zon-Kuthon").parent.next_siblings]:
+        elem.extract()
+
+
+@ADJUSTMENTS.append
+def adjust_table_headers(info: dict, soup: BeautifulSoup):
+    for elem in soup.find_all("p"):
+        children = [*elem.children]
+        if len(children) == 1 and isinstance(children[0], NavigableString):
+            text = str(children[0]).strip()
+            if len(text.split(" ")) < 3:
+                elem.extract()
 
 
 def download():

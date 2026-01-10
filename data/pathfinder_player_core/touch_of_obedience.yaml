@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- tyranny
-id: touch_of_obedience
-lessons: []
+domain:
+- Tyranny
+id: spell-1844
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Touch of Obedience
 traditions: []
 traits:
-- cleric
-- focus
-- manipulate
-- mental
-type: focus
+- Cleric
+- Focus
+- Manipulate
+- Mental
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> tyranny</p>

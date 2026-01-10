@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1360
+legacy: false
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Phoenix Ward
+traditions:
+- Divine
+- Primal
+traits:
+- Concentrate
+- Fire
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You raise a fiery shield around yourself, gaining resistance 10 to fire. If you take fire damage that would reduce you to 0 Hit Points, the <em>phoenix ward</em> absorbs any damage beyond the amount that would bring you to 1 Hit Point. The ward then heals you in a brilliant display of flames in the shape of a phoenix's wings and envelop you in light. You regain Hit Points equal to 4d8 + the absorbed damage; this is a healing vitality effect. The <em>phoenix ward</em> then ends, and you can't cast it again for 24 hours.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The healing increases by 1d8.</p>

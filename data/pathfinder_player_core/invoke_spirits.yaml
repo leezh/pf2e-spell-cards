@@ -1,28 +1,31 @@
 actions: '[two-actions]'
-bloodlines:
-- undead
+bloodline:
+- Undead
+- Aesir
 copyright: 2023 Paizo Inc.
-domains: []
-id: invoke_spirits
-lessons: []
+domain: []
+id: spell-1578
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Invoke Spirits
 traditions:
-- arcane
-- divine
-- occult
+- Arcane
+- Divine
+- Occult
 traits:
-- concentrate
-- emotion
-- fear
-- manipulate
-- mental
-- void
-type: spell
+- Concentrate
+- Emotion
+- Fear
+- Manipulate
+- Mental
+- Void
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>

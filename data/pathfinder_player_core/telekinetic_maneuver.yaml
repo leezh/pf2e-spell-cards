@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: telekinetic_maneuver
-lessons: []
+domain: []
+id: spell-1717
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Telekinetic Maneuver
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- attack
-- concentrate
-- force
-- manipulate
-type: spell
+- Attack
+- Concentrate
+- Force
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

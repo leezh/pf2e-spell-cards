@@ -1,21 +1,23 @@
 actions: '[reaction]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: interdisciplinary_incantation
-lessons: []
+domain: []
+id: spell-1907
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Interdisciplinary Incantation
 traditions: []
 traits:
-- concentrate
-- focus
-- wizard
-type: focus
+- Concentrate
+- Focus
+- Wizard
+type: Focus
 
 --- >
   <p class="hanging-indent trigger"><strong>Trigger</strong> A creature within 30 feet casts an arcane spell</p>

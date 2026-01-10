@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-71
+legacy: true
+lesson: []
+level: 7
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Dimensional Lock
+traditions:
+- Arcane
+- Divine
+- Occult
+- Elemental
+traits:
+- Abjuration
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Area</strong> 60-foot burst</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the next time you make your daily preparations.</p>
+  <hr/>
+  <p>You create a shimmering barrier that attempts to counteract teleportation effects and planar travel into or out of the area, including items that allow access to extradimensional spaces (such as a <em>bag of holding</em>). <em>Dimensional lock</em> tries to counteract any attempt to summon a creature into the area but doesn't stop the creature from departing when the summoning ends.</p>

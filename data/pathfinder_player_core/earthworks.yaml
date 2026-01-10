@@ -1,23 +1,25 @@
 actions: '[one-action] to [three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: earthworks
-lessons: []
+domain: []
+id: spell-1900
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Earthworks
 traditions: []
 traits:
-- concentrate
-- earth
-- focus
-- manipulate
-- wizard
-type: focus
+- Concentrate
+- Earth
+- Focus
+- Manipulate
+- Wizard
+type: Focus
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Area</strong> 5-foot burst or more</p>

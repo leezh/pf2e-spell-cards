@@ -1,25 +1,27 @@
 actions: '[three-actions]'
-bloodlines:
-- fey
+bloodline:
+- Fey
 copyright: 2024 Paizo Inc.
-domains: []
-id: visions_of_danger
-lessons: []
+domain: []
+id: spell-2040
+legacy: false
+lesson: []
 level: 7
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Visions of Danger
 traditions:
-- occult
+- Occult
 traits:
-- auditory
-- concentrate
-- illusion
-- manipulate
-- visual
-type: spell
+- Auditory
+- Concentrate
+- Illusion
+- Manipulate
+- Visual
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> occult</p>

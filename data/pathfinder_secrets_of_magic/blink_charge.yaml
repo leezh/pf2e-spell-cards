@@ -1,0 +1,36 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-872
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Blink Charge
+traditions:
+- Arcane
+- Divine
+- Occult
+traits:
+- Conjuration
+- Force
+- Teleportation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <hr/>
+  <p>You propel yourself through the fabric of space to deal a blow carrying the momentum of your teleportation. You teleport to an empty space adjacent to a creature you can see within range, then make a Strike against the creature with a weapon you're wielding. The Strike deals damage, plus an extra 2d8 force damage, depending on the result of your Strike.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> Double damage, plus after the Strike, you can teleport the target into an empty space up to 5 feet away from its current position. The new space must be on the ground if it started on the ground, in the air if it was flying, and so on.</p>
+  <p class="hanging-indent"><strong>Success</strong> The Strike deals full damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The Strike deals no damage, but the target takes 1d8 force damage.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The Strike deals no damage, and you take 1d8 force damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The spell's range increases by 60 feet, and any force damage the spell deals is increased by 1d8.</p>

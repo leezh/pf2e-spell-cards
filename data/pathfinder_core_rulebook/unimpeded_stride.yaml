@@ -1,0 +1,27 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Freedom
+id: spell-464
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Unimpeded Stride
+traditions: []
+traits:
+- Cleric
+- Focus
+- Transmutation
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> freedom</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <hr/>
+  <p>Nothing can hold you in place. You immediately escape from every magical effect that has you immobilized or grabbed unless the effect is of a higher level than your <em>unimpeded stride</em> spell. You then Stride. During this movement, you ignore difficult terrain and any circumstance or status penalties to your Speed.</p>

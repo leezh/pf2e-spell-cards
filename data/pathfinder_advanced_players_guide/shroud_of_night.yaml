@@ -1,0 +1,33 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-806
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron:
+- Night
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Shroud of Night
+traditions: []
+traits:
+- Cantrip
+- Darkness
+- Evocation
+- Hex
+- Witch
+type: Cantrip
+
+--- >
+  <p class="hanging-indent patron"><strong>Patron</strong> night</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Drawing your hand in a sweeping gesture, you shroud the target in a veil of night. The target's eyes are blanketed in darkness. If you cast this hex on a willing ally (for instance, one with light blindness), the ally can choose which result it gets without rolling. Regardless of the outcome, the target is then temporarily immune for 1 minute.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is shrouded in murky darkness. Unless the target has darkvision, other creatures are concealed to it.</p>

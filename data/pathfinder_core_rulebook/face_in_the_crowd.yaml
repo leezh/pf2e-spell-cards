@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Cities
+id: spell-421
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Face in the Crowd
+traditions: []
+traits:
+- Cleric
+- Focus
+- Illusion
+- Visual
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> cities</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>While in a crowd of roughly similar creatures, your appearance becomes bland and nondescript. You gain a +2 status bonus to Deception and Stealth checks to go unnoticed among the crowd, and you ignore difficult terrain caused by the crowd.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> The spell gains a range of 10 feet and can target up to 10 creatures.</p>

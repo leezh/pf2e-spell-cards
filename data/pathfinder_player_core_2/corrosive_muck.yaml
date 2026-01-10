@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: corrosive_muck
-lessons: []
+domain: []
+id: spell-1982
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Corrosive Muck
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- acid
-- concentrate
-- manipulate
-type: spell
+- Acid
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

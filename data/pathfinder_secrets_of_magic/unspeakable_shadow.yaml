@@ -1,0 +1,38 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-1025
+legacy: true
+lesson: []
+level: 9
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Unspeakable Shadow
+traditions:
+- Arcane
+- Occult
+traits:
+- Death
+- Emotion
+- Fear
+- Illusion
+- Mental
+- Shadow
+- Visual
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You alter a creature's shadow, transforming it into a terrifying monster out to devour the creature. The creature must attempt a Will save. A creature that has the frightened condition from <em>unspeakable shadow</em> must spend at least one of its actions each turn to either attack its shadow (making a Strike ineffectually) or flee from its shadow (using one action to move away as though it had the fleeing condition).</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is frightened 2.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is frightened 3. It can't reduce its frightened value below 1 for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is so afraid, it might instantly die. It must succeed at a Fortitude save or die; this saving throw has the incapacitation trait. If it succeeds at its save, the target is frightened 4 and can't reduce its frightened value below 1 for 1 minute.</p>

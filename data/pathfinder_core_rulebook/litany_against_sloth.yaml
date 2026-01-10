@@ -1,0 +1,33 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-396
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Litany against Sloth
+traditions: []
+traits:
+- Champion
+- Evocation
+- Focus
+- Good
+- Litany
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature that isn't holy</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>Your litany rails against the sin of sloth, interfering with the target's ability to react. The target must attempt a Will save. A particularly slothful creature, such as a Sloth Demon, uses the outcome one degree of success worse than the result of its saving throw. The target becomes temporarily immune to all of your litanies for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target can't use reactions.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target can't use reactions and is slowed 1.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target can't use reactions and is slowed 2.</p>

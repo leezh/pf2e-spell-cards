@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: flaming_fusillade
-lessons: []
+domain: []
+id: spell-2080
+legacy: false
+lesson: []
 level: 6
-mysteries:
-- flames
-patrons: []
-rarity: uncommon
+mystery:
+- Flames
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Flaming Fusillade
 traditions: []
 traits:
-- concentrate
-- fire
-- focus
-- manipulate
-- oracle
-type: focus
+- Concentrate
+- Fire
+- Focus
+- Manipulate
+- Oracle
+type: Focus
 
 --- >
   <p class="hanging-indent mystery"><strong>Mystery</strong> flames</p>

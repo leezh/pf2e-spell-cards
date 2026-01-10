@@ -1,22 +1,24 @@
 actions: '[reaction]'
-bloodlines:
-- imperial
+bloodline:
+- Imperial
 copyright: 2024 Paizo Inc.
-domains: []
-id: arcane_countermeasure
-lessons: []
+domain: []
+id: spell-2116
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Arcane Countermeasure
 traditions: []
 traits:
-- focus
-- manipulate
-- sorcerer
-type: focus
+- Focus
+- Manipulate
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> imperial</p>

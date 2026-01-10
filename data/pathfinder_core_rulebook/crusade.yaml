@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-56
+legacy: true
+lesson: []
+level: 9
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Crusade
+traditions:
+- Divine
+traits:
+- Enchantment
+- Linguistic
+- Mental
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> up to 4 creatures</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You issue a divine mandate or proclaim a cause to the targets. It can be to attain an item, claim a patch of land, slay a creature, war with a group, or be entirely peaceful. Your cause can't force the targets to harm one another or themselves. The targets become completely dedicated to that cause, depending on their levels. They choose their own actions, but they favor direct action over inaction or indirect action.</p>
+  <p>The spell ends for all creatures if you or one of your allies uses a hostile action against a target, or when the cause is completed. The GM might determine this spell has alignment traits befitting the cause.</p>
+  <li><strong>15th</strong> As 14th, plus the target can attempt a Will save at the end of each of its turns to end the spell for itself.</li>
+  <li><strong>14th</strong> The target is dedicated to the cause, but the spell ends for the target if it's reduced to half its maximum Hit Points or fewer.</li>
+  <li><strong>13th or Lower</strong> The target is so dedicated to the cause that it pursues the cause to the death (unless you say otherwise).</li>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (10th)</strong> The level for each category increases by 2.</p>

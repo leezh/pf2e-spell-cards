@@ -1,0 +1,40 @@
+actions: '[one-action]'
+bloodline:
+- Draconic
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-280
+legacy: true
+lesson: []
+level: 1
+mystery:
+- Battle
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Shield
+traditions:
+- Arcane
+- Divine
+- Occult
+- Elemental
+traits:
+- Abjuration
+- Cantrip
+- Force
+type: Cantrip
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the start of your next turn</p>
+  <hr/>
+  <p>You raise a magical shield of force. This counts as using the Raise a Shield action, giving you a +1 circumstance bonus to AC until the start of your next turn, but it doesn't require a hand to use.</p>
+  <p>While the spell is in effect, you can use the Shield Block reaction with your magic shield. The shield has Hardness 5. After you use Shield Block, the spell ends and you can't cast it again for 10 minutes. Unlike a normal Shield Block, you can use the spell's reaction against the <em>magic missile</em> spell.</p>
+  <p>Heightening the spell increases the shield's Hardness.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> The shield has Hardness 10.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> The shield has Hardness 15.</p>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> The shield has Hardness 20.</p>
+  <p class="hanging-indent"><strong>Heightened (9th)</strong> The shield has Hardness 25.</p>

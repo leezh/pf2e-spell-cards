@@ -1,22 +1,24 @@
 actions: ''
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: animal_vision
-lessons: []
+domain: []
+id: spell-1963
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Animal Vision
 traditions:
-- primal
+- Primal
 traits:
-- concentrate
-- manipulate
-- mental
-type: spell
+- Concentrate
+- Manipulate
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>

@@ -1,0 +1,38 @@
+actions: ''
+bloodline:
+- Wyrmblessed
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-246
+legacy: true
+lesson: []
+level: 1
+mystery:
+- Lore
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Read Aura
+traditions:
+- Arcane
+- Divine
+- Occult
+- Primal
+- Elemental
+traits:
+- Cantrip
+- Detection
+- Divination
+type: Cantrip
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 minute (somatic, verbal)</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 object</p>
+  <hr/>
+  <p>You focus on the target object, opening your mind to perceive magical auras. When the casting is complete, you know whether that item is magical, and if it is, you learn the school of magic.</p>
+  <p>If the object is illusory, you detect this only if the effect's level is lower than the level of your <em>read aura</em> spell.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> You can target up to 10 objects.</p>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> You can target any number of objects.</p>

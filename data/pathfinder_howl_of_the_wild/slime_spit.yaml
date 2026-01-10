@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1930
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Slime Spit
+traditions: []
+traits:
+- Concentrate
+- Focus
+- Manipulate
+- Poison
+- Ranger
+type: Focus
+
+--- >
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Reflex</p>
+  <hr/>
+  <p>You spit toxic goo that coats your target’s face and eyes, dealing 2d6 poison damage. It must attempt a Reflex save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target takes no damage.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes half damage and is dazzled for 1 round, though it can Interact to wipe its eyes and remove the condition.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target takes full damage and is dazzled until the end of your next turn.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target takes double damage, is blinded for 1 round, and is dazzled until it uses an Interact action to wipe its eyes.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>

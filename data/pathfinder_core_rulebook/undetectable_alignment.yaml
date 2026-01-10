@@ -1,0 +1,28 @@
+actions: ''
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-348
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Undetectable Alignment
+traditions:
+- Divine
+- Occult
+traits:
+- Abjuration
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 minute (material, somatic, verbal)</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature or object</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the next time you make your daily preparations</p>
+  <hr/>
+  <p>You shroud a creature or object in wards that hide its alignment. The target appears to be neutral to all effects that would detect its alignment.</p>

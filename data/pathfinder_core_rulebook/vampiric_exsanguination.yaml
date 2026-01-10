@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodline:
+- Undead
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-353
+legacy: true
+lesson: []
+level: 6
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Vampiric Exsanguination
+traditions:
+- Arcane
+- Divine
+- Occult
+traits:
+- Death
+- Necromancy
+- Negative
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot cone</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Fortitude</p>
+  <hr/>
+  <p>You draw in the blood and life force of other creatures through your outstretched arms. You deal 12d6 negative damage to living creatures in the area.</p>
+  <p>You gain temporary Hit Points equal to half the damage a single creature takes from this spell; calculate these temporary Hit Points using the creature that took the most damage. You lose any remaining temporary Hit Points after 1 minute.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>

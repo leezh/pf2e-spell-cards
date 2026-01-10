@@ -1,0 +1,38 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-326
+legacy: true
+lesson: []
+level: 7
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Sunburst
+traditions:
+- Divine
+- Primal
+traits:
+- Evocation
+- Fire
+- Light
+- Positive
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 500 feet; <strong>Area</strong> 60-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Reflex</p>
+  <hr/>
+  <p>A powerful globe of searing sunlight explodes in the area, dealing 8d10 fire damage to all creatures in the area, plus 8d10 additional positive damage to undead creatures. Each creature in the area must attempt a Reflex save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes half damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes full damage.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature takes full damage and becomes blinded permanently.</p>
+  <p>If the globe overlaps with an area of magical darkness, <em>sunburst</em> attempts to counteract the darkness effect.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The fire damage increases by 1d10, and the positive damage against undead increases by 1d10.</p>

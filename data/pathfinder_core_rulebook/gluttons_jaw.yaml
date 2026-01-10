@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodline:
+- Demonic
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-511
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Glutton's Jaw
+traditions: []
+traits:
+- Focus
+- Morph
+- Necromancy
+- Sorcerer
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> demonic</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Your mouth transforms into a shadowy maw bristling with pointed teeth. These jaws are an unarmed attack with the forceful trait dealing 1d8 piercing damage. If you hit with your jaws and deal damage, you gain 1d6 temporary Hit Points.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The temporary Hit Points increase by 1d6.</p>

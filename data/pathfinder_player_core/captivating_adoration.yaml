@@ -1,27 +1,29 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- passion
-id: captivating_adoration
-lessons: []
+domain:
+- Passion
+id: spell-1829
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Captivating Adoration
 traditions: []
 traits:
-- aura
-- cleric
-- concentrate
-- emotion
-- focus
-- manipulate
-- mental
-- visual
-type: focus
+- Aura
+- Cleric
+- Concentrate
+- Emotion
+- Focus
+- Manipulate
+- Mental
+- Visual
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> passion</p>

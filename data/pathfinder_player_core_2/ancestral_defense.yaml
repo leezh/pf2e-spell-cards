@@ -1,24 +1,26 @@
 actions: '[reaction]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: ancestral_defense
-lessons: []
+domain: []
+id: spell-2067
+legacy: false
+lesson: []
 level: 3
-mysteries:
-- ancestors
-patrons: []
-rarity: uncommon
+mystery:
+- Ancestors
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Ancestral Defense
 traditions: []
 traits:
-- focus
-- fortune
-- manipulate
-- mental
-- oracle
-type: focus
+- Focus
+- Fortune
+- Manipulate
+- Mental
+- Oracle
+type: Focus
 
 --- >
   <p class="hanging-indent mystery"><strong>Mystery</strong> ancestors</p>

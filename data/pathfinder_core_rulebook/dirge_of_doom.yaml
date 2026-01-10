@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-382
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Dirge of Doom
+traditions: []
+traits:
+- Bard
+- Cantrip
+- Composition
+- Emotion
+- Enchantment
+- Fear
+- Mental
+type: Cantrip
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot emanation</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>Foes within the area are frightened 1. They can't reduce their frightened value below 1 while they remain in the area.</p>

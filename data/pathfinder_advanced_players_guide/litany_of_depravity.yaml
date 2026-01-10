@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-734
+legacy: true
+lesson: []
+level: 7
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Litany of Depravity
+traditions: []
+traits:
+- Champion
+- Evil
+- Evocation
+- Focus
+- Litany
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature that isn't unholy</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>Your litany calls into question the morals your foe claims to hold dear. The target gains weakness 7 to unholy, then becomes temporarily immune to all your litanies for 1 minute.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The weakness increases by 1.</p>

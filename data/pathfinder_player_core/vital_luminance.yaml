@@ -1,25 +1,27 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- sun
-id: vital_luminance
-lessons: []
+domain:
+- Sun
+id: spell-1837
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Vital Luminance
 traditions: []
 traits:
-- aura
-- cleric
-- focus
-- light
-- manipulate
-- vitality
-type: focus
+- Aura
+- Cleric
+- Focus
+- Light
+- Manipulate
+- Vitality
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> sun</p>

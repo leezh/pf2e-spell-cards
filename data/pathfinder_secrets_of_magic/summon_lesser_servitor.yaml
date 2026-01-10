@@ -1,0 +1,33 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-1010
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Summon Lesser Servitor
+traditions:
+- Divine
+traits:
+- Conjuration
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>While deities jealously guard their most powerful servants from the summoning spells of those who aren't steeped in the faith, this spell allows you to conjure an inhabitant of the Outer Sphere with or without the deity's permission. You summon a common celestial, monitor, or fiend whose level is –1 to fight on your behalf. Alternatively, you can choose a magical animal from the Outer Sphere as your lesser servitor. This animal is your choice of an eagle, guard dog, or raven. It gains the alignment matching your deity (or you, if you don't have a deity) and has the following trait depending on the alignment it gained: celestial for good, monitor for neutral, or fiend for evil.</p>
+  <p>You can't summon a creature if it is opposed to your deity's alignment on either axis (or opposed to your alignment if you don't follow a deity). For example, if you deity is lawful good, you can't summon a chaotic or evil creature. The GM might determine that deities restrict specific types of creatures even if their alignments aren't diametrically opposed. For example, Pharasma would restrict the summoning of sahkils.</p>
+  <p>Heightening the spell increases the maximum level of creature you can summon and might add additional animal servitors, which otherwise work like the eagle, guard dog, and raven.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (2nd)</strong> Level 1.</p>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> Level 2. You can summon a black bear, giant bat, or leopard.</p>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> Level 3. You can summon a great white shark or tiger.</p>

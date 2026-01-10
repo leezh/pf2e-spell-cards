@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- sun
-id: dazzling_flash
-lessons: []
+domain:
+- Sun
+id: spell-1836
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Dazzling Flash
 traditions: []
 traits:
-- cleric
-- concentrate
-- focus
-- light
-- manipulate
-- visual
-type: focus
+- Cleric
+- Concentrate
+- Focus
+- Light
+- Manipulate
+- Visual
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> sun</p>

@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: zealous_conviction
-lessons: []
+domain: []
+id: spell-1760
+legacy: false
+lesson: []
 level: 6
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Zealous Conviction
 traditions:
-- divine
-- occult
+- Divine
+- Occult
 traits:
-- concentrate
-- emotion
-- manipulate
-- mental
-type: spell
+- Concentrate
+- Emotion
+- Manipulate
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>

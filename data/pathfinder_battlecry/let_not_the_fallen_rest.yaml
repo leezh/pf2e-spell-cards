@@ -1,0 +1,31 @@
+actions: '[three-actions]'
+bloodline:
+- Aesir
+copyright: 2025 Paizo Inc.
+domain: []
+id: spell-2492
+legacy: false
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Battlecry!
+title: Let not the Fallen Rest
+traditions: []
+traits:
+- Concentrate
+- Focus
+- Healing
+- Manipulate
+- Sorcerer
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> aesir</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot-radius emanation</p>
+  <hr/>
+  <p>You exhort your fallen comrades to return to the battle. Each allied creature within the emanation whose dying value is 2 or less regains 4d10 Hit Points and can Stand as a free action, which doesn’t provoke reactions.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The amount of healing increases by 1d10.</p>

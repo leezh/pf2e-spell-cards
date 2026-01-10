@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1928
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Distracting Decoy
+traditions: []
+traits:
+- Concentrate
+- Focus
+- Ranger
+- Visual
+type: Focus
+
+--- >
+  <p class="hanging-indent range"><strong>Range</strong> 10 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will</p>
+  <hr/>
+  <p>You conjure a colorful, fast-moving shape, such as a small bird or other animal that draws your target’s eye. They must attempt a Will save.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature is off-guard until the start of your next turn.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, but the creature also takes a –2 circumstance penalty to attacks while it’s off-guard.</p>

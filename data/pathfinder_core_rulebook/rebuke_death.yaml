@@ -1,0 +1,32 @@
+actions: '[one-action] to [three-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Healing
+id: spell-446
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Rebuke Death
+traditions: []
+traits:
+- Cleric
+- Focus
+- Healing
+- Necromancy
+- Positive
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> healing</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> (somatic)</p>
+  <p class="hanging-indent area"><strong>Area</strong> 20-foot emanation; <strong>Targets</strong> 1 living creature per action spent to cast this spell</p>
+  <hr/>
+  <p>You snatch creatures from the jaws of death. You can spend 1 to 3 actions Casting this Spell, and you can target a number of creatures equal to the actions spent. Each target regains 3d6 Hit Points. If the target had the dying condition, coming back from dying due to this healing doesn't increase its wounded condition.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> Increase the healing by 1d6.</p>

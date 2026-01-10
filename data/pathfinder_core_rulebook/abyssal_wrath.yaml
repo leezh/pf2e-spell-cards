@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline:
+- Demonic
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-492
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Abyssal Wrath
+traditions: []
+traits:
+- Evocation
+- Focus
+- Sorcerer
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> demonic</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 60-foot cone</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex</p>
+  <hr/>
+  <p>You evoke the energy of an Abyssal realm. The damage types of the spell (one energy and one physical) are based on the result of rolling on the table below.</p>
+  <table><tr><td><strong>1d4</strong></td><td><strong>Realm</strong></td><td><strong>Manifestation</strong></td><td><strong>Damage Type</strong></td></tr><tr><td>1</td><td>Skies</td><td>Bolts and lightning and flying debris</td><td>Bludgeoning and electricity</td></tr><tr><td>2</td><td>Depths</td><td>Acid and demonic shells</td><td>Acid and slashing</td></tr><tr><td>3</td><td>Frozen</td><td>Frigid air and ice</td><td>Bludgeoning and cold</td></tr><tr><td>4</td><td>Volcanic</td><td>Jagged volcanic rocks and magma</td><td>Fire and piercing</td></tr></table><hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage for each type increases by 1d6.</p>

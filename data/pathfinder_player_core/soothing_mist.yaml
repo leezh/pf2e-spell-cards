@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: soothing_mist
-lessons: []
+domain: []
+id: spell-1869
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Soothing Mist
 traditions: []
 traits:
-- concentrate
-- focus
-- healing
-- manipulate
-- ranger
-- vitality
-type: focus
+- Concentrate
+- Focus
+- Healing
+- Manipulate
+- Ranger
+- Vitality
+type: Focus
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 willing living creature or 1 undead creature</p>

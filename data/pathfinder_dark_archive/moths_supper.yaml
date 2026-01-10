@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1158
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Dark Archive
+title: Moth's Supper
+traditions:
+- Occult
+- Primal
+traits:
+- Necromancy
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>You sigh, and your breath transforms into delicate, black-winged butterflies and huge death's-head hawkmoths. They flutter about you briefly, and then range forth in search of sustenance— fresh-spilled blood, by preference, but rotting corpses, flowering plants, or even left-behind food will do in a pinch. They then return, perching on your hair or shoulders and whispering their secrets into your ears. This has three effects.</p>
+  <li>You heal 2d4 Hit Points every 10 minutes.</li>
+  <li>The first time during the duration when someone successfully Treats your Wounds, you regain an additional 4d4 Hit Points.</li>
+  <li>You gain an imprecise sense out to 30 feet that senses only freshly spilled blood and rotten flesh.</li>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The amount of Hit Points healed every 10 minutes increases by 1d4 and the amount of Hit Points regained from the first Treat Wounds increases by 2d4.</p>

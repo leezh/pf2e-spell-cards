@@ -1,22 +1,24 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: sacred_form
-lessons: []
+domain: []
+id: spell-2020
+legacy: false
+lesson: []
 level: 6
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Sacred Form
 traditions:
-- divine
+- Divine
 traits:
-- concentrate
-- manipulate
-- polymorph
-type: spell
+- Concentrate
+- Manipulate
+- Polymorph
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>

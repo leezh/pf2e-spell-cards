@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: field_of_life
-lessons:
-- renewal
+domain: []
+id: spell-1526
+legacy: false
+lesson:
+- Renewal
 level: 6
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Field of Life
 traditions:
-- divine
-- primal
+- Divine
+- Primal
 traits:
-- concentrate
-- healing
-- manipulate
-- vitality
-type: spell
+- Concentrate
+- Healing
+- Manipulate
+- Vitality
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>

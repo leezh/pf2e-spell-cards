@@ -1,23 +1,25 @@
 actions: ''
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: planar_palace
-lessons: []
+domain: []
+id: spell-1634
+legacy: false
+lesson: []
 level: 7
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Planar Palace
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- concentrate
-- extradimensional
-- manipulate
-type: spell
+- Concentrate
+- Extradimensional
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

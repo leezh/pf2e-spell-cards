@@ -1,0 +1,35 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-767
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Animal Feature
+traditions: []
+traits:
+- Focus
+- Morph
+- Ranger
+- Transmutation
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Without fully transforming your body, you gain one animalistic feature, which you select from the list below each time you Cast the Spell.</p>
+  <li><strong>Cat Eyes</strong> You gain low-light vision.</li>
+  <li><strong>Claws</strong> You gain a claw attack that deals 1d6 slashing damage and has the agile, finesse, and unarmed traits.</li>
+  <li><strong>Jaws</strong> You gain a jaws attack that deals 1d8 piercing damage and has the unarmed trait.</li>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> Add the following options to the list you can choose from.</p>
+  <li><strong>Fish Tail</strong> You gain a swim Speed equal to your land Speed.</li>
+  <li><strong>Owl Eyes</strong> You gain darkvision.</li>
+  <li><strong>Wings</strong> You gain a fly Speed equal to your land Speed.</li>

@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: fiery_body
-lessons: []
+domain: []
+id: spell-1527
+legacy: false
+lesson: []
 level: 7
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Fiery Body
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- concentrate
-- fire
-- manipulate
-- polymorph
-type: spell
+- Concentrate
+- Fire
+- Manipulate
+- Polymorph
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

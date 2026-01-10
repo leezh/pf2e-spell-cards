@@ -1,22 +1,24 @@
 actions: '[one-action] to [three-actions]'
-bloodlines:
-- undead
+bloodline:
+- Undead
 copyright: 2023 Paizo Inc.
-domains: []
-id: harm
-lessons: []
+domain: []
+id: spell-1552
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Harm
 traditions:
-- divine
+- Divine
 traits:
-- manipulate
-- void
-type: spell
+- Manipulate
+- Void
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>

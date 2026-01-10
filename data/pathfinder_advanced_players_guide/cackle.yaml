@@ -1,0 +1,26 @@
+actions: '[free-action]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-792
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Cackle
+traditions: []
+traits:
+- Enchantment
+- Focus
+- Hex
+- Witch
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <hr/>
+  <p>With a quick burst of laughter, you prolong a magical effect you created. You Sustain a Spell.</p>

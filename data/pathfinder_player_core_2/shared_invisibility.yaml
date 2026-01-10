@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: shared_invisibility
-lessons: []
+domain: []
+id: spell-2025
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Shared Invisibility
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- aura
-- illusion
-- manipulate
-- subtle
-type: spell
+- Aura
+- Illusion
+- Manipulate
+- Subtle
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

@@ -1,25 +1,27 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: ancestral_touch
-lessons: []
+domain: []
+id: spell-2066
+legacy: false
+lesson: []
 level: 1
-mysteries:
-- ancestors
-patrons: []
-rarity: uncommon
+mystery:
+- Ancestors
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Ancestral Touch
 traditions: []
 traits:
-- emotion
-- fear
-- focus
-- manipulate
-- mental
-- oracle
-type: focus
+- Emotion
+- Fear
+- Focus
+- Manipulate
+- Mental
+- Oracle
+type: Focus
 
 --- >
   <p class="hanging-indent mystery"><strong>Mystery</strong> ancestors</p>

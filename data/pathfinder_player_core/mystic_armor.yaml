@@ -1,25 +1,29 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline:
+- Aesir
 copyright: 2023 Paizo Inc.
-domains: []
-id: mystic_armor
-lessons:
-- protection
+domain: []
+id: spell-1611
+legacy: false
+lesson:
+- Protection
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Mystic Armor
 traditions:
-- arcane
-- divine
-- occult
-- primal
+- Arcane
+- Divine
+- Occult
+- Primal
+- Elemental
 traits:
-- concentrate
-- manipulate
-type: spell
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>

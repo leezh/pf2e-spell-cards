@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1303
+legacy: false
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Airlift
+traditions:
+- Arcane
+- Primal
+traits:
+- Air
+- Concentrate
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 10-foot emanation</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Reflex</p>
+  <hr/>
+  <p>A massive rush of wind lifts, briefly carrying you and everything around you to a nearby destination. You, each creature in the area, and each item of 10 Bulk or lighter are lifted by this powerful gale. You and all affected creatures and objects Fly up to 60 feet and land on a solid surface, arriving in the same relative position to each other. If there wouldn't be enough room at the destination for everything you're bringing, the spell fails, though the GM might allow you to rearrange the group slightly to accommodate the spell.</p>
+  <p>Any unwilling participant can attempt a Reflex save to avoid being carried along. The <em>airlift</em> doesn't carry items that are secured in place (such as a hinged door or a person manacled to a wall).</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> The distance you Fly increases to 120 feet, and the Bulk limit of an item you can <em>airlift</em> increases to 20.</p>

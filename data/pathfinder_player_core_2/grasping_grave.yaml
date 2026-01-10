@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines:
-- undead
+bloodline:
+- Undead
 copyright: 2024 Paizo Inc.
-domains: []
-id: grasping_grave
-lessons: []
+domain: []
+id: spell-2119
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Grasping Grave
 traditions: []
 traits:
-- concentrate
-- focus
-- manipulate
-- sorcerer
-type: focus
+- Concentrate
+- Focus
+- Manipulate
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> undead</p>

@@ -1,0 +1,25 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-1041
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Shielding Strike
+traditions: []
+traits:
+- Abjuration
+- Focus
+- Magus
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <hr/>
+  <p>As you attack a foe, warding magic transforms your momentum into action and lifts your shield. Make a melee Strike. You can then either Raise your Shield if you're wielding one or cast <em>shield</em> if you have the spell.</p>

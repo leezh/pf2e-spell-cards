@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1351
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Dehydrate
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Fire
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Area</strong> 5-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude (see text); <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You stir the inner fire of all things within the area, driving out moisture. All creatures in the area take 1d6 persistent fire damage with a basic Fortitude save; creatures with the water or plant traits get a result one degree of success worse than they rolled. The spell ends for a creature when its persistent damage ends.</p>
+  <p>A creature affected by <em>dehydrate</em> attempts an additional Fortitude save at the end of each of its turns, before rolling to recover from the persistent damage. It can forgo this additional save if it consumed water or a similar hydrating liquid within the last round (drinking typically requires a single action).</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes no additional effect.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature is enfeebled 1 until the end of its next turn.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature is enfeebled 2 until the end of its next turn.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The range increases by 10 feet, the burst increases by 5 feet, and the persistent fire damage increases by 3d6.</p>

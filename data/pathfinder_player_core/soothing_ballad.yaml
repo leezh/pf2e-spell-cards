@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: soothing_ballad
-lessons: []
+domain: []
+id: spell-1776
+legacy: false
+lesson: []
 level: 7
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Soothing Ballad
 traditions: []
 traits:
-- bard
-- composition
-- concentrate
-- emotion
-- focus
-- healing
-- manipulate
-- mental
-type: focus
+- Bard
+- Composition
+- Concentrate
+- Emotion
+- Focus
+- Healing
+- Manipulate
+- Mental
+type: Focus
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> you and up to 9 allies</p>

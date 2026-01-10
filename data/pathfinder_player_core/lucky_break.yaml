@@ -1,23 +1,25 @@
 actions: '[reaction]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- luck
-id: lucky_break
-lessons: []
+domain:
+- Luck
+id: spell-1815
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Lucky Break
 traditions: []
 traits:
-- cleric
-- concentrate
-- focus
-- fortune
-type: focus
+- Cleric
+- Concentrate
+- Focus
+- Fortune
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> luck</p>

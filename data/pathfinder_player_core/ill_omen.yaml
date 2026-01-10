@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: ill_omen
-lessons: []
+domain: []
+id: spell-1566
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Ill Omen
 traditions:
-- occult
+- Occult
 traits:
-- concentrate
-- curse
-- manipulate
-- misfortune
-type: spell
+- Concentrate
+- Curse
+- Manipulate
+- Misfortune
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> occult</p>

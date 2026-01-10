@@ -1,0 +1,32 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2025 Paizo Inc.
+domain: []
+id: spell-2515
+legacy: false
+lesson: []
+level: 6
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Battlecry!
+title: Skeleton Army
+traditions:
+- Arcane
+- Divine
+- Occult
+traits:
+- Concentrate
+- Incarnate
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 100 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the end of your next turn</p>
+  <hr/>
+  <p>With a fistful of compressed bones, you summon a legion of skeletal hulks to fight in your war, refusing to let them rest until they’ve given up their last inches of usefulness to your cause. The undead army occupies the space of a Huge creature and has a Speed of 40 feet.</p>
+  <p class="hanging-indent"><strong>Arrive</strong> <em>Bone March</em> The skeletal hulks rise from the dirt, slashing through your enemies and attacking with their dirt-encrusted, bony hands. Enemies within a 20-foot emanation take 4d8 slashing damage (basic Reflex save). On a critical failure, a creature also take 2d8 persistent bleed damage.</p>
+  <p class="hanging-indent"><strong>Depart</strong> <em>Tossed Heads</em> Before crumpling into a pile of bones, the skeleton army removes their skulls and throws them at the enemy lines, chattering and howling, dealing 6d6 piercing damage to enemies in a 20-foot burst (basic Reflex save) within 30 feet. On a critical failure, a creature is also frightened 2.</p>

@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-1049
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Lifelink Surge
+traditions: []
+traits:
+- Focus
+- Healing
+- Necromancy
+- Positive
+- Summoner
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 4 rounds</p>
+  <hr/>
+  <p>You make a quick gesture, tracing the link between yourself and your eidolon and drawing on your connection to slowly strengthen your shared life force. Your eidolon gains fast healing 4 for 4 rounds.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The fast healing increases by 2.</p>

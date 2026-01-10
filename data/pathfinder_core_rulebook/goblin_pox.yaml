@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-139
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Goblin Pox
+traditions:
+- Arcane
+- Primal
+traits:
+- Disease
+- Necromancy
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>Your touch afflicts the target with goblin pox, an irritating allergenic rash. The target must attempt a Fortitude save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is sickened 1.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is afflicted with goblin pox at stage 1.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is afflicted with goblin pox at stage 2.</p>
+  <p class="hanging-indent"><strong>Goblin Pox</strong> (disease); <strong>Level</strong> 1. Goblins and goblin dogs are immune. <strong>Stage 1</strong> sickened 1 (1 round); <strong>Stage 2</strong> sickened 1 and slowed 1 (1 round); <strong>Stage 3</strong> sickened 1 and the creature can't reduce its sickened value below 1 (1 day)</p>

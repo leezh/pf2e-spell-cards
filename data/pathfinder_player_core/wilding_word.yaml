@@ -1,26 +1,28 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: wilding_word
-lessons: []
+domain: []
+id: spell-1893
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons:
+mystery: []
+patron:
 - Wilding Steward
-rarity: uncommon
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Wilding Word
 traditions: []
 traits:
-- cantrip
-- hex
-- mental
-- witch
-type: cantrip
+- Cantrip
+- Hex
+- Mental
+- Witch
+type: Cantrip
 
 --- >
-  <p class="hanging-indent patron"><strong>Patron</strong> Wilding Steward</p>
+  <p class="hanging-indent patron"><strong>Patron</strong> wilding steward</p>
   <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
   <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>

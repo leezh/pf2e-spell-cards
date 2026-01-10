@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: spiritual_guardian
-lessons: []
+domain: []
+id: spell-1688
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Spiritual Guardian
 traditions:
-- divine
+- Divine
 traits:
-- concentrate
-- manipulate
-- sanctified
-- spirit
-type: spell
+- Concentrate
+- Manipulate
+- Sanctified
+- Spirit
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>

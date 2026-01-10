@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1317
+legacy: false
+lesson: []
+level: 6
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Phantom Orchestra
+traditions:
+- Arcane
+- Occult
+- Primal
+traits:
+- Air
+- Concentrate
+- Manipulate
+- Sonic
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Fortitude; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You orchestrate an invisible ensemble of lost sounds captured inside errant breezes across the Plane of Air, and you can direct this symphony to attack foes within range. The sounds materialize and manifest as directed, appearing as silhouetted instruments and musicians that dance and bob in the wind.</p>
+  <p>When you Cast the Spell, a captured breath of ephemeral music explodes in a great crescendo, appearing in a space you choose within range. On subsequent rounds, the first time you Sustain the Spell each round, you can move your conjured melody to a space within range (if needed) and create another explosion of music.</p>
+  <p>Each explosion of sound from the <em>phantom orchestra</em> deals 8d6 sonic damage to all creatures in a 10-foot burst (basic Fortitude save). The <em>phantom orchestra</em> doesn't take up space, grant flanking, or have any other attributes a creature would.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d6.</p>

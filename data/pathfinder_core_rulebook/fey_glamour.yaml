@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodline:
+- Fey
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-510
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Fey Glamour
+traditions: []
+traits:
+- Focus
+- Illusion
+- Sorcerer
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> fey</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> up to 10 creatures; <strong>Area</strong> 30-foot burst or</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You call upon fey glamours to cloak an area or the targets in illusion. This has the effect of either <em>illusory scene</em> on the area or <em>veil</em> on the creatures, as if heightened to a level 1 level lower than <em>fey glamour</em>, using <em>fey glamour</em>'s range and duration.</p>

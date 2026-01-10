@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodline:
+- Undead
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-22
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Bind Undead
+traditions:
+- Arcane
+- Divine
+- Occult
+traits:
+- Necromancy
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 mindless undead creature with a level no greater than bind undead 's spell level</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 day</p>
+  <hr/>
+  <p>With a word of necromantic power, you seize control of the target. It gains the minion trait. If you or an ally uses any hostile actions against the target, the spell ends.</p>

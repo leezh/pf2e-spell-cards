@@ -1,25 +1,28 @@
 actions: '[two-actions]'
-bloodlines:
-- angelic
+bloodline:
+- Angelic
+- Aesir
 copyright: 2023 Paizo Inc.
-domains: []
-id: spiritual_armament
-lessons: []
+domain: []
+id: spell-1687
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Spiritual Armament
 traditions:
-- divine
-- occult
+- Divine
+- Occult
 traits:
-- concentrate
-- manipulate
-- sanctified
-- spirit
-type: spell
+- Concentrate
+- Manipulate
+- Sanctified
+- Spirit
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>

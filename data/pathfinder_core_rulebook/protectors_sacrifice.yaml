@@ -1,0 +1,32 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Protection
+id: spell-441
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Protector's Sacrifice
+traditions: []
+traits:
+- Abjuration
+- Cleric
+- Focus
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> protection</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> An ally within 30 feet takes damage.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet</p>
+  <hr/>
+  <p>You protect your ally by suffering in their stead. Reduce the damage the triggering ally would take by 3. You redirect this damage to yourself, but your immunities, weaknesses, resistances and so on do not apply.</p>
+  <p>You aren't subject to any conditions or other effects of whatever damaged your ally (such as poison from a venomous bite). Your ally is still subject to those effects even if you redirect all of the triggering damage to yourself.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage you redirect increases by 3.</p>

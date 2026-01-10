@@ -1,27 +1,29 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: curse_of_death
-lessons:
-- death
+domain: []
+id: spell-1876
+legacy: false
+lesson:
+- Death
 level: 5
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Curse of Death
 traditions: []
 traits:
-- concentrate
-- curse
-- death
-- focus
-- hex
-- manipulate
-- void
-- witch
-type: focus
+- Concentrate
+- Curse
+- Death
+- Focus
+- Hex
+- Manipulate
+- Void
+- Witch
+type: Focus
 
 --- >
   <p class="hanging-indent lesson"><strong>Lesson</strong> death</p>

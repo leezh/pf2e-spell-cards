@@ -1,0 +1,39 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-95
+legacy: true
+lesson: []
+level: 8
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Earthquake
+traditions:
+- Arcane
+- Primal
+traits:
+- Earth
+- Evocation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 500 feet; <strong>Area</strong> 60-foot burst</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>You shake the ground, topple creatures into fissures, and collapse structures.</p>
+  <p>The GM might add additional effects in certain areas. Cliffs might collapse, causing creatures to fall, or a lake might drain as fissures open up below its surface, leaving a morass of quicksand.</p>
+  <li><strong>Shaking Ground</strong> The ground is difficult terrain, and creatures on it take a –2 circumstance penalty to attack rolls, AC, and skill checks.</li>
+  <li><strong>Fissures</strong> Each creature on the ground must attempt a Reflex save at the start of its turn to keep its footing and avoid falling into 40-foot-deep fissures that open beneath it. The fissures are permanent, and their sides require DC 15 Athletics to Climb.</li>
+  <li><strong>Collapse</strong> Structures and ceilings might collapse. The GM rolls a flat check for each (DC 16 for a sturdy structure, DC 14 for an average structure and most natural formations, DC 9 for a shoddy structure, all adjusted higher or lower as the GM sees fit). A collapse deals 11d6 bludgeoning damage; each creature caught in a collapse must attempt a Reflex save to avoid it.</li>
+  <p class="indent hanging-indent"><strong>Critical Success</strong> The creature takes half the collapse damage.</p>
+  <p class="indent hanging-indent"><strong>Success</strong> The creature takes half the collapse damage and falls prone.</p>
+  <p class="indent hanging-indent"><strong>Failure</strong> The creature takes the full collapse damage and falls prone.</p>
+  <p class="indent hanging-indent"><strong>Critical Failure</strong> The creature takes the full collapse damage and falls into a fissure.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (10th)</strong> You create a massive earthquake that can devastate a settlement. The range increases to half a mile and the area to a quarter-mile burst.</p>

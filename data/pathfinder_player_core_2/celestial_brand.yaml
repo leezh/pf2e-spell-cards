@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines:
-- angelic
+bloodline:
+- Angelic
 copyright: 2024 Paizo Inc.
-domains: []
-id: celestial_brand
-lessons: []
+domain: []
+id: spell-2095
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Celestial Brand
 traditions: []
 traits:
-- curse
-- focus
-- manipulate
-- sorcerer
-type: focus
+- Curse
+- Focus
+- Manipulate
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> angelic</p>

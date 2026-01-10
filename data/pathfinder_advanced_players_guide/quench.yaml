@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-709
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Quench
+traditions:
+- Primal
+traits:
+- Abjuration
+- Water
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained</p>
+  <hr/>
+  <p>You cause the air in the area to become supersaturated with water vapor. Non-magical fires within the area are automatically extinguished. Fire creatures within the area take 4d8 damage (basic Fortitude save). Choose one magical fire, fire spell, or fire item in the area and attempt to counteract it. If you succeed against an item, the item loses its fire properties for 10 minutes (for instance, a <em>+1 flaming longsword</em> would become a <em>+1 longsword</em>). If the target is an artifact or similarly powerful item, you automatically fail to counteract it.</p>
+  <p>The first time each round you Sustain this Spell, you can move the area of vapor anywhere within range, but the only effect when you do so is to automatically extinguish non-magical fires.</p>
+  <p>If you have the Counterspell reaction, you can use <em>quench</em> to counter any spell with the fire trait instead of needing to have the triggering fire spell prepared or in your repertoire.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> Increase the damage to fire creatures by 2d8.</p>

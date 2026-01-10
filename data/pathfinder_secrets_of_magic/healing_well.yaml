@@ -1,0 +1,33 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-926
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Healing Well
+traditions:
+- Divine
+- Primal
+traits:
+- Healing
+- Necromancy
+- Positive
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You call forth a well of healing that you and your allies can draw from later. The well appears as a disc of shimmering light on the ground in a square within range. At any time during the duration, if you or an ally are adjacent to the well, that character can Interact to tap into the well's power, recovering 4d8 Hit Points. When the well has been tapped five times, the spell ends. The well is made of insubstantial energy, allowing creatures to move through it and even end their turn in its space.</p>
+  <p>If you use an ability that increases the amount of healing this spell grants, that increase applies only to the first time someone taps the well.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The healing increases by 3.</p>

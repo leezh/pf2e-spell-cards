@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines:
-- elemental
+bloodline:
+- Elemental
 copyright: 2023 Paizo Inc.
-domains: []
-id: earthquake
-lessons: []
+domain: []
+id: spell-1507
+legacy: false
+lesson: []
 level: 8
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Earthquake
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- concentrate
-- earth
-- manipulate
-type: spell
+- Concentrate
+- Earth
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

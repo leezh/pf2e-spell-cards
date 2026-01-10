@@ -1,28 +1,30 @@
 actions: '[two-actions]'
-bloodlines:
-- aberrant
-- hag
+bloodline:
+- Aberrant
+- Hag
 copyright: 2023 Paizo Inc.
-domains: []
-id: daze
-lessons: []
+domain: []
+id: spell-1482
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Daze
 traditions:
-- arcane
-- divine
-- occult
+- Arcane
+- Divine
+- Occult
 traits:
-- cantrip
-- concentrate
-- manipulate
-- mental
-- nonlethal
-type: cantrip
+- Cantrip
+- Concentrate
+- Manipulate
+- Mental
+- Nonlethal
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>

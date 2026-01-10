@@ -1,0 +1,30 @@
+actions: ''
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1952
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Foraging Friends
+traditions:
+- Primal
+traits:
+- Concentrate
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 10 minutes</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>Giving a cheerful whistle, you call forth a handful of small animals, such as birds or mice, to collect food for you and your allies. The animals return 1 hour later with enough foraged goods to feed four Medium creatures for 1 day, then return to their normal behavior. If you’re in a particularly strange environment, as determined by your GM, you might need a minimum proficiency with primal spell DCs, equivalent to the minimum proficiency required to Subsist in strange environments.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> The animals bring back enough food for eight Medium creatures for 1 day.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> The animals bring back enough food for 30 Medium creatures for 1 day.</p>

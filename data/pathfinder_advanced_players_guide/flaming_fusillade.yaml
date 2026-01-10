@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-753
+legacy: true
+lesson: []
+level: 6
+mystery:
+- Flames
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Flaming Fusillade
+traditions: []
+traits:
+- Cursebound
+- Evocation
+- Fire
+- Focus
+- Oracle
+type: Focus
+
+--- >
+  <p class="hanging-indent mystery"><strong>Mystery</strong> flames</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You call upon an endless barrage of flames, producing miniature fireballs in your hands to hurl at foes. You cast <em>produce flame</em> as part of casting <em>flaming fusillade</em>. For the duration of <em>flaming fusillade</em>, <em>produce flame's</em> casting time is reduced from 2 actions to 1.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (9th)</strong> For the duration, you also gain a status bonus to the damage dealt by <em>produce flame</em> equal to <em>flaming fusillade's</em> spell level.</p>

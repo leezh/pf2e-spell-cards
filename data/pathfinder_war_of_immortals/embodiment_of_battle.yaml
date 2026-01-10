@@ -1,0 +1,27 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-2146
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder War of Immortals
+title: Embodiment of Battle
+traditions: []
+traits:
+- Animist
+- Focus
+type: Focus
+
+--- >
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Your apparition guides your attacks and imparts its skill to your movements. For the duration, your proficiency with martial weapons is equal to your proficiency with simple weapons, you gain a +1 status bonus to attack and damage rolls made with weapons or unarmed attacks, and you gain the Reactive Strike reaction; this reaction gains the apparition trait. The instincts of an apparition of battle run contrary to the use of magic; for the duration of this spell, you take a –2 status penalty to your spell attack modifiers and your spell DCs.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> The status bonus to attack and damage rolls granted by this spell is increased to +2</p>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> The status bonus to attack and damage rolls granted by this spell is increased to +3.</p>

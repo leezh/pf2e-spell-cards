@@ -1,28 +1,31 @@
 actions: '[two-actions]'
-bloodlines:
-- angelic
+bloodline:
+- Angelic
 copyright: 2023 Paizo Inc.
-domains: []
-id: light
-lessons: []
+domain: []
+id: spell-1585
+legacy: false
+lesson: []
 level: 1
-mysteries:
-- cosmos
-patrons: []
-rarity: common
+mystery:
+- Cosmos
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Light
 traditions:
-- arcane
-- divine
-- occult
-- primal
+- Arcane
+- Divine
+- Occult
+- Primal
+- Elemental
 traits:
-- cantrip
-- concentrate
-- light
-- manipulate
-type: cantrip
+- Cantrip
+- Concentrate
+- Light
+- Manipulate
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>

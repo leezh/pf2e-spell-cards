@@ -1,0 +1,31 @@
+actions: ''
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-178
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Magic Aura
+traditions:
+- Arcane
+- Occult
+traits:
+- Illusion
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 minute (material, somatic, verbal)</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 object of 3 bulk or less</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the next time you make your daily preparations</p>
+  <hr/>
+  <p>You alter the appearance of an item's magic aura. You can choose to have the target's aura appear as that of a common magic item of twice <em>magic aura</em>'s level or lower, or to have it register as being under the effects of a spell of your choice of <em>magic aura</em>'s level or lower. If the target is magical, you can instead choose to have it appear as entirely non-magical.</p>
+  <p>A caster using <em>detect magic</em> or <em>read aura</em> of an equal or higher spell level can attempt to disbelieve the illusion from <em>magic aura</em>. <em>Magic aura</em> doesn't mask the aura of spells that are 9th level or higher or of items that are 19th level or higher.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> You can target a creature instead of an object. When you do, you can either conceal the auras of all magic items it has or have that creature's aura appear as if it were under the effect of a spell you know.</p>

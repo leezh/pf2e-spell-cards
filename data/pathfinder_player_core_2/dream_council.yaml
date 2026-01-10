@@ -1,25 +1,27 @@
 actions: ''
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: dream_council
-lessons: []
+domain: []
+id: spell-1988
+legacy: false
+lesson: []
 level: 8
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Dream Council
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- concentrate
-- illusion
-- manipulate
-- mental
-- sleep
-type: spell
+- Concentrate
+- Illusion
+- Manipulate
+- Mental
+- Sleep
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

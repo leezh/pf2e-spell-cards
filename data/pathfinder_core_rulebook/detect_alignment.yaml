@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-65
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Detect Alignment
+traditions:
+- Divine
+- Occult
+traits:
+- Detection
+- Divination
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot emanation</p>
+  <hr/>
+  <p>Your eyes glow as you sense aligned auras. Choose chaotic, evil, good, or lawful. You detect auras of that alignment. You receive no information beyond presence or absence. You can choose not to detect creatures or effects you're aware have that alignment.</p>
+  <p>Only creatures of 6th level or higher—unless divine spellcasters, undead, or beings from the Outer Sphere—have alignment auras.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (2nd)</strong> You learn each aura's location and strength.</p>
+  <p>The strength of an alignment aura depends on the level of the creature, item, or spell. The auras of undead, clerics and other divine spellcasters with a patron deity, and creatures from the Outer Sphere are one step stronger than normal (faint instead of none, for example).</p>
+  <table><tr><td><strong>Creature or Item Level</strong></td><td><strong>Spell or Effect Level</strong></td><td><strong>Aura Strength</strong></td></tr><tr><td>0-5</td><td>—</td><td>None</td></tr><tr><td>6-10</td><td>0-3</td><td>Faint</td></tr><tr><td>11-15</td><td>4-7</td><td>Moderate</td></tr><tr><td>16-20</td><td>8-9</td><td>Powerful</td></tr><tr><td>21+</td><td>10</td><td>Overwhelming</td></tr></table>

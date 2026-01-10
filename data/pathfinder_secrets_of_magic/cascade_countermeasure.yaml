@@ -1,0 +1,29 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-1036
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Cascade Countermeasure
+traditions: []
+traits:
+- Abjuration
+- Focus
+- Magus
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent requirements"><strong>Requirements</strong> You're benefiting from Arcane Cascade.</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the Arcane Cascade stance ends</p>
+  <hr/>
+  <p>You quickly adjust your Arcane Cascade to offer magical protection. You gain resistance 5 against damage from spells. As normal, using Arcane Cascade again means you've ended the stance, and the spell ends.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+3)</strong> The resistance increases by 5.</p>

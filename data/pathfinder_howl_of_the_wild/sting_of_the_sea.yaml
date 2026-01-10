@@ -1,0 +1,33 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1939
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron:
+- Ripple in the Deep
+rarity: Uncommon
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Sting of the Sea
+traditions: []
+traits:
+- Cantrip
+- Concentrate
+- Hex
+- Witch
+type: Cantrip
+
+--- >
+  <p class="hanging-indent patron"><strong>Patron</strong> ripple in the deep</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>A long tentacle like that belonging to an octopus, anemone, or man-of-war, dripping with briny water, appears from a glowing blue portal to wrap around the target’s face, blocking its vision. For the duration of the spell, the target must attempt a Fortitude save at the beginning of its turn. The portal follows the target around, and the tentacle can’t be targeted or harmed.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes a –2 penalty to Perception checks involving vision until the end of its turn.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is dazzled until the end of its turn.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is blinded until the end of its turn.</p>

@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: storm_lord
-lessons: []
+domain: []
+id: spell-1858
+legacy: false
+lesson: []
 level: 9
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Storm Lord
 traditions: []
 traits:
-- air
-- concentrate
-- druid
-- electricity
-- focus
-- manipulate
-type: focus
+- Air
+- Concentrate
+- Druid
+- Electricity
+- Focus
+- Manipulate
+type: Focus
 
 --- >
   <p class="hanging-indent requirements"><strong>Requirements</strong> You are outdoors and aboveground</p>
@@ -26,8 +28,8 @@ type: focus
   <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>
   <p>The sky above you darkens in a matter of moments, swirling with ominous clouds punctuated by flashes of lighting. When you Cast the Spell and the first time you Sustain it each turn on subsequent rounds, select one of the following effects to occur in the area.</p>
-  <li><strong>Calm</strong> No additional effect.</li>
-  <li><strong>Fog</strong> Heavy fog rolls in, with the effects of <em>mist</em>.</li>
-  <li><strong>Rain</strong> Torrential rain falls from the sky, dousing ordinary flames. Creatures in the area take a –2 circumstance penalty to Acrobatics and Perception checks.</li>
-  <li><strong>Wind</strong> Powerful winds buffet the area in all directions. Ranged attacks take a –4 circumstance penalty, and the area is difficult terrain for flying creatures.</li>
   <p>In addition, once per round you can use a single action, which has the concentrate and manipulate traits, to call down a bolt of lightning, striking any target in range that you can see. You deal 10d6 electricity damage to the target; it must attempt a basic Reflex save. On a failure, it is also deafened for 1 round.</p>
+  <li><strong>Wind</strong> Powerful winds buffet the area in all directions. Ranged attacks take a –4 circumstance penalty, and the area is difficult terrain for flying creatures.</li>
+  <li><strong>Rain</strong> Torrential rain falls from the sky, dousing ordinary flames. Creatures in the area take a –2 circumstance penalty to Acrobatics and Perception checks.</li>
+  <li><strong>Fog</strong> Heavy fog rolls in, with the effects of <em>mist</em>.</li>
+  <li><strong>Calm</strong> No additional effect.</li>

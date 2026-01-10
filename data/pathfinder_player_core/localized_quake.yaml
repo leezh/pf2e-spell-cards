@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- earth
-id: localized_quake
-lessons: []
+domain:
+- Earth
+id: spell-1799
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Localized Quake
 traditions: []
 traits:
-- cleric
-- concentrate
-- earth
-- focus
-- manipulate
-type: focus
+- Cleric
+- Concentrate
+- Earth
+- Focus
+- Manipulate
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> earth</p>

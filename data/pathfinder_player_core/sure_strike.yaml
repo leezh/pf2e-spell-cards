@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: sure_strike
-lessons: []
+domain: []
+id: spell-1709
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons:
+mystery: []
+patron:
 - Spinner of Threads
-rarity: common
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Sure Strike
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- concentrate
-- fortune
-type: spell
+- Concentrate
+- Fortune
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

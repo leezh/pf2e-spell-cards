@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines:
-- diabolic
+bloodline:
+- Diabolic
 copyright: 2024 Paizo Inc.
-domains: []
-id: embrace_the_pit
-lessons: []
+domain: []
+id: spell-2100
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Embrace the Pit
 traditions: []
 traits:
-- concentrate
-- focus
-- morph
-- sorcerer
-type: focus
+- Concentrate
+- Focus
+- Morph
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> diabolic</p>

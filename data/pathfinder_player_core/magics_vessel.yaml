@@ -1,22 +1,24 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- magic
-id: magics_vessel
-lessons: []
+domain:
+- Magic
+id: spell-1816
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Magic's Vessel
 traditions: []
 traits:
-- cleric
-- focus
-- manipulate
-type: focus
+- Cleric
+- Focus
+- Manipulate
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> magic</p>

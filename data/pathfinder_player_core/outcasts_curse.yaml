@@ -1,27 +1,29 @@
 actions: '[two-actions]'
-bloodlines:
-- hag
+bloodline:
+- Hag
 copyright: 2023 Paizo Inc.
-domains: []
-id: outcasts_curse
-lessons: []
+domain: []
+id: spell-1620
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Outcast's Curse
 traditions:
-- arcane
-- divine
-- occult
+- Arcane
+- Divine
+- Occult
 traits:
-- concentrate
-- curse
-- manipulate
-- mental
-- misfortune
-type: spell
+- Concentrate
+- Curse
+- Manipulate
+- Mental
+- Misfortune
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>

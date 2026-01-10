@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2025 Paizo Inc.
+domain: []
+id: spell-2506
+legacy: false
+lesson: []
+level: 6
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Battlecry!
+title: Frozen Fog
+traditions:
+- Arcane
+- Primal
+traits:
+- Cold
+- Concentrate
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic fortitude; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You conjure a chilling mist that settles into the bones and makes it difficult to move. This has the effects of <em>mist</em>, except that you can Sustain the spell once per round to move the fog up to 10 feet. A creature that starts its turn in the area takes 6d8 cold damage with a basic Fortitude save. A creature that fails its save is also clumsy 1 for 1 minute (clumsy 2 on a critical failure) and takes a –10-foot status penalty to Speeds for as long as it’s clumsy.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The damage increases by 3d8.</p>

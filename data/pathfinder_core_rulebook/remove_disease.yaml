@@ -1,0 +1,28 @@
+actions: ''
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-251
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Remove Disease
+traditions:
+- Divine
+- Primal
+traits:
+- Healing
+- Necromancy
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 10 minutes (material, somatic, verbal)</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <hr/>
+  <p>Healing magic purges disease from a creature's body. You attempt to counteract one disease afflicting the target.</p>

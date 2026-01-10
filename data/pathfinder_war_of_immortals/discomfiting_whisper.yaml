@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-2139
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder War of Immortals
+title: Discomfiting Whisper
+traditions: []
+traits:
+- Animist
+- Aura
+- Focus
+- Misfortune
+- Void
+type: Focus
+
+--- >
+  <p class="hanging-indent area"><strong>Area</strong> 5-foot emanation</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You are surrounded by an aura of spiteful murmurings that incite bad luck and punish failure. Each creature that starts their turn within the area of this spell must succeed at a Will save or roll twice on their first attack roll that round and take the lower result. If an attack roll modified in this way results in a failure, the creature that rolled the failed attack takes 1d6 void damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The void damage dealt on a failure increases by 1d6.</p>

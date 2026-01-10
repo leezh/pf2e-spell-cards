@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- darkness
-id: darkened_sight
-lessons: []
+domain:
+- Darkness
+id: spell-1791
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Darkened Sight
 traditions: []
 traits:
-- cleric
-- concentrate
-- darkness
-- focus
-- manipulate
-type: focus
+- Cleric
+- Concentrate
+- Darkness
+- Focus
+- Manipulate
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> darkness</p>

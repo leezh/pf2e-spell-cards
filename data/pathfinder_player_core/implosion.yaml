@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines:
-- demonic
-- imperial
+bloodline:
+- Demonic
+- Imperial
 copyright: 2023 Paizo Inc.
-domains: []
-id: implosion
-lessons: []
+domain: []
+id: spell-1572
+legacy: false
+lesson: []
 level: 9
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Implosion
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- concentrate
-- manipulate
-type: spell
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

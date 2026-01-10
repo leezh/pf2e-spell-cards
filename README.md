@@ -17,29 +17,30 @@ format like so:
 
 ```yaml
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Example Inc.
-domains: []
+domain: []
 id: spell_id
-lessons: []
+lesson: []
+legacy: false
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Homebrew
 title: Spell Title
 traditions:
-- arcane
+- Arcane
 traits:
-- concentrate
-- manipulate
-type: spell
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
+  <p class="hanging-indent"><strong>Traditions</strong></p>
+  <hr/>
   <p>card 1 description</p>
-
---- >
-  <p>card 2 description</p>
 
 ```
 
@@ -56,9 +57,7 @@ To view the result you can go to the `build/` folder and use your
 favourite static file server such as `python -m http.server`.
 
 I have also included a script that fetches spell data from Archives of
-Nethys and generates the spell files. Some manual tweaking is required
-as it won't always convert the data cleanly, and it won't split long
-descriptions into multiple cards.
+Nethys and generates the spell files.
 
 ## Pull Requests
 
@@ -86,8 +85,8 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 **Note**
 
-Files in `data/` are under a separate license `data/LICENSE-ORC.md` from
-Paizo.
+Files in `data/` are under a mix of separate licenses
+`data/LICENSE-ORC.md` and `data/LICENSE-OGL.md` from Paizo.
 
 Files in `fonts/` are under a separate license `fonts/LICENSE-OFL.md`
 from The Mozilla Foundation.

@@ -1,29 +1,32 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: cataclysm
-lessons: []
+domain: []
+id: spell-1460
+legacy: false
+lesson: []
 level: 10
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Cataclysm
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
+- Elemental
 traits:
-- acid
-- air
-- cold
-- concentrate
-- earth
-- electricity
-- fire
-- manipulate
-- water
-type: spell
+- Acid
+- Air
+- Cold
+- Concentrate
+- Earth
+- Electricity
+- Fire
+- Manipulate
+- Water
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

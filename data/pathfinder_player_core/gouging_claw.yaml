@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: gouging_claw
-lessons: []
+domain: []
+id: spell-1546
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Gouging Claw
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- attack
-- cantrip
-- concentrate
-- manipulate
-- morph
-type: cantrip
+- Attack
+- Cantrip
+- Concentrate
+- Manipulate
+- Morph
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

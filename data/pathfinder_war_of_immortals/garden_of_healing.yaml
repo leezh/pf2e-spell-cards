@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-2166
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder War of Immortals
+title: Garden of Healing
+traditions: []
+traits:
+- Animist
+- Aura
+- Emotion
+- Focus
+- Healing
+- Mental
+type: Focus
+
+--- >
+  <p class="hanging-indent area"><strong>Area</strong> 10-foot emanation</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Spirits of comfort and respite swirl around you, trailing visions of growing grass and blooming blossoms. When you cast this spell and the first time you Sustain it on each subsequent round, you generate a pulse of renewing energy that heals each creature within the emanation for 1d4 Hit Points. The calm of this effect lingers; once this spell ends, any creature that has been affected by its healing gains a +1 circumstance bonus to saves against emotion effects for 10 minutes but does not receive any healing from additional castings of the spell while the bonus persists.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The healing granted by the spell’s pulse increases by 1d4 Hit Points.</p>

@@ -1,24 +1,26 @@
 actions: '[three-actions]'
-bloodlines:
-- angelic
+bloodline:
+- Angelic
 copyright: 2023 Paizo Inc.
-domains: []
-id: blessed_boundary
-lessons: []
+domain: []
+id: spell-1452
+legacy: false
+lesson: []
 level: 6
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Blessed Boundary
 traditions:
-- divine
+- Divine
 traits:
-- concentrate
-- force
-- manipulate
-- sanctified
-type: spell
+- Concentrate
+- Force
+- Manipulate
+- Sanctified
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>

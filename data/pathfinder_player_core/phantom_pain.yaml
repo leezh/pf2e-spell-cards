@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines:
-- aberrant
+bloodline:
+- Aberrant
 copyright: 2023 Paizo Inc.
-domains: []
-id: phantom_pain
-lessons:
-- vengeance
+domain: []
+id: spell-1632
+legacy: false
+lesson:
+- Vengeance
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Phantom Pain
 traditions:
-- occult
+- Occult
 traits:
-- concentrate
-- illusion
-- manipulate
-- mental
-- nonlethal
-type: spell
+- Concentrate
+- Illusion
+- Manipulate
+- Mental
+- Nonlethal
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> occult</p>

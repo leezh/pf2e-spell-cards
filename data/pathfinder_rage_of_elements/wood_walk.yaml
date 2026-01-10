@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain:
+- Wood
+id: spell-1419
+legacy: false
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Rage of Elements
+title: Wood Walk
+traditions: []
+traits:
+- Concentrate
+- Druid
+- Focus
+- Manipulate
+- Wood
+type: Focus
+
+--- >
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Wood shapes itself according to your will readily, making staircases appear as you climb up the side of a tree, automatically weaving vines into ladders, or lowering branches to lift you up to the top. Move up to your Speed in any direction or along any surface, so long as there are living plants or trees of size Large or larger within 15 feet of you. The wood allows you to move but doesn't protect you from hazardous terrain or other dangers.</p>
+  <p>Each time you Sustain this spell, you can move again in the same way.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (8th)</strong> The duration of this spell becomes 10 minutes. You no longer need to Sustain the spell to extend its duration, but you can Sustain it to move as described.</p>

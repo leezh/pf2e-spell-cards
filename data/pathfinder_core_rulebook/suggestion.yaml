@@ -1,0 +1,40 @@
+actions: '[two-actions]'
+bloodline:
+- Diabolic
+- Fey
+- Harrow
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-315
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Suggestion
+traditions:
+- Arcane
+- Occult
+traits:
+- Enchantment
+- Incapacitation
+- Linguistic
+- Mental
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>Your honeyed words are difficult for creatures to resist. You suggest a course of action to the target, which must be phrased in such a way as to seem like a logical course of action to the target and can't be self-destructive or obviously against the target's self-interest. The target must attempt a Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected and knows you tried to control it.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is unaffected and thinks you were talking to them normally, not casting a spell on them.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target immediately follows your suggestion. The spell has a duration of 1 minute, or until the target has completed a finite suggestion or the suggestion becomes self-destructive or has other obvious negative effects.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, but the base duration is 1 hour.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (8th)</strong> You can target up to 10 creatures.</p>

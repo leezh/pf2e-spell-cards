@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines:
-- fey
+bloodline:
+- Fey
 copyright: 2024 Paizo Inc.
-domains: []
-id: fey_glamour
-lessons: []
+domain: []
+id: spell-2110
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Fey Glamour
 traditions: []
 traits:
-- concentrate
-- focus
-- illusion
-- manipulate
-- sorcerer
-type: focus
+- Concentrate
+- Focus
+- Illusion
+- Manipulate
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> fey</p>

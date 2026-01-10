@@ -1,0 +1,29 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Death
+id: spell-413
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Death's Call
+traditions: []
+traits:
+- Cleric
+- Focus
+- Necromancy
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> death</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> A living creature within 20 feet of you dies, or an undead creature within 20 feet of you is destroyed.</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Seeing another pass from this world to the next invigorates you. You gain temporary Hit Points equal to the triggering creature's level plus your spellcasting ability modifier. If the triggering creature was undead, double the number of temporary Hit Points you gain. These last for the duration of the spell, and the spell ends if all the temporary Hit Points are depleted earlier.</p>

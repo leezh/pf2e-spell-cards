@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Death
+id: spell-420
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Eradicate Undeath
+traditions: []
+traits:
+- Cleric
+- Focus
+- Necromancy
+- Positive
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> death</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot cone</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Fortitude</p>
+  <hr/>
+  <p>A massive deluge of life energy causes the undead to fall apart. Each undead creature in the area takes 4d12 positive damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d12.</p>

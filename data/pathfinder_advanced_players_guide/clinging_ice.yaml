@@ -1,0 +1,37 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-793
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron:
+- Winter
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Clinging Ice
+traditions: []
+traits:
+- Cantrip
+- Cold
+- Conjuration
+- Hex
+- Witch
+type: Cantrip
+
+--- >
+  <p class="hanging-indent patron"><strong>Patron</strong> winter</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Reflex; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Freezing sleet and heavy snowfall collect on the target's feet and legs, dealing 1d4 cold damage and other effects depending on its Reflex save. Once this spell ends, the target becomes temporarily immune for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes half damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target takes full damage, and takes a –5-foot circumstance penalty to its Speeds until the spell ends.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target takes double damage and a –10-foot circumstance penalty to its Speeds until the spell ends.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>

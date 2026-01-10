@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- cities
-id: face_in_the_crowd
-lessons: []
+domain:
+- Cities
+id: spell-1784
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Face in the Crowd
 traditions: []
 traits:
-- cleric
-- focus
-- manipulate
-- visual
-type: focus
+- Cleric
+- Focus
+- Manipulate
+- Visual
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> cities</p>

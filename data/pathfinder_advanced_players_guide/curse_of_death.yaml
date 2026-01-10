@@ -1,0 +1,39 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-794
+legacy: true
+lesson:
+- Death
+level: 5
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Curse of Death
+traditions: []
+traits:
+- Curse
+- Death
+- Focus
+- Hex
+- Necromancy
+- Witch
+type: Focus
+
+--- >
+  <p class="hanging-indent lesson"><strong>Lesson</strong> death</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You focus your malevolent gaze on a target, causing their heart to seize in dread. The target must attempt a Fortitude saving throw. Regardless of the result, the target is temporarily immune to further castings of <em>curse of death</em> for 1 day.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is afflicted with the curse of death at stage 1, and the stage of the curse can't increase beyond stage 1.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is afflicted with the curse of death at stage 1.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is afflicted with the curse of death at stage 2.</p>
+  <p class="hanging-indent"><strong>Curse of Death</strong> (curse) This curse ends immediately when the spell ends; <strong>Stage 1</strong> 4d6 negative damage and fatigued (1 round); <strong>Stage 2</strong> 8d6 negative damage and fatigued (1 round); <strong>Stage 3</strong> 12d6 negative damage and fatigued (1 round); <strong>Stage 4</strong> death</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> Increase the negative damage taken on a success and during the first three stages of the curse by 1d6.</p>

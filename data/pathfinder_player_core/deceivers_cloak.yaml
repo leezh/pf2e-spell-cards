@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: deceivers_cloak
-lessons:
-- mischief
+domain: []
+id: spell-1877
+legacy: false
+lesson:
+- Mischief
 level: 3
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Deceiver's Cloak
 traditions: []
 traits:
-- concentrate
-- focus
-- hex
-- illusion
-- manipulate
-- witch
-type: focus
+- Concentrate
+- Focus
+- Hex
+- Illusion
+- Manipulate
+- Witch
+type: Focus
 
 --- >
   <p class="hanging-indent lesson"><strong>Lesson</strong> mischief</p>

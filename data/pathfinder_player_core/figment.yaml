@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines:
-- fey
+bloodline:
+- Fey
 copyright: 2023 Paizo Inc.
-domains: []
-id: figment
-lessons: []
+domain: []
+id: spell-1528
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Figment
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- cantrip
-- concentrate
-- illusion
-- manipulate
-- subtle
-type: cantrip
+- Cantrip
+- Concentrate
+- Illusion
+- Manipulate
+- Subtle
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

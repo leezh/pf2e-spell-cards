@@ -1,24 +1,26 @@
 actions: '[three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: wall_of_wind
-lessons:
-- snow
+domain: []
+id: spell-1753
+legacy: false
+lesson:
+- Snow
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Wall of Wind
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- air
-- concentrate
-- manipulate
-type: spell
+- Air
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-799
+legacy: true
+lesson:
+- Life
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Life Boost
+traditions: []
+traits:
+- Focus
+- Healing
+- Hex
+- Necromancy
+- Witch
+type: Focus
+
+--- >
+  <p class="hanging-indent lesson"><strong>Lesson</strong> life</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 4 rounds</p>
+  <hr/>
+  <p>You temporarily bolster the target's vitality. The target gains fast healing equal to double the spell's level.</p>

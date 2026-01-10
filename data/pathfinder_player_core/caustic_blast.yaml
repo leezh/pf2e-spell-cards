@@ -1,25 +1,28 @@
 actions: '[two-actions]'
-bloodlines:
-- demonic
+bloodline:
+- Demonic
 copyright: 2023 Paizo Inc.
-domains: []
-id: caustic_blast
-lessons: []
+domain: []
+id: spell-1461
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery:
+- Blight
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Caustic Blast
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- acid
-- cantrip
-- concentrate
-- manipulate
-type: cantrip
+- Acid
+- Cantrip
+- Concentrate
+- Manipulate
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

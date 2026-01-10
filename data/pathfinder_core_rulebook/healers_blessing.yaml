@@ -1,0 +1,32 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Healing
+id: spell-426
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Healer's Blessing
+traditions: []
+traits:
+- Cleric
+- Focus
+- Necromancy
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> healing</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 willing living creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Your words bless a creature with an enhanced connection to positive energy. When the target regains Hit Points from a healing spell, it regains 2 additional Hit Points.</p>
+  <p>The target regains additional Hit Points from healer's blessing only the first time it regains HP from a given healing spell, so a spell that heals the creature repeatedly over a duration would restore additional Hit Points only once.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The additional healing increases by 2 HP.</p>

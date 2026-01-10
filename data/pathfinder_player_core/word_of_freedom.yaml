@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- freedom
-id: word_of_freedom
-lessons: []
+domain:
+- Freedom
+id: spell-1807
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Word of Freedom
 traditions: []
 traits:
-- cleric
-- concentrate
-- focus
-- mental
-type: focus
+- Cleric
+- Concentrate
+- Focus
+- Mental
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> freedom</p>

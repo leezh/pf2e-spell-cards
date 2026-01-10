@@ -1,21 +1,23 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: qi_rush
-lessons: []
+domain: []
+id: spell-2054
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Qi Rush
 traditions: []
 traits:
-- concentrate
-- focus
-- monk
-type: focus
+- Concentrate
+- Focus
+- Monk
+type: Focus
 
 --- >
   <p>Accelerated by your qi, you move with such speed you become a blur. Move two times: two Strides, two Steps, or one Stride and one Step (in either order). You gain the concealed condition during this movement and until the start of your next turn.</p>

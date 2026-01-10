@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodline:
+- Undead
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-108
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: False Life
+traditions:
+- Arcane
+- Occult
+traits:
+- Necromancy
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 8 hours</p>
+  <hr/>
+  <p>You create a reservoir of vitality from necromantic energy, gaining 10 temporary Hit Points.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The temporary Hit Points increase by 3.</p>

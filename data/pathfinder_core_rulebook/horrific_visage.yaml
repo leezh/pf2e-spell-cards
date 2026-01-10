@@ -1,0 +1,38 @@
+actions: '[two-actions]'
+bloodline:
+- Hag
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-514
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Horrific Visage
+traditions: []
+traits:
+- Emotion
+- Fear
+- Focus
+- Illusion
+- Mental
+- Sorcerer
+- Visual
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> hag</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot-radius emanation centered on you</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will</p>
+  <hr/>
+  <p>You briefly transform your features into the horrific visage of a hag, striking fear into your enemies. Foes in the area must attempt a Will save.</p>
+  <p class="hanging-indent"><strong>Success</strong> The foe is unaffected.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The foe is frightened 1.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The foe is frightened 2.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> Foes in the area are frightened 1 on a success, frightened 2 on a failure, and frightened 3 and fleeing for 1 round on a critical failure. They are still unaffected on a critical success.</p>

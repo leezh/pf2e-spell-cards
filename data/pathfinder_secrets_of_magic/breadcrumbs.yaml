@@ -1,0 +1,34 @@
+actions: ''
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-876
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Breadcrumbs
+traditions:
+- Arcane
+- Divine
+- Occult
+- Primal
+- Elemental
+traits:
+- Abjuration
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 minute (material, somatic, verbal)</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>You protect your target from going astray in hostile territory by tracking where it's already been, helping it deduce where it still needs to go. The target leaves a glittering trail behind it that lasts for the spell's duration. This trail doesn't denote the direction or the order of its path—it merely indicates where the target has moved during the spell's duration.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (2nd)</strong> The duration increases to 8 hours.</p>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> The duration increases to last until your next daily preparations.</p>

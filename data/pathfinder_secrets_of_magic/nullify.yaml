@@ -1,0 +1,31 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-958
+legacy: true
+lesson: []
+level: 10
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Nullify
+traditions:
+- Arcane
+- Divine
+- Occult
+- Primal
+- Elemental
+traits:
+- Abjuration
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> a foe within range casts a 9th-level or lower spell</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Targets</strong> the triggering spell</p>
+  <hr/>
+  <p>You instantly destroy the incoming spell, though at the cost of sending magical feedback through your body. You automatically counteract the spell, but the feedback brings you unavoidable harm. You lose 1d8 Hit Points per level of the triggering spell.</p>

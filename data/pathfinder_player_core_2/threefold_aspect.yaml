@@ -1,23 +1,25 @@
 actions: ''
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: threefold_aspect
-lessons: []
+domain: []
+id: spell-2038
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Threefold Aspect
 traditions:
-- occult
-- primal
+- Occult
+- Primal
 traits:
-- concentrate
-- manipulate
-- polymorph
-type: spell
+- Concentrate
+- Manipulate
+- Polymorph
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> occult, primal</p>

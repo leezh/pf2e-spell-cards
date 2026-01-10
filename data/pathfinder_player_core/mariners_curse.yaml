@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines:
-- hag
+bloodline:
+- Hag
 copyright: 2023 Paizo Inc.
-domains: []
-id: mariners_curse
-lessons: []
+domain: []
+id: spell-1593
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Mariner's Curse
 traditions:
-- arcane
-- occult
-- primal
+- Arcane
+- Occult
+- Primal
 traits:
-- concentrate
-- curse
-- manipulate
-type: spell
+- Concentrate
+- Curse
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>

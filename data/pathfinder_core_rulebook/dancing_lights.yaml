@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-58
+legacy: true
+lesson: []
+level: 1
+mystery:
+- Cosmos
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Dancing Lights
+traditions:
+- Arcane
+- Occult
+- Primal
+traits:
+- Cantrip
+- Evocation
+- Light
+type: Cantrip
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained</p>
+  <hr/>
+  <p>You create up to four floating lights, no two of which are more than 10 feet apart. Each sheds light like a torch. When you Sustain the Spell, you can move any number of lights up to 60 feet. Each light must remain within 120 feet of you and within 10 feet of all others, or it winks out.</p>

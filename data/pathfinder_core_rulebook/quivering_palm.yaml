@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-487
+legacy: true
+lesson: []
+level: 8
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Quivering Palm
+traditions: []
+traits:
+- Focus
+- Incapacitation
+- Monk
+- Necromancy
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> 1 month</p>
+  <hr/>
+  <p>Make a melee unarmed Strike. If you hit and the target is alive, anytime during the duration, you can spend a single action, which has the auditory and concentrate traits, to speak a word of death that could instantly slay it. The target must attempt a Fortitude save.</p>
+  <p>If you cast <em>quivering palm</em> again, the effects of any <em>quivering palm</em> you had previously cast end.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target survives, the spell ends, and the target is then temporarily immune for 24 hours.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is stunned 1 and takes 40 damage, the spell ends, and the target is then temporarily immune for 24 hours.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is stunned 3 and takes 80 damage. The spell's duration continues, but the target is then temporarily immune for 24 hours against being killed by <em>quivering palm</em>.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target dies.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 10 on a failure, or 5 on a success.</p>

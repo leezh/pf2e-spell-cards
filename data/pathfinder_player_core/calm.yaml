@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: calm
-lessons: []
+domain: []
+id: spell-1458
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Calm
 traditions:
-- divine
-- occult
+- Divine
+- Occult
 traits:
-- concentrate
-- emotion
-- incapacitation
-- manipulate
-- mental
-type: spell
+- Concentrate
+- Emotion
+- Incapacitation
+- Manipulate
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>

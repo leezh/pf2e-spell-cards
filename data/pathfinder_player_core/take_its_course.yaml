@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- indulgence
-id: take_its_course
-lessons: []
+domain:
+- Indulgence
+id: spell-1811
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Take its Course
 traditions: []
 traits:
-- cleric
-- concentrate
-- focus
-- fortune
-type: focus
+- Cleric
+- Concentrate
+- Focus
+- Fortune
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> indulgence</p>

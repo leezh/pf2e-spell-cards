@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: spout
-lessons: []
+domain: []
+id: spell-2031
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Spout
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- cantrip
-- concentrate
-- manipulate
-- water
-type: cantrip
+- Cantrip
+- Concentrate
+- Manipulate
+- Water
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

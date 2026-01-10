@@ -1,22 +1,24 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: qi_form
-lessons: []
+domain: []
+id: spell-2060
+legacy: false
+lesson: []
 level: 9
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Qi Form
 traditions: []
 traits:
-- concentrate
-- focus
-- monk
-- polymorph
-type: focus
+- Concentrate
+- Focus
+- Monk
+- Polymorph
+type: Focus
 
 --- >
   <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>

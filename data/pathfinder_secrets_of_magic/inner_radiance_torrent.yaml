@@ -1,0 +1,34 @@
+actions: '[two-actions] to 2 rounds'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-934
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Inner Radiance Torrent
+traditions:
+- Divine
+- Occult
+traits:
+- Force
+- Light
+- Necromancy
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent area"><strong>Area</strong> line 60 feet or longer</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex</p>
+  <hr/>
+  <p>You gradually manifest your spiritual energy into your cupped hands before firing off a storm of bolts and beams that deal 4d4 force damage to all creatures in a 60-foot line. Creatures in the area must attempt a basic Reflex save. On a critical failure, they're also blinded for 1 round. The number of actions you spend when Casting this Spell determines the area. If the line passes through an area of magical darkness or targets a creature affected by magical darkness, <em>inner radiance torrent</em> attempts to counteract the darkness.</p>
+  <p>[two-actions] <strong>(somatic, verbal)</strong> The line is 60 feet long.</p>
+  <p>[three-actions] <strong>(material, somatic, verbal)</strong> The line is 120 feet long.</p>
+  <p class="hanging-indent"><strong>Two Rounds</strong> The line is 120 feet long. If you spend 3 actions casting the spell, you can avoid finishing the spell and spend another 3 actions on your next turn to empower the spell even further. If you choose to do so, the damage dealt by this spell increases by 4d4, and you enter a shining state for 1 minute, causing you to glow with light and deal 1 force damage to creatures that end their turn adjacent to you.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The initial damage, as well as the additional damage for the 2-round casting time, each increase by 2d4, and the damage to adjacent creatures dealt while in your shining state increases by 1.</p>

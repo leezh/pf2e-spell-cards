@@ -1,0 +1,37 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1182
+legacy: true
+lesson:
+- Bargains
+level: 5
+mystery: []
+patron: []
+rarity: Rare
+remaster: false
+source: Pathfinder Dark Archive
+title: Over the Coals
+traditions: []
+traits:
+- Focus
+- Hex
+- Mental
+- Necromancy
+- Witch
+type: Focus
+
+--- >
+  <p class="hanging-indent lesson"><strong>Lesson</strong> bargains</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You accuse the target of breaking its word to you and invoke the wrath of your patron to claim what's due, demanding the target pay you in currency, fulfill an order, or stand down. The demand can't be obviously self-destructive, or the spell fails. If the target resists, you take your payment from its life force. The target must attempt a Will save. Regardless of the result of its save, the target is temporarily immune for 1 day.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected and is immune to your <em>pact broker</em> cantrips for 1 day.</p>
+  <p class="hanging-indent"><strong>Success</strong> If the target doesn't comply with your request by the end of its next turn, it takes 3d8 persistent negative damage. If it later complies, the spell automatically ends.</p>
+  <p class="hanging-indent"><strong>Failure</strong> As success, but if the target doesn't comply, it is drained 1 and takes 6d8 persistent negative damage.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As success, but if the target doesn't comply, it is drained 2, doomed 1, and takes 6d8 persistent negative damage. Even if the target completes your commands later, the spell doesn't end until all the conditions end.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (9th)</strong> You can target up to two creatures.</p>

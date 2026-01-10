@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-182
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron:
+- Rune
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Magic Weapon
+traditions:
+- Arcane
+- Divine
+- Occult
+- Elemental
+traits:
+- Transmutation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 weapon that is unattended or wielded by you or a willing ally</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>The weapon glimmers with magic and energy. The target becomes a <em>+1 striking weapon</em>, gaining a +1 item bonus to attack rolls and increasing the number of weapon damage dice to two.</p>

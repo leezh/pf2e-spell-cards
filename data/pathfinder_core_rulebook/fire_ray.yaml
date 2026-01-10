@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Fire
+id: spell-422
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Fire Ray
+traditions: []
+traits:
+- Attack
+- Cleric
+- Evocation
+- Fire
+- Focus
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> fire</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <hr/>
+  <p>A blazing band of fire arcs through the air. Make a spell attack roll. The ray deals 2d6 fire damage.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The ray deals double damage and 1d4 persistent fire damage.</p>
+  <p class="hanging-indent"><strong>Success</strong> The ray deals full damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The ray's initial damage increases by 2d6, and the persistent fire damage on a critical success increases by 1d4.</p>

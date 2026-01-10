@@ -1,0 +1,28 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2025 Paizo Inc.
+domain: []
+id: spell-2489
+legacy: false
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Battlecry!
+title: Shielding Formation
+traditions: []
+traits:
+- Concentrate
+- Focus
+- Force
+- Manipulate
+- Wizard
+type: Focus
+
+--- >
+  <p class="hanging-indent range"><strong>Range</strong> 30-foot emanation</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You conjure magical shields of force to protect your allies around you. You and each ally who ends their turn within the emanation gain a +1 circumstance bonus to AC until they leave the emanation or the spell ends, whichever comes first. If an ally takes physical damage or damage from a spell or magical effect while being granted this bonus, they can choose to end the bonus for themselves as a free action to gain resistance 10 to all damage against the triggering damage. If they do, they become temporarily immune to the effects of shielding formation for 10 minutes. You can do the same by spending your reaction; if you do, you can’t cast shielding formation again for 10 minutes, though you can continue Sustaining the benefits for others.</p>

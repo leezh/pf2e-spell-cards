@@ -1,0 +1,32 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-535
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Shifting Form
+traditions: []
+traits:
+- Focus
+- Morph
+- Transmutation
+- Wizard
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You gain one of the following abilities of your choice. You can Dismiss this spell.</p>
+  <li>You gain a 20-foot status bonus to your Speed.</li>
+  <li>You gain a climb or swim Speed equal to half your Speed.</li>
+  <li>You gain darkvision.</li>
+  <li>You gain a pair of claws. These are agile finesse unarmed attacks that deal 1d8 slashing damage.</li>
+  <li>You gain scent 60 feet (imprecise).</li>

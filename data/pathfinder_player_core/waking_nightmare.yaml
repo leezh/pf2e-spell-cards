@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- nightmares
-id: waking_nightmare
-lessons: []
+domain:
+- Nightmares
+id: spell-1824
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Waking Nightmare
 traditions: []
 traits:
-- cleric
-- concentrate
-- emotion
-- fear
-- focus
-- manipulate
-- mental
-type: focus
+- Cleric
+- Concentrate
+- Emotion
+- Fear
+- Focus
+- Manipulate
+- Mental
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> nightmares</p>

@@ -1,28 +1,31 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: message
-lessons: []
+domain: []
+id: spell-1598
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Message
 traditions:
-- arcane
-- divine
-- occult
+- Arcane
+- Divine
+- Occult
+- Elemental
 traits:
-- auditory
-- cantrip
-- concentrate
-- illusion
-- linguistic
-- mental
-- subtle
-type: cantrip
+- Auditory
+- Cantrip
+- Concentrate
+- Illusion
+- Linguistic
+- Mental
+- Subtle
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>

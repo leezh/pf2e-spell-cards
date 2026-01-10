@@ -1,22 +1,24 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: protective_wards
-lessons: []
+domain: []
+id: spell-1894
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Protective Wards
 traditions: []
 traits:
-- aura
-- focus
-- manipulate
-- wizard
-type: focus
+- Aura
+- Focus
+- Manipulate
+- Wizard
+type: Focus
 
 --- >
   <p class="hanging-indent area"><strong>Area</strong> 5-foot emanation centered on you</p>

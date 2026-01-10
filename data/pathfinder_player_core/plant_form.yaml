@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: plant_form
-lessons: []
+domain: []
+id: spell-1637
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Plant Form
 traditions:
-- primal
+- Primal
 traits:
-- concentrate
-- manipulate
-- plant
-- polymorph
-- wood
-type: spell
+- Concentrate
+- Manipulate
+- Plant
+- Polymorph
+- Wood
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>

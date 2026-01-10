@@ -1,0 +1,38 @@
+actions: '[two-actions]'
+bloodline:
+- Diabolic
+- Elemental
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-236
+legacy: true
+lesson: []
+level: 1
+mystery:
+- Ash
+- Flames
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Produce Flame
+traditions:
+- Arcane
+- Primal
+traits:
+- Attack
+- Cantrip
+- Evocation
+- Fire
+type: Cantrip
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <hr/>
+  <p>A small ball of flame appears in the palm of your hand, and you lash out with it either in melee or at range. Make a spell attack roll against your target's AC. This is normally a ranged attack, but you can also make a melee attack against a creature in your unarmed reach. The flame deals 2d4 fire damage.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target takes double damage and 1d4 persistent fire damage.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes full damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> Increase the damage by 1d4 and the persistent damage on a critical hit by 1d4.</p>

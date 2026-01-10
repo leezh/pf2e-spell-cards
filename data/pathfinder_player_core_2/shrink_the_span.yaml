@@ -1,22 +1,24 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: shrink_the_span
-lessons: []
+domain: []
+id: spell-2056
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Shrink the Span
 traditions: []
 traits:
-- focus
-- manipulate
-- monk
-- teleportation
-type: focus
+- Focus
+- Manipulate
+- Monk
+- Teleportation
+type: Focus
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> See Below</p>

@@ -1,0 +1,29 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Luck
+id: spell-430
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Lucky Break
+traditions: []
+traits:
+- Cleric
+- Divination
+- Focus
+- Fortune
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> luck</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> You fail (but don't critically fail) a saving throw.</p>
+  <hr/>
+  <p>Reroll the saving throw and use the better result. You then become temporarily immune for 10 minutes.</p>

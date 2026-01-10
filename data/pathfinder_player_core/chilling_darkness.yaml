@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: chilling_darkness
-lessons:
-- shadow
+domain: []
+id: spell-1464
+legacy: false
+lesson:
+- Shadow
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Chilling Darkness
 traditions:
-- divine
+- Divine
 traits:
-- attack
-- cold
-- concentrate
-- darkness
-- manipulate
-- unholy
-type: spell
+- Attack
+- Cold
+- Concentrate
+- Darkness
+- Manipulate
+- Unholy
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>

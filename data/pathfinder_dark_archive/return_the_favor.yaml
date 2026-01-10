@@ -1,0 +1,32 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1181
+legacy: true
+lesson:
+- Favors
+level: 3
+mystery: []
+patron: []
+rarity: Rare
+remaster: false
+source: Pathfinder Dark Archive
+title: Return the Favor
+traditions: []
+traits:
+- Focus
+- Hex
+- Necromancy
+- Witch
+type: Focus
+
+--- >
+  <p class="hanging-indent lesson"><strong>Lesson</strong> favors</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> An ally uses a reaction to grant you a beneficial effect during a combat encounter</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 ally</p>
+  <hr/>
+  <p>You're unable to leave any debts unpaid. When an ally supports you in a fight, you offer assistance in turn for the favor. The triggering ally gains 12 temporary Hit Points for 1 minute.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The temporary Hit Points increase by 4.</p>

@@ -1,0 +1,32 @@
+actions: ''
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-1011
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Summoner's Precaution
+traditions:
+- Arcane
+- Divine
+- Occult
+- Primal
+traits:
+- Contingency
+- Necromancy
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 10 minutes (material, somatic, verbal)</p>
+  <p class="hanging-indent requirements"><strong>Requirements</strong> You have an eidolon.</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until your next daily preparations</p>
+  <hr/>
+  <p>You create a buffer in the link between yourself and your eidolon in order to prevent you from falling alongside your bonded ally. You gain the following reaction; after using it, the spell ends.</p>
+  <p class="hanging-indent"><strong>Sever Conduit</strong> [reaction] (concentrate) <strong>Trigger</strong> Your eidolon takes damage that would bring you to 0 Hit Points and comes from an effect other than a death effect; <strong>Effect</strong> You quickly shut the buffer in your link with your eidolon, causing your bonded ally to wink out of existence before you can be laid low. Your eidolon unmanifests, and you can't Manifest your Eidolon for 1 minute. In exchange, you don't take the triggering damage, though your eidolon still suffers any other adverse effects that accompanied the damage.</p>

@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines:
-- demonic
-- imperial
+bloodline:
+- Demonic
+- Imperial
 copyright: 2023 Paizo Inc.
-domains: []
-id: disintegrate
-lessons: []
+domain: []
+id: spell-1492
+legacy: false
+lesson: []
 level: 6
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Disintegrate
 traditions:
-- arcane
+- Arcane
 traits:
-- attack
-- concentrate
-- manipulate
-type: spell
+- Attack
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane</p>

@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-740
+legacy: true
+lesson: []
+level: 7
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Shadow's Web
+traditions: []
+traits:
+- Evocation
+- Focus
+- Monk
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>Grasping darkness surges from you, dealing 14d4 negative damage. Each creature in the area must attempt a Fortitude save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes half damage and is enfeebled 1 for 1 round.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes full damage and is enfeebled 2 for 1 round.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature takes double damage and is stunned 1, enfeebled 2 for 1 round, and immobilized for 1 round or until it Escapes, whichever comes first.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The negative damage increases by 2d4.</p>

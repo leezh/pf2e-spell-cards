@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1936
+legacy: false
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Pack Breaker
+traditions: []
+traits:
+- Concentrate
+- Focus
+- Manipulate
+- Mental
+- Ranger
+type: Focus
+
+--- >
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You can deceive creatures by changing their perception of their allies’ behavior. Each affected creature suspects their allies have changed allegiance, depending on the outcome of their Will save. Regardless of the effects of the saving throw, the creature is then temporarily immune to <em>pack breaker</em> for 1 hour.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature becomes unfriendly to all creatures to which it wasn’t already hostile, even those that were previously allies. It treats no one as an ally for 1 minute. Each of its former allies within its reach must attempt a save against <em>pack breaker</em>.</p>
+  <p class="hanging-indent"><strong>Failure</strong> As success, but the creature is also confused for 1 round.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As success, but the creature is confused for 1 minute.</p>

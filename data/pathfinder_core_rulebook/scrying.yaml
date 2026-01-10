@@ -1,0 +1,34 @@
+actions: ''
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-268
+legacy: true
+lesson: []
+level: 6
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Scrying
+traditions:
+- Arcane
+- Occult
+traits:
+- Divination
+- Scrying
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 10 minutes (material, somatic, verbal)</p>
+  <p class="hanging-indent range"><strong>Range</strong> planetary; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 10 minutes</p>
+  <hr/>
+  <p>You magically spy on a creature of your choice. <em>Scrying</em> works like <em>clairvoyance</em>, except that the image you receive is less precise, insufficient for <em>teleport</em> and similar spells. Instead of creating an eye in a set location within 500 feet, you instead create an eye that manifests just above the target. You can choose a target either by name or by touching one of its possessions or a piece of its body. If you haven't met the target in person, <em>scrying</em>'s DC is 2 lower, and if you are unaware of the target's identity (perhaps because you found an unknown creature's fang at a crime scene), the DC is instead 10 lower.</p>
+  <p>The effect of <em>scrying</em> depends on the target's Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The spell fails and the target is temporarily immune for 1 week. The target also gains a glimpse of you and learns its rough distance and direction from you.</p>
+  <p class="hanging-indent"><strong>Success</strong> The spell fails and the target is temporarily immune for 1 day.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The spell succeeds.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The spell succeeds, and the eye follows the target if it moves, traveling up to 60 feet per round.</p>

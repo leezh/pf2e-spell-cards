@@ -1,0 +1,29 @@
+actions: '[reaction]'
+bloodline:
+- Shadow
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-781
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Dim the Light
+traditions: []
+traits:
+- Darkness
+- Evocation
+- Focus
+- Sorcerer
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> shadow</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> You cast a darkness or shadow spell.</p>
+  <hr/>
+  <p>You magnify the darkness from the triggering effect, causing the ambient light level to flicker briefly so you can slip from sight. You can immediately attempt a Stealth check to Hide, and you can become hidden to a creature even if you don't have cover and aren't otherwise concealed from that creature. You cease being hidden at the end of your turn unless you move into cover or become concealed before then.</p>

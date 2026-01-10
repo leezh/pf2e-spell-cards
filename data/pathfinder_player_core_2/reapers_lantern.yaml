@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: reapers_lantern
-lessons: []
+domain: []
+id: spell-2017
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: "Reaper\u2019s Lantern"
 traditions:
-- divine
-- occult
-- primal
+- Divine
+- Occult
+- Primal
 traits:
-- aura
-- concentrate
-- death
-- light
-- manipulate
-type: spell
+- Aura
+- Concentrate
+- Death
+- Light
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult, primal</p>

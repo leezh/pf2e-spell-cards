@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1946
+legacy: false
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Albatross Curse
+traditions:
+- Occult
+- Primal
+traits:
+- Concentrate
+- Manipulate
+- Misfortune
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> occult, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 minute (see text)</p>
+  <hr/>
+  <p>You create a spectral albatross, a guiding bird for sailors, to hover around the target. You and allies within 30 feet of the target gain a +1 circumstance bonus to attacks against the target. The target creature can spend an action to Strike the albatross, which automatically succeeds and kills it. The target must then attempt a Will save against your spell DC.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The guilt of slaughtering a bird of good fortune weighs on the target’s mind. The target is stupefied 1 for 1 round.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The albatross hangs around a cord from the target’s neck (or closest equivalent) for 1 minute, cursing them for their transgression. During this time, the target must roll twice and take the worse result on their next Will save, after which the albatross disappears.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, but the duration is 1 hour.</p>

@@ -1,0 +1,27 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1179
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Rare
+remaster: false
+source: Pathfinder Dark Archive
+title: Wordsmith
+traditions: []
+traits:
+- Cleric
+- Focus
+- Transmutation
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 document written by a single author and comprised of written text in a single language</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the next time you Refocus</p>
+  <hr/>
+  <p>You're a devotee of knowledge with an unmatched command of the language used to spread that knowledge, and you can reshape the written word into a form more understandable to your audience. The language of the target's written text shifts to a language you know. This shift doesn't change the text's contents beyond minor translation differences, nor does it grant the reader any understanding of the original language.</p>

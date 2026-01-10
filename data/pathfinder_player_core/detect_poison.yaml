@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: detect_poison
-lessons: []
+domain: []
+id: spell-1486
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Detect Poison
 traditions:
-- divine
-- primal
+- Divine
+- Primal
 traits:
-- concentrate
-- detection
-- manipulate
-type: spell
+- Concentrate
+- Detection
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>

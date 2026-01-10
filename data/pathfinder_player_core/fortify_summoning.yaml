@@ -1,21 +1,23 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: fortify_summoning
-lessons: []
+domain: []
+id: spell-1898
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Fortify Summoning
 traditions: []
 traits:
-- concentrate
-- focus
-- wizard
-type: focus
+- Concentrate
+- Focus
+- Wizard
+type: Focus
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature you summoned</p>

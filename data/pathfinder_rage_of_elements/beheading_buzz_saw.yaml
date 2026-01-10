@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1365
+legacy: false
+lesson: []
+level: 7
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Beheading Buzz Saw
+traditions:
+- Arcane
+traits:
+- Concentrate
+- Manipulate
+- Metal
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane</p>
+  <p class="hanging-indent area"><strong>Area</strong> 60-foot line</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Reflex</p>
+  <hr/>
+  <p>You compress molten scraps pulled from the Plane of Metal into a spinning disc with gruesome blades protruding from its edges. It wheels forward, slicing through anyone in its path. Each creature in the area takes 5d10 slashing damage and 4d6 persistent bleed damage, with a Reflex save.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes full damage.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature takes double damage. If the creature has a head, it must succeed at a Fortitude save or be decapitated; this kills any creature except ones that don't require a head to live. For creatures with multiple heads, this usually kills the creature only if you sever its last head. This second save has the death and incapacitation traits.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The slashing damage increases by 1d10, and the persistent bleed damage increases by 1d6.</p>

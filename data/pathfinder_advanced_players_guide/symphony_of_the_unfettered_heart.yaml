@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-733
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Symphony of the Unfettered Heart
+traditions: []
+traits:
+- Abjuration
+- Bard
+- Composition
+- Focus
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal, somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> you or 1 ally</p>
+  <hr/>
+  <p>Your symphony lifts listeners from their worldly concerns. Attempt a Performance check to counteract one of the following conditions affecting the target: grabbed, immobilized, paralyzed, restrained, slowed, or stunned. If you fail, you can't target that effect on the target for 1 day. Use the condition's source to determine the counteract DC (for example, the Escape DC for grabbed).</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (9th)</strong> You can target up to four creatures.</p>

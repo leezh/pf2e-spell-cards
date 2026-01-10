@@ -1,0 +1,34 @@
+actions: ''
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1355
+legacy: false
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Fireproof
+traditions:
+- Arcane
+- Divine
+- Primal
+traits:
+- Concentrate
+- Fire
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 minute</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 object up to 10 Bulk</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>You prevent the target item from conducting heat or catching fire for the spell's duration. The item gains fire resistance 10. In addition, effects with the fire trait that target the item must first succeed at a counteract check against your spell DC.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> The duration is 24 hours.</p>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> The duration is unlimited.</p>

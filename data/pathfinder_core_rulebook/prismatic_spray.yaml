@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodline:
+- Imperial
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-233
+legacy: true
+lesson: []
+level: 7
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Prismatic Spray
+traditions:
+- Arcane
+- Occult
+traits:
+- Evocation
+- Light
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot cone</p>
+  <hr/>
+  <p>A spray of rainbow light beams cascades from your open hand. Each creature in the area must roll 1d8 on the table below to see which beam affects it, then attempt a saving throw of the indicated type. The table notes any additional traits that apply to each type of ray. If a creature is struck by multiple beams, it uses the same d20 result for all its saving throws. For all rays, a successful saving throw negates the effect for that creature.</p>
+  <table><tr><td><strong>1d8</strong></td><td><strong>Color</strong></td><td><strong>Save</strong></td><td><strong>Effects (Traits)</strong></td></tr><tr><td>1</td><td>Red</td><td>Reflex</td><td>50 fire damage (fire)</td></tr><tr><td>2</td><td>Orange</td><td>Reflex</td><td>60 acid damage (acid)</td></tr><tr><td>3</td><td>Yellow</td><td>Reflex</td><td>70 electricity damage (electricity)</td></tr><tr><td>4</td><td>Green</td><td>Fortitude</td><td>30 poison damage and enfeebled 1 for 1 minute (poison)</td></tr><tr><td>5</td><td>Blue</td><td>Fortitude</td><td>Affected as if by <em>flesh to stone</em></td></tr><tr><td>6</td><td>Indigo</td><td>Will</td><td>Confused, as the <em>warp mind</em> spell (mental)</td></tr><tr><td>7</td><td>Violet</td><td>Will</td><td>Slowed for 1 minute; if a critical failure, sent to another plane, as <em>plane shift</em> (teleportation)</td></tr><tr><td>8</td><td>Potent beam</td><td>-</td><td>Affected by two beams - roll twice, rerolling any duplicates or results of 8</td></tr></table>

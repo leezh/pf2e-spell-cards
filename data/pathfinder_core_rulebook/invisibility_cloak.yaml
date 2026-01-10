@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-531
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Invisibility Cloak
+traditions: []
+traits:
+- Focus
+- Illusion
+- Wizard
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You become invisible, with the same restrictions as the 2nd-level <em>invisibility</em> spell.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> The duration increases to 10 minutes.</p>
+  <p class="hanging-indent"><strong>Heightened (8th)</strong> The duration increases to 1 hour.</p>

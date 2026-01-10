@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- moon
-id: touch_of_the_moon
-lessons: []
+domain:
+- Moon
+id: spell-1821
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Touch of the Moon
 traditions: []
 traits:
-- cleric
-- focus
-- light
-- manipulate
-type: focus
+- Cleric
+- Focus
+- Light
+- Manipulate
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> moon</p>

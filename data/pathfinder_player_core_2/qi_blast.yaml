@@ -1,23 +1,25 @@
 actions: '[one-action] to [three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: qi_blast
-lessons: []
+domain: []
+id: spell-2055
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Qi Blast
 traditions: []
 traits:
-- concentrate
-- focus
-- force
-- manipulate
-- monk
-type: focus
+- Concentrate
+- Focus
+- Force
+- Manipulate
+- Monk
+type: Focus
 
 --- >
   <p class="hanging-indent area"><strong>Area</strong> 15-foot cone or more</p>

@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-125
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Fly
+traditions:
+- Arcane
+- Occult
+- Primal
+- Elemental
+traits:
+- Transmutation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 5 minutes</p>
+  <hr/>
+  <p>The target can soar through the air, gaining a fly Speed equal to its Speed or 20 feet, whichever is greater.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> The duration increases to 1 hour.</p>

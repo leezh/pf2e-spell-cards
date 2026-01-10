@@ -1,0 +1,29 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Confidence
+id: spell-466
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Veil of Confidence
+traditions: []
+traits:
+- Cleric
+- Enchantment
+- Focus
+- Mental
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> confidence</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You surround yourself in a veil of confidence. You reduce your current frightened condition by 1, and whenever you would become frightened during the duration, reduce the amount by 1. If you critically fail a save against fear, <em>veil of confidence</em> ends immediately, and you increase any frightened condition you gain from the critical failure by 1 instead of decreasing it.</p>

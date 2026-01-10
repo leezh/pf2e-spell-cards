@@ -1,0 +1,36 @@
+actions: '[two-actions]'
+bloodline:
+- Hag
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-26
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Blindness
+traditions:
+- Arcane
+- Divine
+- Occult
+- Primal
+traits:
+- Incapacitation
+- Necromancy
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>You blind the target. The effect is determined by the target's Fortitude save. The target then becomes temporarily immune for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is blinded until its next turn begins.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is blinded for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is blinded permanently.</p>

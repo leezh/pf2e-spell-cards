@@ -1,0 +1,33 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2025 Paizo Inc.
+domain: []
+id: spell-2498
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Battlecry!
+title: Curse of Recoil
+traditions:
+- Divine
+- Occult
+traits:
+- Concentrate
+- Curse
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> An enemy you can see is about to make a ranged attack.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>You curse an enemy to suffer a kickback as they make a ranged attack, potentially causing them to miss. The triggering enemy attempts a Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The recoil from their ranged attack causes the target to be off-guard until the beginning of their next turn.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The recoil imposes a –1 status penalty to the ranged attack and renders the target off-guard until the beginning of their next turn.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The recoil imposes a –2 status penalty to the ranged attack and renders the target off-guard until the beginning of their next turn. Until the start of their next turn, any additional ranged attacks made with the same weapon, spell, or ability take the same penalty.</p>

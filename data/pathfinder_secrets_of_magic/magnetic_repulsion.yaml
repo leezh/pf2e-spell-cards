@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-945
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Magnetic Repulsion
+traditions:
+- Arcane
+- Primal
+traits:
+- Abjuration
+- Metal
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You adjust your magnetic polarity, causing metal objects to jump and shudder away from you. Attacks made with metal objects against you take a –1 status penalty, and the squares adjacent to you are difficult terrain for creatures wearing metal armor. For creatures made entirely of metal, the penalty to their attack rolls is –2 and the squares adjacent to you are greater difficult terrain.</p>
+  <p>While this spell is active, you require an additional Interact action before using a metal object (including to Strike with a metal weapon), and if you're wearing metal armor, you're slowed 1.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+3)</strong> The status penalty to attack rolls increases by 1.</p>

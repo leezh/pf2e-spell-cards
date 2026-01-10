@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1133
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Dark Archive
+title: Glimpse Weakness
+traditions: []
+traits:
+- Cantrip
+- Divination
+- Psychic
+type: Cantrip
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You glimpse a loose scale, a seam in a foe's armor, or a similar weakness, aiding your allies in landing a precise hit. The first ally that hits the target with a successful Strike deals additional precision damage equal to 1 + this spell's level, and then the spell ends.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Amp</strong> The additional precision damage is 1d4+1.</p>
+  <p class="hanging-indent"><strong>Amp Heightened (+2)</strong> The additional precision damage increases by 1d4+1.</p>

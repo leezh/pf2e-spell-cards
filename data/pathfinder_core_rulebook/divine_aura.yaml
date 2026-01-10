@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline:
+- Angelic
+- Demonic
+- Diabolic
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-81
+legacy: true
+lesson: []
+level: 8
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Divine Aura
+traditions:
+- Divine
+traits:
+- Abjuration
+- Aura
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 10-foot emanation; <strong>Targets</strong> allies in the area</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Divine power wards the targets, granting each a +1 status bonus to AC and saves while in the area.</p>
+  <p>Choose an alignment your deity has (chaotic, evil, good, or lawful). You can't cast this spell if you don't have a deity or your deity is true neutral. This spell gains the trait of the alignment you chose. The bonuses granted by the spell increase to +2 against attacks by—and effects created by—creatures with an alignment opposite to the spell (lawful if you chose chaotic, evil if you chose good). These bonuses increase to +4 against effects created by such creatures that attempt to impose the controlled condition on a target of your <em>divine aura</em>, as well as against attacks made by creatures summoned by anything opposite in alignment to your <em>divine aura</em>.</p>
+  <p>When a creature of opposite alignment hits a target with a melee attack, the creature must succeed at a Will save or be blinded for 1 minute. It's then temporarily immune for 1 minute.</p>
+  <p>The first time you Sustain the Spell each round, the <em>divine aura</em>'s radius grows 10 feet.</p>

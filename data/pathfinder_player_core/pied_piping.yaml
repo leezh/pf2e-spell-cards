@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: pied_piping
-lessons: []
+domain: []
+id: spell-1772
+legacy: false
+lesson: []
 level: 10
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Pied Piping
 traditions: []
 traits:
-- bard
-- composition
-- concentrate
-- focus
-- incapacitation
-- mental
-- sonic
-type: focus
+- Bard
+- Composition
+- Concentrate
+- Focus
+- Incapacitation
+- Mental
+- Sonic
+type: Focus
 
 --- >
   <p class="hanging-indent area"><strong>Area</strong> 5-foot emanation</p>

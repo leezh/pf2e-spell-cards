@@ -1,0 +1,33 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-993
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Seashell of Stolen Sound
+traditions:
+- Arcane
+- Occult
+- Primal
+traits:
+- Divination
+- Sonic
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> focus, verbal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> A creature within range begins to make a sound.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until your next daily preparations</p>
+  <hr/>
+  <p>You store a sound in a seashell to use as you will: the last words of a loved one, a dragon's mighty roar, the compromising conversation between two powerful diplomats, or even more strange and secret. As part of Casting this Spell, you must present an unbroken seashell. When you Cast the Spell, magic swirls around the triggering creature, copying the sounds they make, as well as any background noise, for the next minute and storing them in the seashell.</p>
+  <p>You or another creature can then play the sound back from the seashell during the spell's duration by Interacting with the seashell, but once the sounds have been played back, the seashell shatters and the spell ends.</p>
+  <p>As normal for spells with a duration until your next daily preparations, you can choose to continue expending the spell slot to prolong the duration of an existing <em>seashell of stolen sound</em> for another day. While the spell faithfully copies the sounds around the target, it doesn't reproduce any special auditory or sonic effects of the sound.</p>

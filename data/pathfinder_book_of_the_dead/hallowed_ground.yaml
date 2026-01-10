@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1103
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Book of the Dead
+title: Hallowed Ground
+traditions: []
+traits:
+- Focus
+- Good
+- Necromancy
+- Positive
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Area</strong> 10-foot burst</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>One small space becomes inhospitable to undead as you fill it with life-infused benevolent magic. Each undead creature in the area takes 1d6 positive damage and 1d4 good damage when you Cast the Spell, with a basic Fortitude save. After that, undead creatures have weakness 1 to positive damage and your necromancy spells while in the area.</p>
+  <p>This spell also automatically attempts to counteract any attempt to raise undead in the area (if either the undead would appear in the area or the effect's caster or creator is in it).</p>
+  <p>If you Cast this Spell again, any previous <em>hallowed ground</em> you had cast ends.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The positive damage increases by 1d6, good damage increases by 1d4, and weakness increases by 1.</p>

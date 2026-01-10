@@ -1,0 +1,32 @@
+actions: ''
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-90
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Dream Message
+traditions:
+- Arcane
+- Divine
+- Occult
+traits:
+- Enchantment
+- Mental
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 10 minutes (somatic, verbal)</p>
+  <p class="hanging-indent range"><strong>Range</strong> planetary; <strong>Targets</strong> 1 creature you know by name and have met in person</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the next time you make your daily preparations.</p>
+  <hr/>
+  <p>You send a message to your target's dream. The message is one-way, up to 1 minute of speech (roughly 150 words). If the target is asleep, they receive the message instantly. If not, they receive it the next time they sleep. As soon as they receive it, the spell ends, and you know the message was sent.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> You can target up to 10 creatures you know by name and have met in person. You must send the same message to all of them; the spell ends for each creature individually.</p>

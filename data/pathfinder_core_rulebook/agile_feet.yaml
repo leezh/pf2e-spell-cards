@@ -1,0 +1,28 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Travel
+id: spell-399
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Agile Feet
+traditions: []
+traits:
+- Cleric
+- Focus
+- Transmutation
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> travel</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the end of the current turn</p>
+  <hr/>
+  <p>The blessings of your god make your feet faster and your movements more fluid. You gain a +5-foot status bonus to your Speed and ignore difficult terrain. As part of casting <em>agile feet</em>, you can Stride or Step; you can instead Burrow, Climb, Fly, or Swim if you have the appropriate Speed.</p>

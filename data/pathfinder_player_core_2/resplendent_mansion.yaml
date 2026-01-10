@@ -1,23 +1,25 @@
 actions: ''
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: resplendent_mansion
-lessons: []
+domain: []
+id: spell-2018
+legacy: false
+lesson: []
 level: 9
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Resplendent Mansion
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- concentrate
-- manipulate
-- structure
-type: spell
+- Concentrate
+- Manipulate
+- Structure
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-732
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Song of Strength
+traditions: []
+traits:
+- Bard
+- Cantrip
+- Composition
+- Emotion
+- Enchantment
+- Mental
+type: Cantrip
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 60-foot emanation</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>You bolster your allies' physical strength with a hearty exhortation. You and your allies gain a +1 status bonus to Athletics checks and to their DCs against Athletics skill actions such as Disarm, Shove, and Trip.</p>
+  <p class="hanging-indent"><strong>Special</strong> If you have the <em>inspire heroics</em> composition spell, you can use that composition to improve the bonus granted by <em>song of strength</em> in the same way as <em>inspire courage</em> or <em>inspire defense</em>.</p>

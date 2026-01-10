@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: fungal_infestation
-lessons: []
+domain: []
+id: spell-1993
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Fungal Infestation
 traditions:
-- primal
+- Primal
 traits:
-- concentrate
-- fungus
-- manipulate
-- poison
-type: spell
+- Concentrate
+- Fungus
+- Manipulate
+- Poison
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>

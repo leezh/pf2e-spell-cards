@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-307
+legacy: true
+lesson: []
+level: 1
+mystery:
+- Life
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Stabilize
+traditions:
+- Divine
+- Primal
+traits:
+- Cantrip
+- Healing
+- Necromancy
+- Positive
+type: Cantrip
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 dying creature</p>
+  <hr/>
+  <p>Positive energy shuts death's door. The target loses the dying condition, though it remains unconscious at 0 Hit Points.</p>

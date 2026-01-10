@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-1061
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Inscrutable Mask
+traditions: []
+traits:
+- Focus
+- Illusion
+- Shadow
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You shroud your form and features in an impenetrable mask of shadow. The mask grants you a +1 status bonus to Deception checks to Lie or Feint, Intimidation checks to Demoralize, and Stealth checks to Hide in areas of dim light or darkness.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> The status bonus increases to +2.</p>
+  <p class="hanging-indent"><strong>Heightened (9th)</strong> The status bonus increases to +3.</p>

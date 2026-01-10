@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1378
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Shielded Arm
+traditions:
+- Arcane
+- Divine
+- Primal
+traits:
+- Concentrate
+- Manipulate
+- Metal
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute or until expended</p>
+  <hr/>
+  <p>Reinforcing veins of ore run through the target's arm, letting it ward off blows with its bare skin. It can use the Raise a Shield action to instead raise its arm, gaining a +2 circumstance bonus to AC. It can Shield Block with its Raised arm as well; when it does, the target reduces the damage as if it had a shield with Hardness 4 and 15 Hit Points. This shield doesn't have a Broken Threshold, and the spell ends if the shield's Hit Points are expended.</p>
+  <p>This spell doesn't modify the target's unarmed attacks and can't be used to make a shield bash Strike. Casting or coming under the effects of this spell also counts as using a metallic item with regards to anathema.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The Hardness increases by 4, and the Hit Points increase by 15.</p>

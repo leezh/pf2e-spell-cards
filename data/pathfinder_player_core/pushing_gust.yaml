@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- air
-id: pushing_gust
-lessons: []
+domain:
+- Air
+id: spell-1780
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Pushing Gust
 traditions: []
 traits:
-- air
-- cleric
-- concentrate
-- focus
-- manipulate
-type: focus
+- Air
+- Cleric
+- Concentrate
+- Focus
+- Manipulate
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> air</p>

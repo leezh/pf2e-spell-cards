@@ -1,0 +1,36 @@
+actions: '[one-action]'
+bloodline:
+- Nymph
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-779
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Blinding Beauty
+traditions: []
+traits:
+- Emotion
+- Enchantment
+- Focus
+- Incapacitation
+- Sorcerer
+- Visual
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> nymph</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot cone</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will</p>
+  <hr/>
+  <p>You channel the allure of your nymph bloodline into a terribly beautiful glance. Each enemy in the area must attempt a Will saving throw.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature is dazzled until the start of its next turn.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature is blinded until the start of its next turn.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature is blinded for 1 minute.</p>

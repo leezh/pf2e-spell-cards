@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines:
-- angelic
+bloodline:
+- Angelic
 copyright: 2023 Paizo Inc.
-domains: []
-id: divine_immolation
-lessons: []
+domain: []
+id: spell-1496
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Divine Immolation
 traditions:
-- divine
+- Divine
 traits:
-- concentrate
-- fire
-- manipulate
-- sanctified
-- spirit
-type: spell
+- Concentrate
+- Fire
+- Manipulate
+- Sanctified
+- Spirit
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>

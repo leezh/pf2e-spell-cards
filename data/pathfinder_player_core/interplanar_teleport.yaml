@@ -1,25 +1,28 @@
 actions: ''
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: interplanar_teleport
-lessons: []
+domain: []
+id: spell-1576
+legacy: false
+lesson: []
 level: 7
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Interplanar Teleport
 traditions:
-- arcane
-- divine
-- occult
-- primal
+- Arcane
+- Divine
+- Occult
+- Primal
+- Elemental
 traits:
-- concentrate
-- manipulate
-- teleportation
-type: spell
+- Concentrate
+- Manipulate
+- Teleportation
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>

@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1306
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Rage of Elements
+title: Crushing Ground
+traditions: []
+traits:
+- Concentrate
+- Druid
+- Earth
+- Focus
+- Manipulate
+type: Focus
+
+--- >
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Reflex; <strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>You tear open the ground then slam it shut. The target creature takes 2d6 bludgeoning damage with a Reflex save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes half damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target takes full damage, is off-guard, and takes a –10-foot circumstance penalty to Speed.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target takes double damage and is off-guard and immobilized. It can attempt to Escape against your spell DC. If it doesn't Escape, the target takes an additional 2d6 bludgeoning damage when the spell ends.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> Increase the initial damage and additional damage by 2d6.</p>

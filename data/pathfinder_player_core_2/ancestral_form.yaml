@@ -1,22 +1,24 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: ancestral_form
-lessons: []
+domain: []
+id: spell-2068
+legacy: false
+lesson: []
 level: 6
-mysteries:
-- ancestors
-patrons: []
-rarity: uncommon
+mystery:
+- Ancestors
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Ancestral Form
 traditions: []
 traits:
-- concentrate
-- focus
-- oracle
-type: focus
+- Concentrate
+- Focus
+- Oracle
+type: Focus
 
 --- >
   <p class="hanging-indent mystery"><strong>Mystery</strong> ancestors</p>

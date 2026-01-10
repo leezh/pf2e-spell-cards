@@ -1,0 +1,53 @@
+actions: '[two-actions]'
+bloodline:
+- Draconic
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-88
+legacy: true
+lesson: []
+level: 6
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Dragon Form
+traditions:
+- Arcane
+- Primal
+traits:
+- Polymorph
+- Transmutation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Calling upon powerful transformative magic, you gain a Large dragon battle form. You must have space to expand or the spell is lost. When you cast this spell, choose one type of chromatic or metallic dragon. While in this form, you gain the dragon trait. You have hands in this battle form and can take manipulate actions. You can Dismiss the spell.</p>
+  <p>You gain the following statistics and abilities regardless of which battle form you choose:</p>
+  <li>AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.</li>
+  <li>10 temporary Hit Points.</li>
+  <li>Speed 40 feet, fly Speed 100 feet.</li>
+  <li>Resistance 10 against the damage type of your breath weapon (see below).</li>
+  <li>Darkvision and imprecise scent 60 feet.</li>
+  <li>One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +22, and your damage bonus is +6. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack modifier is higher, you can use it instead. See below for more on these attacks.</li>
+  <li>Athletics modifier of +23, unless your own modifier is higher.</li>
+  <li><strong>Breath Weapon</strong> [two-actions] (arcane, evocation) The shape, damage, and damage type of your breath weapon depend on your specific dragon form (see below). A creature in the area attempts a basic save against your spell DC. This is a Reflex save unless stated otherwise in the special ability description for your specific dragon form. Once activated, your breath weapon can't be used again for 1d4 rounds. Your breath weapon has the trait corresponding to the type of damage it deals.</li>
+  <p>You also gain specific abilities based on the type of dragon you choose:</p>
+  <li><strong>Black</strong> swim Speed 60 feet; <strong>Melee</strong>[one-action] jaws, <strong>Damage</strong> 2d12 piercing plus 2d6 acid; <strong>Melee</strong> [one-action] claw (agile), <strong>Damage</strong> 3d10 slashing; <strong>Melee</strong>[one-action] tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning; <strong>Melee</strong> [one-action] horns (reach 10 feet), <strong>Damage</strong> 3d8 piercing; breath weapon 60-foot line, 11d6 acid.</li>
+  <li><strong>Blue</strong> burrow Speed 20 feet; <strong>Melee</strong> [one-action] jaws, <strong>Damage</strong> 2d10 piercing plus 1d12 electricity; <strong>Melee</strong> [one-action] claw (agile), <strong>Damage</strong> 3d10 slashing; <strong>Melee</strong> [one-action] tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning; <strong>Melee</strong> [one-action] horns (reach 10 feet), <strong>Damage</strong> 3d8 piercing; breath weapon 80-foot line, 6d12 electricity.</li>
+  <li><strong>Green</strong> swim Speed 40 feet, ignores difficult terrain from non-magical foliage; <strong>Melee</strong> [one-action] jaws, <strong>Damage</strong> 2d12 piercing plus 2d6 poison; <strong>Melee</strong> [one-action] claw (agile), <strong>Damage</strong> 3d10 slashing; <strong>Melee</strong> [one-action] tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning; <strong>Melee</strong> [one-action] horns (reach 10 feet), <strong>Damage</strong> 3d8 piercing; breath weapon 30-foot cone, 10d6 poison (Fortitude save instead of Reflex).</li>
+  <li><strong>Red</strong> ignore concealed from smoke; <strong>Melee</strong>[one-action] jaws, <strong>Damage</strong> 2d12 piercing plus 2d6 fire; <strong>Melee</strong>[one-action] claw (agile), <strong>Damage</strong> 4d6 slashing; <strong>Melee</strong>[one-action] tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning; <strong>Melee</strong>[one-action] wing (reach 10 feet), <strong>Damage</strong> 3d8 bludgeoning; breath weapon 30-foot cone, 10d6 fire.</li>
+  <li><strong>White</strong> climb Speed 25 feet on ice only; <strong>Melee</strong>[one-action] jaws, <strong>Damage</strong> 3d6 piercing plus 2d6 cold; <strong>Melee</strong> [one-action] claw (agile), <strong>Damage</strong> 3d10 slashing; <strong>Melee</strong> [one-action] tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning; breath weapon 30-foot cone, 10d6 cold.</li>
+  <li><strong>Brass</strong> burrow Speed 20 feet; <strong>Melee</strong> [one-action] jaws, <strong>Damage</strong> 3d8 piercing plus 2d4 fire; <strong>Melee</strong>[one-action] claw (agile), 3d10 slashing; <strong>Melee</strong> [one-action] tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning; <strong>Melee</strong>[one-action] spikes (reach 10 feet), <strong>Damage</strong> 3d8 piercing; breath weapon 60-foot line, 15d4 fire.</li>
+  <li><strong>Bronze</strong> swim Speed 40 feet; <strong>Melee</strong> [one-action] jaws, <strong>Damage</strong> 2d10 piercing plus 1d12 electricity; <strong>Melee</strong> [one-action] claw (agile), <strong>Damage</strong> 3d10 slashing; <strong>Melee</strong> [one-action] tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning; <strong>Melee</strong> [one-action] wing (reach 10 feet), <strong>Damage</strong> 3d8 slashing; breath weapon 80-foot line, 6d12 electricity.</li>
+  <li><strong>Copper</strong> climb Speed 25 feet on stone only; <strong>Melee</strong> [one-action] jaws, <strong>Damage</strong> 2d12 piercing plus 2d6 acid; <strong>Melee</strong> [one-action] claw (agile), <strong>Damage</strong> 3d10 slashing; <strong>Melee</strong> [one-action] tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning; <strong>Melee</strong> [one-action] wing (reach 10 feet), <strong>Damage</strong> 3d8 bludgeoning; breath weapon 60-foot line, 10d6 acid.</li>
+  <li><strong>Gold</strong> swim Speed 40 feet; <strong>Melee</strong>[one-action] jaws, <strong>Damage</strong> 2d12 piercing plus 2d6 fire; <strong>Melee</strong> [one-action] claw (agile), <strong>Damage</strong> 4d6 slashing; <strong>Melee</strong>[one-action] tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning; <strong>Melee</strong> [one-action] horns (reach 10 feet), <strong>Damage</strong> 3d8 piercing; breath weapon 30-foot cone, 6d10 fire.</li>
+  <li><strong>Silver</strong> cloud walk; <strong>Melee</strong> [one-action] jaws, <strong>Damage</strong> 2d12 piercing plus 2d6 cold; <strong>Melee</strong> [one-action] claw (agile), <strong>Damage</strong> 3d10 slashing; <strong>Melee</strong> [one-action] tail (reach 10), <strong>Damage</strong> 3d10 bludgeoning; breath weapon 30-foot cone, 8d8 cold.</li>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (8th)</strong> Your battle form is Huge, you gain a +20-foot status bonus to your fly Speed, and your attacks have 10-foot reach (or 15-foot reach if they previously had 10-foot reach). You instead gain AC = 21 + your level, 15 temporary HP, an attack modifier of +28, a damage bonus of +12, Athletics +28, and a +14 status bonus to breath weapon damage.</p>
+  <p>The dragons from Monster Core use the following specifications for dragon form.</p>
+  <table><tr><td><strong>Dragon</strong></td><td><strong>Tradition</strong><td><strong>Speeds</strong><td><strong>Dragon Breath</strong></td></td></td></tr><tr><td>Adamantine</td><td>Primal</td><td>Burrow</td><td>Cone of bludgeoning</td></tr><tr><td>Conspirator</td><td>Occult</td><td>Climb</td><td>Cone of poison</td></tr><tr><td>Diabolic</td><td>Divine</td><td>—</td><td>Cone of fire</td></tr><tr><td>Empyreal</td><td>Divine</td><td>—</td><td>Cone of spirit</td></tr><tr><td>Fortune</td><td>Arcane</td><td>—</td><td>Cone of force</td></tr><tr><td>Horned</td><td>Primal</td><td>Swim</td><td>Cone of poison</td></tr><tr><td>Mirage</td><td>Arcane</td><td>Climb</td><td>Cone of mental</td></tr><tr><td>Omen</td><td>Occult</td><td>—</td><td>Cone of mental</td></tr><tr></tr></table>

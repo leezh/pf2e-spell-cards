@@ -1,0 +1,33 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-319
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Summon Dragon
+traditions:
+- Arcane
+traits:
+- Conjuration
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You conjure a dragon to fight for you. This works like <em>summon animal</em>, except you summon a common creature that has the dragon trait and whose level is 5 or lower, such as those below.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> Level 7.</p>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> Level 9.</p>
+  <p class="hanging-indent"><strong>Heightened (8th)</strong> Level 11.</p>
+  <p class="hanging-indent"><strong>Heightened (9th)</strong> Level 13.</p>
+  <p class="hanging-indent"><strong>Heightened (10th)</strong> Level 15.</p>

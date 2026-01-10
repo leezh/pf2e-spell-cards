@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines:
-- draconic
+bloodline:
+- Draconic
 copyright: 2024 Paizo Inc.
-domains: []
-id: flurry_of_claws
-lessons: []
+domain: []
+id: spell-2102
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Flurry of Claws
 traditions: []
 traits:
-- attack
-- concentrate
-- focus
-- manipulate
-- sorcerer
-type: focus
+- Attack
+- Concentrate
+- Focus
+- Manipulate
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> draconic</p>

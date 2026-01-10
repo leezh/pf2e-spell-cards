@@ -1,0 +1,33 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-807
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron:
+- Fervor
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Stoke the Heart
+traditions: []
+traits:
+- Cantrip
+- Emotion
+- Enchantment
+- Hex
+- Witch
+type: Cantrip
+
+--- >
+  <p class="hanging-indent patron"><strong>Patron</strong> fervor</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Intense fervor fills the target creature, empowering their blows. The target gains a +2 status bonus to damage rolls. Once this spell ends, the target becomes temporarily immune for 1 minute.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The status bonus to damage increases by 1.</p>

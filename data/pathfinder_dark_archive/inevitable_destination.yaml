@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1172
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Rare
+remaster: false
+source: Pathfinder Dark Archive
+title: Inevitable Destination
+traditions: []
+traits:
+- Cleric
+- Conjuration
+- Focus
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> you and 1 enemy</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 2 rounds</p>
+  <hr/>
+  <p>You twist the paths of the target, ensuring that each one leads to you. The target attempts a Will saving throw.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The spell has no effect.</p>
+  <p class="hanging-indent"><strong>Success</strong> Your pull hampers the target's footsteps. It takes a –10-foot circumstance penalty to its Speeds until the end of its next turn.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target can't move any farther from you than it was when you Cast the Spell, though it can move in such a way that it maintains an equal distance. If you move farther away from the target than the initial distance, the spell ends. The targeted foe can attempt to Escape against your spell DC. If it succeeds, the spell ends.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, plus the target is pulled 10 feet closer to you and falls prone, tripping in its haste to move toward you.</p>

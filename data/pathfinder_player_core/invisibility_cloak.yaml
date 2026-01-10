@@ -1,22 +1,24 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: invisibility_cloak
-lessons: []
+domain: []
+id: spell-1903
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Invisibility Cloak
 traditions: []
 traits:
-- focus
-- illusion
-- manipulate
-- wizard
-type: focus
+- Focus
+- Illusion
+- Manipulate
+- Wizard
+type: Focus
 
 --- >
   <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>

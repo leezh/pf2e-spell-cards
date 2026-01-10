@@ -1,0 +1,37 @@
+actions: '[two-actions]'
+bloodline:
+- Genie
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-784
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Heart's Desire
+traditions: []
+traits:
+- Emotion
+- Focus
+- Illusion
+- Mental
+- Sorcerer
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> genie</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You surround your target with wondrous illusions of their greatest desires, which distract them from reality. The target must attempt a Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target disbelieves the illusion and is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> For 1 round, the target is stupefied 2 and takes a –2 status penalty to any checks it makes to determine the effects of reactions.</p>
+  <p class="hanging-indent"><strong>Failure</strong> For 1 minute, the target is stupefied 2 and can't use reactions.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, and all spaces are difficult terrain for the target.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> You can target one additional creature.</p>

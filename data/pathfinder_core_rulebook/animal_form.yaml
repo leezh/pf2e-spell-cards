@@ -1,0 +1,47 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-10
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Animal Form
+traditions:
+- Primal
+traits:
+- Polymorph
+- Transmutation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You call upon primal energy to transform yourself into a Medium animal battle form. When you first cast this spell, choose ape, bear, bull, canine, cat, deer, frog, shark, or snake. You can decide the specific type of animal (such as lion or snow leopard for cat), but this has no effect on the form's Size or statistics. While in this form, you gain the animal trait. You can Dismiss the spell.</p>
+  <p>You gain the following statistics and abilities regardless of which battle form you choose:</p>
+  <li>AC = 16 + your level. Ignore your armor's check penalty and Speed reduction.</li>
+  <li>5 temporary Hit Points.</li>
+  <li>Low-light vision and imprecise scent 30 feet.</li>
+  <li>One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +9, and your damage bonus is +1. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack bonus is higher, you can use it instead.</li>
+  <li>Athletics modifier of +9, unless your own modifier is higher.</li>
+  <p>You also gain specific abilities based on the type of animal you choose:</p>
+  <li><strong>Ape</strong> Speed 25 feet, climb Speed 20 feet; <strong>Melee</strong> [one-action] fist, <strong>Damage</strong> 2d6 bludgeoning.</li>
+  <li><strong>Bear</strong> Speed 30 feet; <strong>Melee</strong> [one-action] jaws, <strong>Damage</strong> 2d8 piercing; <strong>Melee</strong> [one-action] claw (agile), <strong>Damage</strong> 1d8 slashing.</li>
+  <li><strong>Bull</strong> Speed 30 feet; <strong>Melee</strong> [one-action] horn, <strong>Damage</strong> 2d8 piercing.</li>
+  <li><strong>Canine</strong> Speed 40 feet; <strong>Melee</strong> [one-action] jaws, <strong>Damage</strong> 2d8 piercing.</li>
+  <li><strong>Cat</strong> Speed 40 feet; <strong>Melee</strong> [one-action] jaws, <strong>Damage</strong> 2d6 piercing; <strong>Melee</strong> [one-action] claw (agile), <strong>Damage</strong> 1d10 slashing.</li>
+  <li><strong>Deer</strong> Speed 50 feet; <strong>Melee</strong> [one-action] antler, <strong>Damage</strong> 2d6 piercing.</li>
+  <li><strong>Frog</strong> Speed 25 feet, swim Speed 25 feet; <strong>Melee</strong> [one-action] jaws, <strong>Damage</strong> 2d6 bludgeoning; <strong>Melee</strong> [one-action] tongue (reach 15 feet), <strong>Damage</strong> 2d4 bludgeoning.</li>
+  <li><strong>Shark</strong> swim Speed 35 feet; <strong>Melee</strong> [one-action] jaws, <strong>Damage</strong> 2d8 piercing; breathe underwater but not in air.</li>
+  <li><strong>Snake</strong> Speed 20 feet, climb Speed 20 feet, swim Speed 20 feet; <strong>Melee</strong> [one-action] fangs, <strong>Damage</strong> 2d4 piercing plus 1d6 poison.</li>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> You instead gain 10 temporary HP, AC = 17 + your level, attack modifier +14, damage bonus +5, and Athletics +14.</p>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> Your battle form is Large and your attacks have 10-foot reach. You must have enough space to expand into or the spell is lost. You instead gain 15 temporary HP, AC = 18 + your level, attack modifier +16, damage bonus +9, and Athletics +16.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> Your battle form is Huge and your attacks have 15-foot reach. You must have enough space to expand into or the spell is lost. You instead gain 20 temporary HP, AC = 18 + your level, attack modifier +18, damage bonus +7 and double the number of damage dice, and Athletics +20.</p>

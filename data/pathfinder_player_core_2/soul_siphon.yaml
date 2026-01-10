@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: soul_siphon
-lessons: []
+domain: []
+id: spell-2072
+legacy: false
+lesson: []
 level: 1
-mysteries:
-- bones
-patrons: []
-rarity: uncommon
+mystery:
+- Bones
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Soul Siphon
 traditions: []
 traits:
-- focus
-- manipulate
-- oracle
-- void
-type: focus
+- Focus
+- Manipulate
+- Oracle
+- Void
+type: Focus
 
 --- >
   <p class="hanging-indent mystery"><strong>Mystery</strong> bones</p>

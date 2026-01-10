@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines:
-- fey
+bloodline:
+- Fey
 copyright: 2023 Paizo Inc.
-domains: []
-id: laughing_fit
-lessons: []
+domain: []
+id: spell-1583
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Laughing Fit
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- concentrate
-- emotion
-- manipulate
-- mental
-type: spell
+- Concentrate
+- Emotion
+- Manipulate
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

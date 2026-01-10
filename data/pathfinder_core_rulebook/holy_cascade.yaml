@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-151
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Holy Cascade
+traditions:
+- Divine
+traits:
+- Evocation
+- Good
+- Positive
+- Water
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent cost"><strong>Cost</strong> one vial of<em>holy water</em></p>
+  <p class="hanging-indent range"><strong>Range</strong> 500 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex</p>
+  <hr/>
+  <p>You call upon sacred energy to amplify a vial of <em>holy water</em>, tossing it an incredible distance. It explodes in an enormous burst that deals 3d6 bludgeoning damage to creatures in the area from the cascade of water. The water deals an additional 6d6 positive damage to undead and 6d6 good damage to fiends.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The bludgeoning damage increases by 1d6, and the additional positive and good damage each increase by 2d6.</p>

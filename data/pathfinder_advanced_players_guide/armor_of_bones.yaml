@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-745
+legacy: true
+lesson: []
+level: 3
+mystery:
+- Bones
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Armor of Bones
+traditions: []
+traits:
+- Cursebound
+- Focus
+- Necromancy
+- Oracle
+type: Focus
+
+--- >
+  <p class="hanging-indent mystery"><strong>Mystery</strong> bones</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You ossify your physical form, mimicking the durability of bone. You gain resistance 3 to cold, electricity, fire, piercing, and slashing damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> Increase the resistance by 1.</p>

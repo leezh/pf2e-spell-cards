@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-1065
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Rare
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Invoke True Name
+traditions:
+- Arcane
+- Divine
+- Occult
+- Primal
+traits:
+- Cantrip
+- Enchantment
+- True Name
+type: Cantrip
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature whose true name you know</p>
+  <hr/>
+  <p>You speak the true name of a creature to more surely affect it with your magic. Until the end of the current turn, the target is flat-footed against your spells and takes a –2 circumstance penalty to saving throws against your spells. In addition, the first time this turn the target takes damage from one of your spells, it has weakness to that damage equal to double the level of <em>invoke true name</em>.</p>

@@ -1,0 +1,41 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-223
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Plant Form
+traditions:
+- Primal
+traits:
+- Plant
+- Polymorph
+- Transmutation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Taking inspiration from verdant creatures, you transform into a Large plant battle form. You must have space to expand into or the spell is lost. When you cast this spell, choose arboreal, flytrap, or shambler. You can substitute a similar specific plant to turn into (such as a pitcher plant instead of a flytrap), but this has no effect on the form's Size or statistics. While in this form, you gain the plant trait. You can Dismiss the spell.</p>
+  <p>You gain the following statistics and abilities regardless of which battle form you choose:</p>
+  <li>AC = 19 + your level. Ignore your armor's check penalty and Speed reduction.</li>
+  <li>12 temporary Hit Points.</li>
+  <li>Resistance 10 to poison.</li>
+  <li>Low-light vision.</li>
+  <li>One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +17, and your damage bonus is +11. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack modifier is higher, you can use it instead.</li>
+  <li>Athletics modifier of +19, unless your own modifier is higher.</li>
+  <p>You also gain specific abilities based on the type of plant you choose:</p>
+  <li><strong>Arboreal</strong> Speed 30 feet; <strong>Melee</strong> [one-action] branch (reach 15 feet), <strong>Damage</strong> 2d10 bludgeoning; <strong>Melee</strong> [one-action] foot, <strong>Damage</strong> 2d8 bludgeoning; you can speak in this form, but you still can't Cast a Spell or supply verbal components.</li>
+  <li><strong>Flytrap</strong> Speed 15 feet; resistance 10 to acid; <strong>Melee</strong> [one-action] leaf (reach 10 feet), <strong>Damage</strong> 2d8 piercing, and you can spend an action after a hit to Grab the target.</li>
+  <li><strong>Shambler</strong> Speed 20 feet, swim Speed 20 feet; resistance 10 to electricity; <strong>Melee</strong> [one-action] vine (reach 15 feet), <strong>Damage</strong> 2d8 slashing.</li>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> Your battle form is Huge, and the reach of your attacks increases by 5 feet. You instead gain AC = 22 + your level, 24 temporary HP, attack modifier +21, damage bonus +16, and Athletics +22.</p>

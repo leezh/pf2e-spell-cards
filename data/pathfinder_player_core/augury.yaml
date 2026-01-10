@@ -1,23 +1,25 @@
 actions: ''
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: augury
-lessons: []
+domain: []
+id: spell-1445
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Augury
 traditions:
-- divine
-- occult
+- Divine
+- Occult
 traits:
-- concentrate
-- manipulate
-- prediction
-type: spell
+- Concentrate
+- Manipulate
+- Prediction
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>

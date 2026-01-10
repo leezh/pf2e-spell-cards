@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: shields_of_the_spirit
-lessons: []
+domain: []
+id: spell-2049
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Shields of the Spirit
 traditions: []
 traits:
-- champion
-- concentrate
-- focus
-- sanctified
-- spirit
-type: focus
+- Champion
+- Concentrate
+- Focus
+- Sanctified
+- Spirit
+type: Focus
 
 --- >
   <p class="hanging-indent requirements"><strong>Requirements</strong> You are wielding a shield.</p>

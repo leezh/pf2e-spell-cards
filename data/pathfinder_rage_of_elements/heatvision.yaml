@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1358
+legacy: false
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Rage of Elements
+title: Heatvision
+traditions:
+- Arcane
+- Divine
+- Occult
+- Primal
+traits:
+- Concentrate
+- Fire
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>The target visually senses the heat energy emitted by the creatures and objects around it, gaining infrared vision at a range of 60 feet as a precise sense. This vision can detect any warm-blooded creature or source of heat not completely covered behind a solid object, such as a wall; this bypasses any concealement granted by smoke or darkness. It can similarly detect especially cold creatures and sources of cold. Almost all creatures with the cold or fire trait can be detected with <em>heatvision</em>. Undead and constructs are typically the same temperature as their environment and can't be detected with <em>heatvision</em>. The GM decides in other cases.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> The duration lasts until you next make your daily preparations, and the range increases to 120 feet.</p>

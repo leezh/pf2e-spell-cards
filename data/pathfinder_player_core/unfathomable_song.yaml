@@ -1,27 +1,29 @@
 actions: '[two-actions]'
-bloodlines:
-- aberrant
+bloodline:
+- Aberrant
 copyright: 2023 Paizo Inc.
-domains: []
-id: unfathomable_song
-lessons: []
+domain: []
+id: spell-1731
+legacy: false
+lesson: []
 level: 9
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Unfathomable Song
 traditions:
-- occult
+- Occult
 traits:
-- auditory
-- concentrate
-- emotion
-- fear
-- incapacitation
-- manipulate
-- mental
-type: spell
+- Auditory
+- Concentrate
+- Emotion
+- Fear
+- Incapacitation
+- Manipulate
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> occult</p>

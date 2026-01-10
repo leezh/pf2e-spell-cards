@@ -1,0 +1,35 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2025 Paizo Inc.
+domain: []
+id: spell-2497
+legacy: false
+lesson: []
+level: 10
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Battlecry!
+title: Conquering Soldiers
+traditions:
+- Arcane
+- Divine
+traits:
+- Concentrate
+- Incarnate
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine</p>
+  <p class="hanging-indent range"><strong>Range</strong> 500 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the end of your next turn</p>
+  <hr/>
+  <p>You tap into the glories of the armies of old, bringing forth their might to your battlefield and making their strength and power your own. This army manifests as glimmering forms of a conquering military of old, replete with banners and colors of their nation. The army occupies the space of a Gargantuan creature and has a Speed of 80 feet.</p>
+  <p class="hanging-indent"><strong>Arrive</strong> (auditory, emotion, fear, mental) <em>Banner’s Call</em> The conquering army manifests before you and your allies, letting out a battle cry of victory and devotion. Each enemy within an 80-foot emanation must attempt a Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature is frightened 2.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes 6d12 mental damage and is frightened 3.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature takes 12d12 mental damage, is frightened 4, and is fleeing for 1 round.</p>
+  <p class="hanging-indent"><strong>Depart</strong> (emotion, healing, mental) <em>Trumpets of War</em> As the conquering soldiers begin to fade, their military musicians play one more triumphant song in your honor. You and all allies within 100 feet of the soldiers immediately reduce the value of any clumsy, drained, enfeebled, frightened, sickened, and stupefied conditions by 2 and gain a +2 status bonus to all attacks, saving throws, skill checks, and DCs for 3 rounds.</p>

@@ -1,0 +1,29 @@
+actions: '[one-action] to [three-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-703
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Magic Stone
+traditions:
+- Divine
+- Primal
+traits:
+- Necromancy
+- Positive
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> (verbal, somatic)</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 to 3 non-magical stones or sling bullets</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You pour positive energy into ordinary stones, granting them temporary magical properties. You can target 1 non-magical stone or sling bullet for every action you use Casting this Spell. The stones must be unattended or carried by you or a willing ally. The stones become <em>+1 striking disrupting sling bullets</em>. Each stone can be used only once, after which it crumbles to dust.</p>

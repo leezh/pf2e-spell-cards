@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1170
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Rare
+remaster: false
+source: Pathfinder Dark Archive
+title: Hollow Heart
+traditions: []
+traits:
+- Cleric
+- Emotion
+- Enchantment
+- Fear
+- Focus
+- Mental
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You stoke the target's ambition beyond reason, until it believes no one is capable of helping it, or that others aren't to be trusted. The target attempts a Will saving throw.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target treats no other creature as an ally for 1 round.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target treats no other creature as an ally for 3 rounds.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, and the target is frightened 1 as it realizes it can't rely on anyone but itself.</p>

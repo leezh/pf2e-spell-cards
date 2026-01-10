@@ -1,0 +1,48 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-1007
+legacy: true
+lesson: []
+level: 8
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Summon Deific Herald
+traditions:
+- Divine
+traits:
+- Conjuration
+- Incarnate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent requirements"><strong>Requirements</strong> You have a deity.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 100 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the end of your next turn</p>
+  <hr/>
+  <p>Your faith is strong enough to briefly summon a direct representative of your deity, such as the deity's herald. The herald occupies the space of a Huge creature and has a Speed of 60 feet. The effects of this spell depend on your deity's alignment.</p>
+  <li><strong>Lawful Good</strong>: <strong>Arrive</strong> (enchantment, good, lawful) <em>Aura of Retribution</em> While within 100 feet of the herald, you and your allies gain the champion's Retributive Strike reaction; <strong>Depart</strong> <em>Holy Smite</em> The herald casts 5th-level <em>divine wrath</em> (choosing good) in a 100-foot emanation.</li>
+  <li><strong>Neutral Good</strong>: <strong>Arrive</strong> (enchantment, good) <em>Aura of Redemption</em> While within 100 feet of the herald, you and your allies gain the champion's Glimpse of Redemption reaction; <strong>Depart</strong> <em>Merciful Healing</em> The herald casts the 3-action version of 5th-level <em>heal</em> with a radius of 100 feet. This spell targets only you and your allies.</li>
+  <li><strong>Chaotic Good</strong>: <strong>Arrive</strong> (chaotic, enchantment, good) <em>Aura of Liberation</em> While within 100 feet of the herald, you and your allies gain the champion's Liberating Step reaction; <strong>Depart</strong> <em>Radiating Freedom</em> The herald affects you and all your allies within 100 feet with <em>freedom of movement</em>. The duration is reduced to 3 rounds.</li>
+  <li><strong>Lawful Neutral</strong>: <strong>Arrive</strong> (abjuration, lawful) <em>Defy Chaos</em> You and each ally within 100 feet of the herald gain resistance 20 against chaotic damage while the herald is present; <strong>Depart</strong> <em>Order's Wrath</em> The herald casts 5th-level <em>divine wrath</em> (choosing lawful) in a 100-foot emanation.</li>
+  <li><strong>Neutral</strong>: <strong>Arrive</strong> (transmutation) <em>Quickening Ripple</em> You and each ally within 100 feet of the herald are quickened while the herald is present, and can use the additional action to Step, Stride, or Strike; <strong>Depart</strong> <em>Sapping Beam</em> The herald casts 6th-level <em>enervation</em> in a 100-foot line.</li>
+  <li><strong>Chaotic Neutral</strong>: <strong>Arrive</strong> (abjuration, chaotic) <em>Defy Law</em> You and each ally within 100 feet of the herald gain resistance 20 against lawful damage while the herald is present; <strong>Depart</strong> <em>Chaos Hammer</em> The herald casts 5th-level <em>divine wrath</em> (choosing chaotic) in a 100-foot emanation.</li>
+  <li><strong>Lawful Evil</strong>: <strong>Arrive</strong> <em>Aura of Iron</em> While within 100 feet of the herald, you and your allies gain the champion's Iron Command reaction; <strong>Depart</strong> <em>Unholy Blight</em> The herald casts 5th-level <em>divine wrath</em> (choosing evil) in a 100-foot emanation.</li>
+  <li><strong>Neutral Evil</strong>: <strong>Arrive</strong> <em>Aura of Selfishness</em> While within 100 feet of the herald, you and your allies gain the champion's Selfish Shield reaction; <strong>Depart</strong> <em>Infinite Despair</em> The herald casts 5th-level <em>crushing despair</em> in a 100-foot cone.</li>
+  <li><strong>Chaotic Evil</strong>: <strong>Arrive</strong> <em>Aura of Vengeance</em> While within 100 feet of the herald, you and your allies gain the champion's Destructive Vengeance reaction; <strong>Depart</strong> <em>Weapon Hurricane</em> The herald casts 5th-level <em>weapon storm</em> in a 100-foot cone, using d12 for the die size.</li>
+  <p>Each of the many deities of Golarion have their own herald; these are just a few of the most prominent.</p>
+  <li><strong>Lawful Good</strong>: The Grand Defender (Torag), the Grim White Stag (Erastil), Hand of the Inheritor (Iomedae)</li>
+  <li><strong>Neutral Good</strong>: The Spirit of Adoration (Shelyn), Sunlord Thalachos (Sarenrae)</li>
+  <li><strong>Chaotic Good</strong>: Night Monarch (Desna), Thais (Cayden Cailean)</li>
+  <li><strong>Lawful Neutral</strong>: Lawgiver (Abadar), The Old Man (Irori)</li>
+  <li><strong>Neutral</strong>: Arcanotheign (Nethys), Personification of Fury (Gozreh), Steward of the Skein (Pharasma)</li>
+  <li><strong>Chaotic Neutral</strong>: The First Blade (Gorum), the Menotherian (Calistria)</li>
+  <li><strong>Lawful Evil</strong>: Basileus (Asmodeus), the Prince in Chains (Zon-Kuthon)</li>
+  <li><strong>Neutral Evil</strong>: Mother's Maw (Urgathoa), the Stabbing Beast (Norgorber)</li>
+  <li><strong>Chaotic Evil</strong>: Tarrasque (Rovagug), Yethazmari (Lamashtu)</li>

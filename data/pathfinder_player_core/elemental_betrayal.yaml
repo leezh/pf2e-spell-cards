@@ -1,24 +1,28 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: elemental_betrayal
-lessons: []
+domain: []
+id: spell-1878
+legacy: false
+lesson:
+- the Elements
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Elemental Betrayal
 traditions: []
 traits:
-- concentrate
-- focus
-- hex
-- witch
-type: focus
+- Concentrate
+- Focus
+- Hex
+- Witch
+type: Focus
 
 --- >
+  <p class="hanging-indent lesson"><strong>Lesson</strong> elements</p>
   <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
   <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>

@@ -1,30 +1,32 @@
 actions: '[two-actions]'
-bloodlines:
-- demonic
-- draconic
+bloodline:
+- Demonic
+- Draconic
 copyright: 2023 Paizo Inc.
-domains: []
-id: fear
-lessons: []
+domain: []
+id: spell-1524
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons:
+mystery: []
+patron:
 - Starless Shadow
-rarity: common
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Fear
 traditions:
-- arcane
-- divine
-- occult
-- primal
+- Arcane
+- Divine
+- Occult
+- Primal
 traits:
-- concentrate
-- emotion
-- fear
-- manipulate
-- mental
-type: spell
+- Concentrate
+- Emotion
+- Fear
+- Manipulate
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>

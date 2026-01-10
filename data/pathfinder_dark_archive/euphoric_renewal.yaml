@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1168
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Rare
+remaster: false
+source: Pathfinder Dark Archive
+title: Euphoric Renewal
+traditions: []
+traits:
+- Cleric
+- Focus
+- Necromancy
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You view death not as an ending but a beginning, and you delight in dancing on its edge. Each time you gain the dying condition and then regain consciousness while under the effect of <em>euphoric renewal</em>, you gain three benefits.</p>
+  <li>You're quickened on your next turn. You can use the extra action only to Stand.</li>
+  <li>You gain a +1 circumstance bonus to saves for 1 minute.</li>
+  <li>You gain 8 temporary Hit Points that last for 1 minute.</li>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The number of temporary HP increases by 2.</p>

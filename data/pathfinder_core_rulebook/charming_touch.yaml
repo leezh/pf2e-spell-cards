@@ -1,0 +1,37 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Passion
+id: spell-406
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Charming Touch
+traditions: []
+traits:
+- Cleric
+- Emotion
+- Enchantment
+- Focus
+- Incapacitation
+- Mental
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> passion</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature that could find you attractive</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You infuse your target with attraction, causing it to act friendlier toward you. The target attempts a Will save. It gains a +4 circumstance bonus to this save if you or your allies recently threatened or were hostile to it.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected and aware you tried to charm it.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is unaffected but thinks your spell was something harmless instead of <em>charming touch</em>, unless it identifies the spell (see Identifying Spells).</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target's attitude becomes friendly toward you. If it was friendly, it becomes helpful. It can't use hostile actions against you.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is helpful and can't use hostile actions against you.</p>
+  <p>You can Dismiss the spell. If you use hostile actions against the target, the spell ends. After the spell ends, the target doesn't necessarily realize it was charmed unless its friendship with you or the actions you convinced it to take clash with its expectations, which could potentially allow you to convince the target to continue being your friend via mundane means.</p>

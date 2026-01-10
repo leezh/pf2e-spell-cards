@@ -1,0 +1,31 @@
+actions: '[reaction]'
+bloodline:
+- Shadow
+- Harrow
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-274
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Shadow Siphon
+traditions:
+- Arcane
+- Occult
+traits:
+- Illusion
+- Shadow
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> A spell or magical effect deals damage</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> the triggering spell</p>
+  <hr/>
+  <p>Exchanging material energy with that of the Shadow Plane, you transform the triggering spell into a partially illusory version of itself. Attempt to counteract the target spell. If the attempt is successful, any creatures that would be damaged by the spell instead take only half as much damage, but the spell otherwise works as normal. Treat <em>shadow siphon</em>'s counteract level as 2 higher for this attempt.</p>

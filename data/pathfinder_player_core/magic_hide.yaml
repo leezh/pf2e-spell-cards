@@ -1,21 +1,23 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: magic_hide
-lessons: []
+domain: []
+id: spell-1865
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Magic Hide
 traditions: []
 traits:
-- focus
-- manipulate
-- ranger
-type: focus
+- Focus
+- Manipulate
+- Ranger
+type: Focus
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> your animal companion</p>

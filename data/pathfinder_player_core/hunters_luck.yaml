@@ -1,22 +1,24 @@
 actions: '[free-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: hunters_luck
-lessons: []
+domain: []
+id: spell-1868
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Hunter's Luck
 traditions: []
 traits:
-- concentrate
-- focus
-- fortune
-- ranger
-type: focus
+- Concentrate
+- Focus
+- Fortune
+- Ranger
+type: Focus
 
 --- >
   <p class="hanging-indent trigger"><strong>Trigger</strong> You attempt a check to Recall Knowledge about a creature, but you haven’t rolled yet</p>

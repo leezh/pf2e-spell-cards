@@ -1,0 +1,30 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-8
+legacy: true
+lesson: []
+level: 10
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Alter Reality
+traditions:
+- Occult
+traits:
+- Divination
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <hr/>
+  <p>You use your occult lore and the power of your mind to manipulate the spiritual multiverse, resulting in any of the following effects:</p>
+  <p>At the GM's discretion, you can try to produce greater effects, but this is dangerous and the spell may have only a partial effect.</p>
+  <li>Reverse certain effects that refer to the <em>wish</em> spell</li>
+  <li>Produce any effect whose power is equivalent to any occult spell 9th level or lower, or non-occult spell 7th level or lower.</li>
+  <li>Duplicate any spell from another spell list of 7th level or lower. It must be common or you must have access.</li>
+  <li>Duplicate any spell from the occult list of 9th level or lower to which you have access.</li>

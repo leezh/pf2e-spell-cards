@@ -1,20 +1,22 @@
 actions: '[reaction]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: energy_absorption
-lessons: []
+domain: []
+id: spell-1897
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Energy Absorption
 traditions: []
 traits:
-- focus
-- wizard
-type: focus
+- Focus
+- Wizard
+type: Focus
 
 --- >
   <p class="hanging-indent trigger"><strong>Trigger</strong> An effect would deal acid, cold, electricity, or fire damage to you</p>

@@ -1,0 +1,30 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1337
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Interposing Earth
+traditions:
+- Arcane
+- Primal
+traits:
+- Earth
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> You are the target of a Strike or would attempt a Reflex save against a damaging area effect</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 3 rounds</p>
+  <hr/>
+  <p>You raise a flimsy barrier of earth to shield you from harm. This barrier is 1 inch thick, 5 feet long, 5 feet high, and must be placed on the border between two squares. This barrier appears between you and the source of the triggering effect and grants you standard cover against the triggering effect. If you would be damaged by the triggering effect despite this barrier, the barrier is destroyed, and the damage dealt to you is reduced by 2. The barrier remains in place for 3 rounds (or until destroyed). It has AC 5, 2 Hardness, and 5 Hit Points.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> The damage reduced increases to 8, the barrier's hardness increases to 8, and the barrier's Hit Points increases to 20.</p>

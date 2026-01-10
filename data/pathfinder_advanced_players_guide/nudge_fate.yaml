@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-802
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron:
+- Fate
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Nudge Fate
+traditions: []
+traits:
+- Cantrip
+- Divination
+- Hex
+- Witch
+type: Cantrip
+
+--- >
+  <p class="hanging-indent patron"><strong>Patron</strong> fate</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You read slightly into the future and give fate a tiny push to achieve the result you desire. Once during the duration, when the target fails an attack roll, skill check, or saving throw and a +1 status bonus would turn a critical failure into a failure, or failure into a success, you grant the target a +1 status bonus to the check retroactively, changing the outcome appropriately. The spell then ends, and the target is temporarily immune for 1 minute.</p>
+  <p>If you cast <em>nudge fate</em> while a previous casting of this hex is still in effect, the previous effect ends.</p>

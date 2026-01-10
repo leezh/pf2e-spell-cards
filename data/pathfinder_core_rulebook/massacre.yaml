@@ -1,0 +1,38 @@
+actions: '[two-actions]'
+bloodline:
+- Psychopomp
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-186
+legacy: true
+lesson: []
+level: 9
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Massacre
+traditions:
+- Arcane
+- Divine
+- Primal
+traits:
+- Death
+- Necromancy
+- Negative
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 60-foot line</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>You unleash a wave of necromantic energy to snuff out the life force of those in its path. Each living creature of 17th level or lower in the line must attempt a Fortitude save. If the damage from <em>massacre</em> reduces a creature to 0 Hit Points, that creature dies instantly. If <em>massacre</em> doesn't kill even a single creature, the negative energy violently explodes back toward you, dealing an additional 30 negative damage to every living creature in the line (even those above 17th level) and 30 negative damage to you.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes 9d6 negative damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes 100 negative damage.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature dies.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (10th)</strong> The spell can affect creatures up to 19th level. Increase the damage to 10d6 on a success, and to 115 on a failure.</p>

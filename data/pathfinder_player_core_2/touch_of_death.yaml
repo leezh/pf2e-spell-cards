@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: touch_of_death
-lessons: []
+domain: []
+id: spell-2058
+legacy: false
+lesson: []
 level: 8
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Touch of Death
 traditions: []
 traits:
-- concentrate
-- focus
-- incapacitation
-- manipulate
-- monk
-type: focus
+- Concentrate
+- Focus
+- Incapacitation
+- Manipulate
+- Monk
+type: Focus
 
 --- >
   <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> 1 month</p>

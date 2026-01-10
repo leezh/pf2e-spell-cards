@@ -1,0 +1,29 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1319
+legacy: false
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Propulsive Breeze
+traditions:
+- Arcane
+- Primal
+traits:
+- Air
+- Manipulate
+- Move
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> An ally in range Strides or Leaps.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> the triggering creature</p>
+  <hr/>
+  <p>You create a current of wind at your ally's back, propelling their movement. When your ally's Stride or Leap ends, the current propels them an additional 15 feet in the same direction as the last 5 feet of their Stride or Leap.</p>

@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines:
-- diabolic
+bloodline:
+- Diabolic
 copyright: 2024 Paizo Inc.
-domains: []
-id: hellfire_plume
-lessons: []
+domain: []
+id: spell-2101
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Hellfire Plume
 traditions: []
 traits:
-- concentrate
-- fire
-- focus
-- manipulate
-- sorcerer
-- spirit
-type: focus
+- Concentrate
+- Fire
+- Focus
+- Manipulate
+- Sorcerer
+- Spirit
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> diabolic</p>

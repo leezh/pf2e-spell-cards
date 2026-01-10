@@ -1,21 +1,23 @@
 actions: '[reaction]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: champions_sacrifice
-lessons: []
+domain: []
+id: spell-2050
+legacy: false
+lesson: []
 level: 6
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Champion's Sacrifice
 traditions: []
 traits:
-- champion
-- focus
-- manipulate
-type: focus
+- Champion
+- Focus
+- Manipulate
+type: Focus
 
 --- >
   <p class="hanging-indent trigger"><strong>Trigger</strong> An ally is hit by a Strike or fails a saving throw against an effect that doesn’t affect you.</p>

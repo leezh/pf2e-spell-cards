@@ -1,0 +1,29 @@
+actions: ''
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1192
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Dark Archive
+title: Time Pocket
+traditions:
+- Arcane
+- Occult
+traits:
+- Transmutation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 minute (material, somatic, verbal)</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> one item of 1 Bulk or less that a willing creature is holding</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the next time you make your daily preparations</p>
+  <hr/>
+  <p>You fling the target item forward in time and link it to the future of the creature holding it. The item disappears. When the spell ends, the item reappears with the creature that was holding it when you Cast the Spell. If the creature has enough hands free to hold the item, it appears in their hands. Otherwise, it falls to the ground in the creature's space.</p>
+  <p>You can Dismiss the spell, and it automatically ends if you're reduced to 0 Hit Points or cast <em>time pocket</em> again.</p>

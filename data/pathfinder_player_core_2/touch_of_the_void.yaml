@@ -1,22 +1,24 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: touch_of_the_void
-lessons: []
+domain: []
+id: spell-2048
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Touch of the Void
 traditions: []
 traits:
-- champion
-- focus
-- manipulate
-- void
-type: focus
+- Champion
+- Focus
+- Manipulate
+- Void
+type: Focus
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing undead creature or 1 living creature</p>

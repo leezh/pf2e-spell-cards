@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: tempest_form
-lessons: []
+domain: []
+id: spell-2089
+legacy: false
+lesson: []
 level: 6
-mysteries:
-- tempest
-patrons: []
-rarity: uncommon
+mystery:
+- Tempest
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Tempest Form
 traditions: []
 traits:
-- concentrate
-- focus
-- manipulate
-- oracle
-- polymorph
-type: focus
+- Concentrate
+- Focus
+- Manipulate
+- Oracle
+- Polymorph
+type: Focus
 
 --- >
   <p class="hanging-indent mystery"><strong>Mystery</strong> tempest</p>

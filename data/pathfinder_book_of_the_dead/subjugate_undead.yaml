@@ -1,0 +1,31 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1106
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Book of the Dead
+title: Subjugate Undead
+traditions: []
+traits:
+- Focus
+- Mental
+- Necromancy
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> one undead creature with a level of no more than your level - 4</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You attempt to seize control of the target. It can attempt a Will save to resist the effect. If the target is already being controlled by another creature, the controlling creature also rolls a saving throw and the undead uses the better result. Casting <em>subjugate undead</em> again ends any previous <em>subjugate undead</em> you cast.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected and is temporarily immune for 24 hours.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The undead creature becomes a minion under your control for 1 minute. The spell is dismissed if you or an ally takes a hostile action against the minion undead.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, except the duration is 10 minutes.</p>

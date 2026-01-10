@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2025 Paizo Inc.
+domain: []
+id: spell-2517
+legacy: false
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Battlecry!
+title: Sticky Fire
+traditions:
+- Arcane
+- Primal
+traits:
+- Attack
+- Concentrate
+- Fire
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> AC</p>
+  <hr/>
+  <p>You send a bubble of viscous liquid that sparks into flame. Make a spell attack roll against the target’s AC, dealing 1d8 fire damage and 1d8 persistent fire damage on a hit. The target is enfeebled 1 until they recover from their persistent fire damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The initial and persistent fire damage increase by 1d8.</p>

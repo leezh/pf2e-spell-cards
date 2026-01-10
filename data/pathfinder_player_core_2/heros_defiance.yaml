@@ -1,23 +1,25 @@
 actions: '[free-action]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: heros_defiance
-lessons: []
+domain: []
+id: spell-2051
+legacy: false
+lesson: []
 level: 10
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Hero's Defiance
 traditions: []
 traits:
-- champion
-- concentrate
-- focus
-- healing
-- vitality
-type: focus
+- Champion
+- Concentrate
+- Focus
+- Healing
+- Vitality
+type: Focus
 
 --- >
   <p class="hanging-indent trigger"><strong>Trigger</strong> An attack would bring you to 0 Hit Points.</p>

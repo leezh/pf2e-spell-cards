@@ -1,0 +1,38 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-764
+legacy: true
+lesson: []
+level: 3
+mystery:
+- Tempest
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Thunderburst
+traditions: []
+traits:
+- Air
+- Cursebound
+- Evocation
+- Focus
+- Oracle
+- Sonic
+type: Focus
+
+--- >
+  <p class="hanging-indent mystery"><strong>Mystery</strong> tempest</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 100 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>You create a powerful blast of air and a loud peal of thunder, dealing 2d6 bludgeoning damage and 2d6 sonic damage. Each creature in the area must attempt a Fortitude save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes half damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes full damage and is deafened for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature takes double damage and is deafened for 1 hour.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> Increase each type of damage by 2d6 and the area by 5 feet.</p>

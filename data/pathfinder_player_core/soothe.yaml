@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: soothe
-lessons: []
+domain: []
+id: spell-1678
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Soothe
 traditions:
-- occult
+- Occult
 traits:
-- concentrate
-- emotion
-- healing
-- manipulate
-- mental
-type: spell
+- Concentrate
+- Emotion
+- Healing
+- Manipulate
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> occult</p>

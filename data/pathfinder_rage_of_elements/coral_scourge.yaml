@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1384
+legacy: false
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Coral Scourge
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Incapacitation
+- Manipulate
+- Water
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Reflex; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Barnacles, coral, and other rough aquatic creatures grow on the target's body, getting in between their joints and stiffening their movement. This impedes the target's movement depending on the result of its saving throw.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is clumsy 1. The target can Interact to scrape the coral growths from its body, decreasing the clumsy condition to 0 and ending the spell.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is clumsy 2. Each round at the beginning of its turn, the target becomes clumsy 1 or increases its clumsy condition by 1, to a maximum of 4. The target can Interact to scrape the coral growths from its body, decreasing the clumsy condition to 0 and ending the spell. If the target's clumsy condition caused by <em>coral scourge</em> reaches 4, the growths spread to cover the target's entire body, and the target becomes paralyzed.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, but when the target Interacts to scrape the coral growths from its body, it reduces its clumsy condition by 1, instead of decreasing it to 0, and decreasing the clumsy condition to 0 doesn't end the spell.</p>

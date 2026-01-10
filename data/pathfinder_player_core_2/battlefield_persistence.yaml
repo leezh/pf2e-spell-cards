@@ -1,22 +1,24 @@
 actions: '[reaction]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: battlefield_persistence
-lessons: []
+domain: []
+id: spell-2070
+legacy: false
+lesson: []
 level: 3
-mysteries:
-- battle
-patrons: []
-rarity: uncommon
+mystery:
+- Battle
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Battlefield Persistence
 traditions: []
 traits:
-- concentrate
-- focus
-- oracle
-type: focus
+- Concentrate
+- Focus
+- Oracle
+type: Focus
 
 --- >
   <p class="hanging-indent mystery"><strong>Mystery</strong> battle</p>

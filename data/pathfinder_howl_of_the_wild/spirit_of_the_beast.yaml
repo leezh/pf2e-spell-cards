@@ -1,0 +1,34 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1945
+legacy: false
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Spirit of the Beast
+traditions: []
+traits:
+- Concentrate
+- Flourish
+- Focus
+- Morph
+- Primal
+type: Focus
+
+--- >
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> your animal companion</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You bring out the spirit of another animal that lives within your companion. Its body morphs slightly to take on an aspect of the animal you choose to have it emulate—for example, it might grow a pair of horns if the spirit is a bull or a tail if the spirit is a monkey. When you Cast this Spell, select from one of the following aspects.</p>
+  <li><strong>Aspect of Might</strong> Your companion gains a +1 status bonus to Athletics checks, Intimidation checks to Demoralize, and Fortitude saves.</li>
+  <li><strong>Aspect of Swiftness</strong> Your companion gains a +1 status bonus to Acrobatics checks, Stealth checks to Hide or Sneak, and Reflex saves.</li>
+  <li><strong>Aspect of Insight</strong> Your companion gains a +1 status bonus to Perception checks to Seek, Survival checks to Sense Direction or Track, and Will saves.</li>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> The status bonuses increase to +2.</p>
+  <p class="hanging-indent"><strong>Heightened (8th)</strong> The status bonuses increase to +3.</p>

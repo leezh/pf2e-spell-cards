@@ -1,23 +1,25 @@
 actions: '[one-action] to [two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: heal_animal
-lessons: []
+domain: []
+id: spell-1855
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Heal Animal
 traditions: []
 traits:
-- druid
-- focus
-- healing
-- manipulate
-- vitality
-type: focus
+- Druid
+- Focus
+- Healing
+- Manipulate
+- Vitality
+type: Focus
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> touch or 30 feet (see text); <strong>Targets</strong> 1 willing living animal</p>

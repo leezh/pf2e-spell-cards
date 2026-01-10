@@ -1,22 +1,24 @@
 actions: '[reaction]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- death
-id: deaths_call
-lessons: []
+domain:
+- Death
+id: spell-1792
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Death's Call
 traditions: []
 traits:
-- cleric
-- concentrate
-- focus
-type: focus
+- Cleric
+- Concentrate
+- Focus
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> death</p>

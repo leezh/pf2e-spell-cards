@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- fate
-id: read_fate
-lessons: []
+domain:
+- Fate
+id: spell-1802
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Read Fate
 traditions: []
 traits:
-- cleric
-- concentrate
-- focus
-- manipulate
-- prediction
-type: focus
+- Cleric
+- Concentrate
+- Focus
+- Manipulate
+- Prediction
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> fate</p>

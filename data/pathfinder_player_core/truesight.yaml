@@ -1,26 +1,29 @@
 actions: '[two-actions]'
-bloodlines:
-- diabolic
+bloodline:
+- Diabolic
 copyright: 2023 Paizo Inc.
-domains: []
-id: truesight
-lessons: []
+domain: []
+id: spell-1727
+legacy: false
+lesson: []
 level: 6
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Truesight
 traditions:
-- arcane
-- divine
-- occult
-- primal
+- Arcane
+- Divine
+- Occult
+- Primal
+- Elemental
 traits:
-- concentrate
-- manipulate
-- revelation
-type: spell
+- Concentrate
+- Manipulate
+- Revelation
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>

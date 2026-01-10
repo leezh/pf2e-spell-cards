@@ -1,0 +1,37 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-977
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Puff of Poison
+traditions:
+- Arcane
+- Primal
+traits:
+- Cantrip
+- Evocation
+- Inhaled
+- Poison
+type: Cantrip
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 5 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>You exhale a shimmering cloud of toxic breath at an enemy's face. The target takes 1d8 poison damage and 2 persistent poison damage, depending on its Fortitude save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes half initial and persistent damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target takes full initial and persistent damage.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target takes double initial and persistent damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The initial poison damage increases by 1d8 and the persistent poison damage increases by 1.</p>

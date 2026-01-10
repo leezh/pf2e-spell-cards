@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- luck
-id: bit_of_luck
-lessons: []
+domain:
+- Luck
+id: spell-1814
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Bit of Luck
 traditions: []
 traits:
-- cleric
-- concentrate
-- focus
-- fortune
-- manipulate
-type: focus
+- Cleric
+- Concentrate
+- Focus
+- Fortune
+- Manipulate
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> luck</p>

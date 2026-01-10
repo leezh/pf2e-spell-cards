@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1408
+legacy: false
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Rigid Form
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Manipulate
+- Wood
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You utilize wood's rigidity to prevent harmful shapechanging effects. For the duration of this spell, whenever you're targeted by a harmful polymorph effect, you can use your reaction to attempt to counteract the effect.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> The duration increases to 10 minutes.</p>

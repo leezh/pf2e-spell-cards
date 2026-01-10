@@ -1,0 +1,35 @@
+actions: '[one-action] to [three-actions]'
+bloodline:
+- Angelic
+- Psychopomp
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-148
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Heal
+traditions:
+- Divine
+- Primal
+traits:
+- Healing
+- Necromancy
+- Positive
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> varies; <strong>Targets</strong> 1 willing living creature or 1 undead</p>
+  <hr/>
+  <p>You channel positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.</p>
+  <p>[one-action] <strong>(somatic)</strong> The spell has a range of touch.</p>
+  <p>[two-actions] <strong>(somatic, verbal)</strong> The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.</p>
+  <p>[three-actions] <strong>(material, somatic, verbal)</strong> You disperse positive energy in a 30-foot emanation. This targets all living and undead creatures in the burst.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.</p>

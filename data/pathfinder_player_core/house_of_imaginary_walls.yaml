@@ -1,24 +1,26 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: house_of_imaginary_walls
-lessons: []
+domain: []
+id: spell-1767
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: House of Imaginary Walls
 traditions: []
 traits:
-- bard
-- cantrip
-- composition
-- illusion
-- manipulate
-- visual
-type: cantrip
+- Bard
+- Cantrip
+- Composition
+- Illusion
+- Manipulate
+- Visual
+type: Cantrip
 
 --- >
   <p class="hanging-indent duration"><strong>Duration</strong> 1 round</p>

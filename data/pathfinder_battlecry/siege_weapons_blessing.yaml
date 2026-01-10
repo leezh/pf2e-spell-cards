@@ -1,0 +1,31 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2025 Paizo Inc.
+domain: []
+id: spell-2514
+legacy: false
+lesson: []
+level: 6
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Battlecry!
+title: Siege Weapon's Blessing
+traditions:
+- Arcane
+- Divine
+- Occult
+traits:
+- Concentrate
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> one mounted siege weapon</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You trace a magic rune onto the body of a siege weapon, calling upon fate or your faith to guide the attacks your allies make with this machine. For the spell’s duration, any skill checks attempted to Load the siege weapon can be rolled twice, taking the better result; these skill checks gain the fortune trait. In addition, any saving throws attempted by creatures caught in the siege weapon’s Launch area must be rolled twice, taking the worse result; these saving throws gain the misfortune trait.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (9th)</strong> The duration is 8 hours.</p>

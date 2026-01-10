@@ -1,23 +1,25 @@
 actions: '[three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: beastmaster_trance
-lessons: []
+domain: []
+id: spell-1962
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Beastmaster Trance
 traditions: []
 traits:
-- archetype
-- concentrate
-- focus
-- manipulate
-- mental
-type: focus
+- Archetype
+- Concentrate
+- Focus
+- Manipulate
+- Mental
+type: Focus
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> 1 mile; <strong>Targets</strong> one animal companion you can perceive</p>

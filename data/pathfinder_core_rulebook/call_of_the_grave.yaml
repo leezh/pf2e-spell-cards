@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-522
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Call of the Grave
+traditions: []
+traits:
+- Arcane
+- Attack
+- Focus
+- Necromancy
+- Wizard
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 living creature</p>
+  <hr/>
+  <p>You fire a ray of sickening energy. Make a spell attack roll.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target becomes sickened 2 and slowed 1 as long as it's sickened.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target becomes sickened 1.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is unaffected.</p>

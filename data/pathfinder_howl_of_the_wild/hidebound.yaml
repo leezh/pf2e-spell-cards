@@ -1,0 +1,31 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1954
+legacy: false
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Hidebound
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> A creature within range is hit with a Strike that deals physical damage.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>The target's skin erupts in thick hide or dense scales. It gains resistance 5 to physical damage, except adamantine, until the beginning of its next turn.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The resistance increases by 3.</p>

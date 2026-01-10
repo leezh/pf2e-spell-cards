@@ -1,27 +1,30 @@
 actions: ''
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: read_aura
-lessons: []
+domain: []
+id: spell-1646
+legacy: false
+lesson: []
 level: 1
-mysteries:
-- lore
-patrons: []
-rarity: common
+mystery:
+- Lore
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Read Aura
 traditions:
-- arcane
-- divine
-- occult
-- primal
+- Arcane
+- Divine
+- Occult
+- Primal
+- Elemental
 traits:
-- cantrip
-- concentrate
-- detection
-- manipulate
-type: cantrip
+- Cantrip
+- Concentrate
+- Detection
+- Manipulate
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>

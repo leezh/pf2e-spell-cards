@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2025 Paizo Inc.
+domain: []
+id: spell-2503
+legacy: false
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Rare
+remaster: true
+source: Pathfinder Battlecry!
+title: Fallen Soldier's Lament
+traditions:
+- Divine
+- Occult
+traits:
+- Concentrate
+- Illusion
+- Manipulate
+- Mental
+- Visual
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 100 feet; <strong>Targets</strong> 1 corpse of a Medium or smaller creature that has died within the past 8 hours</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You raise an illusion in the space of a fallen foe, crafting it to resemble a ghost of your target before parading it across the battlefield. Whenever you Cast this Spell or Sustain this spell, you move the illusion up to 30 feet and cause each enemy in a 30-foot emanation of the spirit to attempt a Will save against your spell DC. Enemies who fail become frightened 1 (or frightened 2 on a critical failure).</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> You can target a corpse of any size that has died within the past 8 hours.</p>

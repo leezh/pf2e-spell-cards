@@ -1,0 +1,32 @@
+actions: '[reaction]'
+bloodline:
+- Psychopomp
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-787
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Shepherd of Souls
+traditions: []
+traits:
+- Focus
+- Healing
+- Necromancy
+- Sorcerer
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> psychopomp</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> A living creature within 30 feet takes damage.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <hr/>
+  <p>You stay the hand of fate for one not yet destined to die, sacrificing some of your own vitality to heal them. You lose up to 15 Hit Points as a sacrifice, and the target reduces the damage by twice the number of Hit Points sacrificed. If this reduction exceeds the amount of damage, the target recovers Hit Points equal to the excess amount.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The maximum number of Hit Points you can sacrifice increases by 5.</p>

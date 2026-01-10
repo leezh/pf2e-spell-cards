@@ -1,0 +1,32 @@
+actions: '[one-action] to [three-actions]'
+bloodline:
+- Demonic
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-516
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Swamp of Sloth
+traditions: []
+traits:
+- Conjuration
+- Focus
+- Olfactory
+- Sorcerer
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> demonic</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Area</strong> 5-foot burst or more</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Fortitude; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Ground in the area turns swampy and fetid. The area is difficult terrain. The sludge at the bottom of the morass animates into diminutive sludge beasts that have a demonic appearance. These don't function as normal creatures, but they swarm over creatures in the swamp and exude a noxious stench. The swamp deals 1d6 poison damage; creatures that end their turn in the area must attempt a basic Fortitude save. You can increase the number of actions it takes to Cast the Spell. For each additional action, increase the burst's radius by 5 feet.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The damage increases by 1d6, and the initial radius increases by 5 feet.</p>

@@ -1,0 +1,32 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2025 Paizo Inc.
+domain: []
+id: spell-2504
+legacy: false
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Battlecry!
+title: Filter Air
+traditions:
+- Arcane
+- Divine
+- Primal
+traits:
+- Air
+- Concentrate
+- Manipulate
+- Subtle
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> You’re exposed to a poison or disease that has the inhaled trait, and you’re aware of the exposure</p>
+  <p class="hanging-indent requirements"><strong>Requirements</strong> You breathe air.</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You suck in a rough breath of air, and your body automatically filters out the harmful molecules that would infest your lungs. As you breathe for the duration of the spell, you get the outcome one degree of success higher on your saving throws against inhaled poisons and diseases.</p>

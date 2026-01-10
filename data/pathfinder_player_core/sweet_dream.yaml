@@ -1,27 +1,29 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- dreams
-id: sweet_dream
-lessons: []
+domain:
+- Dreams
+id: spell-1796
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Sweet Dream
 traditions: []
 traits:
-- auditory
-- cleric
-- concentrate
-- focus
-- linguistic
-- manipulate
-- mental
-- sleep
-type: focus
+- Auditory
+- Cleric
+- Concentrate
+- Focus
+- Linguistic
+- Manipulate
+- Mental
+- Sleep
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> dreams</p>
@@ -29,10 +31,10 @@ type: focus
   <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
   <hr/>
   <p>With soothing words, you lull the target into an enchanting dream. When you Cast the Spell, the target falls unconscious if it wasn't already. While unconscious, it experiences a dream of your choice, though lucidly enough it can wake when it pleases. If it wakes up before 1 minute of sleep has passed, the spell ends.</p>
-  <li><strong>Dream of Insight</strong> +1 status bonus to Intelligence-based skill checks</li>
-  <li><strong>Dream of Glamor</strong> +1 status bonus to Charisma-based skill checks</li>
-  <li><strong>Dream of Voyaging</strong> +5-foot status bonus to Speed.</li>
   <p>If you Cast this Spell again, any previous sweet dream you cast ends.</p>
+  <li><strong>Dream of Voyaging</strong> +5-foot status bonus to Speed.</li>
+  <li><strong>Dream of Glamor</strong> +1 status bonus to Charisma-based skill checks</li>
+  <li><strong>Dream of Insight</strong> +1 status bonus to Intelligence-based skill checks</li>
   <hr/>
   <p class="hanging-indent"><strong>Heightened (4th)</strong> The bonus for a dream of insight or glamor is +2.</p>
   <p class="hanging-indent"><strong>Heightened (7th)</strong> The bonus for a dream of insight or glamor is +3.</p>

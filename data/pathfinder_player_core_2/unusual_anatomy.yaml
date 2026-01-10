@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines:
-- aberrant
+bloodline:
+- Aberrant
 copyright: 2024 Paizo Inc.
-domains: []
-id: unusual_anatomy
-lessons: []
+domain: []
+id: spell-2092
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Unusual Anatomy
 traditions: []
 traits:
-- focus
-- manipulate
-- polymorph
-- sorcerer
-type: focus
+- Focus
+- Manipulate
+- Polymorph
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> aberrant</p>

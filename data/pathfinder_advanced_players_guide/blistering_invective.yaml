@@ -1,0 +1,37 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-674
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Blistering Invective
+traditions:
+- Occult
+traits:
+- Auditory
+- Emotion
+- Enchantment
+- Fear
+- Mental
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will</p>
+  <hr/>
+  <p>A heap of insults and invectives spew from your mouth— words so devastating your foes burn from the intensity of your diatribe. Your words deal 2d6 persistent fire damage, and the target must attempt a Will save. If the target doesn't understand the language or you're not speaking a language, it gains a +4 circumstance bonus to its save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes half the persistent fire damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target becomes frightened 1 and takes the full persistent fire damage.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target becomes frightened 2 and takes double the persistent fire damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> You can target two additional creatures, and the persistent damage increases by 2d6.</p>

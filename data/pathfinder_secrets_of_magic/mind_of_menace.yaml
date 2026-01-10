@@ -1,0 +1,38 @@
+actions: ''
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-949
+legacy: true
+lesson:
+- Favors
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Mind of Menace
+traditions:
+- Arcane
+- Divine
+- Occult
+- Primal
+traits:
+- Contingency
+- Emotion
+- Enchantment
+- Fear
+- Mental
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 10 minutes (material, somatic, verbal)</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 24 hours</p>
+  <hr/>
+  <p>This spell wards against those who attempt to subvert your mind and turns mental magic back on them. When the spell is complete, you gain the Fight with Fear reaction; once you use the reaction, the spell ends.</p>
+  <p class="hanging-indent"><strong>Fight with Fear</strong> [reaction] (concentrate, emotion, enchantment, fear, mental) <strong>Trigger</strong> A creature that you can see uses a mental effect against you; <strong>Effect</strong> The triggering creature must attempt a Will save, which has the following effects.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature is frightened 2, and you gain a +2 status bonus to your saving throw or other defense against the triggering mental effect.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature is frightened 2, and you're unaffected by the triggering mental effect.</p>

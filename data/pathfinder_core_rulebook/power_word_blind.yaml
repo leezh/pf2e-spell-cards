@@ -1,0 +1,34 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-226
+legacy: true
+lesson: []
+level: 7
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Power Word Blind
+traditions:
+- Arcane
+traits:
+- Auditory
+- Enchantment
+- Mental
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> varies</p>
+  <hr/>
+  <p>You utter an arcane word of power that can make the target blinded upon hearing it. Once targeted, the target is then temporarily immune for 10 minutes. The effect of the spell depends on the target's level.</p>
+  <p class="hanging-indent"><strong>11th or Lower</strong> The target is blinded permanently.</p>
+  <p class="hanging-indent"><strong>12th–13th</strong> The target is blinded for 1d4 minutes.</p>
+  <p class="hanging-indent"><strong>14th or Higher</strong> The target is dazzled for 1 minute.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The levels at which each outcome applies increase by 2.</p>

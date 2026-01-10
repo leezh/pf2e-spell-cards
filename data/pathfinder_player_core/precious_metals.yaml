@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- wealth
-id: precious_metals
-lessons: []
+domain:
+- Wealth
+id: spell-1851
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Precious Metals
 traditions: []
 traits:
-- cleric
-- focus
-- manipulate
-- metal
-type: focus
+- Cleric
+- Focus
+- Manipulate
+- Metal
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> wealth</p>

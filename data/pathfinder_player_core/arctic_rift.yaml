@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: arctic_rift
-lessons: []
+domain: []
+id: spell-1444
+legacy: false
+lesson: []
 level: 8
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Arctic Rift
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- cold
-- concentrate
-- manipulate
-type: spell
+- Cold
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

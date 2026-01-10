@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines:
-- diabolic
+bloodline:
+- Diabolic
 copyright: 2023 Paizo Inc.
-domains: []
-id: divine_inspiration
-lessons: []
+domain: []
+id: spell-1497
+legacy: false
+lesson: []
 level: 8
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Divine Inspiration
 traditions:
-- divine
+- Divine
 traits:
-- concentrate
-- manipulate
-- mental
-type: spell
+- Concentrate
+- Manipulate
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>

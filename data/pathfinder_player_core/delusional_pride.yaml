@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- confidence
-id: delusional_pride
-lessons: []
+domain:
+- Confidence
+id: spell-1787
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Delusional Pride
 traditions: []
 traits:
-- cleric
-- concentrate
-- emotion
-- focus
-- manipulate
-- mental
-type: focus
+- Cleric
+- Concentrate
+- Emotion
+- Focus
+- Manipulate
+- Mental
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> confidence</p>

@@ -1,22 +1,24 @@
 actions: '[three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: summon_lesser_servitor
-lessons: []
+domain: []
+id: spell-2034
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Summon Lesser Servitor
 traditions:
-- divine
+- Divine
 traits:
-- concentrate
-- manipulate
-- summon
-type: spell
+- Concentrate
+- Manipulate
+- Summon
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>

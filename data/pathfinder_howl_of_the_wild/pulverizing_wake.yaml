@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1937
+legacy: false
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Pulverizing Wake
+traditions: []
+traits:
+- Attack
+- Concentrate
+- Focus
+- Manipulate
+- Ranger
+- Sonic
+type: Focus
+
+--- >
+  <p class="hanging-indent area"><strong>Area</strong> 15-foot cone; <strong>Targets</strong> 1 creature within reach</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> AC and basic Fortitude (see text)</p>
+  <hr/>
+  <p>Imitating raptorial creatures, you attack with such speed it drives a sonic shockwave. Make a melee Strike against a creature in your reach; if you hit, you deal an additional 3d8 sonic damage. Regardless of the result of your Strike, that creature becomes the point of origin of a 15-foot cone, aimed directly away from you. All creatures in that cone take 6d8 sonic damage (basic Fortitude save).</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage of the cone increases by 1d8.</p>

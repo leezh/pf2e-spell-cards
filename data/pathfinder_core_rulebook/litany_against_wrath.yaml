@@ -1,0 +1,35 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-397
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Litany Against Wrath
+traditions: []
+traits:
+- Champion
+- Evocation
+- Focus
+- Good
+- Litany
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature that isn't holy</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>Your litany rails against the sin of wrath, punishing the target for attacking good creatures. The target must attempt a Will save. A particularly wrathful creature, such as a wrath demon, uses the outcome one degree of success worse than the result of its saving throw. The target then becomes temporarily immune to all of your litanies for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The first time the target uses an action that deals damage to at least one creature that isn't unholy, the target takes 3d6 spirit damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> Each time the target uses an action that deals damage to at least one creature that isn't unholy, the target takes 3d6 spirit damage.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is enfeebled 2. Each time it uses an action that deals damage to at least one creature that isn't unholy, the target takes 3d6 spirit damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d6.</p>

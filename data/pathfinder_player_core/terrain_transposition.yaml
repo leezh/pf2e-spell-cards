@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: terrain_transposition
-lessons: []
+domain: []
+id: spell-1873
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Terrain Transposition
 traditions: []
 traits:
-- concentrate
-- focus
-- manipulate
-- ranger
-- teleportation
-type: focus
+- Concentrate
+- Focus
+- Manipulate
+- Ranger
+- Teleportation
+type: Focus
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> 90 feet</p>

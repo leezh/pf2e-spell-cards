@@ -1,0 +1,29 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Perfection
+id: spell-437
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Perfected Form
+traditions: []
+traits:
+- Abjuration
+- Cleric
+- Focus
+- Fortune
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> perfection</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> You fail a saving throw against a morph, petrification, or polymorph effect.</p>
+  <hr/>
+  <p>Reroll the saving throw and use the better result.</p>

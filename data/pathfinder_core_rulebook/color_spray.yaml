@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-44
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Color Spray
+traditions:
+- Arcane
+- Occult
+traits:
+- Illusion
+- Incapacitation
+- Visual
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 15-foot cone</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 or more rounds (see below)</p>
+  <hr/>
+  <p>Swirling colors affect viewers based on their Will saves.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature is dazzled for 1 round.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature is stunned 1, blinded for 1 round, and dazzled for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature is stunned for 1 round and blinded for 1 minute.</p>

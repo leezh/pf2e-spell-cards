@@ -1,0 +1,39 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-883
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Chromatic Ray
+traditions:
+- Arcane
+- Occult
+traits:
+- Attack
+- Evocation
+- Light
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <hr/>
+  <p>You send out a ray of colored light streaming toward your enemy, with a magical effect depending on the ray's color. Make a spell attack roll. If you hit, roll 1d4 to see which beam you cast. If the ray deals damage, that damage is doubled on a critical hit. Any additional traits that apply to a ray are listed in parentheses just after the name of the color.</p>
+  <li><strong>Green</strong> (poison) The ray deals 25 poison damage to the target, and the target must succeed at a Fortitude save or be enfeebled 1 for 1 minute (enfeebled 2 on a critical failure).</li>
+  <li><strong>Yellow</strong> (electricity) The ray deals 50 electricity damage to the target.</li>
+  <li><strong>Orange</strong> (acid) The ray deals 40 acid damage to the target.</li>
+  <li><strong>Red</strong> (fire) The ray deals 30 fire damage to the target.</li>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> The damage for red, orange, yellow, and green each increase by 10. Roll 1d8 to determine the ray's color, using the results for 1–4 above and the results for 5–8 below.</p>
+  <li><strong>Intense Color</strong> The target is dazzled until the end of your next turn, or blinded if your attack roll was a critical hit. Roll again and add the effects of another color (rerolling results of 8).</li>
+  <li><strong>Violet</strong> The target is slowed for 1 minute. It must also succeed at a Will save or be teleported 120 feet directly away from you (if there isn't room for it to appear there, it appears in the nearest open space); this is a teleportation effect.</li>
+  <li><strong>Indigo</strong> (emotion, incapacitation, mental) The ray has the effect of the <em>confusion</em> spell. On a critical hit, it has the effect of <em>warp mind</em> instead.</li>
+  <li><strong>Blue</strong> The ray has the effect of the <em>flesh to stone</em> spell. On a critical hit, the target is clumsy 1 as long as it's slowed by the <em>flesh to stone</em> effect.</li>

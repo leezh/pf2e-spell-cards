@@ -1,0 +1,37 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-748
+legacy: true
+lesson: []
+level: 1
+mystery:
+- Battle
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Call to Arms
+traditions: []
+traits:
+- Auditory
+- Cursebound
+- Emotion
+- Enchantment
+- Focus
+- Mental
+- Oracle
+type: Focus
+
+--- >
+  <p class="hanging-indent mystery"><strong>Mystery</strong> battle</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> You are about to roll for initiative.</p>
+  <p class="hanging-indent area"><strong>Area</strong> 20-foot emanation</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You cry out a call to arms, inspiring your allies to enter the fray. Each ally in the area gains a +2 status bonus to their initiative roll and gains temporary Hit Points equal to the spell's level; these temporary Hit Points last for the spell's duration.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> The bonus increases to +3.</p>
+  <p class="hanging-indent"><strong>Heightened (9th)</strong> The bonus increases to +4.</p>

@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: brain_drain
-lessons: []
+domain: []
+id: spell-2084
+legacy: false
+lesson: []
 level: 1
-mysteries:
-- lore
-patrons: []
-rarity: uncommon
+mystery:
+- Lore
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Brain Drain
 traditions: []
 traits:
-- concentrate
-- focus
-- manipulate
-- mental
-- oracle
-type: focus
+- Concentrate
+- Focus
+- Manipulate
+- Mental
+- Oracle
+type: Focus
 
 --- >
   <p class="hanging-indent mystery"><strong>Mystery</strong> lore</p>

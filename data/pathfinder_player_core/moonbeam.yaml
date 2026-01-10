@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- moon
-id: moonbeam
-lessons: []
+domain:
+- Moon
+id: spell-1820
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Moonbeam
 traditions: []
 traits:
-- attack
-- cleric
-- concentrate
-- fire
-- focus
-- light
-- manipulate
-type: focus
+- Attack
+- Cleric
+- Concentrate
+- Fire
+- Focus
+- Light
+- Manipulate
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> moon</p>

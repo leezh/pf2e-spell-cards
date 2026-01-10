@@ -1,0 +1,28 @@
+actions: ''
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1163
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Dark Archive
+title: Shadow Spy
+traditions:
+- Occult
+- Primal
+traits:
+- Necromancy
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 minute (material, somatic, verbal)</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the next time you make your daily preparations</p>
+  <hr/>
+  <p>You mix blood, soil, and shadow together to form a half-real homunculus in the shape of a crow, sparrow, or other bird. You then command the bird to fly to a location within range and observe all around it. The bird has the statistics of a homunculus, save that it has all of your senses and shares your Perception modifier. Once the spell's duration elapses or upon a trigger you set (which must be fairly simple—“at dusk” or “when the judge leaves”), the bird flies to your location. If you wring its neck and drink its blood, you learn all that it saw since its creation.</p>

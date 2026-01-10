@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines:
-- angelic
-- demonic
+bloodline:
+- Angelic
+- Demonic
 copyright: 2023 Paizo Inc.
-domains: []
-id: divine_wrath
-lessons: []
+domain: []
+id: spell-1499
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Divine Wrath
 traditions:
-- divine
+- Divine
 traits:
-- concentrate
-- manipulate
-- sanctified
-- spirit
-type: spell
+- Concentrate
+- Manipulate
+- Sanctified
+- Spirit
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>

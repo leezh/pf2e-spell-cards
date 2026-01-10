@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1929
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Keen Smell
+traditions: []
+traits:
+- Concentrate
+- Focus
+- Manipulate
+- Morph
+- Ranger
+type: Focus
+
+--- >
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Your nose becomes more sensitive to the scents of the wild, the better for you to track your quarry. For the spell’s duration, you gain scent as an imprecise sense with a range of 30 feet. Your hunted prey can’t be undetected by you as long as it’s within your scent range.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> Your scent range increases to 60 feet.</p>

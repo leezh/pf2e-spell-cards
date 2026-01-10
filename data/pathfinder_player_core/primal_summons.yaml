@@ -1,21 +1,23 @@
 actions: '[free-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: primal_summons
-lessons: []
+domain: []
+id: spell-1854
+legacy: false
+lesson: []
 level: 6
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Primal Summons
 traditions: []
 traits:
-- concentrate
-- druid
-- focus
-type: focus
+- Concentrate
+- Druid
+- Focus
+type: Focus
 
 --- >
   <p>You enhance a summoned creature with the power of the elements. If your next action is to cast either <em>summon animal</em> or <em>summon plant or fungus</em>, choose air, earth, fire, metal, water, or wood; the creature you summon gains the corresponding abilities.</p>

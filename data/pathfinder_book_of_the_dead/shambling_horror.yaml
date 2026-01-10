@@ -1,0 +1,28 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1105
+legacy: true
+lesson: []
+level: 6
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Book of the Dead
+title: Shambling Horror
+traditions: []
+traits:
+- Evil
+- Focus
+- Necromancy
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 corpse of a Gargantuan or smaller creature that has a level no greater than your level – 4 and has died since the last sunrise</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You reanimate the corpse of a fallen creature as an undead minion under your control. The reanimated creature is an undead skeleton or zombie. Choose a skeleton or zombie stat block of the same size as the original creature and of a level no higher than the creature's original level. The shambling horror keeps Speeds it had in life, as well as melee Strikes that deal only physical damage. These attacks use the highest attack modifier from the skeleton or zombie you choose. Some of the skeleton's or zombie's abilities might not make sense for the shambling horror, and some abilities the creature had in life might not persist in undeath; the GM makes the final choice of what abilities the horror has.</p>
+  <p>A shambling horror has the minion trait. You can't control more than one shambling horror at the same time—if you create a new one while one is already under your control, you must choose one to release, causing it to lose the minion trait. Shambling horrors that have been released expire when the spell duration does. After the duration expires, you can cast <em>shambling horror</em> again on the same corpse to animate it once more. However, after the next sunrise, you can no longer animate the corpse as a shambling horror.</p>

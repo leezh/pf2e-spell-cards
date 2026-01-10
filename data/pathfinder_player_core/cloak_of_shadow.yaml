@@ -1,25 +1,27 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- darkness
-id: cloak_of_shadow
-lessons: []
+domain:
+- Darkness
+id: spell-1790
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Cloak of Shadow
 traditions: []
 traits:
-- aura
-- cleric
-- darkness
-- focus
-- manipulate
-- shadow
-type: focus
+- Aura
+- Cleric
+- Darkness
+- Focus
+- Manipulate
+- Shadow
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> darkness</p>

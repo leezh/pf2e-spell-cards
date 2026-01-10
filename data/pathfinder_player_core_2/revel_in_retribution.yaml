@@ -1,24 +1,26 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: revel_in_retribution
-lessons: []
+domain: []
+id: spell-2071
+legacy: false
+lesson: []
 level: 6
-mysteries:
-- battle
-patrons: []
-rarity: uncommon
+mystery:
+- Battle
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Revel in Retribution
 traditions: []
 traits:
-- concentrate
-- focus
-- manipulate
-- mental
-- oracle
-type: focus
+- Concentrate
+- Focus
+- Manipulate
+- Mental
+- Oracle
+type: Focus
 
 --- >
   <p class="hanging-indent mystery"><strong>Mystery</strong> battle</p>

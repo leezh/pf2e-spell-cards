@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-1062
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Efficient Apport
+traditions: []
+traits:
+- Conjuration
+- Focus
+- Teleportation
+- Wizard
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 unattended object of light Bulk or less</p>
+  <hr/>
+  <p>Walking over to an item to pick it up is so much effort. Whether it's your spellbook, a reagent, or a glass of wine, it's simply more efficient to call it to your hand. You teleport the target into your open hand. If you don't have a hand free, it falls to the ground at your feet.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> You can target an unattended object with a Bulk of 1 or less</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> The range increases to 120 feet, and you can target an unattended object with a Bulk of 1 or less.</p>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> The range increases to 120 feet, and you can target an unattended object with a Bulk of 2 or less.</p>

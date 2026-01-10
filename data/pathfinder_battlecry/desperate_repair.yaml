@@ -1,0 +1,28 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2025 Paizo Inc.
+domain: []
+id: spell-2500
+legacy: false
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Battlecry!
+title: Desperate Repair
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> A shield within range would be reduced to 0 Hit Points by a damaging effect</p>
+  <p class="hanging-indent requirements"><strong>Requirements</strong> The triggering shield had more than 1 Hit Point before taking damage.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 shield</p>
+  <hr/>
+  <p>You hold a shield together with the power of your magic, forcing wood and steel to fuse back together. The shield remains at 1 Hit Point and isn’t destroyed. Its construction is weakened until someone takes the time to repair it, preventing desperate repair or a similar ability from saving the same shield until your next daily preparations.</p>

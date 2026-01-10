@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1935
+legacy: false
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Gluttonous Growth
+traditions: []
+traits:
+- Concentrate
+- Focus
+- Manipulate
+- Plant
+- Ranger
+type: Focus
+
+--- >
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Area</strong> all squares that contain plants in a 20-foot burst</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Plants in the area grow rapidly, taking on carnivorous characteristics as they seek to consume prey. All affected squares are difficult terrain, both on the ground and for flying creatures. Each creature that begins its turn in the area must attempt a Reflex save unless it's already grabbed or restrained.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature is grabbed until the beginning of its next turn or it Escapes.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature is grabbed until the spell ends or it Escapes.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature is restrained until the spell ends or it Escapes.</p>
+  <p>When you Sustain this spell, each creature grabbed or restrained by the plants takes 4d6 piercing damage .</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage dealt by the plants when you Sustain the spell increases by 2d6.</p>

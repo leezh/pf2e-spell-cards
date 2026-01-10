@@ -1,23 +1,26 @@
 actions: ''
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: environmental_endurance
-lessons: []
+domain: []
+id: spell-1517
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Environmental Endurance
 traditions:
-- arcane
-- divine
-- primal
+- Arcane
+- Divine
+- Primal
+- Elemental
 traits:
-- concentrate
-- manipulate
-type: spell
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, primal</p>

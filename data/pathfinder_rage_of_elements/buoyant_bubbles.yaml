@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1383
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Buoyant Bubbles
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Water
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You create a thin layer of foamy bubbles that adhere to the target, causing it to float in water and similar liquids. The target doesn't sink, even if it hasn't succeeded at a Swim check this round; an already-sinking target resurfaces with the bubbles' help over the course of 1 round. If on a plane where the water or liquid has a surface, the bubbles also prevent the target from diving beneath that surface unless it succeeds at a Fortitude save against your spell DC.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> You can target up to 5 creatures.</p>

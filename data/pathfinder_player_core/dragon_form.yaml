@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines:
-- draconic
+bloodline:
+- Draconic
 copyright: 2023 Paizo Inc.
-domains: []
-id: dragon_form
-lessons: []
+domain: []
+id: spell-1502
+legacy: false
+lesson: []
 level: 6
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Dragon Form
 traditions:
-- arcane
-- divine
-- occult
-- primal
+- Arcane
+- Divine
+- Occult
+- Primal
 traits:
-- concentrate
-- manipulate
-- polymorph
-type: spell
+- Concentrate
+- Manipulate
+- Polymorph
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
@@ -39,6 +41,5 @@ type: spell
   <li><strong>Tradition Resistance</strong> If the dragon's magical tradition matches that of your <em>dragon form</em> spell, you gain the listed ability. <strong>Arcane</strong> resistance 5 against damage from spells; <strong>divine</strong> resistance 10 to spirit, vitality, and void; <strong>occult</strong> resistance 10 to mental; <strong>primal</strong> resistance 5 to physical damage.</li>
   <hr/>
   <p class="hanging-indent"><strong>Heightened (8th)</strong> Your battle form is Huge, you gain a +20-foot status bonus to your fly Speed, and your attacks have 10-foot reach (or 15-foot reach if they previously had 10-foot reach). You instead gain AC = 21 + your level, 15 temporary HP, an attack modifier of +28, a damage bonus of +12, and Athletics +28. Your Dragon Breath deals an additional 4d6 damage.</p>
-  <hr/>
   <p>The dragons from Monster Core use the following specifications for dragon form.</p>
   <table><tr><td><strong>Dragon</strong></td><td><strong>Tradition</strong></td><td><strong>Speeds</strong></td><td><strong>Dragon Breath</strong></td><td><strong>Saving Throw</strong></td></tr><tr><td>Adamantine</td><td>Primal</td><td>Burrow</td><td>Cone of bludgeoning</td><td>Reflex</td></tr><tr><td>Conspirator</td><td>Occult</td><td>Climb</td><td>Cone of poison</td><td>Fortitude</td></tr><tr><td>Diabolic</td><td>Divine</td><td>—</td><td>Cone of fire</td><td>Reflex</td></tr><tr><td>Empyreal</td><td>Divine</td><td>—</td><td>Cone of spirit</td><td>Reflex</td></tr><tr><td>Fortune</td><td>Arcane</td><td>—</td><td>Cone of force</td><td>Reflex</td></tr><tr><td>Horned</td><td>Primal</td><td>Swim</td><td>Cone of poison</td><td>Fortitude</td></tr><tr><td>Mirage</td><td>Arcane</td><td>Climb</td><td>Cone of mental</td><td>Will</td></tr><tr><td>Omen</td><td>Occult</td><td>—</td><td>Cone of mental</td><td>Will</td></tr></table>

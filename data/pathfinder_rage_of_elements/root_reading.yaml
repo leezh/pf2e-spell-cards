@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1409
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Root Reading
+traditions:
+- Arcane
+- Primal
+traits:
+- Cantrip
+- Concentrate
+- Manipulate
+- Wood
+type: Cantrip
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot emanation</p>
+  <hr/>
+  <p>You gain general insights into the immediate vicinity by sending your sense through the root systems of trees and bushes. If there are any unnoticed Medium or larger creatures in the area, you learn of their presence and they're undetected to you. You can immediately attempt to Seek an undetected creature, and you gain a +1 status bonus to this attempt and any of your other attempts to Seek hidden or undetected creatures until the end of your next turn. You also learn if any such creatures passed through this area in the last hour, although you get only the vaguest sense of direction from the spell. If you begin to Track a creature detected in this way, you gain a +1 status bonus to the initial check.</p>

@@ -1,22 +1,24 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: sanctuary
-lessons: []
+domain: []
+id: spell-1660
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Sanctuary
 traditions:
-- divine
-- occult
+- Divine
+- Occult
 traits:
-- concentrate
-- manipulate
-type: spell
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
@@ -24,7 +26,7 @@ type: spell
   <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>
   <p>You ward a creature with protective energy that deters attacks. Creatures attempting to attack the target must attempt a Will save each time. If the target uses a hostile action, the spell ends.</p>
-  <p class="hanging-indent"><strong>Critical Success</strong><em>Sanctuary</em> ends.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> <em>Sanctuary</em> ends.</p>
   <p class="hanging-indent"><strong>Success</strong> The creature can attempt its attack and any other attacks against the target this turn.</p>
   <p class="hanging-indent"><strong>Failure</strong> The creature can't attack the target and wastes the action. It can't attempt further attacks against the target this turn.</p>
   <p class="hanging-indent"><strong>Critical Failure</strong> The creature wastes the action and can't attempt to attack the target for the rest of sanctuary's duration.</p>

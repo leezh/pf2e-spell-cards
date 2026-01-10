@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-481
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Wild Shape
+traditions: []
+traits:
+- Druid
+- Focus
+- Polymorph
+- Transmutation
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute (or longer)</p>
+  <hr/>
+  <p>You infuse yourself with primal essence and transform yourself into another form. You can polymorph into any form listed in <em>pest form</em>, which lasts 10 minutes. All other <em>wild shape</em> forms last 1 minute. You can add more forms to your <em>wild shape</em> list with druid feats; your feat might grant you some or all of the forms from a given polymorph spell. When you transform into a form granted by a spell, you gain all the effects of the form you chose from a version of the spell heightened to <em>wild shape</em>'s level. <em>Wild shape</em> allows you to use your own shapeshifting training more easily than most polymorph spells. When you choose to use your own attack modifier while polymorphed instead of the form's default attack modifier, you gain a +2 status bonus to your attack rolls.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (2nd)</strong> You can also <em>wild shape</em> into the forms listed in <em>animal form</em>.</p>

@@ -1,24 +1,26 @@
 actions: '[one-action]'
-bloodlines:
-- angelic
+bloodline:
+- Angelic
 copyright: 2024 Paizo Inc.
-domains: []
-id: angelic_halo
-lessons: []
+domain: []
+id: spell-2093
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Angelic Halo
 traditions: []
 traits:
-- aura
-- concentrate
-- focus
-- holy
-- sorcerer
-type: focus
+- Aura
+- Concentrate
+- Focus
+- Holy
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> angelic</p>

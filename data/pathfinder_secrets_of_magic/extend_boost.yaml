@@ -1,0 +1,29 @@
+actions: '[free-action]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-1048
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Extend Boost
+traditions: []
+traits:
+- Divination
+- Focus
+- Metamagic
+- Summoner
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <hr/>
+  <p>You focus on the intricacies of the magic binding you to your eidolon to extend the duration of your <em>boost eidolon</em> or <em>reinforce eidolon</em> spell. If your next action is to cast <em>boost eidolon</em> or <em>reinforce eidolon</em>, attempt a skill check with the skill associated with the tradition of magic you gain from your eidolon (such as Nature for a primal eidolon). The DC is usually a standard-difficulty DC of your level, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The spell lasts 4 rounds.</p>
+  <p class="hanging-indent"><strong>Success</strong> The spell lasts 3 rounds.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The spell lasts 1 round, but you don't spend the Focus Point for casting this spell.</p>

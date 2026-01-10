@@ -1,24 +1,26 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: needle_of_vengeance
-lessons:
-- vengeance
+domain: []
+id: spell-1881
+legacy: false
+lesson:
+- Vengeance
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Needle of Vengeance
 traditions: []
 traits:
-- focus
-- hex
-- manipulate
-- mental
-- witch
-type: focus
+- Focus
+- Hex
+- Manipulate
+- Mental
+- Witch
+type: Focus
 
 --- >
   <p class="hanging-indent lesson"><strong>Lesson</strong> vengeance</p>

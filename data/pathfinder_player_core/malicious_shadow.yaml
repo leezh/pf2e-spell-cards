@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: malicious_shadow
-lessons:
-- shadow
+domain: []
+id: spell-1880
+legacy: false
+lesson:
+- Shadow
 level: 3
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Malicious Shadow
 traditions: []
 traits:
-- concentrate
-- focus
-- hex
-- manipulate
-- shadow
-- witch
-type: focus
+- Concentrate
+- Focus
+- Hex
+- Manipulate
+- Shadow
+- Witch
+type: Focus
 
 --- >
   <p class="hanging-indent lesson"><strong>Lesson</strong> shadow</p>

@@ -1,27 +1,29 @@
 actions: '[two-actions]'
-bloodlines:
-- angelic
+bloodline:
+- Angelic
 copyright: 2023 Paizo Inc.
-domains: []
-id: holy_light
-lessons: []
+domain: []
+id: spell-1557
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Holy Light
 traditions:
-- divine
-- primal
+- Divine
+- Primal
 traits:
-- attack
-- concentrate
-- fire
-- holy
-- light
-- manipulate
-type: spell
+- Attack
+- Concentrate
+- Fire
+- Holy
+- Light
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>

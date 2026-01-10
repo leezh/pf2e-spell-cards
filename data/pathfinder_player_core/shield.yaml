@@ -1,26 +1,30 @@
 actions: '[one-action]'
-bloodlines:
-- draconic
+bloodline:
+- Draconic
+- Aesir
 copyright: 2023 Paizo Inc.
-domains: []
-id: shield
-lessons: []
+domain: []
+id: spell-1671
+legacy: false
+lesson: []
 level: 1
-mysteries:
-- battle
-patrons: []
-rarity: common
+mystery:
+- Battle
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Shield
 traditions:
-- arcane
-- divine
-- occult
+- Arcane
+- Divine
+- Occult
+- Elemental
 traits:
-- cantrip
-- concentrate
-- force
-type: cantrip
+- Cantrip
+- Concentrate
+- Force
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>

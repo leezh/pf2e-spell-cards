@@ -1,22 +1,24 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: scramble_body
-lessons: []
+domain: []
+id: spell-1904
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Scramble Body
 traditions: []
 traits:
-- concentrate
-- focus
-- manipulate
-- wizard
-type: focus
+- Concentrate
+- Focus
+- Manipulate
+- Wizard
+type: Focus
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 living creature</p>

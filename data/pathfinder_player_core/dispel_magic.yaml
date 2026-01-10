@@ -1,25 +1,28 @@
 actions: '[two-actions]'
-bloodlines:
-- imperial
+bloodline:
+- Imperial
 copyright: 2023 Paizo Inc.
-domains: []
-id: dispel_magic
-lessons: []
+domain: []
+id: spell-1493
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Dispel Magic
 traditions:
-- arcane
-- divine
-- occult
-- primal
+- Arcane
+- Divine
+- Occult
+- Primal
+- Elemental
 traits:
-- concentrate
-- manipulate
-type: spell
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>

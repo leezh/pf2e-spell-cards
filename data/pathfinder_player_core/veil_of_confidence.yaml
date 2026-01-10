@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- confidence
-id: veil_of_confidence
-lessons: []
+domain:
+- Confidence
+id: spell-1786
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Veil of Confidence
 traditions: []
 traits:
-- cleric
-- concentrate
-- focus
-- mental
-type: focus
+- Cleric
+- Concentrate
+- Focus
+- Mental
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> confidence</p>

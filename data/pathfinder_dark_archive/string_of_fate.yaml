@@ -1,0 +1,28 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1175
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Rare
+remaster: false
+source: Pathfinder Dark Archive
+title: String of Fate
+traditions: []
+traits:
+- Abjuration
+- Cleric
+- Focus
+- Fortune
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> you and 1 ally</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You bond yourself to a cherished friend, vowing to share their fate for good or for ill. Whenever an effect would require both you and the target to attempt a saving throw, if one of you succeeds at your saving throw and the other critically fails, you can choose to both fail instead. You and the ally must agree to fail; otherwise, use your normal save results instead.</p>

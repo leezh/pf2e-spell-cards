@@ -1,0 +1,40 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1961
+legacy: false
+lesson: []
+level: 8
+mystery: []
+patron: []
+rarity: Rare
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Summon Warden of the Wild
+traditions:
+- Primal
+traits:
+- Concentrate
+- Incarnate
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 100 feet</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> see text; <strong>Duration</strong> until the end of your next turn</p>
+  <hr/>
+  <p>You briefly call forth the spirit of one of the Wardens of the Wild, the legendary guardians of nature. The warden occupies the space of a Gargantuan creature. When you Cast this Spell, you summon a warden depending on the biome in which the spell is cast (for instance, summoning the Warden of Caverns and Burrows if summoned in a cave, canyon, or other underground environment). In an unnatural environment, the warden summoned depends on the region's most recent or similar natural biome, as decided by the GM.</p>
+  <li><strong>Warden of Caverns and Burrows</strong> Speed 60 feet, burrow 100 feet.</li>
+  <p class="indent hanging-indent"><strong>Arrive</strong> (earth) <em>Obsidian Cage</em> Obsidian stalagmites burst from the earth as the warden surfaces, impaling enemies and trapping them in stalagmites. Enemies on the ground within 40 feet take 6d6 piercing damage (basic Reflex save). Creatures that fail their save become immobilized until they Escape (the DC is your spell DC).</p>
+  <p class="indent hanging-indent"><strong>Depart</strong> (earth) <em>Blessing of the Depths</em> The squares occupied by the warden remain disheveled and broken, becoming difficult terrain. The warden affects you and all your allies within 60 feet with a <em>mountain resilience</em> and <em>unfettered pack</em>. The duration for both spells is reduced to 3 rounds, but the duration of <em>mountain resilience</em> isn't reduced when an affected target is hit by a bludgeoning, piercing, or slashing attack.</p>
+  <li><strong>Warden of Forests and Meadows</strong> Speed 120 feet.</li>
+  <p class="indent hanging-indent"><strong>Arrive</strong> (illusion, mental) <em>Idyllic Panorama</em> The warden's presence unpredictably warps the appearances and perceived distances of creatures and obstacles around it. Each time an enemy within 40 feet of the warden attempts a Strike or Stride action, it takes 4d6 mental damage (basic Will save). On a critical failure, the creature Strikes a random target within reach or Strides in a random direction. On a critical success, the creature becomes temporarily immune for 1 round.</p>
+  <p class="indent hanging-indent"><strong>Depart</strong> <em>Fox's Insightful Trickery</em> The warden affects you and all your allies within 60 feet with <em>blur</em> and <em>truesight</em>. The duration for both spells is reduced to 3 rounds.</p>
+  <li><strong>Warden of Oceans and Rivers </strong> Speed 60 feet, swim 120 feet.</li>
+  <p class="indent hanging-indent"><strong>Arrive</strong> <em>I Am the Tide</em> If the warden is summoned in a body of water, it creates a churning whirlpool that deals 10d6 bludgeoning damage to all creatures within 30 feet (basic Reflex save). A creature that fails this save is pulled 15 feet closer to the warden (30 feet on a critical failure). If the warden is summoned outside of a body of water, it creates a wave of water that deals 8d6 bludgeoning damage to all creatures within 30 feet (basic Reflex save). A creature that fails this save is pushed 10 feet away from the warden.</p>
+  <p class="indent hanging-indent"><strong>Depart</strong> <em>Acclimation to the Deep</em> The warden affects you and your allies within 60 feet with <em>feet to fins</em> and <em>water breathing</em>. The duration for both spells is reduced to 3 rounds, but a creature affected by <em>feet to fins</em> retains its normal land Speed.</p>
+  <li><strong>Warden of Peaks and Skies</strong> Speed 60 feet, fly 240 feet.</li>
+  <p class="indent hanging-indent"><strong>Arrive</strong> <em>Precipice Plummet</em> The warden appears, flying downward from the sky and sends a shockwave where she lands. Creatures within 20 feet take 10d6 sonic damage (basic Fortitude save). Creatures that critically fail their saves are sickened 1.</p>
+  <p class="indent hanging-indent"><strong>Depart</strong> (auditory) <em>Song of the Skies</em> The warden affects you and all your allies within 60 feet with <em>fly</em> and <em>unfettered movement</em>. The duration for both spells is reduced to 3 rounds.</p>

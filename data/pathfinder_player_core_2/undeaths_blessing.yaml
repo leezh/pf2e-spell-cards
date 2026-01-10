@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines:
-- undead
+bloodline:
+- Undead
 copyright: 2024 Paizo Inc.
-domains: []
-id: undeaths_blessing
-lessons: []
+domain: []
+id: spell-2117
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Undeath's Blessing
 traditions: []
 traits:
-- focus
-- manipulate
-- sorcerer
-- void
-type: focus
+- Focus
+- Manipulate
+- Sorcerer
+- Void
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> undead</p>

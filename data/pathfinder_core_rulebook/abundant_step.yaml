@@ -1,0 +1,27 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-482
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Abundant Step
+traditions: []
+traits:
+- Conjuration
+- Focus
+- Monk
+- Teleportation
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> 15 feet or more</p>
+  <hr/>
+  <p>You move so fast you blur across planar boundaries. You teleport up to a distance equal to your Speed within your line of sight.</p>

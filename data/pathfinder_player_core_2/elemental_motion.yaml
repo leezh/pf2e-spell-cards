@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines:
-- elemental
+bloodline:
+- Elemental
 copyright: 2024 Paizo Inc.
-domains: []
-id: elemental_motion
-lessons: []
+domain: []
+id: spell-2106
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Elemental Motion
 traditions: []
 traits:
-- concentrate
-- focus
-- manipulate
-- sorcerer
-type: focus
+- Concentrate
+- Focus
+- Manipulate
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> elemental</p>

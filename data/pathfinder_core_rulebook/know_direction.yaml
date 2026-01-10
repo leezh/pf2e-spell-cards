@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-169
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Know Direction
+traditions:
+- Divine
+- Occult
+- Primal
+traits:
+- Cantrip
+- Detection
+- Divination
+type: Cantrip
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <hr/>
+  <p>In your mind's eye, you see a path northward. You immediately know which direction is north (if it exists at your current location).</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> You can instead know the direction to a familiar location, such as a previous home or a favorite tavern.</p>

@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: spiritual_epidemic
-lessons: []
+domain: []
+id: spell-2030
+legacy: false
+lesson: []
 level: 8
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Spiritual Epidemic
 traditions:
-- divine
-- occult
+- Divine
+- Occult
 traits:
-- concentrate
-- curse
-- manipulate
-- spirit
-type: spell
+- Concentrate
+- Curse
+- Manipulate
+- Spirit
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>

@@ -1,29 +1,31 @@
 actions: '[two-actions]'
-bloodlines:
-- diabolic
-- fey
+bloodline:
+- Diabolic
+- Fey
 copyright: 2023 Paizo Inc.
-domains: []
-id: charm
-lessons: []
+domain: []
+id: spell-1463
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Charm
 traditions:
-- arcane
-- occult
-- primal
+- Arcane
+- Occult
+- Primal
 traits:
-- concentrate
-- emotion
-- incapacitation
-- manipulate
-- mental
-- subtle
-type: spell
+- Concentrate
+- Emotion
+- Incapacitation
+- Manipulate
+- Mental
+- Subtle
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>

@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: tree_of_seasons
-lessons: []
+domain: []
+id: spell-1725
+legacy: false
+lesson: []
 level: 6
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Tree of Seasons
 traditions:
-- primal
+- Primal
 traits:
-- concentrate
-- manipulate
-- plant
-- wood
-type: spell
+- Concentrate
+- Manipulate
+- Plant
+- Wood
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>

@@ -1,0 +1,37 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-798
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron:
+- Curse
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Evil Eye
+traditions: []
+traits:
+- Cantrip
+- Curse
+- Emotion
+- Enchantment
+- Fear
+- Hex
+- Mental
+- Witch
+type: Cantrip
+
+--- >
+  <p class="hanging-indent patron"><strong>Patron</strong> curse</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Your fix your eye on the target, imposing a malevolent hex. The target becomes frightened based on the results of its Will save. This condition value can't be reduced below 1 while the spell is active and you can see the target. Regardless of the outcome, the target is then temporarily immune for 1 minute.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is frightened 1.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is frightened 2.</p>

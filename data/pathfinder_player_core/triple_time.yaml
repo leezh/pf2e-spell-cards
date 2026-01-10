@@ -1,24 +1,26 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: triple_time
-lessons: []
+domain: []
+id: spell-1778
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Triple Time
 traditions: []
 traits:
-- bard
-- cantrip
-- composition
-- emotion
-- manipulate
-- mental
-type: cantrip
+- Bard
+- Cantrip
+- Composition
+- Emotion
+- Manipulate
+- Mental
+type: Cantrip
 
 --- >
   <p class="hanging-indent area"><strong>Area</strong> 60-foot emanation</p>

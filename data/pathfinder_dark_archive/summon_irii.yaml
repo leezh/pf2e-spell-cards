@@ -1,0 +1,32 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1189
+legacy: true
+lesson: []
+level: 8
+mystery: []
+patron: []
+rarity: Rare
+remaster: false
+source: Pathfinder Dark Archive
+title: Summon Irii
+traditions:
+- Arcane
+- Occult
+traits:
+- Conjuration
+- Incarnate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 100 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the end of your next turn</p>
+  <hr/>
+  <p>You cast your spell, whisper your words of power, and find that an irii is already here—indeed, they have always been here, and always were, and always will be. The temporal being occupies the space of a Medium creature and has a Speed of 60 feet and a fly Speed of 60 feet. When you Cast this Spell, choose whether it summons a fate irii or a fortune irii.</p>
+  <li><strong>Fate</strong> The fate stands before you with its stained-glass wings and animal-headed gaze, floating eyes circling about it; <strong>Arrive</strong> (divination, fortune, lawful, prediction) <em>Decree the Immutability of Time</em> While within 30 feet of the fate, you and your allies who roll below 10 on a d20 for an attack roll, Perception check, saving throw, or skill check get a 10 instead; <strong>Depart</strong> (divination, misfortune, prediction) <em>Observe the Inevitability of Destiny</em> Each enemy within a 30-foot emanation must attempt a Will save. If a creature fails its save, until the end of its next turn, any time it rolls above 10 on a d20 for an attack roll, Perception check, saving throw, or skill check, it gets a 10 instead.</li>
+  <li><strong>Fortune</strong> The fortune stands before you with its golden horns and moth-scale wings, a sly smirk on its elfin face; <strong>Arrive</strong> (chaotic, divination, fortune, prediction) <em>Decree the Chaos of Infinity</em> While within 30 feet of the fortune, you and your allies roll twice and take the higher roll on all damage rolls, Perception checks, and saving throws; <strong>Depart</strong> (divination, misfortune, prediction) <em>Sunder Eternity's Authority</em> Each enemy within a 30-foot emanation must attempt a Will save. A creature that fails its save must roll twice and take the lower result on all damage rolls, Perception checks, and saving throws until the end of its next turn.</li>
+  <p>These denizens of the Dimension of Time are powerful guardians who ward the timeline against outside meddling, even as they war with each other over their divergent philosophies of time. An irii can be either a fate, with the view that time is immutable, or a fortune, with the opinion that time is fluid. Among practitioners of temporal magic, iriis are famed for their ability to see consequences before they occur, sidestepping them at their leisure.</p>

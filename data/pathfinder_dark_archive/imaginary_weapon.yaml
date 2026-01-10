@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1142
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Dark Archive
+title: Imaginary Weapon
+traditions: []
+traits:
+- Attack
+- Cantrip
+- Evocation
+- Force
+- Psychic
+type: Cantrip
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 creature</p>
+  <hr/>
+  <p>You create a simple weapon of force. Make a melee spell attack roll against your target's AC. If you hit, you deal 2d8 bludgeoning or slashing damage (your choice). On a critical success, you deal double damage and can choose to detonate your weapon to push the target 10 feet away from you.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d8.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Amp</strong> You form multiple force weapons to lash out at multiple foes. You make two imaginary weapon Strikes, each against a different target. Your multiple attack penalty doesn't increase until you've made both Strikes.</p>
+  <p class="hanging-indent"><strong>Amp Heightened (+1)</strong> The damage increases by 2d8 instead of 1d8.</p>

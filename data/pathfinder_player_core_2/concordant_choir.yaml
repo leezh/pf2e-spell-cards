@@ -1,22 +1,24 @@
 actions: '[one-action] to [three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: concordant_choir
-lessons: []
+domain: []
+id: spell-1979
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Concordant Choir
 traditions:
-- divine
-- occult
+- Divine
+- Occult
 traits:
-- concentrate
-- sonic
-type: spell
+- Concentrate
+- Sonic
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>

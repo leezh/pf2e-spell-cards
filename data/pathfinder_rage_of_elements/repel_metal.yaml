@@ -1,0 +1,27 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain:
+- Metal
+id: spell-1381
+legacy: false
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Rage of Elements
+title: Repel Metal
+traditions: []
+traits:
+- Focus
+- Manipulate
+- Metal
+type: Focus
+
+--- >
+  <p class="hanging-indent trigger"><strong>Trigger</strong> A Strike with a metallic weapon or projectile would hit you or an ally within range</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> the creature targeted by the triggering Strike</p>
+  <hr/>
+  <p>You call forth a repelling field. The target gains a +2 circumstance bonus to AC against the triggering attack. If the attack then misses, you direct the Strike back at the attacker, who compares the attack roll to their own AC. The target then becomes immune to this spell for 10 minutes.</p>

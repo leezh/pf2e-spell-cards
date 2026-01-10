@@ -1,22 +1,24 @@
 actions: '[one-action]'
-bloodlines:
-- diabolic
+bloodline:
+- Diabolic
 copyright: 2024 Paizo Inc.
-domains: []
-id: diabolic_edict
-lessons: []
+domain: []
+id: spell-2099
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Diabolic Edict
 traditions: []
 traits:
-- concentrate
-- focus
-- sorcerer
-type: focus
+- Concentrate
+- Focus
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> diabolic</p>

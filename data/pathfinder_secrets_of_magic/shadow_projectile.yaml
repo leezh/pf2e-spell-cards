@@ -1,0 +1,36 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-995
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Shadow Projectile
+traditions:
+- Arcane
+- Occult
+traits:
+- Illusion
+- Shadow
+- Visual
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> an ally within 20 feet of you makes a ranged attack roll</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will</p>
+  <hr/>
+  <p>You create an illusory duplicate of your ally's ranged attack to confuse your opponents. You launch an illusory double of your ally's projectile or spell at the same target, leaving the enemy unsure which attack to avoid. The target takes 3d8 mental damage, depending on its Will save. Regardless of the result of its save, it's temporarily immune to shadow projectile spells for 1 hour.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature is flat-footed against the triggering attack.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature is flat-footed against the triggering attack and takes full damage from your illusory projectile.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, but double damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The damage increases by 1d8.</p>

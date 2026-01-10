@@ -1,23 +1,25 @@
 actions: '[reaction]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- fate
-id: tempt_fate
-lessons: []
+domain:
+- Fate
+id: spell-1803
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Tempt Fate
 traditions: []
 traits:
-- cleric
-- focus
-- fortune
-- manipulate
-type: focus
+- Cleric
+- Focus
+- Fortune
+- Manipulate
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> fate</p>

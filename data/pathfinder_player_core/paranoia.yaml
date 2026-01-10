@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: paranoia
-lessons: []
+domain: []
+id: spell-1623
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Paranoia
 traditions:
-- occult
+- Occult
 traits:
-- concentrate
-- illusion
-- manipulate
-- mental
-type: spell
+- Concentrate
+- Illusion
+- Manipulate
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> occult</p>

@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: lay_on_hands
-lessons: []
+domain: []
+id: spell-2047
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Lay on Hands
 traditions: []
 traits:
-- champion
-- focus
-- healing
-- manipulate
-- vitality
-type: focus
+- Champion
+- Focus
+- Healing
+- Manipulate
+- Vitality
+type: Focus
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 willing living creature or 1 undead creature</p>

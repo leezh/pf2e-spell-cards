@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines:
-- undead
+bloodline:
+- Undead
 copyright: 2023 Paizo Inc.
-domains: []
-id: bind_undead
-lessons: []
+domain: []
+id: spell-1449
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Bind Undead
 traditions:
-- arcane
-- divine
-- occult
+- Arcane
+- Divine
+- Occult
 traits:
-- concentrate
-- manipulate
-type: spell
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>

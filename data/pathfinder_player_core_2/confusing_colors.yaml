@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: confusing_colors
-lessons: []
+domain: []
+id: spell-1980
+legacy: false
+lesson: []
 level: 8
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Confusing Colors
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- illusion
-- incapacitation
-- manipulate
-- subtle
-- visual
-type: spell
+- Illusion
+- Incapacitation
+- Manipulate
+- Subtle
+- Visual
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

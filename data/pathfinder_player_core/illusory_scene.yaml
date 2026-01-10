@@ -1,26 +1,28 @@
 actions: ''
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: illusory_scene
-lessons: []
+domain: []
+id: spell-1570
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Illusory Scene
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- auditory
-- concentrate
-- illusion
-- manipulate
-- olfactory
-- visual
-type: spell
+- Auditory
+- Concentrate
+- Illusion
+- Manipulate
+- Olfactory
+- Visual
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines:
-- hag
+bloodline:
+- Hag
 copyright: 2024 Paizo Inc.
-domains: []
-id: youre_mine
-lessons: []
+domain: []
+id: spell-2113
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: You're Mine
 traditions: []
 traits:
-- concentrate
-- emotion
-- focus
-- incapacitation
-- manipulate
-- mental
-- sorcerer
-type: focus
+- Concentrate
+- Emotion
+- Focus
+- Incapacitation
+- Manipulate
+- Mental
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> hag</p>

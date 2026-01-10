@@ -1,27 +1,29 @@
 actions: '[two-actions]'
-bloodlines:
-- hag
+bloodline:
+- Hag
 copyright: 2023 Paizo Inc.
-domains: []
-id: cursed_metamorphosis
-lessons: []
+domain: []
+id: spell-1479
+legacy: false
+lesson: []
 level: 6
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Cursed Metamorphosis
 traditions:
-- arcane
-- occult
-- primal
+- Arcane
+- Occult
+- Primal
 traits:
-- concentrate
-- curse
-- incapacitation
-- manipulate
-- polymorph
-type: spell
+- Concentrate
+- Curse
+- Incapacitation
+- Manipulate
+- Polymorph
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>

@@ -1,0 +1,30 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-381
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Counter Performance
+traditions: []
+traits:
+- Bard
+- Composition
+- Enchantment
+- Focus
+- Fortune
+- Mental
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic or verbal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> You or an ally within 60 feet rolls a saving throw against an auditory or visual effect.</p>
+  <p class="hanging-indent area"><strong>Area</strong> 60-foot emanation</p>
+  <hr/>
+  <p>Your performance protects you and your allies. Roll a Performance check for a type you know: an auditory performance if the trigger was auditory, or a visual one for a visual trigger. You and allies in the area can use the better result between your Performance check and the saving throw.</p>

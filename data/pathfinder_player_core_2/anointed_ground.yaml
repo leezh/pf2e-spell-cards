@@ -1,22 +1,24 @@
 actions: ''
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: anointed_ground
-lessons: []
+domain: []
+id: spell-1965
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Anointed Ground
 traditions:
-- divine
+- Divine
 traits:
-- concentrate
-- consecration
-- manipulate
-type: spell
+- Concentrate
+- Consecration
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>

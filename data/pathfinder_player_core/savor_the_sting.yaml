@@ -1,24 +1,26 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- pain
-id: savor_the_sting
-lessons: []
+domain:
+- Pain
+id: spell-1826
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Savor the Sting
 traditions: []
 traits:
-- cleric
-- focus
-- manipulate
-- mental
-- nonlethal
-type: focus
+- Cleric
+- Focus
+- Manipulate
+- Mental
+- Nonlethal
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> pain</p>

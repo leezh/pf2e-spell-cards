@@ -1,0 +1,27 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-393
+legacy: true
+lesson: []
+level: 6
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Champion's Sacrifice
+traditions: []
+traits:
+- Abjuration
+- Champion
+- Focus
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> An ally is hit by a Strike, or an ally fails a saving throw against an effect that doesn't affect you.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 ally</p>
+  <hr/>
+  <p>You form a link with an ally, allowing you to take harm in their stead. All the effects of the hit or failed save are applied to you instead of the ally. For example, if the target critically fails a saving throw against a <em>fireball</em>, you would take double damage. These effects ignore any resistances, immunities, or other abilities you have that might mitigate them in any way, although those of the target apply before you take the effect.</p>

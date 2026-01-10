@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- creation
-id: creative_splash
-lessons: []
+domain:
+- Creation
+id: spell-1788
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Creative Splash
 traditions: []
 traits:
-- cleric
-- concentrate
-- focus
-- illusion
-- manipulate
-- visual
-type: focus
+- Cleric
+- Concentrate
+- Focus
+- Illusion
+- Manipulate
+- Visual
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> creation</p>

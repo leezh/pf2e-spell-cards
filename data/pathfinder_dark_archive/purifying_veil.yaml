@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1173
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Rare
+remaster: false
+source: Pathfinder Dark Archive
+title: Purifying Veil
+traditions: []
+traits:
+- Cleric
+- Evocation
+- Focus
+- Good
+- Water
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 Large or smaller creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Drawing on the purifying powers of water, you call forth a veil of fine water droplets suffused with holy energy. The veil surrounds the target. Everything on each side of the veil is concealed from creatures on the opposite side, but the water doesn't impede attacks or movement across the veil. If the target moves through the veil, it takes 4d6 good damage with a basic Will save. If the target leaves the veil, the spell ends.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The good damage increases by 1d6.</p>

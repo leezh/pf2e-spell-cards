@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: curse_of_lost_time
-lessons: []
+domain: []
+id: spell-1985
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Curse of Lost Time
 traditions:
-- arcane
-- occult
-- primal
+- Arcane
+- Occult
+- Primal
 traits:
-- concentrate
-- curse
-- manipulate
-- void
-type: spell
+- Concentrate
+- Curse
+- Manipulate
+- Void
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>

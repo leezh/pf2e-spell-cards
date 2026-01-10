@@ -1,28 +1,30 @@
 actions: '[two-actions]'
-bloodlines:
-- hag
+bloodline:
+- Hag
 copyright: 2024 Paizo Inc.
-domains: []
-id: horrific_visage
-lessons: []
+domain: []
+id: spell-2112
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Horrific Visage
 traditions: []
 traits:
-- concentrate
-- emotion
-- fear
-- focus
-- illusion
-- manipulate
-- mental
-- sorcerer
-- visual
-type: focus
+- Concentrate
+- Emotion
+- Fear
+- Focus
+- Illusion
+- Manipulate
+- Mental
+- Sorcerer
+- Visual
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> hag</p>

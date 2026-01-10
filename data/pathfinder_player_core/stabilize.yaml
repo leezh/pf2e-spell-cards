@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: stabilize
-lessons: []
+domain: []
+id: spell-1689
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Stabilize
 traditions:
-- divine
-- primal
+- Divine
+- Primal
 traits:
-- cantrip
-- concentrate
-- healing
-- manipulate
-- vitality
-type: cantrip
+- Cantrip
+- Concentrate
+- Healing
+- Manipulate
+- Vitality
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>

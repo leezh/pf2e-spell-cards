@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Creation
+id: spell-401
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Artistic Flourish
+traditions: []
+traits:
+- Cleric
+- Focus
+- Transmutation
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> creation</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> 15 feet; <strong>Targets</strong> 1 item or work of art that fits entirely within the range</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You transform the target to make it match your artisanal and artistic vision. If you have expert proficiency in Crafting, the item grants a +1 item bonus to attack rolls if it's a weapon or skill checks if it's a skill tool. The target is a beautiful and impressive piece for its new quality, but the effect is obviously temporary, so its monetary value doesn't change.</p>
+  <p>When you cast this spell, any previous <em>artistic flourish</em> you had cast ends.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> If you have master proficiency in Crafting, the item grants a +2 item bonus instead.</p>
+  <p class="hanging-indent"><strong>Heightened (10th)</strong> If you have legendary proficiency in Crafting, the item grants a +3 item bonus instead.</p>

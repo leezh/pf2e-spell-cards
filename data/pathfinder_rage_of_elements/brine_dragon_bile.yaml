@@ -1,0 +1,31 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1382
+legacy: false
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Brine Dragon Bile
+traditions:
+- Arcane
+- Primal
+traits:
+- Acid
+- Concentrate
+- Water
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> A creature within range takes damage from a slashing or piercing attack, or one that inflicts persistent bleed damage.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> the creature that took damage</p>
+  <hr/>
+  <p>You spit a glob of caustic saltwater that stings the wounds of the creature. Make a ranged spell attack against the triggering creature's AC. On a hit, salt scours its open wound, dealing 2d6 persistent acid damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The persistent damage increases by 2d6.</p>

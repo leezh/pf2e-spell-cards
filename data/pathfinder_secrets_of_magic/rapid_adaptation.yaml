@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-979
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Rapid Adaptation
+traditions:
+- Primal
+traits:
+- Transmutation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> your companion or eidolon</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>You flood the target with energy from the terrain around it, compressing centuries of evolution into a single moment. The target gains one of the following natural adaptations based on the surrounding environment.</p>
+  <li><strong>Aquatic</strong> The target gains a swim Speed equal to its land Speed. If it already had a swim Speed, it gains a +10-foot status bonus to its swim Speed.</li>
+  <li><strong>Arctic</strong> The target isn't affected by severe or extreme cold, and when it rolls a success on an Acrobatics check to Balance on ice and snow, it gets a critical success instead.</li>
+  <li><strong>Desert</strong> The target isn't affected by severe or extreme heat, and when it rolls a success on an Acrobatics check to Balance on sand, it gets a critical success instead.</li>
+  <li><strong>Forest</strong> The target gains scent as an imprecise sense with a range of 30 feet.</li>
+  <li><strong>Mountain</strong> The target isn't flat-footed when Climbing, and when it rolls a success on an Acrobatics check to Balance on rubble, it gets a critical success instead.</li>
+  <li><strong>Plains</strong> The target gains a +10-foot status bonus to its land Speed.</li>
+  <li><strong>Underground</strong> The target gains darkvision.</li>

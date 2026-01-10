@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines:
-- angelic
+bloodline:
+- Angelic
 copyright: 2023 Paizo Inc.
-domains: []
-id: moment_of_renewal
-lessons: []
+domain: []
+id: spell-1607
+legacy: false
+lesson: []
 level: 8
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Moment of Renewal
 traditions:
-- divine
-- primal
+- Divine
+- Primal
 traits:
-- concentrate
-- healing
-- manipulate
-type: spell
+- Concentrate
+- Healing
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, primal</p>

@@ -1,0 +1,30 @@
+actions: '[one-action] to [three-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-921
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Gravitational Pull
+traditions:
+- Arcane
+- Occult
+traits:
+- Evocation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>By suddenly altering gravity, you pull the target toward you. The target is pulled 10 feet closer to you unless it succeeds at a Fortitude save. On a critical failure, it's also knocked prone. The effects of this spell change depending on the number of actions you spend when you Cast this Spell.</p>
+  <p>[one-action] <strong>(somatic)</strong> The spell targets one creature.</p>
+  <p>[two-actions] <strong>(somatic, verbal)</strong> The spell targets one creature and pulls the target 20 feet instead of 10.</p>
+  <p>[three-actions] <strong>(material, somatic, verbal)</strong> The spell targets up to 5 creatures.</p>

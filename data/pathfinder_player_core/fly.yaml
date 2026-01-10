@@ -1,25 +1,28 @@
 actions: '[two-actions]'
-bloodlines:
-- draconic
+bloodline:
+- Draconic
 copyright: 2023 Paizo Inc.
-domains: []
-id: fly
-lessons: []
+domain: []
+id: spell-1534
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Fly
 traditions:
-- arcane
-- divine
-- occult
-- primal
+- Arcane
+- Divine
+- Occult
+- Primal
+- Elemental
 traits:
-- concentrate
-- manipulate
-type: spell
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>

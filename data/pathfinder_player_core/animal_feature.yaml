@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: animal_feature
-lessons: []
+domain: []
+id: spell-1866
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Animal Feature
 traditions: []
 traits:
-- concentrate
-- focus
-- manipulate
-- morph
-- ranger
-type: focus
+- Concentrate
+- Focus
+- Manipulate
+- Morph
+- Ranger
+type: Focus
 
 --- >
   <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>

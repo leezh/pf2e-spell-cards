@@ -1,28 +1,30 @@
 actions: '[two-actions]'
-bloodlines:
-- diabolic
-- fey
+bloodline:
+- Diabolic
+- Fey
 copyright: 2023 Paizo Inc.
-domains: []
-id: suggestion
-lessons: []
+domain: []
+id: spell-1693
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Suggestion
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- concentrate
-- incapacitation
-- linguistic
-- manipulate
-- mental
-- subtle
-type: spell
+- Concentrate
+- Incapacitation
+- Linguistic
+- Manipulate
+- Mental
+- Subtle
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

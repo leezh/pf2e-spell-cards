@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1309
+legacy: false
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Rage of Elements
+title: Combustion
+traditions: []
+traits:
+- Concentrate
+- Druid
+- Fire
+- Focus
+- Manipulate
+type: Focus
+
+--- >
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>You ignite a creature in lasting flames. The fire deals 4d8 fire damage and 2d6 persistent fire damage to the creature, which must attempt a Fortitude save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes half damage and takes no persistent damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes full damage, as well as full persistent damage.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature takes double damage, as well as double persistent damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> Increase the initial damage by 1d8 and the persistent damage by 1d6.</p>

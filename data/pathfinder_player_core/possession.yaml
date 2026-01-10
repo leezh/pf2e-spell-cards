@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: possession
-lessons: []
+domain: []
+id: spell-1638
+legacy: false
+lesson: []
 level: 7
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Possession
 traditions:
-- occult
+- Occult
 traits:
-- concentrate
-- incapacitation
-- manipulate
-- mental
-- possession
-type: spell
+- Concentrate
+- Incapacitation
+- Manipulate
+- Mental
+- Possession
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> occult</p>

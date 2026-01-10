@@ -1,0 +1,27 @@
+actions: '[free-action]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-772
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Hunter's Luck
+traditions: []
+traits:
+- Divination
+- Focus
+- Fortune
+- Ranger
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> You attempt a check to Recall Knowledge about a creature, but you haven't rolled yet.</p>
+  <hr/>
+  <p>You have a preternatural ability to remember details about your foes. Roll the triggering check twice and use the better result.</p>

@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: moonlight_bridge
-lessons: []
+domain: []
+id: spell-2077
+legacy: false
+lesson: []
 level: 6
-mysteries:
-- cosmos
-patrons: []
-rarity: uncommon
+mystery:
+- Cosmos
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Moonlight Bridge
 traditions: []
 traits:
-- concentrate
-- focus
-- light
-- manipulate
-- oracle
-type: focus
+- Concentrate
+- Focus
+- Light
+- Manipulate
+- Oracle
+type: Focus
 
 --- >
   <p class="hanging-indent mystery"><strong>Mystery</strong> cosmos</p>

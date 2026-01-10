@@ -1,22 +1,24 @@
 actions: '[free-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: loremasters_etude
-lessons: []
+domain: []
+id: spell-1770
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Loremaster's Etude
 traditions: []
 traits:
-- bard
-- focus
-- fortune
-- manipulate
-type: focus
+- Bard
+- Focus
+- Fortune
+- Manipulate
+type: Focus
 
 --- >
   <p class="hanging-indent trigger"><strong>Trigger</strong> You or an ally within range attempts a skill check to Recall Knowledge</p>

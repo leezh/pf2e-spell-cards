@@ -1,26 +1,28 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: nudge_fate
-lessons: []
+domain: []
+id: spell-1890
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons:
+mystery: []
+patron:
 - Spinner of Threads
-rarity: uncommon
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Nudge Fate
 traditions: []
 traits:
-- cantrip
-- concentrate
-- hex
-- witch
-type: cantrip
+- Cantrip
+- Concentrate
+- Hex
+- Witch
+type: Cantrip
 
 --- >
-  <p class="hanging-indent patron"><strong>Patron</strong> Spinner of Threads</p>
+  <p class="hanging-indent patron"><strong>Patron</strong> spinner of threads</p>
   <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
   <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
   <hr/>

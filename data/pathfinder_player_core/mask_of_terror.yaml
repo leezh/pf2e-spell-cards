@@ -1,29 +1,31 @@
 actions: '[two-actions]'
-bloodlines:
-- draconic
+bloodline:
+- Draconic
 copyright: 2023 Paizo Inc.
-domains: []
-id: mask_of_terror
-lessons: []
+domain: []
+id: spell-1595
+legacy: false
+lesson: []
 level: 7
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Mask of Terror
 traditions:
-- arcane
-- occult
-- primal
+- Arcane
+- Occult
+- Primal
 traits:
-- concentrate
-- emotion
-- fear
-- illusion
-- manipulate
-- mental
-- visual
-type: spell
+- Concentrate
+- Emotion
+- Fear
+- Illusion
+- Manipulate
+- Mental
+- Visual
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>

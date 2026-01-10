@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines:
-- demonic
+bloodline:
+- Demonic
 copyright: 2024 Paizo Inc.
-domains: []
-id: blister
-lessons: []
+domain: []
+id: spell-1969
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Blister
 traditions:
-- arcane
-- occult
-- primal
+- Arcane
+- Occult
+- Primal
 traits:
-- concentrate
-- manipulate
-type: spell
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>

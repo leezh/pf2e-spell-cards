@@ -1,0 +1,36 @@
+actions: '[two-actions]'
+bloodline:
+- Shadow
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-789
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Steal Shadow
+traditions: []
+traits:
+- Focus
+- Necromancy
+- Shadow
+- Sorcerer
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> shadow</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You steal a creature's shadow, leaving it weakened and vulnerable. The target must attempt a Fortitude save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is enfeebled 1 for 1 round.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target takes 3d4 negative damage and is enfeebled 1 for the spell's duration as you tear its shadow away, collecting it in your hand. On subsequent rounds, the first time each round you Sustain the Spell, you can throttle the shadow to deal 3d4 negative damage to the target (basic Fortitude save). Until the spell ends, the target doesn't cast a shadow.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, but the target is enfeebled 2.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage when the spell is cast and when it is sustained increases by 1d4.</p>

@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1153
+legacy: true
+lesson: []
+level: 8
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Dark Archive
+title: Falling Sky
+traditions:
+- Arcane
+- Occult
+traits:
+- Evocation
+- Incapacitation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Area</strong> 60-foot tall, 30-foot radius cylinder</p>
+  <hr/>
+  <p>Extraordinary telekinetic pressure smashes down through the area, battering creatures within it to the ground. All flying creatures in the area descend to the bottom of the spell's area, taking twice as much bludgeoning damage as if they had fallen the distance moved, to a maximum of 60 falling damage if they fall 60 feet. They take this falling damage even if the spell's area is entirely in the air and they don't hit the ground, as they concuss against the bottom of the spell's area at great speed. Creatures on the ground and within the spell's area, including flying creatures forced to the ground, must attempt Fortitude saves.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected, and if it was flying, it isn't knocked prone even though it took falling damage.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature is knocked prone.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature is knocked prone and stunned 2.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature is knocked prone and stunned for 1 round.</p>

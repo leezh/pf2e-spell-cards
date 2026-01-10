@@ -1,22 +1,24 @@
 actions: ''
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: animal_messenger
-lessons: []
+domain: []
+id: spell-1441
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Animal Messenger
 traditions:
-- primal
+- Primal
 traits:
-- concentrate
-- manipulate
-- mental
-type: spell
+- Concentrate
+- Manipulate
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>

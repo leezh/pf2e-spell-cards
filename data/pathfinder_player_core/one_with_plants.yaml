@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: one_with_plants
-lessons: []
+domain: []
+id: spell-1618
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
-title: One With Plants
+title: One with Plants
 traditions:
-- primal
+- Primal
 traits:
-- concentrate
-- manipulate
-- plant
-- polymorph
-- wood
-type: spell
+- Concentrate
+- Manipulate
+- Plant
+- Polymorph
+- Wood
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>

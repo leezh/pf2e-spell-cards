@@ -1,24 +1,26 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: allegro
-lessons: []
+domain: []
+id: spell-1761
+legacy: false
+lesson: []
 level: 7
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Allegro
 traditions: []
 traits:
-- bard
-- cantrip
-- composition
-- concentrate
-- emotion
-- mental
-type: cantrip
+- Bard
+- Cantrip
+- Composition
+- Concentrate
+- Emotion
+- Mental
+type: Cantrip
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 ally</p>

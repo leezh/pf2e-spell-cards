@@ -1,0 +1,29 @@
+actions: '[two-actions] or [three-actions]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-754
+legacy: true
+lesson: []
+level: 6
+mystery:
+- Battle
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Heroic Feat
+traditions: []
+traits:
+- Cursebound
+- Divination
+- Focus
+- Mental
+- Oracle
+type: Focus
+
+--- >
+  <p class="hanging-indent mystery"><strong>Mystery</strong> battle</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <hr/>
+  <p>You gain the ability to perform a specialized combat technique from the vast wealth of martial knowledge your mystery provides. When you Cast this Spell, you use the action granted by one common fighter feat from the <em>Core Rulebook</em> or the <em>Advanced Player's Guide</em> (your GM might add feats to this list). If you Cast this Spell using 2 actions, the granted action must be a single action, and if you Cast this Spell using 3 actions, you can instead choose a feat that grants a 2-action activity. The chosen feat's level can be no higher than <em>heroic feat's</em> spell level. The feat can't have a Frequency entry, and you must meet its prerequisites and requirements in order to select it.</p>

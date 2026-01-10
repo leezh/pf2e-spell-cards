@@ -1,0 +1,35 @@
+actions: '[one-action] or more Actions'
+bloodline:
+- Fey
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-508
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Faerie Dust
+traditions: []
+traits:
+- Enchantment
+- Focus
+- Mental
+- Sorcerer
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> fey</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> (somatic, verbal)</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Area</strong> 5-foot burst or more</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> 1 round</p>
+  <hr/>
+  <p>You sprinkle magical dust in the spell's area, making those within easier to trick. Each creature in the area must attempt a Will save. For each additional action you use Casting the Spell, the burst's radius increases by 5 feet.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature can't use reactions and takes a –2 status penalty to Perception checks and Will saves.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, and the creature also takes a –1 status penalty to Perception checks and Will saves for 1 minute.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+3)</strong> The initial radius increases by 5 feet.</p>

@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-1029
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Warding Aggression
+traditions:
+- Arcane
+- Divine
+- Primal
+traits:
+- Abjuration
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> up to 1 minute</p>
+  <hr/>
+  <p>You channel a magical ward through your attack and attempt to plant it on a foe. This ward increases your defenses against that foe, as long as you keep attacking that foe to maintain it. Make a melee Strike with a weapon or unarmed attack against a foe. In addition to the normal effects of the Strike, it has the effects below. <em>Warding aggression</em> ends if the foe you attacked dies or at the end of any turn in which you didn't hit that foe with a melee Strike.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> You gain a +3 status bonus to AC against the foe for 1 round and a +2 status bonus to AC against the foe for the remaining duration.</p>
+  <p class="hanging-indent"><strong>Success</strong> You gain a +2 status bonus to AC against the foe.</p>
+  <p class="hanging-indent"><strong>Failure</strong> You gain a +1 status bonus to AC against the foe.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> You gain no additional effect.</p>

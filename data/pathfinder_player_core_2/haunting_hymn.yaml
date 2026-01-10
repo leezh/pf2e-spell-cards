@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: haunting_hymn
-lessons: []
+domain: []
+id: spell-1999
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Haunting Hymn
 traditions:
-- divine
-- occult
+- Divine
+- Occult
 traits:
-- auditory
-- cantrip
-- concentrate
-- manipulate
-- sonic
-type: cantrip
+- Auditory
+- Cantrip
+- Concentrate
+- Manipulate
+- Sonic
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>

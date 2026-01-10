@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-60
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Darkvision
+traditions:
+- Arcane
+- Divine
+- Occult
+- Primal
+- Elemental
+traits:
+- Divination
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>
+  <hr/>
+  <p>You grant yourself supernatural sight in areas of darkness. You gain darkvision.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> The spell's range is touch and it targets 1 willing creature.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> The spell's range is touch and it targets 1 willing creature. The duration is until the next time you make your daily preparations.</p>

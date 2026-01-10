@@ -1,0 +1,37 @@
+actions: '[two-actions]'
+bloodline:
+- Nymph
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-330
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Tanglefoot
+traditions:
+- Arcane
+- Primal
+traits:
+- Attack
+- Cantrip
+- Conjuration
+- Plant
+type: Cantrip
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <hr/>
+  <p>A vine covered in sticky sap appears from thin air, flicking from your hand and lashing itself to the target. Attempt a spell attack against the target.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target gains the immobilized condition and takes a –10-foot circumstance penalty to its Speeds for 1 round. It can attempt to Escape against your spell DC to remove the penalty and the immobilized condition.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes a –10-foot circumstance penalty to its Speeds for 1 round. It can attempt to Escape against your spell DC to remove the penalty.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is unaffected.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (2nd)</strong> The effects last for 2 rounds.</p>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> The effects last for 1 minute.</p>

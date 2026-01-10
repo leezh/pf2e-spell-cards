@@ -1,0 +1,32 @@
+actions: '[one-action] to [two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-474
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Heal Animal
+traditions: []
+traits:
+- Druid
+- Focus
+- Healing
+- Necromancy
+- Positive
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch or 30 feet (see text); <strong>Targets</strong> 1 willing living animal creature</p>
+  <hr/>
+  <p>You heal an animal's wounds, restoring 1d8 Hit Points to the target. The number of actions spent Casting this Spell determines its effect.</p>
+  <li>[one-action] <strong>somatic</strong> The spell has a range of touch.</li>
+  <li>[two-actions] <strong>somatic, verbal</strong> The spell has a range of 30 feet and restores an additional 8 Hit Points to the target.</li>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The amount of healing increases by 1d8, and the additional healing for the 2-action version increases by 8.</p>

@@ -1,0 +1,33 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-1060
+legacy: true
+lesson: []
+level: 7
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Darklight
+traditions: []
+traits:
+- Darkness
+- Evocation
+- Focus
+- Shadow
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Shadows pour forth from your eyes, creating a field of darkness that prevents light from emanating within the area. Light doesn't enter the area; any non-magical light sources, such as a torches or lanterns, don't emanate any light while inside the area, even if their light radius would extend beyond the darkness. The spell similarly suppresses magical light of the spell's level or lower.</p>
+  <p>Light can't pass through, so creatures in the area can't see outside. Even creatures with darkvision (but not greater darkvision) can barely see through the darkness; any creatures seen through the darkness are concealed to them. Creatures with greater darkvision can see through the darkness normally.</p>
+  <p>Creatures who move into the field or start their turn within the field have some of the life and light sucked out of them, taking 2d6 bludgeoning damage and 2d6 negative damage, with a basic Fortitude save.</p>
+  <p>When you cast this spell, choose up to four allies in the area to spare from <em>darklight's</em> effects. Until the spell ends, they're immune to damage from <em>darklight</em> spells and can see through <em>darklight</em> (but not other darkness) as though they had greater darkvision.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (10th)</strong> The bludgeoning and negative damage both increase to 3d6.</p>

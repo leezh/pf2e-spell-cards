@@ -1,23 +1,25 @@
 actions: ''
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: raise_dead
-lessons:
-- death
+domain: []
+id: spell-1645
+legacy: false
+lesson:
+- Death
 level: 6
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Raise Dead
 traditions:
-- divine
+- Divine
 traits:
-- concentrate
-- healing
-- manipulate
-type: spell
+- Concentrate
+- Healing
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>

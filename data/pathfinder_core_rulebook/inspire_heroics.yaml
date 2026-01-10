@@ -1,0 +1,29 @@
+actions: '[free-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-388
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Inspire Heroics
+traditions: []
+traits:
+- Bard
+- Enchantment
+- Focus
+- Metamagic
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <hr/>
+  <p>You call upon your muse to greatly increase the benefits you provide to your allies with your <em>inspire courage</em> or <em>inspire defense</em> composition. If your next action is to cast <em>inspire courage</em> or <em>inspire defense</em>, attempt a Performance check. The DC is usually a very hard DC of a level equal to that of the highest-level target of your composition, but the GM can assign a different DC based on the circumstances. The effect of your <em>inspire courage</em> or <em>inspire defense</em> composition depends on the result of your check.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The status bonus from your <em>inspire courage</em> or <em>inspire defense</em> increases to +3.</p>
+  <p class="hanging-indent"><strong>Success</strong> The status bonus from <em>inspire courage</em> or <em>inspire defense</em> increases to +2.</p>
+  <p class="hanging-indent"><strong>Failure</strong> Your <em>inspire courage</em> or <em>inspire defense</em> provides only its normal bonus of +1, but you don't spend the Focus Point for casting this spell.</p>

@@ -1,22 +1,24 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: ephemeral_tracking
-lessons: []
+domain: []
+id: spell-1870
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Ephemeral Tracking
 traditions: []
 traits:
-- concentrate
-- focus
-- manipulate
-- ranger
-type: focus
+- Concentrate
+- Focus
+- Manipulate
+- Ranger
+type: Focus
 
 --- >
   <p class="hanging-indent duration"><strong>Duration</strong> 1 hour</p>

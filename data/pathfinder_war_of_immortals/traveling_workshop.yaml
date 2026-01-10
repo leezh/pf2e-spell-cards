@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-2137
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder War of Immortals
+title: Traveling Workshop
+traditions: []
+traits:
+- Animist
+- Focus
+- Manipulate
+type: Focus
+
+--- >
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute, or 8 hours</p>
+  <hr/>
+  <p>Your apparition guides you through complex procedures while using your magic to provide you with whatever tools you need. For the duration of this spell, you are trained in Crafting and Thievery. When you Cast the Spell and as long as you Sustain it, your apparition provides you with an array of simple tools, granting you use of an alchemist's toolkit, a repair kit, and a thieves' toolkit; these tools are made of ephemeral magic and disappear if they leave your possession.</p>
+  <p>You can cast this spell as an exploration or downtime activity with a casting time of 10 minutes; when you do, its duration increases to 8 hours (enough to complete 1 day of work), and you also gain an alchemist's lab and functioning forge. You are always treated as having spent a day of work setting up when using this spell to help you Craft an item and have whatever materials you need to Repair an item in your possession. You can't use a traveling workshop to Earn Income and any item you Craft using it disappears moments after it leaves your possession, making it unwise to Craft anything other than consumable items you intend to use yourself. A crafter in the vault is extremely proud of work you do together when using the spell in this way and demands to see the results of your work together. When you cast <em>traveling workshop</em> as an exploration or downtime activity, you must continue to choose crafter in the vault as one of your attuned apparitions during your next daily preparations until such time as you've used any Crafted items in combat.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> Your proficiency in Crafting and Thievery is expert.</p>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> Your proficiency in Crafting and Thievery is master.</p>
+  <p class="hanging-indent"><strong>Heightened (9th)</strong> Your proficiency in Crafting and Thievery is legendary.</p>

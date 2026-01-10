@@ -1,0 +1,37 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1357
+legacy: false
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Flames of Ego
+traditions:
+- Arcane
+- Occult
+- Primal
+traits:
+- Concentrate
+- Fire
+- Incapacitation
+- Light
+- Manipulate
+- Mental
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>Elegant flames of incredible beauty coruscate across the target's body, creating overconfidence and carelessness. The target attempts a Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target sheds bright light in a 20-foot emanation (and dim light to the next 40 feet) and becomes fascinated with itself for 1 round. It must spend at least 1 action on its turn on a taunting display of arrogance or overconfidence. Using actions that include such a display—such as using Perform to show off—count toward this requirement.</p>
+  <p class="hanging-indent"><strong>Failure</strong> As success, but the duration is 1 minute and the target can't act hostile toward a creature until that creature acts hostile toward the target.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, except the target must spend at least 2 actions on its turn on a taunting display of arrogance or overconfidence.</p>

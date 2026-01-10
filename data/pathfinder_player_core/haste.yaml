@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines:
-- draconic
-- imperial
+bloodline:
+- Draconic
+- Imperial
 copyright: 2023 Paizo Inc.
-domains: []
-id: haste
-lessons: []
+domain: []
+id: spell-1553
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Haste
 traditions:
-- arcane
-- occult
-- primal
+- Arcane
+- Occult
+- Primal
 traits:
-- concentrate
-- manipulate
-type: spell
+- Concentrate
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>

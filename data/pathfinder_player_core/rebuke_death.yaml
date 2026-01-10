@@ -1,25 +1,27 @@
 actions: '[one-action] to [three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- healing
-id: rebuke_death
-lessons: []
+domain:
+- Healing
+id: spell-1809
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Rebuke Death
 traditions: []
 traits:
-- cleric
-- concentrate
-- focus
-- healing
-- manipulate
-- vitality
-type: focus
+- Cleric
+- Concentrate
+- Focus
+- Healing
+- Manipulate
+- Vitality
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> healing</p>

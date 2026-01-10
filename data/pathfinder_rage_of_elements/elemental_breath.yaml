@@ -1,0 +1,38 @@
+actions: '[two-actions] or [three-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1420
+legacy: false
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Elemental Breath
+traditions:
+- Arcane
+- Primal
+- Elemental
+traits:
+- Concentrate
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 60-foot cone</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex</p>
+  <hr/>
+  <p>You open a miniature portal to an elemental plane within your mouth, then exhale a powerful explosion of the plane's element. Roll 1d6 to determine the element. If you used 3 actions to Cast this Spell, you can choose the element instead. This spell gains the trait matching the element.</p>
+  <p>Each creature in the cone must attempt a basic Reflex save.</p>
+  <li><strong>Wood</strong> Branches rip through creatures, dealing 3d10 piercing damage and 3d10 slashing damage. Ground in the area becomes difficult terrain for 1 minute.</li>
+  <li><strong>Water</strong> A torrent of chilled water deals 3d10 cold damage and 3d10 bludgeoning damage.</li>
+  <li><strong>Metal</strong> A cone of rust slices flesh and damages metal. Each creature in the area takes 5d10 slashing damage. A creature made of metal gets a result one degree of success worse than it rolled, and an unattended metal object gets a critical failure.</li>
+  <li><strong>Fire</strong> A surging cone of fire deals 7d10 fire damage.</li>
+  <li><strong>Earth</strong> A cone of mud deals 5d10 bludgeoning damage to creatures in the area. A creature on the ground that fails its save slips and falls prone.</li>
+  <li><strong>Air</strong> Strong winds and lightning strikes buffet creatures in the cone, dealing 6d10 electricity damage. A creature that fails its save is also pushed 10 feet.</li>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d10. For water and wood, you can choose which damage type increases for each rank the spell is heightened.</p>

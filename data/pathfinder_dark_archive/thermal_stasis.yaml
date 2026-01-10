@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1136
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Dark Archive
+title: Thermal Stasis
+traditions: []
+traits:
+- Abjuration
+- Cantrip
+- Psychic
+type: Cantrip
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until the start of your next turn</p>
+  <hr/>
+  <p>The same abilities that let you raise or lower thermal energy also let you keep it at a safe medium. The target gains resistance 2 against fire damage and resistance 2 against cold damage.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> Each resistance increases by 2.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Amp</strong> The spell's duration becomes 1 minute.</p>

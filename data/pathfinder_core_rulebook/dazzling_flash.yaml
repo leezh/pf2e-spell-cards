@@ -1,0 +1,37 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Sun
+id: spell-412
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Dazzling Flash
+traditions: []
+traits:
+- Cleric
+- Evocation
+- Focus
+- Light
+- Visual
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> sun</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 15-foot cone</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude</p>
+  <hr/>
+  <p>You raise your religious symbol and create a blinding flash of light. Each creature in the area must attempt a Fortitude save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature is dazzled for 1 round.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature is blinded for 1 round and dazzled for 1 minute. The creature can spend an Interact action rubbing its eyes to end the blinded condition.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature is blinded for 1 round and dazzled for 1 hour.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> The area increases to a 30-foot cone.</p>

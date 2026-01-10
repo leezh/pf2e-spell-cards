@@ -1,0 +1,29 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-2148
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder War of Immortals
+title: Vindicator's Mark
+traditions: []
+traits:
+- Focus
+- Manipulate
+- Sanctified
+type: Focus
+
+--- >
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> your hunted prey</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> AC; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You launch a magical dart at your hunted prey, which marks them with a nimbus only you can detect. Make a spell attack against the target. On a hit, you deal 2d4 spirit damage and the target is marked by a glowing nimbus of energy that only you can see. For the duration of your spell, the marked target takes an additional +2 damage from all your weapon or unarmed attacks. Invisible targets marked by your <em>vindicator's mark</em> are concealed to you, rather than undetected.</p>
+  <p>You can Dismiss the spell on your turn if your last action dealt damage to the target with a weapon or unarmed attack, instantly dealing an additional 2d6 spirit damage to it.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The initial damage increases by 2d4, the additional damage you deal increases by 1, and the damage dealt when the spell is Dismissed increases by 1d6.</p>

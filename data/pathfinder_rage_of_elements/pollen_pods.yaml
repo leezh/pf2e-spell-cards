@@ -1,0 +1,36 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1407
+legacy: false
+lesson: []
+level: 7
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Pollen Pods
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Manipulate
+- Plant
+- Wood
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 100 feet; <strong>Area</strong> four unoccupied 5-foot squares, each of which is at least 20 feet apart</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 12 hours</p>
+  <hr/>
+  <p>You cultivate four wooden bulbs, each filled with toxic pollen and sensitive to motion. When a creature enters a space adjacent to a bulb, or when a bulb is touched or damaged (each bulb has AC 5), the bulb blossoms and releases pollen in a 15-foot emanation. Creatures in the area take 8d8 poison damage and must attempt a Fortitude save with the following results.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes half damage and becomes dazzled for 1 round.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes full damage, becomes dazzled for 1 round, and becomes stupefied 1 for 1 minute.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature takes double damage, is dazzled for 1 round, and becomes stupefied 2 for 1 minute.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 2d8.</p>

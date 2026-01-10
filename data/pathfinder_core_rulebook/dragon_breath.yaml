@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline:
+- Draconic
+- Wyrmblessed
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-499
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Dragon Breath
+traditions: []
+traits:
+- Evocation
+- Focus
+- Sorcerer
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> draconic, wyrmblessed</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 30-foot cone or 60-foot line originating from you or 10 ft. burst within 30 ft.</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex or Fortitude</p>
+  <hr/>
+  <p>You spew energy from your mouth, dealing 5d6 damage. The area, damage type, and save depend on the dragon type in your bloodline.</p>
+  <table><tr><td><strong>Dragon Type</strong></td><td><strong>Area and Damage Type</strong></td><td><strong>Saving Throw</strong></td></tr><tr><td>Black, brine<em>, or copper</em></td><td>60-foot line of acid</td><td>Reflex</td></tr><tr><td>Blue or bronze</td><td>60-foot line of electricity</td><td>Reflex</td></tr><tr><td>Brass</td><td>60-foot line of fire</td><td>Reflex</td></tr><tr><td>Cloud</td><td>30-foot cone of electricity</td><td>Reflex</td></tr><tr><td>Crystal* or forest<em></em></td><td>30-foot cone of piercing</td><td>Reflex</td></tr><tr><td>Green</td><td>30-foot cone of poison</td><td>Fortitude</td></tr><tr><td>Gold, magma, or red</td><td>30-foot cone of fire</td><td>Reflex</td></tr><tr><td>Sea<em></em></td><td>10-foot burst within 30 feet of bludgeoning</td><td>Reflex</td></tr><tr><td>Silver or white</td><td>30-foot cone of cold</td><td>Reflex</td></tr><tr><td>Sky</td><td>10-foot burst within 30 feet of electricity</td><td>Reflex</td></tr><tr><td>Sovereign<em></em></td><td>30-foot cone of mental</td><td>Will</td></tr><tr><td>Umbral</td><td>30-foot cone of negative</td><td>Reflex</td></tr><tr><td>Underworld<em></em></td><td>10-foot burst within 30 feet of fire</td><td>Reflex</td></tr></table><hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>

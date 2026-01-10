@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- protection
-id: protectors_sphere
-lessons: []
+domain:
+- Protection
+id: spell-1833
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Protector's Sphere
 traditions: []
 traits:
-- aura
-- cleric
-- concentrate
-- focus
-- manipulate
-type: focus
+- Aura
+- Cleric
+- Concentrate
+- Focus
+- Manipulate
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> protection</p>

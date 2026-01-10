@@ -1,0 +1,31 @@
+actions: ''
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1415
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Weave Wood
+traditions:
+- Primal
+- Arcane
+traits:
+- Concentrate
+- Manipulate
+- Wood
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> primal, arcane</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 minute</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 piece of unprocessed wood, reeds, or plant fiber of 1 Bulk or less</p>
+  <hr/>
+  <p>With a touch, you cause the target to break into fibrous strands that then weave themselves into a woven mundane object of the same Bulk or less, such as a basket, hat, shield, or mat. You can create up to 4 objects with one casting of this spell, providing their total Bulk doesn't exceed the Bulk of your target. The objects have Hardness 2 and 8 Hit Points.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> Increase the maximum Bulk that you can target by 1 and the maximum number of objects you can create by 2.</p>

@@ -1,24 +1,26 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: veil_of_dreams
-lessons:
-- dreams
+domain: []
+id: spell-1886
+legacy: false
+lesson:
+- Dreams
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Veil of Dreams
 traditions: []
 traits:
-- focus
-- hex
-- manipulate
-- mental
-- witch
-type: focus
+- Focus
+- Hex
+- Manipulate
+- Mental
+- Witch
+type: Focus
 
 --- >
   <p class="hanging-indent lesson"><strong>Lesson</strong> dreams</p>

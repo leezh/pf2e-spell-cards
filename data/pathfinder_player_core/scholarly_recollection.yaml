@@ -1,22 +1,24 @@
 actions: '[reaction]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- knowledge
-id: scholarly_recollection
-lessons: []
+domain:
+- Knowledge
+id: spell-1812
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Scholarly Recollection
 traditions: []
 traits:
-- cleric
-- focus
-- fortune
-type: focus
+- Cleric
+- Focus
+- Fortune
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> knowledge</p>

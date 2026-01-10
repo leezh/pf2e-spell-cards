@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: weapon_of_judgment
-lessons: []
+domain: []
+id: spell-2044
+legacy: false
+lesson: []
 level: 9
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Weapon of Judgment
 traditions:
-- divine
+- Divine
 traits:
-- concentrate
-- manipulate
-- sanctified
-- spirit
-type: spell
+- Concentrate
+- Manipulate
+- Sanctified
+- Spirit
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>

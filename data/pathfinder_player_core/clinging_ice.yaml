@@ -1,27 +1,29 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: clinging_ice
-lessons: []
+domain: []
+id: spell-1887
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons:
+mystery: []
+patron:
 - Silence in Snow
-rarity: uncommon
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Clinging Ice
 traditions: []
 traits:
-- cantrip
-- cold
-- hex
-- manipulate
-- witch
-type: cantrip
+- Cantrip
+- Cold
+- Hex
+- Manipulate
+- Witch
+type: Cantrip
 
 --- >
-  <p class="hanging-indent patron"><strong>Patron</strong> Silence in Snow</p>
+  <p class="hanging-indent patron"><strong>Patron</strong> silence in snow</p>
   <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
   <p class="hanging-indent defense"><strong>Defense</strong> Reflex; <strong>Duration</strong> sustained up to 1 minute</p>
   <hr/>

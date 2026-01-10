@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: divine_lance
-lessons: []
+domain: []
+id: spell-1498
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Divine Lance
 traditions:
-- divine
+- Divine
 traits:
-- attack
-- cantrip
-- concentrate
-- manipulate
-- sanctified
-- spirit
-type: cantrip
+- Attack
+- Cantrip
+- Concentrate
+- Manipulate
+- Sanctified
+- Spirit
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>

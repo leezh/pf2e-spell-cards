@@ -1,22 +1,24 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: embrace_nothingness
-lessons: []
+domain: []
+id: spell-2059
+legacy: false
+lesson: []
 level: 9
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Embrace Nothingness
 traditions: []
 traits:
-- concentrate
-- focus
-- manipulate
-- monk
-type: focus
+- Concentrate
+- Focus
+- Manipulate
+- Monk
+type: Focus
 
 --- >
   <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>

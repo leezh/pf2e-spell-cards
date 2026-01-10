@@ -1,23 +1,25 @@
 actions: '[one-action]'
-bloodlines:
-- imperial
+bloodline:
+- Imperial
 copyright: 2024 Paizo Inc.
-domains: []
-id: extend_blood_magic
-lessons: []
+domain: []
+id: spell-2115
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Extend Blood Magic
 traditions: []
 traits:
-- concentrate
-- focus
-- sorcerer
-- spellshape
-type: focus
+- Concentrate
+- Focus
+- Sorcerer
+- Spellshape
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> imperial</p>

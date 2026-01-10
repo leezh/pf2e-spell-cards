@@ -1,0 +1,24 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-2138
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder War of Immortals
+title: Store Time
+traditions: []
+traits:
+- Animist
+- Focus
+type: Focus
+
+--- >
+  <p class="hanging-indent duration"><strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>You store time for later use. When you Cast this Spell and the first time you Sustain it each round, you gain a bonus reaction that you can use for any animist or apparition reaction you have. As normal, this reaction is lost if you do not use it before you regain your actions at the start of your next turn.</p>

@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: protector_tree
-lessons: []
+domain: []
+id: spell-2015
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Protector Tree
 traditions:
-- primal
+- Primal
 traits:
-- concentrate
-- manipulate
-- plant
-- wood
-type: spell
+- Concentrate
+- Manipulate
+- Plant
+- Wood
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>

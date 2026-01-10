@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines:
-- demonic
+bloodline:
+- Demonic
 copyright: 2024 Paizo Inc.
-domains: []
-id: gluttons_jaws
-lessons: []
+domain: []
+id: spell-2096
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Glutton's Jaws
 traditions: []
 traits:
-- attack
-- concentrate
-- focus
-- manipulate
-- sorcerer
-type: focus
+- Attack
+- Concentrate
+- Focus
+- Manipulate
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> demonic</p>

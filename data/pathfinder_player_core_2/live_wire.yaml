@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: live_wire
-lessons: []
+domain: []
+id: spell-2008
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Live Wire
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- attack
-- cantrip
-- concentrate
-- electricity
-- manipulate
-- metal
-type: cantrip
+- Attack
+- Cantrip
+- Concentrate
+- Electricity
+- Manipulate
+- Metal
+type: Cantrip
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

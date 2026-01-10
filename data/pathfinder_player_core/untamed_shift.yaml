@@ -1,23 +1,25 @@
 actions: '[one-action] to [two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: untamed_shift
-lessons: []
+domain: []
+id: spell-1862
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Untamed Shift
 traditions: []
 traits:
-- concentrate
-- druid
-- focus
-- manipulate
-- morph
-type: focus
+- Concentrate
+- Druid
+- Focus
+- Manipulate
+- Morph
+type: Focus
 
 --- >
   <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>

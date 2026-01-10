@@ -1,22 +1,24 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: shifting_form
-lessons: []
+domain: []
+id: spell-1905
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Shifting Form
 traditions: []
 traits:
-- concentrate
-- focus
-- morph
-- wizard
-type: focus
+- Concentrate
+- Focus
+- Morph
+- Wizard
+type: Focus
 
 --- >
   <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>

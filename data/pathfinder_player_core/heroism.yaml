@@ -1,23 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline:
+- Aesir
 copyright: 2023 Paizo Inc.
-domains: []
-id: heroism
-lessons: []
+domain: []
+id: spell-1555
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Heroism
 traditions:
-- divine
-- occult
+- Divine
+- Occult
 traits:
-- concentrate
-- manipulate
-- mental
-type: spell
+- Concentrate
+- Manipulate
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>

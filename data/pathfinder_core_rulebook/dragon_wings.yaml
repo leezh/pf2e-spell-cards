@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline:
+- Draconic
+- Wyrmblessed
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-501
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Dragon Wings
+traditions: []
+traits:
+- Focus
+- Morph
+- Sorcerer
+- Transmutation
+type: Focus
+
+--- >
+  <p class="hanging-indent bloodline"><strong>Bloodline</strong> draconic, wyrmblessed</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Leathery wings sprout from your back, giving you a fly Speed of 60 feet or your Speed, whichever is faster. When this spell's duration would end, if you're still flying, you float to the ground, as <em>feather fall</em>. You can increase the Focus Point cost by 1 to gain the effects of <em>dragon claws</em> as long as the wings last.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (8th)</strong> The duration increases to 10 minutes.</p>

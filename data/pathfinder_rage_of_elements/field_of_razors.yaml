@@ -1,0 +1,33 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1370
+legacy: false
+lesson: []
+level: 6
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Field of Razors
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Manipulate
+- Metal
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Area</strong> 20-foot burst</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex; <strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You grind a chunk of your choice of metal to fine dust between your hands and blow it into the air, where it grows into a tangle of wires covered in razor-sharp prongs. The metal must be of a type you currently have in your possession. The covered area is difficult terrain. A creature that moves through the area takes 5 slashing damage per square traversed.</p>
+  <p>If a creature takes slashing, piercing, or persistent bleed damage while inside the thicket, you can spend a reaction to grow the iron in the shed blood into additional wires, expanding the burst by 5 feet. You can grow the area four times in this way, to a maximum of a 40-foot burst.</p>
+  <p>The barbed wires are made of the metal you chose and activate resistances, weaknesses, and the like normally. The metal reforms in your possession when the spell ends.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage per square increases by 2.</p>

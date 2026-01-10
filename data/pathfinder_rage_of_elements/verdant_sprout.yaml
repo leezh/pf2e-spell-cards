@@ -1,0 +1,30 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1413
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Verdant Sprout
+traditions:
+- Primal
+traits:
+- Concentrate
+- Manipulate
+- Plant
+- Wood
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet</p>
+  <hr/>
+  <p>You create a single plant seed imbued with primal energy and throw it onto a surface, where it gradually sprouts into a Medium plant. After 10 minutes, the plant is sturdy enough to provide standard cover, and its space is difficult terrain. The plant is laden with nutritious nuts or fruit sufficient to feed one Medium creature for a day. The plant has AC 10, Hardness 5, and 20 Hit Points.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> You create and throw an additional seed, which grows into an additional plant within range.</p>

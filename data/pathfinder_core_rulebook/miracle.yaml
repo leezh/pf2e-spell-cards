@@ -1,0 +1,30 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-196
+legacy: true
+lesson: []
+level: 10
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Miracle
+traditions:
+- Divine
+traits:
+- Divination
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <hr/>
+  <p>You request aid directly from your divine source. Your divine source always refuses a request out of line with its nature, and it might grant a different request (potentially more powerful or better fitting its nature) than the one you asked for. A casting of <em>miracle</em> can do any of the following things.</p>
+  <p>The GM might allow you to try using <em>miracle</em> to produce greater effects than these, but doing so may be dangerous, or the spell may have only a partial effect.</p>
+  <li>Reverse certain effects that refer to the <em>wish</em> spell.</li>
+  <li>Produce any effect whose power level is in line with the above effects.</li>
+  <li>Duplicate any spell from another spell list of 7th level or lower. It must be common or you must have access.</li>
+  <li>Duplicate any spell from the divine list of 9th level or lower to which you have access.</li>

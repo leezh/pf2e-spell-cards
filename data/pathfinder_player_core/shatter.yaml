@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: shatter
-lessons: []
+domain: []
+id: spell-1670
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Shatter
 traditions:
-- occult
-- primal
+- Occult
+- Primal
 traits:
-- concentrate
-- manipulate
-- sonic
-type: spell
+- Concentrate
+- Manipulate
+- Sonic
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> occult, primal</p>

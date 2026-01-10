@@ -1,0 +1,27 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-532
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Life Siphon
+traditions: []
+traits:
+- Focus
+- Healing
+- Necromancy
+- Wizard
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> You expend one of your wizard spell slots to cast a wizard spell of the necromancy school.</p>
+  <hr/>
+  <p>You use some of the spell's magic to heal yourself, regaining 1d8 Hit Points per level of the spell.</p>

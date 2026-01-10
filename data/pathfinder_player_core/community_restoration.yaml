@@ -1,22 +1,24 @@
 actions: '[reaction]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: community_restoration
-lessons: []
+domain: []
+id: spell-1901
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Community Restoration
 traditions: []
 traits:
-- concentrate
-- focus
-- healing
-- wizard
-type: focus
+- Concentrate
+- Focus
+- Healing
+- Wizard
+type: Focus
 
 --- >
   <p class="hanging-indent trigger"><strong>Trigger</strong> You Cast a Spell from a wizard spell slot, and the spell affects one or more willing allies without damaging them</p>

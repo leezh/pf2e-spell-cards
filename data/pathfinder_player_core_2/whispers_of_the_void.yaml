@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: whispers_of_the_void
-lessons: []
+domain: []
+id: spell-2046
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core 2
 title: Whispers of the Void
 traditions:
-- divine
-- occult
+- Divine
+- Occult
 traits:
-- auditory
-- concentrate
-- manipulate
-- void
-type: spell
+- Auditory
+- Concentrate
+- Manipulate
+- Void
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>

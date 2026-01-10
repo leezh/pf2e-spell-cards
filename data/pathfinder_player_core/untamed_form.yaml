@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: untamed_form
-lessons: []
+domain: []
+id: spell-1861
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Untamed Form
 traditions: []
 traits:
-- concentrate
-- druid
-- focus
-- manipulate
-- polymorph
-type: focus
+- Concentrate
+- Druid
+- Focus
+- Manipulate
+- Polymorph
+type: Focus
 
 --- >
   <p class="hanging-indent duration"><strong>Duration</strong> varies</p>

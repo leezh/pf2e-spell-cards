@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2022 Paizo Inc.
+domain: []
+id: spell-1140
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Dark Archive
+title: Shatter Mind
+traditions: []
+traits:
+- Cantrip
+- Evocation
+- Mental
+- Psychic
+type: Cantrip
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 15-foot cone</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Will</p>
+  <hr/>
+  <p>You telepathically assail the minds of your foes. You deal 3d4 mental damage to all enemies in the area, with a basic Will save.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Amp</strong> You increase the area of the spell to your choice of a 30-foot cone or 60-foot cone, and the damage dice for the spell change to d10s. Creatures that fail are stupefied 1 until the start of your next turn (or stupefied 2 on a critical failure).</p>

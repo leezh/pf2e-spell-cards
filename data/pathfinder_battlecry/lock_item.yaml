@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2025 Paizo Inc.
+domain: []
+id: spell-2511
+legacy: false
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Battlecry!
+title: Lock Item
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> one object held by one creature and the creature holding it</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Reflex; <strong>Duration</strong> varies</p>
+  <hr/>
+  <p>One object held by a creature becomes fused to that creature’s hand and can’t be put down. To Disarm or Steal the item, the result of the skill check must exceed the spell’s DC or the normal DC, whichever is higher. To voluntarily drop the weapon, the target must spend an Interact action rather than a free action, and then succeed at a Reflex save; the target must also attempt a Reflex save to Interact to put away or swap the object. On a failed save, the action is wasted, but on a success, they drop the item and the spell ends. An unwilling creature must attempt an initial Reflex save against <em>lock item</em>. A willing creature can choose to critically fail the saving throw.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature is affected for 1 round.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature is affected for 4 rounds.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature is affected for 1 minute.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> You can target either one additional object held by the same creature or one additional object held by one additional creature.</p>

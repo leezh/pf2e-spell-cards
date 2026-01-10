@@ -1,0 +1,36 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1940
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron:
+- Whisper of Wings
+rarity: Uncommon
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Murmuration
+traditions: []
+traits:
+- Cantrip
+- Concentrate
+- Hex
+- Sonic
+- Witch
+type: Cantrip
+
+--- >
+  <p class="hanging-indent patron"><strong>Patron</strong> whisper of wings</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>The target feels the brush of feathers against its skin and hears screeches in its ears, warning it to keep away from a creature you designate that’s within 30 feet of you when you Cast this Spell (which can include yourself). Once per round, if the target moves closer to the designated creature, it must attempt a Will save or take 1d4 piercing or sonic damage.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes half damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target takes full damage.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target takes 1d4 sonic and 1d4 piercing damage, and if it attempts an attack roll or hostile skill check this round, it takes a –2 status penalty to the roll.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The damage increases by 1d4, or by 2d4 on a critical failure (1d4 of which is sonic and 1d4 of which is piercing)</p>

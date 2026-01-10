@@ -1,22 +1,24 @@
 actions: '[one-action] to [three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: infuse_vitality
-lessons: []
+domain: []
+id: spell-1574
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Infuse Vitality
 traditions:
-- divine
+- Divine
 traits:
-- concentrate
-- manipulate
-- vitality
-type: spell
+- Concentrate
+- Manipulate
+- Vitality
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>

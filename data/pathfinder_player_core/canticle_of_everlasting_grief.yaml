@@ -1,29 +1,31 @@
 actions: '[two-actions]'
-bloodlines:
-- demonic
-- undead
+bloodline:
+- Demonic
+- Undead
 copyright: 2023 Paizo Inc.
-domains: []
-id: canticle_of_everlasting_grief
-lessons: []
+domain: []
+id: spell-1459
+legacy: false
+lesson: []
 level: 8
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Canticle of Everlasting Grief
 traditions:
-- divine
-- occult
+- Divine
+- Occult
 traits:
-- auditory
-- concentrate
-- curse
-- emotion
-- fear
-- manipulate
-- mental
-type: spell
+- Auditory
+- Concentrate
+- Curse
+- Emotion
+- Fear
+- Manipulate
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>

@@ -1,0 +1,31 @@
+actions: '[reaction]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1327
+legacy: false
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Zephyr Slip
+traditions:
+- Arcane
+- Primal
+traits:
+- Air
+- Manipulate
+- Move
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> A creature enters a space within 5 feet of you.</p>
+  <hr/>
+  <p>An arresting breeze sweeps you up in an instant and moves you to safety. You Fly 15 feet directly away from the triggering creature.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> You and one adjacent ally Fly up to 25 feet directly away from the triggering creature.</p>
+  <p class="hanging-indent"><strong>Heightened (8th)</strong> You and up to 5 allies within 30 feet Fly up to 25 feet directly away from the triggering creature.</p>

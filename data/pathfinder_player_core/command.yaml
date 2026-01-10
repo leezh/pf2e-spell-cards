@@ -1,27 +1,30 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: command
-lessons: []
+domain: []
+id: spell-1470
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons:
+mystery: []
+patron:
 - Faith's Flamekeeper
-rarity: common
+- The Unseen Broker
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Command
 traditions:
-- arcane
-- divine
-- occult
+- Arcane
+- Divine
+- Occult
 traits:
-- auditory
-- concentrate
-- linguistic
-- manipulate
-- mental
-type: spell
+- Auditory
+- Concentrate
+- Linguistic
+- Manipulate
+- Mental
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>

@@ -1,0 +1,30 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-377
+legacy: true
+lesson: []
+level: 10
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Wish
+traditions:
+- Arcane
+traits:
+- Divination
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> material, somatic, verbal</p>
+  <hr/>
+  <p>You state a wish, making your greatest desire come true. A wish spell can produce any one of the following effects.</p>
+  <p>The GM might allow you to try using <em>wish</em> to produce greater effects than these, but doing so might be dangerous or the spell might have only a partial effect.</p>
+  <li>Reverse certain effects that refer to the <em>wish</em> spell.</li>
+  <li>Produce any effect whose power level is in line with the above effects.</li>
+  <li>Duplicate any spell from another spell list of 7th level or lower. It must be common or you must have access.</li>
+  <li>Duplicate any spell from the arcane list of 9th level or lower to which you have access.</li>

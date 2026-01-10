@@ -1,21 +1,23 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: hunters_vision
-lessons: []
+domain: []
+id: spell-1872
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Hunter's Vision
 traditions: []
 traits:
-- concentrate
-- focus
-- ranger
-type: focus
+- Concentrate
+- Focus
+- Ranger
+type: Focus
 
 --- >
   <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 hunted prey</p>

@@ -1,0 +1,31 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2025 Paizo Inc.
+domain: []
+id: spell-2501
+legacy: false
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Battlecry!
+title: Dividing Trench
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Earth
+- Manipulate
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You dig an earthen trench across the surrounding terrain, which must be soil, clay, sand, or other soft earth, but not flooring or stone. The trench is 5 feet wide, 5 feet deep, and up to 15 feet long. You can shape the trench’s path, but it must be one continuous line. You must conjure the trench in an open space so it doesn’t pass through any creatures or objects. Creatures inside the trench have cover from creatures outside the trench, and creatures outside the trench have cover from creatures inside the trench. Small or smaller creatures in the trench might have greater cover against other creatures who aren’t close to the trench’s edge, and in turn, those creatures might have more cover against small creatures in the trench; the GM determines the amount of additional cover, if any. Entering or leaving the trench requires an additional 5 feet of movement but doesn’t require any kind of check and isn’t considered difficult terrain. At the end of the spell’s duration, the trench disappears, and all creatures in the trench remain in their spaces on solid ground.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The trench’s maximum length increases by 15 feet.</p>

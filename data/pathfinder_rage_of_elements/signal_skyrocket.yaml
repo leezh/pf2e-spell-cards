@@ -1,0 +1,38 @@
+actions: '[three-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1362
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Signal Skyrocket
+traditions:
+- Arcane
+- Occult
+- Primal
+traits:
+- Concentrate
+- Fire
+- Manipulate
+- Sonic
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 1,000 feet; <strong>Area</strong> 30-foot burst</p>
+  <hr/>
+  <p>With a pinch of metallic powder and gunpowder, you call forth blistering red energy that shoots straight upward into the air and explodes, unleashing a crackling boom. Over time, you might even customize your own pattern and color for the skyrocket as you refine the spell.</p>
+  <p>You can't change the direction or distance of the rocket—it must go straight up, continuing up to the maximum range if possible. If the rocket explodes at its maximum height, the bright light can be seen up to 10 miles away, and the sound of the explosion can be heard up to 1 mile away under clear weather conditions.</p>
+  <p>If the rocket explodes in an enclosed space smaller than the full size of the burst, each creature in the area takes 1d10 sonic damage depending on the result of its Reflex save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature takes half damage.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature takes full damage and is dazzled for 1 round.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature takes double damage and is blinded for 1 round.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The sonic damage increases by 1d10.</p>

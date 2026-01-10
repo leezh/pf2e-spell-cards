@@ -1,0 +1,32 @@
+actions: '[two-actions]'
+bloodline:
+- Phoenix
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-271
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: See Invisibility
+traditions:
+- Arcane
+- Divine
+- Occult
+traits:
+- Divination
+- Revelation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 10 minutes</p>
+  <hr/>
+  <p>You can see invisible creatures and objects. They appear to you as translucent shapes, and they are concealed to you.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (5th)</strong> The spell has a duration of 8 hours.</p>

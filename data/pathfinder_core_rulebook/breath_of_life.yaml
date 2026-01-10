@@ -1,0 +1,30 @@
+actions: '[reaction]'
+bloodline:
+- Phoenix
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-29
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Breath of Life
+traditions:
+- Divine
+traits:
+- Healing
+- Necromancy
+- Positive
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent trigger"><strong>Trigger</strong> A living creature within range would die.</p>
+  <p class="hanging-indent range"><strong>Range</strong> 60 feet; <strong>Targets</strong> the triggering creature</p>
+  <hr/>
+  <p>Your blessing revives a creature at the moment of its death. You prevent the target from dying and restore Hit Points to the target equal to 4d8 plus your spellcasting ability modifier. You can't use <em>breath of life</em> if the triggering effect was <em>disintegrate</em> or a death effect.</p>

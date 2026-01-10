@@ -1,0 +1,32 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Tyranny
+id: spell-408
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Commanding Lash
+traditions: []
+traits:
+- Cleric
+- Enchantment
+- Focus
+- Incapacitation
+- Mental
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> tyranny</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <p class="hanging-indent requirements"><strong>Requirements</strong> Your most recent action dealt damage to a target</p>
+  <p class="hanging-indent range"><strong>Range</strong> 100 feet; <strong>Targets</strong> A creature you dealt damage to on your most recent action.</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> until the end of your target's next turn</p>
+  <hr/>
+  <p>With the threat of more pain, you compel a creature you've recently harmed. You issue a command to the target, with the effects of the spell <em>command</em>.</p>

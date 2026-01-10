@@ -1,0 +1,33 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1417
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Wooden Fists
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Manipulate
+- Morph
+- Wood
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Your arms and hands swell with new growth, transforming into tree trunks twice as big as their current size. Your fists deal 1d6 bludgeoning damage, lose the nonlethal trait, and have reach.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (3rd)</strong> Your fists gain the magical trait and become a <em>striking</em> weapon, increasing the damage your fists deal to 2d6 bludgeoning.</p>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> Your fists gain the magical trait and become a <em>greater striking</em> weapon, increasing the damage your fists deal to 3d6 bludgeoning. The duration is 10 minutes.</p>
+  <p class="hanging-indent"><strong>Heightened (9th)</strong> Your fists gain the magical trait and become a <em>major striking</em> weapon, increasing the damage your fists deal to 4d6 bludgeoning. The duration is 1 hour.</p>

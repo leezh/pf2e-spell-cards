@@ -1,22 +1,24 @@
 actions: '[free-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: fortissimo_composition
-lessons: []
+domain: []
+id: spell-1766
+legacy: false
+lesson: []
 level: 4
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Fortissimo Composition
 traditions: []
 traits:
-- bard
-- concentrate
-- focus
-- spellshape
-type: focus
+- Bard
+- Concentrate
+- Focus
+- Spellshape
+type: Focus
 
 --- >
   <p>You call upon your muse to greatly increase the benefits you provide with your courageous anthem, rallying anthem, or song of strength composition. If your next action is to cast one of these compositions, attempt a Performance check. The DC is usually the highest Will DC of the composition's targets, but the GM can assign a different DC based on the circumstances. The effect of your composition depends on the result of your check.</p>

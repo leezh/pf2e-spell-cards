@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline:
+- Draconic
+- Imperial
+- Wyrmblessed
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-147
+legacy: true
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Haste
+traditions:
+- Arcane
+- Occult
+- Primal
+traits:
+- Transmutation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Magic empowers the target to act faster. It gains the quickened condition and can use the extra action each round only for Strike and Stride actions.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (7th)</strong> You can target up to 6 creatures.</p>

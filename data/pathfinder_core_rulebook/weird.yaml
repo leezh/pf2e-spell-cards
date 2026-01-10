@@ -1,0 +1,38 @@
+actions: '[two-actions]'
+bloodline:
+- Shadow
+- Harrow
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-375
+legacy: true
+lesson: []
+level: 9
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Weird
+traditions:
+- Arcane
+- Occult
+traits:
+- Death
+- Emotion
+- Fear
+- Illusion
+- Mental
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 120 feet; <strong>Targets</strong> any number of creatures</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will</p>
+  <hr/>
+  <p>You fill the targets' minds with terrifying images of fearsome creatures, each drawn from the targets' worst fears. Only the targets can see their assailants. Each target takes 16d6 mental damage and must attempt a Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target takes half damage and is frightened 1.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target takes full damage and is frightened 2.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is so afraid, it might instantly die. It must attempt a Fortitude saving throw. If the target succeeds, it takes double damage and is frightened 2, and it's also fleeing until the end of its next turn unless it critically succeeded. If it fails, it is reduced to 0 Hit Points and dies.</p>

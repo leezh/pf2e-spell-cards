@@ -1,23 +1,25 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- secrecy
-id: whispering_quiet
-lessons: []
+domain:
+- Secrecy
+id: spell-1834
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Whispering Quiet
 traditions: []
 traits:
-- cleric
-- focus
-- manipulate
-- sonic
-type: focus
+- Cleric
+- Focus
+- Manipulate
+- Sonic
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> secrecy</p>

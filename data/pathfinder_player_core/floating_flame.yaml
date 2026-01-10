@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines:
-- diabolic
+bloodline:
+- Diabolic
 copyright: 2023 Paizo Inc.
-domains: []
-id: floating_flame
-lessons: []
+domain: []
+id: spell-1533
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Floating Flame
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
 traits:
-- concentrate
-- fire
-- manipulate
-type: spell
+- Concentrate
+- Fire
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

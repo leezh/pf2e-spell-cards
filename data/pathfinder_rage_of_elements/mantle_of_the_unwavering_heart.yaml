@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1406
+legacy: false
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Mantle of the Unwavering Heart
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Manipulate
+- Morph
+- Plant
+- Wood
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Vines and branches envelop you in an instant, growing a wild bloom of colors that open to reveal your new form. Upon Casting this Spell, pick two of the options below. As a single action, which has the concentrate trait, you can change one of your chosen abilities to a different option from the list.</p>
+  <li><strong>Evergreen Vitality</strong> You gain fast healing 3 and a +2 bonus to saves against poison and disease. This effect has the healing and vitality traits.</li>
+  <li><strong>Overwhelming Perfume</strong> (aura, olfactory) A cloud of potent floral scent surrounds you in a 15-foot emanation. Creatures in the aura can't benefit from the scent ability and are sickened 1 as long as they remain in the aura. The sickness is a disease effect.</li>
+  <li><strong>Towering Trunk</strong> You grow to a considerable height. Increase your size to Large. You're clumsy 1. Your reach increases by 5 feet (or by 10 feet if you started out Tiny), and you gain a grasping branch unarmed attack; this attack is in the brawling weapon group and deals 2d8 bludgeoning damage plus Grab.</li>
+  <li><strong>Unyielding Will</strong> Your mind becomes incredibly resilient to change. You're immune to being fascinated, and you get a +1 bonus to saves and DCs against mental effects.</li>

@@ -1,0 +1,32 @@
+actions: ''
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-52
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Create Food
+traditions:
+- Arcane
+- Divine
+- Primal
+traits:
+- Conjuration
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 1 hour (somatic, verbal)</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet</p>
+  <hr/>
+  <p>You create enough food to feed six Medium creatures for a day. This food is bland and unappealing, but it is nourishing. After 1 day, if no one has eaten the food, it decays and becomes inedible. Most Small creatures eat one-quarter as much as a Medium creature (one-sixteenth as much for most Tiny creatures), and most Large creatures eat 10 times as much (100 times as much for Huge creatures and so on).</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (4th)</strong> You can feed 12 Medium creatures.</p>
+  <p class="hanging-indent"><strong>Heightened (6th)</strong> You can feed 50 Medium creatures.</p>
+  <p class="hanging-indent"><strong>Heightened (8th)</strong> You can feed 200 Medium creatures.</p>

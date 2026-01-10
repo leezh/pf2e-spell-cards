@@ -1,0 +1,29 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2020 Paizo Inc.
+domain: []
+id: spell-737
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Advanced Player's Guide
+title: Clinging Shadows Stance
+traditions: []
+traits:
+- Evocation
+- Focus
+- Monk
+- Shadow
+- Stance
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> until you leave the stance</p>
+  <hr/>
+  <p>You adopt the stance of clinging shadows. You can make shadow grasp Strikes. These deal 1d4 negative damage; are in the brawling group; and have the agile, grapple, reach, and unarmed traits.</p>
+  <p>While in <em>clinging shadows stance</em>, you gain a +2 circumstance bonus to Athletics checks to Grapple, and to the DC for creatures to Escape from you.</p>

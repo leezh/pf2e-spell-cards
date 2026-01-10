@@ -1,0 +1,34 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-143
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron:
+- Winter
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Gust of Wind
+traditions:
+- Arcane
+- Primal
+traits:
+- Air
+- Evocation
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 60-foot line</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Fortitude; <strong>Duration</strong> until the start of your next turn</p>
+  <hr/>
+  <p>A violent wind issues forth from your palm, blowing from the point where you are when you cast the spell to the line's opposite end. The wind extinguishes small non-magical fires, disperses fog and mist, blows objects of light Bulk or less around, and pushes larger objects. Large or smaller creatures in the area must attempt a Fortitude save. Large or smaller creatures that later move into the gust must attempt the save on entering.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature can't move against the wind.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The creature is knocked prone. If it was flying, it suffers the effects of critical failure instead.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The creature is pushed 30 feet in the wind's direction, knocked prone, and takes 2d6 bludgeoning damage.</p>

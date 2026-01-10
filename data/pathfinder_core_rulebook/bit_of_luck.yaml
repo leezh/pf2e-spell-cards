@@ -1,0 +1,31 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain:
+- Luck
+id: spell-403
+legacy: true
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Bit of Luck
+traditions: []
+traits:
+- Cleric
+- Divination
+- Focus
+- Fortune
+type: Focus
+
+--- >
+  <p class="hanging-indent domain"><strong>Domain</strong> luck</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 willing creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You tilt the scales of luck slightly to protect a creature from disaster. When the target would attempt a saving throw, it can roll twice and use the better result. Once it does this, the spell ends.</p>
+  <p>If you cast <em>bit of luck</em> again, any previous <em>bit of luck</em> you cast that's still in effect ends. After a creature has been targeted with <em>bit of luck</em>, it becomes temporarily immune for 24 hours.</p>

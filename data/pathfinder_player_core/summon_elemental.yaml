@@ -1,23 +1,26 @@
 actions: '[three-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: summon_elemental
-lessons: []
+domain: []
+id: spell-1698
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Summon Elemental
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
+- Elemental
 traits:
-- concentrate
-- manipulate
-- summon
-type: spell
+- Concentrate
+- Manipulate
+- Summon
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
@@ -34,4 +37,3 @@ type: spell
   <p class="hanging-indent"><strong>Heightened (8th)</strong> Level 11.</p>
   <p class="hanging-indent"><strong>Heightened (9th)</strong> Level 13.</p>
   <p class="hanging-indent"><strong>Heightened (10th)</strong> Level 15.</p>
-  <p>&lt;%SUMMON#57%1%&gt;</p>

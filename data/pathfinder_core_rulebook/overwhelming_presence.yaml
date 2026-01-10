@@ -1,0 +1,40 @@
+actions: '[two-actions]'
+bloodline:
+- Draconic
+- Nymph
+- Wyrmblessed
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-212
+legacy: true
+lesson: []
+level: 9
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Core Rulebook
+title: Overwhelming Presence
+traditions:
+- Divine
+- Occult
+traits:
+- Auditory
+- Enchantment
+- Incapacitation
+- Mental
+- Visual
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic, verbal</p>
+  <p class="hanging-indent area"><strong>Area</strong> 40-foot burst; <strong>Targets</strong> any number of creatures</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will; <strong>Duration</strong> until full tribute is paid</p>
+  <hr/>
+  <p>You surround yourself with supernatural splendor, appearing to be a god or similarly majestic being. You choose the aspects of your new majestic appearance. This causes the targets to pay tribute to you by bowing or using some other action in keeping with your appearance. The number of times a target must do this depends on the result of their Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target must pay tribute twice.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target must pay tribute six times.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As failure, and the target must spend all its actions paying tribute if possible.</p>
+  <p>Paying tribute is a manipulate action or move action, as chosen by the creature paying tribute. A creature under this effect must pay tribute to you at least once on each of its turns if possible. While affected by this spell, a creature is fascinated by you and can't use hostile actions against you. The target is then temporarily immune for 1 minute.</p>

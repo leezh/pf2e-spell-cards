@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1944
+legacy: false
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Songbird's Call
+traditions: []
+traits:
+- Aura
+- Bard
+- Composition
+- Concentrate
+- Focus
+type: Focus
+
+--- >
+  <p class="hanging-indent area"><strong>Area</strong> 15-foot emanation centered on you</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Reflex; <strong>Duration</strong> sustained up to 1 minute</p>
+  <hr/>
+  <p>Your voice calls a storm of songbirds that whirl around you and peck at your enemies. All creatures within the area of whirling birds become concealed, and all creatures outside the area become concealed to creatures within it. A creature other than you that enters or ends its turn in the area takes 1d6 piercing damage as the birds peck at it.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+2)</strong> The damage increases by 1d6.</p>

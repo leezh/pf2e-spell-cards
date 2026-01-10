@@ -1,22 +1,24 @@
 actions: '[one-action]'
-bloodlines:
-- imperial
+bloodline:
+- Imperial
 copyright: 2024 Paizo Inc.
-domains: []
-id: ancestral_memories
-lessons: []
+domain: []
+id: spell-2114
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Ancestral Memories
 traditions: []
 traits:
-- concentrate
-- focus
-- sorcerer
-type: focus
+- Concentrate
+- Focus
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> imperial</p>

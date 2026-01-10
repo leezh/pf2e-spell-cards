@@ -1,22 +1,24 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains:
-- truth
-id: word_of_truth
-lessons: []
+domain:
+- Truth
+id: spell-1842
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Word of Truth
 traditions: []
 traits:
-- cleric
-- concentrate
-- focus
-type: focus
+- Cleric
+- Concentrate
+- Focus
+type: Focus
 
 --- >
   <p class="hanging-indent domain"><strong>Domain</strong> truth</p>

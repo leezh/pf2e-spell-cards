@@ -1,25 +1,27 @@
 actions: '[two-actions]'
-bloodlines:
-- undead
+bloodline:
+- Undead
 copyright: 2023 Paizo Inc.
-domains: []
-id: see_the_unseen
-lessons: []
+domain: []
+id: spell-1663
+legacy: false
+lesson: []
 level: 2
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: See the Unseen
 traditions:
-- arcane
-- divine
-- occult
+- Arcane
+- Divine
+- Occult
 traits:
-- concentrate
-- manipulate
-- revelation
-type: spell
+- Concentrate
+- Manipulate
+- Revelation
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, divine, occult</p>

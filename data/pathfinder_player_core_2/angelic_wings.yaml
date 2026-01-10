@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines:
-- angelic
+bloodline:
+- Angelic
 copyright: 2024 Paizo Inc.
-domains: []
-id: angelic_wings
-lessons: []
+domain: []
+id: spell-2094
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Angelic Wings
 traditions: []
 traits:
-- concentrate
-- focus
-- light
-- manipulate
-- sorcerer
-type: focus
+- Concentrate
+- Focus
+- Light
+- Manipulate
+- Sorcerer
+type: Focus
 
 --- >
   <p class="hanging-indent bloodline"><strong>Bloodline</strong> angelic</p>

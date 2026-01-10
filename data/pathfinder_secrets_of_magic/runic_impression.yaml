@@ -1,0 +1,30 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-1040
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Runic Impression
+traditions: []
+traits:
+- Evocation
+- Focus
+- Magus
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> somatic</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> you or one weapon you're wielding</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>Your unarmed attacks or weapon gain the benefits of a weapon rune you choose when you cast this spell: <em>corrosive</em>, <em>flaming</em>, <em>frost</em>, <em>ghost touch</em>, <em>returning</em>, <em>shock</em>, or <em>thundering</em>. If you cast <em>runic impression</em> on a weapon, this spell ends if you cease holding the weapon except if you throw a returning weapon.</p>
+  <p>If this spell would give a weapon more property runes than its normal maximum, one of the existing property runes (you choose) is suppressed until the spell ends. For unarmed attacks, if this spell would give you more property runes than you could have from <em>handwraps of mighty blows</em>, one of the existing property runes is similarly suppressed.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (8th)</strong> Add <em>keen</em> to the list of runes you can choose as well as the greater types of <em>corrosive</em>, <em>flaming</em>, <em>frost</em>, <em>shock</em>, and <em>thundering</em>.</p>

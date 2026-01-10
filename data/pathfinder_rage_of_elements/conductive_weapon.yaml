@@ -1,0 +1,30 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2023 Paizo Inc.
+domain: []
+id: spell-1367
+legacy: false
+lesson: []
+level: 1
+mystery: []
+patron: []
+rarity: Common
+remaster: true
+source: Pathfinder Rage of Elements
+title: Conductive Weapon
+traditions:
+- Arcane
+- Primal
+traits:
+- Concentrate
+- Electricity
+- Manipulate
+- Metal
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>
+  <p class="hanging-indent range"><strong>Range</strong> touch; <strong>Targets</strong> 1 metal weapon that is unattended or attended by a willing creature</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
+  <hr/>
+  <p>You channel powerful electric current through the metal of a weapon, zapping anyone the item hits. The target becomes a <em>+1 shock</em> weapon. If any target of an attack with the weapon is wearing metal armor or is primarily made of metal, the electricity damage die from the <em>shock</em> rune is 1d12.</p>

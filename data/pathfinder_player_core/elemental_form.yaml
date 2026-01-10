@@ -1,24 +1,27 @@
 actions: '[two-actions]'
-bloodlines:
-- elemental
+bloodline:
+- Elemental
 copyright: 2023 Paizo Inc.
-domains: []
-id: elemental_form
-lessons: []
+domain: []
+id: spell-1510
+legacy: false
+lesson: []
 level: 5
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Elemental Form
 traditions:
-- arcane
-- primal
+- Arcane
+- Primal
+- Elemental
 traits:
-- concentrate
-- manipulate
-- polymorph
-type: spell
+- Concentrate
+- Manipulate
+- Polymorph
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, primal</p>

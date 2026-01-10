@@ -1,26 +1,28 @@
 actions: '[two-actions]'
-bloodlines:
-- diabolic
-- fey
+bloodline:
+- Diabolic
+- Fey
 copyright: 2023 Paizo Inc.
-domains: []
-id: enthrall
-lessons: []
+domain: []
+id: spell-1516
+legacy: false
+lesson: []
 level: 3
-mysteries: []
-patrons: []
-rarity: common
+mystery: []
+patron: []
+rarity: Common
+remaster: true
 source: Pathfinder Player Core
 title: Enthrall
 traditions:
-- arcane
-- occult
+- Arcane
+- Occult
 traits:
-- auditory
-- concentrate
-- emotion
-- manipulate
-type: spell
+- Auditory
+- Concentrate
+- Emotion
+- Manipulate
+type: Spell
 
 --- >
   <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult</p>

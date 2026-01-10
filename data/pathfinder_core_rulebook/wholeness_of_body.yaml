@@ -1,0 +1,31 @@
+actions: '[one-action]'
+bloodline: []
+copyright: 2019 Paizo Inc.
+domain: []
+id: spell-488
+legacy: true
+lesson: []
+level: 2
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: false
+source: Pathfinder Core Rulebook
+title: Wholeness of Body
+traditions: []
+traits:
+- Focus
+- Healing
+- Monk
+- Necromancy
+- Positive
+type: Focus
+
+--- >
+  <p class="hanging-indent cast"><strong>Cast</strong> verbal</p>
+  <hr/>
+  <p>You heal yourself in one of the following ways, chosen by you when you cast the spell.</p>
+  <li>You regain 8 Hit Points.</li>
+  <li>You attempt to cure one poison or disease afflicting you; attempt to counteract the affliction.</li>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> If you choose to regain Hit Points, the Hit Points regained increase by 8.</p>

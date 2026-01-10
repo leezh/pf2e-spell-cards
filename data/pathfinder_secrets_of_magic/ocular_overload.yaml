@@ -1,0 +1,36 @@
+actions: ''
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-959
+legacy: true
+lesson: []
+level: 4
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Ocular Overload
+traditions:
+- Arcane
+- Occult
+- Primal
+traits:
+- Contingency
+- Illusion
+- Incapacitation
+- Visual
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> arcane, occult, primal</p>
+  <p class="hanging-indent cast"><strong>Cast</strong> 10 minutes (material, somatic, verbal)</p>
+  <p class="hanging-indent duration"><strong>Duration</strong> 24 hours</p>
+  <hr/>
+  <p>Just as a creature is about to attack you, you assault them with jarring illusions, completely surrounding their eyes with blinding flashes of motion and color. When the spell is complete, you gain the Overload Vision reaction; once you use the reaction, the spell ends.</p>
+  <p class="hanging-indent"><strong>Overload Vision</strong>[reaction] (concentrate) <strong>Trigger</strong> A creature within 60 feet would make an attack roll against you; <strong>Effects</strong> The triggering creature must attempt a Fortitude save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The target is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The target is dazzled until the end of the current turn.</p>
+  <p class="hanging-indent"><strong>Failure</strong> The target is blinded until the end of the current turn.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> The target is blinded until the end of the current turn and dazzled for 1 minute.</p>

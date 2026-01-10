@@ -1,0 +1,35 @@
+actions: '[two-actions]'
+bloodline: []
+copyright: 2024 Paizo Inc.
+domain: []
+id: spell-1933
+legacy: false
+lesson: []
+level: 3
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
+source: Pathfinder Howl of the Wild
+title: Threatening Mimicry
+traditions: []
+traits:
+- Concentrate
+- Emotion
+- Fear
+- Focus
+- Illusion
+- Manipulate
+- Mental
+- Ranger
+type: Focus
+
+--- >
+  <p class="hanging-indent area"><strong>Area</strong> 10-foot emanation</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> Will</p>
+  <hr/>
+  <p>You appear larger and stronger to nearby creatures, appearing to possess threatening features like antlers, claws, or poison to their senses. Each non-allied creature in the area must attempt a Will save.</p>
+  <p class="hanging-indent"><strong>Critical Success</strong> The creature is unaffected.</p>
+  <p class="hanging-indent"><strong>Success</strong> The creature is frightened 1. This condition doesn’t decrease at the end of its turn if it damaged you during that turn.</p>
+  <p class="hanging-indent"><strong>Failure</strong> As success, but frightened 2.</p>
+  <p class="hanging-indent"><strong>Critical Failure</strong> As success, but frightened 3.</p>

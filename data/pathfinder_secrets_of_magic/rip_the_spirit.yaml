@@ -1,0 +1,34 @@
+actions: '[one-action] to [three-actions]'
+bloodline: []
+copyright: 2021 Paizo Inc.
+domain: []
+id: spell-986
+legacy: true
+lesson: []
+level: 5
+mystery: []
+patron: []
+rarity: Common
+remaster: false
+source: Pathfinder Secrets of Magic
+title: Rip the Spirit
+traditions:
+- Divine
+- Occult
+traits:
+- Death
+- Necromancy
+- Negative
+type: Spell
+
+--- >
+  <p class="hanging-indent traditions"><strong>Traditions</strong> divine, occult</p>
+  <p class="hanging-indent range"><strong>Range</strong> 30 feet; <strong>Targets</strong> 1 living creature</p>
+  <p class="hanging-indent defense"><strong>Defense</strong> basic Fortitude</p>
+  <hr/>
+  <p>You supernaturally rip the spirit from a living creature's body, dooming the target to pain and death. The target takes 5d6 negative damage, depending on its basic Fortitude save, and is drained 1 if it fails its save. The spell's effect is based on how many actions you spend when Casting the Spell.</p>
+  <p>[one-action] <strong>(somatic)</strong> The spell targets one living creature in range.</p>
+  <p>[two-actions] <strong>(somatic, verbal)</strong> The spell targets one living creature in range and the damage is 10d6 negative instead of 5d6.</p>
+  <p>[three-actions] <strong>(material, somatic, verbal)</strong> The spell targets all living creatures in a 30-foot emanation.</p>
+  <hr/>
+  <p class="hanging-indent"><strong>Heightened (+1)</strong> The amount of damage increases by 1d6, or by 2d6 for the 2-action version.</p>

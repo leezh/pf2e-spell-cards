@@ -1,24 +1,26 @@
 actions: '[two-actions]'
-bloodlines: []
+bloodline: []
 copyright: 2024 Paizo Inc.
-domains: []
-id: interstellar_void
-lessons: []
+domain: []
+id: spell-2076
+legacy: false
+lesson: []
 level: 3
-mysteries:
-- cosmos
-patrons: []
-rarity: uncommon
+mystery:
+- Cosmos
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core 2
 title: Interstellar Void
 traditions: []
 traits:
-- cold
-- concentrate
-- focus
-- manipulate
-- oracle
-type: focus
+- Cold
+- Concentrate
+- Focus
+- Manipulate
+- Oracle
+type: Focus
 
 --- >
   <p class="hanging-indent mystery"><strong>Mystery</strong> cosmos</p>

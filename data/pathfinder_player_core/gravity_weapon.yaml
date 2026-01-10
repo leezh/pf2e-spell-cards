@@ -1,20 +1,22 @@
 actions: '[one-action]'
-bloodlines: []
+bloodline: []
 copyright: 2023 Paizo Inc.
-domains: []
-id: gravity_weapon
-lessons: []
+domain: []
+id: spell-1863
+legacy: false
+lesson: []
 level: 1
-mysteries: []
-patrons: []
-rarity: uncommon
+mystery: []
+patron: []
+rarity: Uncommon
+remaster: true
 source: Pathfinder Player Core
 title: Gravity Weapon
 traditions: []
 traits:
-- focus
-- ranger
-type: focus
+- Focus
+- Ranger
+type: Focus
 
 --- >
   <p class="hanging-indent duration"><strong>Duration</strong> 1 minute</p>
